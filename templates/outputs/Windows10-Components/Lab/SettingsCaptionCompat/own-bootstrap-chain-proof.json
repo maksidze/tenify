@@ -1,0 +1,8 @@
+{
+  "scope": "own MTA non-UI process; compose proven prior initializer plus caption adapter; no Settings activation",
+  "pid": 696,
+  "creationFlags": "CREATE_NO_WINDOW",
+  "dllSHA256": "66c451ce46255254b3604fc97ca23340a81d5872190fe65dd60c7ad46d18eba8",
+  "timedOut": false,
+  "exitCode": 0
+}

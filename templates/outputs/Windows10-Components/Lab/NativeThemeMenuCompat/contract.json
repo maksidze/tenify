@@ -1,0 +1,203 @@
+{
+  "Dependencies": {
+    "C:\\Windows\\System32\\uxtheme.dll": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b",
+    "C:\\Windows\\System32\\twinui.pcshell.dll": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "C:\\Windows\\System32\\shell32.dll": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles": "847aaa1e347631f353119d9c483d88111c4a29d0c0abafdd650447d3cbf8831e",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuThemeColorCompat\\MenuThemeFixture.exe": "5975763df477828ff92ee8771b7128240bb8cdf072aa7fad10e4388f62c633f9",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\UnitFixture.exe": "0647b8d5b1503f5576763c1c57484630e7f72b4f55357dd82ae6767125c07b47"
+  },
+  "CallSites": [
+    {
+      "module": 0,
+      "rva": 100144,
+      "api": 0,
+      "apiName": "GetThemeInt",
+      "length": 5,
+      "expected": "e8ab870000",
+      "contextRva": 100128,
+      "context": "0000448bcb4c897424204533c08d5713e8ab870000488b4d08488db5cc000000"
+    },
+    {
+      "module": 0,
+      "rva": 100367,
+      "api": 1,
+      "apiName": "GetThemeMargins",
+      "length": 5,
+      "expected": "e85c810000",
+      "contextRva": 100351,
+      "context": "1b48897c24284533c933d24489642420e85c810000488b4d08488dbd90000000"
+    },
+    {
+      "module": 0,
+      "rva": 261528,
+      "api": 2,
+      "apiName": "IsThemeBackgroundPartiallyTransparent",
+      "length": 5,
+      "expected": "e8f339feff",
+      "contextRva": 261512,
+      "context": "488b4e08448bc7ba1b000000488b4908e8f339feff85c00f85a0030000488d4d"
+    },
+    {
+      "module": 0,
+      "rva": 261940,
+      "api": 3,
+      "apiName": "DrawThemeBackground",
+      "length": 5,
+      "expected": "e8973efeff",
+      "contextRva": 261924,
+      "context": "8b174c896c24284889442420488b4908e8973efeff488d4d2048ff1524f60200"
+    },
+    {
+      "module": 0,
+      "rva": 262217,
+      "api": 4,
+      "apiName": "DrawThemeText",
+      "length": 5,
+      "expected": "e872b7feff",
+      "contextRva": 262201,
+      "context": "24302200000044897c24284c89642420e872b7feffe91cfeffff4503feeba366"
+    },
+    {
+      "module": 0,
+      "rva": 262324,
+      "api": 4,
+      "apiName": "DrawThemeText",
+      "length": 5,
+      "expected": "e807b7feff",
+      "contextRva": 262308,
+      "context": "8d457089542428488b53204889442420e807b7feffe94dffffff488b4b4848ff"
+    },
+    {
+      "module": 0,
+      "rva": 264342,
+      "api": 5,
+      "apiName": "GetThemeTextExtent",
+      "length": 5,
+      "expected": "e815b3feff",
+      "contextRva": 264326,
+      "context": "411b897c24284c896424200f11442450e815b3feff498b4f088b818400000003"
+    },
+    {
+      "module": 1,
+      "rva": 6683238,
+      "api": 6,
+      "apiName": "GetThemeColor",
+      "length": 7,
+      "expected": "48ff15a35a2a00",
+      "contextRva": 6683222,
+      "context": "b9db0e0000458bc48d561b488b4c245048ff15a35a2a000f1f4400008b442430"
+    },
+    {
+      "module": 1,
+      "rva": 6685541,
+      "api": 1,
+      "apiName": "GetThemeMargins",
+      "length": 7,
+      "expected": "48ff15ec512a00",
+      "contextRva": 6685525,
+      "context": "0000458bcc448d461b498b5520498bce48ff15ec512a000f1f44000085c07834"
+    },
+    {
+      "module": 1,
+      "rva": 6685742,
+      "api": 3,
+      "apiName": "DrawThemeBackground",
+      "length": 7,
+      "expected": "48ff15d3502a00",
+      "contextRva": 6685726,
+      "context": "498d45284889442420498b5520498bce48ff15d3502a000f1f4400008bf885c0"
+    },
+    {
+      "module": 1,
+      "rva": 6686986,
+      "api": 6,
+      "apiName": "GetThemeColor",
+      "length": 7,
+      "expected": "48ff15ff4b2a00",
+      "contextRva": 6686970,
+      "context": "b9db0e0000458bc4ba1b000000498bce48ff15ff4b2a000f1f440000488b4424"
+    },
+    {
+      "module": 1,
+      "rva": 6693146,
+      "api": 7,
+      "apiName": "DrawThemeTextEx",
+      "length": 7,
+      "expected": "48ff1547342a00",
+      "contextRva": 6693130,
+      "context": "442428488b8424d0000000488944242048ff1547342a000f1f4400004c8d9c24"
+    },
+    {
+      "module": 2,
+      "rva": 1861610,
+      "api": 6,
+      "apiName": "GetThemeColor",
+      "length": 7,
+      "expected": "48ff157f935600",
+      "contextRva": 1861594,
+      "context": "b9db0e0000458bc48d561b488b4c245048ff157f9356000f1f4400008b442430"
+    },
+    {
+      "module": 2,
+      "rva": 5584884,
+      "api": 1,
+      "apiName": "GetThemeMargins",
+      "length": 7,
+      "expected": "48ff15bdc21d00",
+      "contextRva": 5584868,
+      "context": "0000458bcc448d461b498b5520498bce48ff15bdc21d000f1f44000085c07834"
+    },
+    {
+      "module": 2,
+      "rva": 5585085,
+      "api": 3,
+      "apiName": "DrawThemeBackground",
+      "length": 7,
+      "expected": "48ff15ecc21d00",
+      "contextRva": 5585069,
+      "context": "498d45284889442420498b5520498bce48ff15ecc21d000f1f4400008bf885c0"
+    },
+    {
+      "module": 2,
+      "rva": 5586333,
+      "api": 6,
+      "apiName": "GetThemeColor",
+      "length": 7,
+      "expected": "48ff15ccbd1d00",
+      "contextRva": 5586317,
+      "context": "b9db0e0000458bc4ba1b000000498bce48ff15ccbd1d000f1f440000488b4588"
+    },
+    {
+      "module": 2,
+      "rva": 1274578,
+      "api": 7,
+      "apiName": "DrawThemeTextEx",
+      "length": 7,
+      "expected": "48ff1507895f00",
+      "contextRva": 1274562,
+      "context": "442428488b8424d0000000488944242048ff1507895f000f1f4400004c8d9c24"
+    }
+  ],
+  "ApiNames": [
+    "GetThemeInt",
+    "GetThemeMargins",
+    "IsThemeBackgroundPartiallyTransparent",
+    "DrawThemeBackground",
+    "DrawThemeText",
+    "GetThemeTextExtent",
+    "GetThemeColor",
+    "DrawThemeTextEx"
+  ],
+  "ApiRvas": [
+    134880,
+    133488,
+    145296,
+    146896,
+    178112,
+    179120,
+    137296,
+    135408
+  ]
+}

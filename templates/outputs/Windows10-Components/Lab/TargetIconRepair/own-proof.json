@@ -1,0 +1,40 @@
+{
+  "Directory": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\fixtures\\2222cf430be8435c9fca416f017d00ca",
+  "Apply": {
+    "Status": "Written",
+    "SHA256": "9385c702a54d1815a781168d7f81baf4aacc76a0ad8582159ba5dd46902c31a1",
+    "ExclusiveSameHandle": true
+  },
+  "Restore": {
+    "Pin": {
+      "Status": "Written",
+      "SHA256": "cf116b33831de9f80847abdb2a0d92ab3d3f956a8e209ec95d35d986eea8c7b5",
+      "ExclusiveSameHandle": true
+    },
+    "Journal": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\fixtures\\2222cf430be8435c9fca416f017d00ca\\journal.json",
+    "Thumbnail": "No cache rollback: cached preview will be regenerated normally; no cache database restored or deleted"
+  },
+  "SecondRestore": {
+    "Pin": {
+      "Status": "AlreadyOriginal"
+    },
+    "Journal": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\fixtures\\2222cf430be8435c9fca416f017d00ca\\journal.json",
+    "Thumbnail": "No cache rollback: cached preview will be regenerated normally; no cache database restored or deleted"
+  },
+  "Reapply": {
+    "Status": "Written",
+    "SHA256": "9385c702a54d1815a781168d7f81baf4aacc76a0ad8582159ba5dd46902c31a1",
+    "ExclusiveSameHandle": true
+  },
+  "ForeignRestore": {
+    "Pin": {
+      "Status": "PreservedForeignChange",
+      "CurrentSHA256": "f522ca666596b0f0b29db76af68d2e24e496bb6f95c01380cc1bd0cbd4c64704"
+    },
+    "Journal": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\fixtures\\2222cf430be8435c9fca416f017d00ca\\journal.json",
+    "Thumbnail": "No cache rollback: cached preview will be regenerated normally; no cache database restored or deleted"
+  },
+  "ForeignBytesPreserved": true,
+  "PIDLByteExact": true,
+  "Passed": true
+}

@@ -1,0 +1,13 @@
+{
+  "OwnProcessOnly": true,
+  "OriginalObservedPid": 1828,
+  "OriginalExit": "0xc0000005",
+  "Operation": "Forced second private LoaderLoadThemeForTesting(127) while retaining old Header HTHEME, then direct/hooked native queries of that captured value",
+  "ExactFaultInstructionCaptured": false,
+  "DebuggerRepeatPid": 7984,
+  "DebuggerRepeatExit": 0,
+  "Conclusion": "A captured ordinary HTHEME is not safe evidence of validity after forced private-loader generation replacement. Native call order must not dereference known stale tracked handles.",
+  "FinalMitigation": "Early current-generation guard returns E_HANDLE with output untouched; conditional Restore preserves foreign theme/IAT. Exact owned host must terminate; no hot UI continuation claim.",
+  "OrdinaryOsThemeReloadTested": false,
+  "SystemThemeChanged": false
+}

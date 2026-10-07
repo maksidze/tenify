@@ -1,0 +1,30 @@
+{
+  "Tests": [
+    {
+      "Case": "dead-owner",
+      "Outcome": "RecoveredExactStaleSession",
+      "StatePath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\fixture-320f617bd3084a96b71f2904b309d732\\sessions\\4b364c32e9de4e57aac3ca9890aa1f51\\state.json",
+      "Pass": true
+    },
+    {
+      "Case": "active-owner",
+      "Outcome": "ActiveOwnerPreserved",
+      "Pid": 8664,
+      "Pass": true
+    },
+    {
+      "Case": "foreign-registration",
+      "Outcome": "ForeignPreserved",
+      "Pass": true
+    },
+    {
+      "Case": "unregistered-owner",
+      "Outcome": "RecoveredUnregisteredSession",
+      "StatePath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\fixture-e46fcedd4a844b70a94bb6f7a4641281\\sessions\\e2c3a2f7374e4f01a015457476204989\\state.json",
+      "Pass": true
+    }
+  ],
+  "ActualOwnProcessCleanup": true,
+  "ActualPackageRegistration": false,
+  "Passed": true
+}

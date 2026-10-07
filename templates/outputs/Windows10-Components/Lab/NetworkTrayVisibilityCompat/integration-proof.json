@@ -1,0 +1,36 @@
+{
+  "State": {
+    "Mode": "UntilStop",
+    "ManifestSHA256": "8F344AFB7CE79AFF61B479543754E5A953870DF68E7EFF79CF3478BCFDA71AAE",
+    "ControllerPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "TargetPid": 1960,
+    "TargetBorn": "134357001629709353",
+    "ChildPid": 2436,
+    "ChildBorn": "134357025803857824",
+    "ChildPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayUntilStop.exe",
+    "ControllerPid": 4860,
+    "ControllerBorn": "134357025799736462",
+    "StopFile": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-54f3c160b40a458c8b7638db39cd5833.stop",
+    "Ready": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-54f3c160b40a458c8b7638db39cd5833.ready",
+    "VisualVerified": false,
+    "NoShellTermination": true
+  },
+  "MainToolbarNetwork": true,
+  "MainRect": [
+    2139,
+    1248,
+    32,
+    40
+  ],
+  "OverflowNetwork": false,
+  "RestoreBeforeStopS_OK": true,
+  "PriorHelperExit": 0,
+  "NewEnsurePromoteS_OK": true,
+  "VisualUserConfirmation": false,
+  "DebuggerDetach": {
+    "CheckSucceeded": true,
+    "DebuggerPresent": false,
+    "ExplorerPid": 1960
+  },
+  "OtherIconsUnchanged": true
+}

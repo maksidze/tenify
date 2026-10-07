@@ -1,0 +1,552 @@
+[
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\accessibilitycpl.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\accessibilitycpl.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\aclui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\aclui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\ActionCenterCPL.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\ActionCenterCPL.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\appwiz.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\appwiz.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\AuthFWGP.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\AuthFWGP.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\colorui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\colorui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\comdlg32.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\comdlg32.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\compstui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\compstui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\comres.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\comres.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\connect.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\connect.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\cryptui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\cryptui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\cryptuiwizard.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\cryptuiwizard.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\cttune.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\cttune.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\dccw.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\dccw.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\DDORes.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\DDORes.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\DeviceCenter.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\DeviceCenter.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\DevicePairing.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\DevicePairing.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\DevicePairingFolder.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\DevicePairingFolder.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\dfrgui.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\dfrgui.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\dmdskres.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\dmdskres.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\dsquery.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\dsquery.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\dsuiext.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\dsuiext.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\DxpTaskSync.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\DxpTaskSync.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\EaseOfAccessDialog.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\EaseOfAccessDialog.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\edgehtml.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\edgehtml.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\edputil.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\edputil.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\ExplorerFrame.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\ExplorerFrame.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\fdprint.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\fdprint.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\filemgmt.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\filemgmt.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\FirewallControlPanel.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\FirewallControlPanel.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\gpedit.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\gpedit.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\icsigd.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\icsigd.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\ieframe.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\imageres.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\imageres.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\imagesp1.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\imagesp1.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\inetcpl.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\inetcpl.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\intl.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\intl.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\ipsecsnp.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\ipsecsnp.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\iscsicli.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\iscsicli.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\iscsicpl.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\iscsicpl.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\iscsicpl.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\iscsicpl.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\keymgr.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\keymgr.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\LaunchTM.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\LaunchTM.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\Magnify.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\Magnify.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\main.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\main.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mdminst.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mdminst.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mmcbase.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mmcbase.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mmcndmgr.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mmres.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mmres.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mmsys.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mmsys.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\moricons.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\moricons.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\msctf.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\msctf.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\msdt.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\msdt.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mshtml.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mshtml.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mssvp.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mssvp.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mstask.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mstask.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mstsc.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mstsc.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mstscax.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mstscax.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\msutb.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\msutb.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\msxml3.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\msxml3.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mycomput.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mycomput.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\mydocs.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\mydocs.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\netcenter.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\netcenter.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\netshell.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\netshell.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\networkexplorer.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\networkexplorer.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\newdev.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\newdev.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\ntshrui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\ntshrui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\PortableDeviceStatus.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\PortableDeviceStatus.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\powercpl.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\powercpl.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\printui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\printui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\prnfldr.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\prnfldr.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\psr.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\psr.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\rasdlg.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\rasdlg.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\rasgcw.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\rasgcw.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\rastls.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\rastls.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\rastlsext.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\rastlsext.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\remotepg.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\remotepg.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\SearchIndexer.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\SearchIndexer.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\SensorsCpl.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\SensorsCpl.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\sethc.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\sethc.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\shell32.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\shell32.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\shrpubw.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\shrpubw.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\SndVolSSO.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\SndVolSSO.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\sppcomapi.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\sppcomapi.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\srchadmin.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\srchadmin.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\SrpUxNativeSnapIn.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\SrpUxNativeSnapIn.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\stobject.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\stobject.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\sud.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\sud.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\SyncCenter.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\SyncCenter.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\sysdm.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\sysdm.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\sysmon.ocx.mun",
+    "Destination": "C:\\Windows\\SystemResources\\sysmon.ocx.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\tapiui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\tapiui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\Taskmgr.exe.mun",
+    "Destination": "C:\\Windows\\SystemResources\\Taskmgr.exe.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\themecpl.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\themecpl.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\themeui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\themeui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\timedate.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\timedate.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\TtlsExt.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\TtlsExt.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\twinui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\twinui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\usercpl.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\usercpl.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\Vault.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\Vault.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wcnwiz.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wcnwiz.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wdc.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wdc.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wiadefui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wiadefui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wiashext.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wiashext.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wlangpui.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wlangpui.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wmploc.DLL.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wmploc.DLL.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wpdshext.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wpdshext.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wscui.cpl.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wscui.cpl.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\wsecedit.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\wsecedit.dll.mun",
+    "Kind": "File"
+  },
+  {
+    "Source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\MergedResources\\SystemResources\\zipfldr.dll.mun",
+    "Destination": "C:\\Windows\\SystemResources\\zipfldr.dll.mun",
+    "Kind": "File"
+  }
+]

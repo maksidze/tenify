@@ -1,0 +1,9 @@
+{
+  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatHostProbe.c": "b820ce74a979f1d4112af8bcefd07fd6a33b5a843512aa76dceec445f7b914e3",
+  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatTrace.h": "5d5f5ea161712e312c39426d00f5eb49311eafddee64cf7208f0203ffbee0194",
+  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\SettingsSessionEntry.c": "e08b4b5cec70bee63d0a29418bafeba1da484ea9d8a1cb58ceffa2a4fba4b24e",
+  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\SessionController.py": "d95d8ab48e47ec686af35de55791ae879a2837c68864e7a0282c20defb66d5d3",
+  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\SessionControl.c": "b5abc1dcc2cc49c34c4d1eed113928132778c034aae6c9ea5491fb23243a08ac",
+  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\FixtureChild.c": "5ed64b6b4d0d6b9667a626ae6779a7c808bbd396b1b4715d50c99a38dcfa73a6",
+  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\FixtureBackend.c": "ab7008150aae08d738c11fc69511b5e113833231811fb3181899401ee432ed11"
+}

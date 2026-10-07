@@ -1,0 +1,23 @@
+{
+  "Files": [
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\FixtureWorker.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\HandshakeOwn.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\HandshakeParentOwn.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\HandshakeWorker.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Lifecycle.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\OwnTests.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\PreflightOwn.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\PublicationOwn.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\RecoveryOwn.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\RecoveryRaceOwn.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\StatusOwn.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Start-Explorer10-Direct.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Start-Windows10-DirectPersistent.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Stop-Windows10-DirectPersistent.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Stop-Explorer10-Direct.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Windows10-DirectOneClick.ps1",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Confirm-NativeExplorer.ps1"
+  ],
+  "Errors": [],
+  "Passed": true
+}

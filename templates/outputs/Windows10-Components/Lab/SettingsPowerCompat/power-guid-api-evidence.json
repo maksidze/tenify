@@ -1,0 +1,435 @@
+{
+  "old": {
+    "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\SettingsHandlers_OneCore_PowerAndSleep.dll",
+    "guids": [
+      {
+        "name": "VideoSubgroup",
+        "guid": "7516b95f-f776-4464-8c53-06167f40cc99",
+        "rvas": [
+          "0x1a3c0",
+          "0x1a3e8"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x3020",
+            "instruction": "lea rcx, [rip + 0x17399]"
+          },
+          {
+            "rva": "0x3027",
+            "instruction": "lea r13, [rip + 0x173ba]"
+          }
+        ]
+      },
+      {
+        "name": "DisplayTimeout",
+        "guid": "3c0bc021-c8a8-4e07-a973-6b14cbcb2b7e",
+        "rvas": [
+          "0x16440",
+          "0x1a3d0",
+          "0x1a3f8"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x30bc",
+            "instruction": "cmp rax, qword ptr [rip + 0x1337d]"
+          }
+        ]
+      },
+      {
+        "name": "SleepSubgroup",
+        "guid": "238c9fa8-0aad-41ed-83f4-97be242c8f20",
+        "rvas": [
+          "0x16430",
+          "0x1a410",
+          "0x1a438"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x1cb1",
+            "instruction": "lea r8, [rip + 0x14778]"
+          },
+          {
+            "rva": "0x1d74",
+            "instruction": "lea r8, [rip + 0x146b5]"
+          },
+          {
+            "rva": "0x1dc4",
+            "instruction": "lea r8, [rip + 0x14665]"
+          },
+          {
+            "rva": "0x3037",
+            "instruction": "lea rcx, [rip + 0x173d2]"
+          },
+          {
+            "rva": "0x303e",
+            "instruction": "lea r14, [rip + 0x173f3]"
+          }
+        ]
+      },
+      {
+        "name": "SleepTimeout",
+        "guid": "29f6c1db-86da-48c5-9fdb-f2b67b1f44da",
+        "rvas": [
+          "0x16420",
+          "0x1a420",
+          "0x1a448"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x1f29",
+            "instruction": "sub rax, qword ptr [rip + 0x144f0]"
+          },
+          {
+            "rva": "0x30fa",
+            "instruction": "cmp rax, qword ptr [rip + 0x1331f]"
+          }
+        ]
+      }
+    ],
+    "powerApiCallsites": [
+      {
+        "rva": "0x1ccb",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x1ce5",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteACValueIndex"
+      },
+      {
+        "rva": "0x1d1e",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadDCValue"
+      },
+      {
+        "rva": "0x1d2c",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadACValue"
+      },
+      {
+        "rva": "0x1d82",
+        "import": "POWRPROF.dll.PowerReadDCDefaultIndex"
+      },
+      {
+        "rva": "0x1d90",
+        "import": "POWRPROF.dll.PowerReadACDefaultIndex"
+      },
+      {
+        "rva": "0x1dcf",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x1ddd",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteACValueIndex"
+      },
+      {
+        "rva": "0x1e4a",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x1e9d",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadDCValue"
+      },
+      {
+        "rva": "0x1eab",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadACValue"
+      },
+      {
+        "rva": "0x1f5f",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x1fd5",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x1fe3",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteACValueIndex"
+      },
+      {
+        "rva": "0x2027",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerSetActiveScheme"
+      },
+      {
+        "rva": "0x20dd",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x2144",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadDCValue"
+      },
+      {
+        "rva": "0x2196",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x21ca",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x2634",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x2672",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x2fed",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      }
+    ]
+  },
+  "host": {
+    "path": "C:\\Windows\\System32\\SettingsHandlers_OneCore_PowerAndSleep.dll",
+    "guids": [
+      {
+        "name": "VideoSubgroup",
+        "guid": "7516b95f-f776-4464-8c53-06167f40cc99",
+        "rvas": [
+          "0x4b098"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x20c0",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48fd1]"
+          },
+          {
+            "rva": "0x20f0",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48fa1]"
+          },
+          {
+            "rva": "0x2350",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48d41]"
+          },
+          {
+            "rva": "0x2380",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48d11]"
+          },
+          {
+            "rva": "0x25c0",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48ad1]"
+          },
+          {
+            "rva": "0x25f0",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48aa1]"
+          },
+          {
+            "rva": "0x32a7d",
+            "instruction": "lea r8, [rip + 0x18614]"
+          },
+          {
+            "rva": "0x32ab5",
+            "instruction": "lea r8, [rip + 0x185dc]"
+          }
+        ]
+      },
+      {
+        "name": "DisplayTimeout",
+        "guid": "3c0bc021-c8a8-4e07-a973-6b14cbcb2b7e",
+        "rvas": [
+          "0x4b0a8"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x20c7",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48fda]"
+          },
+          {
+            "rva": "0x20f7",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48faa]"
+          },
+          {
+            "rva": "0x2357",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48d4a]"
+          },
+          {
+            "rva": "0x2387",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48d1a]"
+          },
+          {
+            "rva": "0x25c7",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48ada]"
+          },
+          {
+            "rva": "0x25f7",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48aaa]"
+          },
+          {
+            "rva": "0x31622",
+            "instruction": "cmp rcx, qword ptr [rip + 0x19a7f]"
+          }
+        ]
+      },
+      {
+        "name": "SleepSubgroup",
+        "guid": "238c9fa8-0aad-41ed-83f4-97be242c8f20",
+        "rvas": [
+          "0x4b0d8"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x2120",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48fb1]"
+          },
+          {
+            "rva": "0x2150",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48f81]"
+          },
+          {
+            "rva": "0x2180",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48f51]"
+          },
+          {
+            "rva": "0x21b0",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48f21]"
+          },
+          {
+            "rva": "0x23b0",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48d21]"
+          },
+          {
+            "rva": "0x23e0",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48cf1]"
+          },
+          {
+            "rva": "0x2410",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48cc1]"
+          },
+          {
+            "rva": "0x2440",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48c91]"
+          },
+          {
+            "rva": "0x2620",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48ab1]"
+          },
+          {
+            "rva": "0x2650",
+            "instruction": "movups xmm0, xmmword ptr [rip + 0x48a81]"
+          }
+        ]
+      },
+      {
+        "name": "SleepTimeout",
+        "guid": "29f6c1db-86da-48c5-9fdb-f2b67b1f44da",
+        "rvas": [
+          "0x4b0e8"
+        ],
+        "codeRefs": [
+          {
+            "rva": "0x2187",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48f5a]"
+          },
+          {
+            "rva": "0x21b7",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48f2a]"
+          },
+          {
+            "rva": "0x2417",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48cca]"
+          },
+          {
+            "rva": "0x2447",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48c9a]"
+          },
+          {
+            "rva": "0x2627",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48aba]"
+          },
+          {
+            "rva": "0x2657",
+            "instruction": "movups xmm1, xmmword ptr [rip + 0x48a8a]"
+          },
+          {
+            "rva": "0x313cc",
+            "instruction": "sub rax, qword ptr [rip + 0x19d15]"
+          },
+          {
+            "rva": "0x31686",
+            "instruction": "cmp rax, qword ptr [rip + 0x19a5b]"
+          }
+        ]
+      }
+    ],
+    "powerApiCallsites": [
+      {
+        "rva": "0x1451d",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x14582",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadDCValue"
+      },
+      {
+        "rva": "0x172d6",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x1730c",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x17433",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x1746d",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x311cc",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x31208",
+        "import": "POWRPROF.dll.PowerReadDCDefaultIndex"
+      },
+      {
+        "rva": "0x31216",
+        "import": "POWRPROF.dll.PowerReadACDefaultIndex"
+      },
+      {
+        "rva": "0x312b1",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x312ff",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadDCValue"
+      },
+      {
+        "rva": "0x3130d",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerReadACValue"
+      },
+      {
+        "rva": "0x313f9",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x3145c",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteDCValueIndex"
+      },
+      {
+        "rva": "0x3146a",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerWriteACValueIndex"
+      },
+      {
+        "rva": "0x3148d",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerSetActiveScheme"
+      },
+      {
+        "rva": "0x3151d",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x32a49",
+        "import": "api-ms-win-power-setting-l1-1-0.dll.PowerGetActiveScheme"
+      },
+      {
+        "rva": "0x32a86",
+        "import": "POWRPROF.dll.PowerReadACDefaultIndex"
+      },
+      {
+        "rva": "0x32abe",
+        "import": "POWRPROF.dll.PowerReadDCDefaultIndex"
+      }
+    ]
+  }
+}

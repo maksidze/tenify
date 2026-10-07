@@ -1,0 +1,87 @@
+{
+  "source": "@WORKSPACE_ESC@\\work\\settings-viewmodel-actual.xbf",
+  "sha256": "61212b95dde521924c56925b14718473ea3dd5d88a95d8d74e581c7311eecdd0",
+  "decodedStream": 1,
+  "complete": true,
+  "nodeCount": 1533,
+  "scopeBalanced": true,
+  "aboutEntries": [
+    {
+      "type": "SettingsPageEntry",
+      "fileOffset": "0x7779",
+      "properties": {
+        "Id": "SettingsPageAbout_ControlPanelSystem",
+        "Glyph": "",
+        "PageSource": "VMInstance/PCSystemAboutPageControlPanelSystemViewModel.xaml",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsPageAbout_ControlPanelSystem"
+    },
+    {
+      "type": "SettingsPageEntry",
+      "fileOffset": "0x7798",
+      "properties": {
+        "Id": "SettingsPageAbout",
+        "Glyph": "",
+        "PageSource": "VMInstance/PCSystemAboutPageViewModel.xaml",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsPageAbout"
+    },
+    {
+      "type": "SettingsPageEntry",
+      "fileOffset": "0x77b7",
+      "properties": {
+        "Id": "SettingsPageAbout_New",
+        "Glyph": "",
+        "PageSource": "VMInstance/PCSystemAboutPageViewModel_New.xaml",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsPageAbout_New"
+    },
+    {
+      "type": "SettingsPageEntry",
+      "fileOffset": "0x77d6",
+      "properties": {
+        "Id": "SettingsPagePCSystemInfo",
+        "Glyph": "",
+        "PageSource": "VMInstance/PCSystemInfoPageViewModel.xaml"
+      },
+      "resourceBag": "SettingsPagePCSystemInfo"
+    },
+    {
+      "type": "SettingsPageEntry",
+      "fileOffset": "0x7931",
+      "properties": {
+        "Id": "SettingsPagePCSystemInfo",
+        "Glyph": "",
+        "PageSource": "VMInstance/PCSystemInfoPageViewModel.xaml",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsPagePCSystemInfo"
+    },
+    {
+      "type": "SettingsPageEntry",
+      "fileOffset": "0x7950",
+      "properties": {
+        "Id": "SettingsPageAbout",
+        "Glyph": "",
+        "PageSource": "VMInstance/PCSystemAboutPageViewModel.xaml",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsPageAbout"
+    },
+    {
+      "type": "SettingsPageEntry",
+      "fileOffset": "0x796f",
+      "properties": {
+        "Id": "SettingsPageAbout_New",
+        "Glyph": "",
+        "PageSource": "VMInstance/PCSystemAboutPageViewModel_New.xaml",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsPageAbout_New"
+    }
+  ],
+  "rootCustomRuntimeDataStreamDecoded": false
+}

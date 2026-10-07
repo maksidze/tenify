@@ -1,0 +1,48 @@
+{
+  "scope": "Own process-only exact3 old About applicability repair; actual Settings live test pending",
+  "initializerExport": "SettingsInitialize",
+  "navOnlyExport": "SettingsCaptionInitialize",
+  "files": {
+    "SettingsCaptionCompat.c": "ebe8ef12907071d8a3733af961f370514e32d868befa9736697c6a8a32375add",
+    "SettingsCaptionCompat.dll": "1db421eab2d8272b4d708ac1d305a54bf9c79716ff5fe0035579b3b4e6ea8ab8",
+    "SettingsApplicabilityProbe.cs": "49803ef067f5973a4d3b97c8f6dbce4f1f4005463be5649c1b7ab07f779cc58c",
+    "SettingsApplicabilityProbe.exe": "9963664e2938e870f535e1260dd17fb5be085ee7cf149b08716ae9cdd1cacb44",
+    "SettingsCaptionProbe.cs": "ad74df943cb73eba3ec069c6d1064573b84fac6e96d58915f7a5b0482b2575c7",
+    "SettingsCaptionProbe.exe": "bd3c0a080128f5171e5a588211cd7a7b847cd44afe9e1a07f8656bf99eb5e3a0",
+    "build_adapter.py": "8f95ce147930ebda46d3a4f5b8d11762303b43c647097e0254e6d07cc86f248e",
+    "build_and_test.py": "4e00fee01c808d55552c370a4b706cf156a5502b844eca417890685ec50d022b",
+    "test_applicability.py": "df0adbef59c4499076a392b54f7c5e0007554064d8e9dd5b93f696ac51ef6200",
+    "test_bootstrap_chain.py": "a75e0db1e9ff2e765e183224a4677558a58440bbfc46c7928cd5a475499bc614",
+    "BootstrapChainProof.cs": "56f30f95648c72c4fd85f23a718c03f64ef059cf9108c944cc6b580480eaf637",
+    "BootstrapChainProof.exe": "71fc40a2ccb54352202be0495ae9913664f6a35fa1142669640a3510ce2e7497",
+    "inspect_xbf.py": "afcd7dae15705cf3c36de992f14c6f63124a7221f350945c0c2acceac125d007",
+    "Readme.txt": "28b416ac65ce14c0e29a7205773207e634d95d2b859769c12ce3405f064c763f",
+    "own-merge-proof.json": "61bb9dcead2d5466d6f13a1cdddbade9d97be92c197224d31c0b671dcc1c96db",
+    "own-bootstrap-chain-proof.json": "75575513ddd05fa513c22ee799f7f56dd525aa73ca1232f9a59efc5e2b71a0d0",
+    "xbf-about-evidence.json": "d5720f6eebe03aa2498be19f5edadf621116f7a4a615567fefe8f13bd590b4fd",
+    "VfsBootstrapProof.cs": "4fa92157de558b12bb5854d8434281d5b861a6bfe9f1201fdbffc9d419d48703",
+    "VfsBootstrapProof.exe": "5c34b08ac9f0fcac74a3c508413f2a7b922bf277de27e94706d9b4c220ca5d00",
+    "test_vfs_bootstrap.py": "8242047948eedd7f249512eddb5a52d5c492ed6a72b682c023f7800e0504d00c",
+    "vfs-before-fix.json": "1b6c68a7363e292e7da52a1c1d2517706648fd478197217ad72f9d7e129d5dfe",
+    "vfs-after-fix-normal.json": "a5cff486c9a450bab6ad8e38c509c2a02b837d1967fa6890941d0595d8577483",
+    "vfs-after-fix-bad-byte.json": "cec61d3268d7733b001e896522e86be7957c94d2f95152c0d23cdcf2ac5a25a7"
+  },
+  "dependencies": {
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSystemProfileCompat\\SettingsSystemProfileCompat.dll": "1de372d93b15c87b7c6f4b458d33d1cae0ed6e9b291f29e1e34d3a08371dab22",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsDynamicTextCompat\\IsolatedOld\\SettingsEnvironment.Desktop.dll": "49fbf0c1d93064813895c88da75efbaee2054394b1c1ee32612f51e712c01a4b",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1",
+    "C:\\Windows\\System32\\SystemSettings.DataModel.dll": "f07bdc1334562d4ae3d5265e96cf44b8bfbde8388fd71e76cb698cc475703fbb"
+  },
+  "hookRva": "4bab0",
+  "originalBodyHex": "4883ec28488b41084c8b41184c8b4830488b4110488b104d85c0740441c60000498b01498bc9488b4030ff15887e030085c078054883c428c38bc8e80846fcff",
+  "patchedBytes": 16,
+  "scopedIDs": [
+    "SettingsPageAbout_ControlPanelSystem",
+    "SettingsPageAbout",
+    "SettingsPageAbout_New"
+  ],
+  "ownFixturePass": true,
+  "liveVerified": false,
+  "mappedIdentity": "K32GetMappedFileName + backing-file volume serial/file ID equality; SHA and 64-byte ABI guard preserved",
+  "ownVfsPositiveAndNegativePass": true
+}

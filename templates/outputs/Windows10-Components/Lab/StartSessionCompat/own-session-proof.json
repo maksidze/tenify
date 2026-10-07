@@ -1,0 +1,103 @@
+{
+  "Tests": [
+    {
+      "Scenario": "first",
+      "Pass": true,
+      "Pid": 10844,
+      "EntryPid": 8940
+    },
+    {
+      "Scenario": "repeat",
+      "Pass": true,
+      "Pid": 7436,
+      "EntryPid": 7308
+    },
+    {
+      "Scenario": "cancel-before",
+      "Pass": true,
+      "Pid": 1600,
+      "EntryPid": 5484
+    },
+    {
+      "Scenario": "cancel-after-record",
+      "Pass": true,
+      "Pid": 1872,
+      "EntryPid": 5716
+    },
+    {
+      "Scenario": "wrong-owner",
+      "Pass": true,
+      "Pid": 5024,
+      "EntryPid": 3736
+    },
+    {
+      "Scenario": "until-stop",
+      "Pass": true,
+      "Pid": 12504,
+      "EntryPid": 6824,
+      "ChildExit": 57024,
+      "EntryExit": 0,
+      "ActualIATPatch": true
+    },
+    {
+      "Scenario": "bounded",
+      "Pass": true,
+      "Pid": 2264,
+      "EntryPid": 5228,
+      "ChildExit": 57024,
+      "EntryExit": 57038,
+      "ActualIATPatch": true
+    },
+    {
+      "Scenario": "owner-end",
+      "Pass": true,
+      "Pid": 10412,
+      "EntryPid": 3760,
+      "ChildExit": 57024,
+      "EntryExit": 57038,
+      "ActualIATPatch": true
+    },
+    {
+      "Scenario": "bootstrap-failed",
+      "Pass": true,
+      "Pid": 13232,
+      "EntryPid": 11988,
+      "ChildExit": 57026,
+      "EntryExit": 0,
+      "ActualIATPatch": false
+    },
+    {
+      "Scenario": "bootstrap-stall",
+      "Pass": true,
+      "Pid": 4544,
+      "EntryPid": 13384,
+      "ChildExit": 57024,
+      "EntryExit": 57038,
+      "ActualIATPatch": false
+    },
+    {
+      "Scenario": "independent-watchdog-while-main-thread-blocked",
+      "Pass": true,
+      "ChildPid": 8128,
+      "SupervisorPid": 1060
+    },
+    {
+      "Scenario": "UntilStop-no-lifetime-and-bounded-recovery",
+      "Pass": true
+    },
+    {
+      "Scenario": "exact-registration-command-policy",
+      "Pass": true
+    },
+    {
+      "Scenario": "actual-owner-death-guard-owned-registration-record-cleanup-idempotence",
+      "Pass": true,
+      "TargetPid": 13496,
+      "ForeignWrongBirthPreserved": 7992
+    }
+  ],
+  "NoSystemPackageActivated": true,
+  "NoPackageDebugRegistration": true,
+  "OwnChildrenJobGuarded": true,
+  "AllChildrenExited": true
+}

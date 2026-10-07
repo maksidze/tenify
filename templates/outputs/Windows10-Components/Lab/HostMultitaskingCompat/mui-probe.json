@@ -1,0 +1,17 @@
+{
+  "native": {
+    "length": 16,
+    "text": "Рабочий стол %Iu",
+    "error": 0
+  },
+  "labBefore": {
+    "length": 0,
+    "text": "",
+    "error": 15100
+  },
+  "labAfter": {
+    "length": 16,
+    "text": "Рабочий стол %Iu",
+    "error": 0
+  }
+}

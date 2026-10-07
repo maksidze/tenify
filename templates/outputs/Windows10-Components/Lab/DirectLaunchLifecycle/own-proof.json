@@ -1,0 +1,74 @@
+{
+    "Directory":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\fixtures\\2b7ed7a7eeb24482bb6c09f512bd1ffc",
+    "UIActivated":  false,
+    "Cases":  [
+                  {
+                      "Passed":  true,
+                      "ControllerBirth":  "134357642686863421",
+                      "UserSurvived":  false,
+                      "ConsoleCreated":  false,
+                      "Test":  "ordinary-dispose"
+                  },
+                  {
+                      "Passed":  true,
+                      "ControllerBirth":  "134357642693335424",
+                      "UserSurvived":  false,
+                      "ConsoleCreated":  false,
+                      "Test":  "owner-death"
+                  },
+                  {
+                      "Passed":  true,
+                      "ControllerBirth":  "134357642698717350",
+                      "UserSurvived":  false,
+                      "ConsoleCreated":  false,
+                      "Test":  "nested-preflight"
+                  },
+                  {
+                      "Passed":  true,
+                      "ControllerBirth":  "134357642705028419",
+                      "UserSurvived":  true,
+                      "ConsoleCreated":  false,
+                      "Test":  "live-breakaway-dispose"
+                  },
+                  {
+                      "Passed":  true,
+                      "ControllerBirth":  "134357642711329906",
+                      "UserSurvived":  true,
+                      "ConsoleCreated":  false,
+                      "Test":  "live-breakaway-owner-death"
+                  },
+                  {
+                      "Passed":  true,
+                      "ControllerBirth":  "134357642717587538",
+                      "UserSurvived":  false,
+                      "ConsoleCreated":  false,
+                      "Test":  "cancel"
+                  },
+                  {
+                      "Passed":  true,
+                      "ControllerBirth":  "134357642723892397",
+                      "UserSurvived":  false,
+                      "ConsoleCreated":  false,
+                      "Test":  "deadline"
+                  },
+                  {
+                      "Test":  "wrong-parent-birth",
+                      "Passed":  true
+                  },
+                  {
+                      "Test":  "commit-removes-deadline-cancel-still-wins",
+                      "Passed":  true
+                  },
+                  {
+                      "Test":  "cancelled-transition-refuses-side-effect",
+                      "Passed":  true
+                  },
+                  {
+                      "Passed":  true,
+                      "Replacements":  300,
+                      "Test":  "shared-read-delete-atomic-replace"
+                  }
+              ],
+    "SystemFilesModified":  false,
+    "Passed":  true
+}

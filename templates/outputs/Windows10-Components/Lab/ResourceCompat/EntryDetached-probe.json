@@ -1,0 +1,989 @@
+{
+  "preset": "immersive-compat",
+  "systemFilesBefore": {
+    "explorer.exe": "ca8c0a2a00f1d6f6da076d1d61fa706e82df57ed2b12ae3b3c36f4f73556b2ec",
+    "System32/twinui.pcshell.dll": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "System32/twinui.dll": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f",
+    "System32/twinui.appcore.dll": "507a3bba67ecfdb9980a63bc64fb9b8feee50c6f8a954967e99760adaf04d5cb",
+    "System32/windows.immersiveshell.serviceprovider.dll": "39805e1ea15bd111ee16cee81054fe3cc6ee25df1c3342c46af6595f8405b40c",
+    "System32/Windows.UI.Xaml.dll": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "System32/uDWM.dll": "3ecec64daf3db07f58d726db74f6175e89a17581758eb0226c1be89d91e2da70",
+    "System32/user32.dll": "d01c10963508ffd503ce9c789dfc3eb1dd63340df3899b695e7775ef46edd966",
+    "System32/win32u.dll": "e0eb6d60fb8fa6ab7b86a1eb13680574ab2a6d5c337b2c2bd62240ec2e0c8bac"
+  },
+  "mappings": [
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\twinui.pcshell.dll",
+      "destination": "C:\\Windows\\System32\\twinui.pcshell.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.pcshell.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.pcshell.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.dll",
+      "destination": "C:\\Windows\\System32\\twinui.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.appcore.dll",
+      "destination": "C:\\Windows\\System32\\twinui.appcore.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.appcore.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.appcore.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll",
+      "destination": "C:\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\windows.immersiveshell.serviceprovider.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\windows.immersiveshell.serviceprovider.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.PCShell",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.PCShell",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.Shell",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.Shell",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.ShellCommon",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.ShellCommon",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.ShellCommon.SharedResources",
+      "destination": "C:\\Windows\\SystemResources\\Windows.ShellCommon.SharedResources",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\U32W10.dll",
+      "destination": "C:\\Windows\\System32\\U32W10.dll"
+    }
+  ],
+  "liveShellStopped": false,
+  "registeredPackagesChanged": false,
+  "resourceBootstrap": [
+    {
+      "exception": "0x80000003",
+      "address": "0x7fffebcc25c0"
+    },
+    {
+      "exception": "0x80000003",
+      "address": "0x7fffebcc0e5d"
+    },
+    {
+      "exception": "0xe06d7363",
+      "address": "0x7fffe90366ca"
+    },
+    {
+      "exception": "0xe06d7363",
+      "address": "0x7fffe90366ca"
+    },
+    {
+      "exception": "0x80000003",
+      "address": "0x7ff609674210"
+    },
+    {
+      "pausedAtEntry": "0x7ff609674210",
+      "staticDllInitializationComplete": true
+    },
+    {
+      "loadedHelper": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\FactoryWrapper\\RSCW10.dll",
+      "base": "0x7fffd2ae0000"
+    },
+    {
+      "iatRva": "0x39b948",
+      "original": "0x7fffea2f1f50",
+      "replacement": "0x7fffd2ae1000"
+    },
+    {
+      "debugDetached": true,
+      "primaryResumed": true
+    }
+  ],
+  "created": true,
+  "pid": 6940,
+  "exe": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\Injected\\explorer.exe",
+  "running": true,
+  "exitCode": 259,
+  "modules": [
+    {
+      "logicalPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\Injected\\explorer.exe",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\Injected\\explorer.exe"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\ntdll.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ntdll.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\KERNEL32.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\kernel32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\KERNELBASE.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\KernelBase.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\msvcp_win.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\msvcp_win.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\ucrtbase.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ucrtbase.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\combase.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\combase.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\RPCRT4.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\rpcrt4.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\AEPIC.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\aepic.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\OLEAUT32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\oleaut32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\TWINAPI.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\sechost.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\sechost.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\shcore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\SHCore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\msvcrt.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\msvcrt.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\advapi32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\advapi32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\shlwapi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\shlwapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\user32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\user32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\USERENV.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\userenv.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\win32u.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\win32u.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\powrprof.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\powrprof.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\IPHLPAPI.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\IPHLPAPI.DLL"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\GDI32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\gdi32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\gdi32full.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\gdi32full.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\SHELL32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\shell32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\wintypes.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\WinTypes.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\dxgi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\dxgi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\windows.storage.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\windows.storage.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\PROPSYS.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\propsys.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\kernel.appcore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\kernel.appcore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\CoreMessaging.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\CoreMessaging.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\urlmon.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\urlmon.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\WININET.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wininet.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\WTSAPI32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wtsapi32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\UxTheme.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\uxtheme.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\dwmapi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\dwmapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\CRYPT32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\crypt32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\SspiCli.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\sspicli.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\twinapi.appcore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinapi.appcore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\iertutil.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\iertutil.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\netutils.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\netutils.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\srvcli.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\srvcli.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\bcryptPrimitives.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\bcryptprimitives.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\UMPDC.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\umpdc.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\IMM32.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\imm32.dll"
+    },
+    {
+      "logicalPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Tools\\USVFS\\bin\\usvfs_x64.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Tools\\USVFS\\bin\\usvfs_x64.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\MSVCP140.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\msvcp140.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\VCRUNTIME140.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\vcruntime140.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\VCRUNTIME140_1.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\vcruntime140_1.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\profapi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\profapi.dll"
+    },
+    {
+      "logicalPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\FactoryWrapper\\RSCW10.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\FactoryWrapper\\RSCW10.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\dxcore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\DXCore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\NInput.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ninput.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\MSCTF.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\msctf.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\ole32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ole32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.5074_none_3e0d6f78e32fd63f\\comctl32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.5074_none_3e0d6f78e32fd63f\\comctl32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\clbcatq.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\clbcatq.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\appresolver.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\AppResolver.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\OneCoreUAPCommonProxyStub.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\OneCoreUAPCommonProxyStub.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\CFGMGR32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cfgmgr32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\StartTileData.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\StartTileData.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\MDMRegistration.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\mdmregistration.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\windowsudk.shellcommon.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\windowsudk.shellcommon.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\usermgrcli.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\usermgrcli.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.StateRepositoryPS.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.StateRepositoryPS.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.UI.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.UI.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.UI.Immersive.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.UI.Immersive.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.ApplicationModel.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.ApplicationModel.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\usermgrproxy.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\UserMgrProxy.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\AppXDeploymentClient.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\AppXDeploymentClient.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\MrmCoreR.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\MrmCoreR.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\languageoverlayutil.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\LanguageOverlayUtil.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.CloudStore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.CloudStore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\bcp47mrm.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\BCP47mrm.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\IDStore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\IDStore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.StateRepositoryClient.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.StateRepositoryClient.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\AppExtension.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\AppExtension.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\SAMLIB.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\samlib.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\wlidprov.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wlidprov.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.CloudStore.Schema.Shell.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.CloudStore.Schema.Shell.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Bcp47Langs.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\BCP47Langs.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\policymanager.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\policymanager.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\SystemSettings.DataModel.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\SystemSettings.DataModel.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\slc.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\slc.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\winsta.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\winsta.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\SndVolSSO.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\SndVolSSO.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\MMDevAPI.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\MMDevAPI.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\StructuredQuery.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\StructuredQuery.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\icu.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\icu.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\DEVOBJ.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\devobj.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\OLEACC.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\oleacc.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.System.Launcher.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.System.Launcher.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\windows.staterepositorycore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.StateRepositoryCore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\TextShaping.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\TextShaping.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\windowscodecs.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\WindowsCodecs.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\Windows.Storage.Search.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Storage.Search.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\dcomp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\dcomp.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Microsoft.Internal.WarpPal.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Microsoft.Internal.WarpPal.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\CRYPTBASE.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cryptbase.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\d3d11.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\d3d11.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\edputil.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\edputil.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\directxdatabasehelper.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\directxdatabasehelper.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\vm3dum64_loader.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\vm3dum64_loader.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.Web.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Web.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\vm3dum64_10.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\vm3dum64_10.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\WINMM.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\winmm.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\VERSION.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\version.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\d2d1.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\d2d1.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\DWrite.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\DWrite.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\XmlLite.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\xmllite.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\cldapi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cldapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\FLTLIB.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\fltLib.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\bcrypt.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\bcrypt.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\dataexchange.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\DataExchange.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\apphelp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\apphelp.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\explorerframe.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ExplorerFrame.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\OneCoreCommonProxyStub.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\OneCoreCommonProxyStub.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\TileDataRepository.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\TileDataRepository.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\StateRepository.Core.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\StateRepository.Core.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.StateRepository.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.StateRepository.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\tabbtn.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Tabbtn.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\coml2.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\coml2.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\TabBtnEx.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\TabbtnEx.dll"
+    },
+    {
+      "logicalPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\twinui.pcshell.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\twinui.pcshell.dll"
+    },
+    {
+      "logicalPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\U32W10.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\U32W10.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\ntmarta.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ntmarta.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\cryptsp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cryptsp.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\wkscli.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wkscli.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\wincorlib.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wincorlib.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\cdp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cdp.dll"
+    },
+    {
+      "logicalPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\thumbcache.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\thumbcache.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\msctfmonitor.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\MsCtfMonitor.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\MSUTB.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\msutb.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\textinputframework.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\TextInputFramework.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\MLANG.DLL",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\mlang.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\InputSwitch.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\InputSwitch.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\DUI70.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\dui70.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\DUser.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\duser.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\Wldp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wldp.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.UI.Core.TextInput.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.UI.Core.TextInput.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\CoreUIComponents.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\CoreUIComponents.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\UIAnimation.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\UIAnimation.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\sppc.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\sppc.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\D3D10Warp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\d3d10warp.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\NotificationControllerPS.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\NotificationControllerPS.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\ShellCommonCommonProxyStub.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ShellCommonCommonProxyStub.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\PCShellCommonProxyStub.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\PCShellCommonProxyStub.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.Graphics.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Graphics.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.Management.InprocObjects.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Management.InprocObjects.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\dsreg.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\dsreg.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\cryptngc.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cryptngc.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.Security.Authentication.Web.Core.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Security.Authentication.Web.Core.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\PhotoMetadataHandler.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\PhotoMetadataHandler.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\winbio.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\winbio.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\ActXPrxy.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\actxprxy.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\CloudExperienceHost.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\CloudExperienceHost.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.Shell.ServiceHostBuilder.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Shell.ServiceHostBuilder.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\ntshrui.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ntshrui.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\cscapi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cscapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\wuceffects.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wuceffects.dll"
+    },
+    {
+      "logicalPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.appcore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.appcore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\LINKINFO.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\linkinfo.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.FileExplorer.Common.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.FileExplorer.Common.dll"
+    },
+    {
+      "logicalPath": "C:\\Users\\MAKSIDZE\\AppData\\Local\\Microsoft\\OneDrive\\26.173.0906.0008\\FileSyncShell64.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\AppData\\Local\\Microsoft\\OneDrive\\26.173.0906.0008\\FileSyncShell64.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\Secur32.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\secur32.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\EhStorShell.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\EhStorShell.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\SETUPAPI.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\setupapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\CloudRestoreLauncher.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\CloudRestoreLauncher.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\cscui.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cscui.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\stobject.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\stobject.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\BatMeter.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\batmeter.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\UIAutomationCore.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\UIAutomationCore.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\WMICLNT.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wmiclnt.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\es.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\es.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\prnfldr.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\prnfldr.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\sxs.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\sxs.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\atlthunk.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\atlthunk.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\dxp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\DXP.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Actioncenter.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\ActionCenter.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\Syncreg.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Syncreg.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\WINTRUST.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wintrust.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\MSASN1.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\msasn1.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\directmanipulation.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\directmanipulation.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\rsaenh.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\rsaenh.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.Networking.Connectivity.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Networking.Connectivity.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\imagehlp.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\imagehlp.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\npmproxy.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\npmproxy.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\NSI.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\nsi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\dusmapi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\dusmapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\gpapi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\gpapi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\wpdshserviceobj.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\WPDShServiceObj.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\PortableDeviceTypes.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\PortableDeviceTypes.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\PortableDeviceApi.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\PortableDeviceApi.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\cscobj.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\cscobj.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\srchadmin.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\srchadmin.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\system32\\mssprxy.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\mssprxy.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\AudioSes.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\AudioSes.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\windows.media.devices.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Media.Devices.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\shdocvw.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\shdocvw.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\WINHTTP.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\winhttp.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\SyncCenter.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\SyncCenter.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\imapi2.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\imapi2.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\bthprops.cpl",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\bthprops.cpl"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.UI.Shell.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.UI.Shell.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\SYSTEM32\\bluetoothapis.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\BluetoothApis.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\deviceassociation.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\deviceassociation.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\Windows.Globalization.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\Windows.Globalization.dll"
+    },
+    {
+      "logicalPath": "C:\\Windows\\System32\\wpnclient.dll",
+      "mappedPath": "\\Device\\HarddiskVolume3\\Windows\\System32\\wpnclient.dll"
+    }
+  ],
+  "windowClasses": [
+    "ATL:00007FFFE130C050",
+    "BluetoothNotificationAreaIconWindowClass",
+    "CicLoaderWndClass",
+    "CiceroUIWndFrame",
+    "DDEMLEvent",
+    "DDEMLMom",
+    "IME",
+    "MSCTFIME UI",
+    "MS_WebcheckMonitor",
+    "NotifyIconOverflowWindow",
+    "OleDdeWndClass",
+    "Progman",
+    "Shell_TrayWnd",
+    "SystemTray_Main",
+    "TabletPenServiceHelperClass",
+    "TaskListThumbnailWnd",
+    "Touch Tooltip Window",
+    "UAC Input Indicator",
+    "UAC_InputIndicatorOverlayWnd",
+    "WorkerW",
+    "tooltips_class32"
+  ],
+  "systemFilesAfter": {
+    "explorer.exe": "ca8c0a2a00f1d6f6da076d1d61fa706e82df57ed2b12ae3b3c36f4f73556b2ec",
+    "System32/twinui.pcshell.dll": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "System32/twinui.dll": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f",
+    "System32/twinui.appcore.dll": "507a3bba67ecfdb9980a63bc64fb9b8feee50c6f8a954967e99760adaf04d5cb",
+    "System32/windows.immersiveshell.serviceprovider.dll": "39805e1ea15bd111ee16cee81054fe3cc6ee25df1c3342c46af6595f8405b40c",
+    "System32/Windows.UI.Xaml.dll": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "System32/uDWM.dll": "3ecec64daf3db07f58d726db74f6175e89a17581758eb0226c1be89d91e2da70",
+    "System32/user32.dll": "d01c10963508ffd503ce9c789dfc3eb1dd63340df3899b695e7775ef46edd966",
+    "System32/win32u.dll": "e0eb6d60fb8fa6ab7b86a1eb13680574ab2a6d5c337b2c2bd62240ec2e0c8bac"
+  },
+  "systemFilesUnchanged": true,
+  "logs": [],
+  "debugEvents": []
+}

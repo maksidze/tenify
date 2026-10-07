@@ -1,0 +1,102 @@
+[
+  {
+    "rva": 312384,
+    "name": "?GetDescription@?$produce@UBooleanSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@UISettingCommandAdapter@3456@@impl@winrt@@UEAAHPEAXH000PEAPEAX@Z"
+  },
+  {
+    "rva": 376776,
+    "name": "?GetProperty@?$consume_SystemSettings_DataModel_ISettingItem@UISettingItem@DataModel@SystemSettings@winrt@@@impl@winrt@@QEBA@AEBUhstring@param@3@@Z"
+  },
+  {
+    "rva": 354960,
+    "name": "??$Command_DescriptionError@PEBGKPEBGPEBGPEBG@SystemSettingsCommandTelemetry@SystemSettingsCommand@Internal@Windows@winrt@@SAX$$QEAPEBG$$QEAK000@Z"
+  },
+  {
+    "rva": 387136,
+    "name": "?get_Description@?$produce@USettingCommand@implementation@SystemSettingsCommand@Internal@Windows@winrt@@UISettingCommand@3456@@impl@winrt@@UEAAHPEAPEAX@Z"
+  },
+  {
+    "rva": 14480,
+    "name": "?get_Description@CSettingItem@DataModel@SystemSettings@@UEAAJPEAPEAUHSTRING__@@@Z"
+  },
+  {
+    "rva": 888876,
+    "name": "?_tlgEvent@?3???$Command_DescriptionError@PEBGKPEBGPEBGPEBG@SystemSettingsCommandTelemetry@SystemSettingsCommand@Internal@Windows@winrt@@SAX$$QEAPEBG$$QEAK000@Z@4U<unnamed-type-_tlgEvent>@?3???$Command_DescriptionError@PEBGKPEBGPEBGPEBG@12345@SAX01000@Z@B"
+  },
+  {
+    "rva": 268336,
+    "name": "?pDescriptionData@CSettingItemInfoInternal@DataModel@SystemSettings@@UEAAPEBUDescriptionData@23@XZ"
+  },
+  {
+    "rva": 344328,
+    "name": "?GetDescription@RangeSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@QEAA?AUhstring@6@AEBU76@AEBW4SettingCommandState@3456@AEBUIInspectable@Foundation@56@20@Z"
+  },
+  {
+    "rva": 561056,
+    "name": "?GetDescriptionErrorResourceString@Helpers@SystemSettingsCommand@Internal@Windows@winrt@@YA?AUhstring@5@XZ"
+  },
+  {
+    "rva": 241696,
+    "name": "?get_DisplayName@SettingsExtensionAppLinkServer@DataModel@SystemSettings@@UEAAJPEAPEAUHSTRING__@@@Z"
+  },
+  {
+    "rva": 370172,
+    "name": "?GetDescription@?$consume_Windows_Internal_SystemSettingsCommand_ISettingCommandAdapter@UISettingCommandAdapter@SystemSettingsCommand@Internal@Windows@winrt@@@impl@winrt@@QEBA@AEBUhstring@param@3@AEBW4SettingCommandState@SystemSettingsCommand@Internal@Windows@3@AEBUIInspectable@Foundation@93@20@Z"
+  },
+  {
+    "rva": 18720,
+    "name": "?GetProperty@CSettingItem@DataModel@SystemSettings@@UEAAJPEAUHSTRING__@@PEAPEAUIInspectable@@@Z"
+  },
+  {
+    "rva": 772464,
+    "name": "??_C@_0M@MJOKAMDI@GetProperty@"
+  },
+  {
+    "rva": 581344,
+    "name": "?GetDescription@?$produce@UScreenDuplicationModeCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@UISettingCommandAdapter@3456@@impl@winrt@@UEAAHPEAXH000PEAPEAX@Z"
+  },
+  {
+    "rva": 365232,
+    "name": "?Description@SettingCommand@implementation@SystemSettingsCommand@Internal@Windows@winrt@@QEAA?AUhstring@6@XZ"
+  },
+  {
+    "rva": 327304,
+    "name": "?GetDescription@DropdownSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@QEAA?AUhstring@6@AEBU76@AEBW4SettingCommandState@3456@AEBUIInspectable@Foundation@56@20@Z"
+  },
+  {
+    "rva": 772592,
+    "name": "??_C@_0BA@BIPKHHIN@get_Description@"
+  },
+  {
+    "rva": 581464,
+    "name": "?GetDescription@ScreenDuplicationModeCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@QEAA?AUhstring@6@AEBU76@AEBW4SettingCommandState@3456@AEBUIInspectable@Foundation@56@20@Z"
+  },
+  {
+    "rva": 327168,
+    "name": "?GetDescription@?$produce@UDropdownSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@UISettingCommandAdapter@3456@@impl@winrt@@UEAAHPEAXH000PEAPEAX@Z"
+  },
+  {
+    "rva": 567168,
+    "name": "?GetDescription@?$produce@UHighContrastSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@UISettingCommandAdapter@3456@@impl@winrt@@UEAAHPEAXH000PEAPEAX@Z"
+  },
+  {
+    "rva": 244640,
+    "name": "?get_DisplayName@SettingsExtensionAppServer@DataModel@SystemSettings@@UEAAJPEAPEAUHSTRING__@@@Z"
+  },
+  {
+    "rva": 294688,
+    "name": "?GetDescription@?$produce@UActionSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@UISettingCommandAdapter@3456@@impl@winrt@@UEAAHPEAXH000PEAPEAX@Z"
+  },
+  {
+    "rva": 567268,
+    "name": "?GetDescription@HighContrastSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@QEAA?AUhstring@6@AEBU76@AEBW4SettingCommandState@3456@AEBUIInspectable@Foundation@56@20@Z"
+  },
+  {
+    "rva": 344192,
+    "name": "?GetDescription@?$produce@URangeSettingCommandAdapter@implementation@SystemSettingsCommand@Internal@Windows@winrt@@UISettingCommandAdapter@3456@@impl@winrt@@UEAAHPEAXH000PEAPEAX@Z"
+  },
+  {
+    "rva": 125712,
+    "name": "?pDescriptionData@CSettingItemInfoRegistry@DataModel@SystemSettings@@UEAAPEBUDescriptionData@23@XZ"
+  }
+]

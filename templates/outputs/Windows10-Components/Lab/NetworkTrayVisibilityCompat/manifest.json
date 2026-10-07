@@ -1,0 +1,16 @@
+{
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\Visibility.c",
+      "SHA256": "810ACBD8CA348E6CC384C7E45E1803BF7EC11DD697ABF7E0A2C4A6BE38CAF8FF"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\Visibility.exe",
+      "SHA256": "9749FC4EAE260E06CE6360ACB98BD9D755838A004A62660AAD5F308C26824F1D"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\Set-NetworkVisibility.ps1",
+      "SHA256": "EAA48673B760AB99466EFA267771492AED1B36C17F0D5861D7F77DD94C880D89"
+    }
+  ]
+}

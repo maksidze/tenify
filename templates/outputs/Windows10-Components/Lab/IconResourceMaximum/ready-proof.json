@@ -1,0 +1,41 @@
+{
+  "ManifestSHA256": "7d80120c1f9f2827a6d8d5f22f5ad2cf7ab6ca2a626dd7074c09eaeb9b323bf7",
+  "Files": 130,
+  "DataOnlyMUNMappings": 110,
+  "ResourceOnlyContainerRoutes": 20,
+  "Groups": 2620,
+  "WindowsRenderedChanged": 473,
+  "StockQueries": 201,
+  "StockChanged": 132,
+  "NewBlankRegressions": [],
+  "RegistryExactIconContracts": 305,
+  "SkippedExplorerFrame101NativeProbe": [
+    {
+      "file": 78,
+      "group": 101,
+      "selected": 0,
+      "drawn": 0,
+      "nonzero": 0,
+      "hash": "14650fb0739d0383"
+    },
+    {
+      "file": 79,
+      "group": 101,
+      "selected": 0,
+      "drawn": 0,
+      "nonzero": 0,
+      "hash": "14650fb0739d0383"
+    },
+    {
+      "file": 80,
+      "group": 101,
+      "selected": 0,
+      "drawn": 0,
+      "nonzero": 0,
+      "hash": "14650fb0739d0383"
+    }
+  ],
+  "CodeDLLsOverlaid": false,
+  "OldBaselineBlankCount": 54,
+  "UIActivation": false
+}

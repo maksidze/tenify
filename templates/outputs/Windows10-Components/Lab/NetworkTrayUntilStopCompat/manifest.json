@@ -1,0 +1,112 @@
+{
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\Build-Trace.py",
+      "SHA256": "c18ddde6951cdd98e40f77fb5c3ee4a9f75d89c5eb750f252a9e9be61b9a4856"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\Build.py",
+      "SHA256": "78d36759e7e81da9d1f88923eb6b7daafae5caa7bb7d7dad0672efdb1f2cf8d0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\Ensure-NetworkTrayUntilStop.ps1",
+      "SHA256": "dfe1833054a1a5ea303db69e0f0118e9b0fdf9d64f4c0d3c0d646924f6b7ed54"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\LifecycleFixture.c",
+      "SHA256": "6748b158391ff4416cf972e1027e3bef56c6d4f257cbce1439f76a014d768ffb"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\LifecycleFixture.exe",
+      "SHA256": "634b3b3a9e906271d6c1b033a169356c26e8b7bfa16041ce854b9a4ff2eb6463"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayState.ps1",
+      "SHA256": "7ccb60f7a48d848a2c76966a20ab98acab4abf4f8c4db121155a009cac3e34de"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayTrace.c",
+      "SHA256": "6bab2755d400c94dff63fcb30397f698b8292fe39f5cc06d62239a1ce45ff349"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayTrace.exe",
+      "SHA256": "ce76d6dcb942d7accd55c0534d120fb4bf3aa294471d3549719aab2d6c14c172"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayUntilStop.c",
+      "SHA256": "160e0e16b47b5c9ca821d519e83519ef812816756ec629a858795011d7f0f45b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayUntilStop.exe",
+      "SHA256": "f5023035ebaaf09b65220243c3c2f723a0b268f7b66b1e18aa7fd8132d3fe140"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NotifyAdapterFixture.c",
+      "SHA256": "f31c583ee173b42990644e14cd83db15d2da46eb8c17223a8be6e193c4996088"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NotifyAdapterFixture.exe",
+      "SHA256": "416bf7ddde244d944ca7fb56f3c1d50979e5d909890d97552de7282482e549f0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\Run-NetworkTrayUntilStop.ps1",
+      "SHA256": "66a4869954ce6ddf776c8612d91d495c74fe455bb4bb53ccc134face8fff2e24"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\Status-NetworkTrayUntilStop.ps1",
+      "SHA256": "612c4747278d378ee1a1025b3e0c7e792aea66192634bba92ba7f7f8b1fb0330"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\Stop-NetworkTrayUntilStop.ps1",
+      "SHA256": "0382c3fbf3cf5492fa377a5d56feaf1c6265d2c4e84bba7900f5c91f55bfe627"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\TargetFixture.c",
+      "SHA256": "5ac6fb1a77975dc3d36aafb50e1a30c03d927107873c4a1be35501751ac6f7c2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\TargetFixture.exe",
+      "SHA256": "064d4c0f1690f4b1c496dd8adad308917b1355c586d1edb0b913d49a53348cd3"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\Test-Lifecycle.py",
+      "SHA256": "ea6cb28937637e12db6624d26dc055a5d418defba7c6d45b5283f1bfbe1ade3a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\NetworkFactoryProbe.c",
+      "SHA256": "6325ab0fc05200610bd4d6a4270a1dc1461c12fc69ad7adc5dae4d1cd8bba601"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\pnidui.dll",
+      "SHA256": "0886ced0200c7fd56a0444acf550c3e1ccae546681b1be610fa645ec18a3e1db"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\ru-RU\\pnidui.dll.mui",
+      "SHA256": "3fb2f3fe4df0e8ec7c0450ac0686be353ca1732b4f93ebafd3a05d51ad3e1a3e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\PublisherJobGuard.cs",
+      "SHA256": "f5017d3d541f15f9df51496a648e264ed778b574c9403be82e8dc8e8071bccce"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\Visibility.c",
+      "SHA256": "810acbd8ca348e6cc384c7e45e1803bf7ec11dd697abf7e0a2c4a6be38caf8ff"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\Visibility.exe",
+      "SHA256": "9749fc4eae260e06ce6360acb98bd9d755838a004a62660aad5f308c26824f1d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\Set-NetworkVisibility.ps1",
+      "SHA256": "eaa48673b760ab99466efa267771492aed1b36c17f0d5861d7f77dd94c880d89"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\manifest.json",
+      "SHA256": "2cf4a5b36cf0651b0e0289cca51dba650cbd1ee1d88a5f12c14be8542825c43c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTheme.h",
+      "SHA256": "427d84ae7f49881dc57bfccfbd590a7467b9c0b3339bf764b2f4ac544a5ddc62"
+    }
+  ]
+}

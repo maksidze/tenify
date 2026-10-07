@@ -1,0 +1,42 @@
+{
+  "Scope": "Owned fresh Settings bootstrap; Caption, control descriptions, Power provider fallback",
+  "Dependencies": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsCaptionCompat.dll",
+      "SHA256": "1db421eab2d8272b4d708ac1d305a54bf9c79716ff5fe0035579b3b4e6ea8ab8",
+      "Export": "SettingsInitialize"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsControlTextCompat\\SettingsControlTextCompat.dll",
+      "SHA256": "d294664b83358a11e5ff2230a10f5b8447bfd910b1509b591623a671afaecc66",
+      "Export": "SettingsControlTextInitialize"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsPowerCompat\\SettingsPowerCompat.dll",
+      "SHA256": "699f0fdea0ddcb12e9b3c5c9abc0fec0494f327ad72bd8d0d364be0f26ceb56c",
+      "Export": "SettingsPowerInitialize"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\SettingsContentCompat.c",
+      "SHA256": "c9b72b3d6bf1ccedeb5cbaa4916da51932e26f42faefa475a877e13070747525"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\SettingsContentCompat.dll",
+      "SHA256": "17f7dc1e87b7fae9d4f4a9cb6832b106968cd94c529a4268d0b0f5817f77c3fc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\Adapters.h",
+      "SHA256": "f426023ed4dc422d014d502f54793add53f5e75205c20dd9a383c920d0fe786b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\HashCheck.h",
+      "SHA256": "79e63000dbfa7b091053674bb13d36c82a5789f561f77c71c04c92808dc967c9"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\Build.py",
+      "SHA256": "4dcada150702838475382a58ec3dc28e07946e82a9db6f73e1c7362a4036667f"
+    }
+  ]
+}

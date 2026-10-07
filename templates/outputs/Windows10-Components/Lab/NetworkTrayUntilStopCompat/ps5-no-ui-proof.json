@@ -1,0 +1,20 @@
+[
+  {
+    "Script": "Ensure-NetworkTrayUntilStop.ps1",
+    "ExitCode": 0,
+    "Stdout": "UntilStop preflight passed. No icon/component was started.\n",
+    "Stderr": ""
+  },
+  {
+    "Script": "Status-NetworkTrayUntilStop.ps1",
+    "ExitCode": 0,
+    "Stdout": "\nActive LifecycleReady VisualVerified\n------ -------------- --------------\n False          False          False\n\n\n",
+    "Stderr": ""
+  },
+  {
+    "Script": "Stop-NetworkTrayUntilStop.ps1",
+    "ExitCode": 0,
+    "Stdout": "No owned network session.\n",
+    "Stderr": ""
+  }
+]

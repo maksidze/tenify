@@ -1,0 +1,14 @@
+[
+  {
+    "Scenario": "absent-registration",
+    "Exit": 0,
+    "NoRegistryMutation": true,
+    "Log": "ExactSingleRegistration=0 HRESULT=00000001\n"
+  },
+  {
+    "Scenario": "foreign-command",
+    "Exit": 64,
+    "NoRegistryMutation": true,
+    "Log": null
+  }
+]

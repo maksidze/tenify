@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('outputs/Windows10-Components/Lab/SettingsIdentity/Probe-SettingsIdentity.py');s=p.read_text();root=p.parent.resolve();wrapper='from pathlib import Path\nimport traceback\n'+f'probe_directory=Path({str(root)!r})\n'+"(probe_directory/'controller-started.txt').write_text('started')\ntry:\n exec(compile("+repr(s)+",__file__,'exec'))\nexcept BaseException:\n (probe_directory/'fatal-error.txt').write_text(traceback.format_exc(),encoding='utf8')\n";p.write_text(wrapper)

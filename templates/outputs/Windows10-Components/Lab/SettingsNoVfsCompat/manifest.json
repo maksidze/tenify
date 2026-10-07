@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "NoVFS": true,
+  "ActualSettingsUITested": false,
+  "FactoryAndResourceAndOwnBootstrapProof": true,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.cpp",
+      "SHA256": "ea6d4f361bc5c1f29ec25731b30df7ced6895afd8722ef580b815a334555fece"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.dll",
+      "SHA256": "1f4554cac1163c40441d3f725527f16d1f86c8bd00dfe098056ad758444639e2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SelectorPins.h",
+      "SHA256": "a920282b4d13b3275f174db79de03ea73fff09879c04fa995aafc5ddaa0dd082"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\FactoryFixture.cpp",
+      "SHA256": "7901f11cd9e06137be30a0f7b77d4ab6a9128da6336422f06105c28e9444d64d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\FactoryFixture.exe",
+      "SHA256": "30fb927d29785947801386033a389c04c946398cdd1a762bae1ec9de30c7f8f2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\FactoryPins.h",
+      "SHA256": "1874d4d2bbd66f85c172c6bb71ae2699c859c24e6dea999eabee9a31fb76262a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Build.py",
+      "SHA256": "9c375e9164374a92a864a05bc46f946c5507be69a7e37bb81358a8bf039dbd42"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Launch-SettingsNoVfs.py",
+      "SHA256": "12aa6a00e21db52065c4ea880401c09957c772f8a40773fb5de5c5049f085423"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\adapter-metadata.json",
+      "SHA256": "829f4c921a8c54910c6a6ef90bf13e06b1a1cfd50160220c8761f7adcdbe6d06"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Test-Factory.ps1",
+      "SHA256": "6e4d0d3bd6d46180cae34b5e6410018f0d3d90a6ad339bce787d338475c45669"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Test-Selector.ps1",
+      "SHA256": "b8da83945401bcbb8a9c060905c1184d14b0e5ed437d2039c69aae1f28c07e1f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Test-Bootstrap.py",
+      "SHA256": "46593c260205da3622fbda90fdd719b1b51ba0802eccae183d7cc2bf83b6687c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Test-Bootstrap.ps1",
+      "SHA256": "e9ade4ec1fa513a3ff945cd636c471f9ab8ecda75e623bf27f93aa94106a85ce"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\own-proof.json",
+      "SHA256": "3262bf8d0b47a43c0aa393e3fdee7bb0f62dc4ef5a5040cdae9866757b5e0a96"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\bootstrap-own-proof.json",
+      "SHA256": "ece5e2c14cb4938b22e40842a2b2fceaef6a150da3bed73cb1f77ced925e86e4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Readme.txt",
+      "SHA256": "c44144ce578a45fe9d12b798482bda14e6e24b582014a3c66a0625ee39d6524d"
+    }
+  ]
+}

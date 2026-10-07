@@ -1,0 +1,15 @@
+{
+  "Exit": 0,
+  "Tests": [
+    "stable path-derived GUID",
+    "caller input byte-identical",
+    "original network GUID only",
+    "native FALSE preserved",
+    "ADD success required",
+    "DELETE same identity",
+    "foreign GUID unchanged",
+    "wrong cbSize unchanged",
+    "GetConsoleWindow null"
+  ],
+  "RealIconCalls": false
+}

@@ -1,0 +1,2210 @@
+[
+  {
+    "Output": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/AppControlTheme10.dll",
+    "OriginalSHA256": "fd32313846258125510715880900a1838eec3ae6f07eeee513bce92eee541403",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/AppControlTheme10Compat/AppControlTheme10.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/ClassicContextMenu.dll",
+    "OriginalSHA256": "848832c7247f591554bdc67d265d345fd0c2f0cc3c10aea62bd016203cd99603",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/ClassicContextMenu.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/ClassicMenuProbe.exe",
+    "OriginalSHA256": "088772203b9e3fcf5b96bf54aa472dfeb920fcf469dd7992ed21ea843ed38621",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/Probe.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ControlTheme10Compat/ControlTheme10.dll",
+    "OriginalSHA256": "24af2addef63804d5f8efc0aeabd881f3e8f569c7e7b170d5f70d9b3e6394390",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ControlTheme10Compat/ControlTheme10.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/BrowserProbe.dll",
+    "OriginalSHA256": "2382b6c89eddb4e574f2ee208c02e2c79379f636a4dcd10028b4f61316d04d6d",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ControlThemeBootstrap/BrowserProbe.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/PrimaryBridge.dll",
+    "OriginalSHA256": "83630c5b721920a8f5599b70d54e5267e389aea5a66ec53d560697733552c73d",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ControlThemeBootstrap/PrimaryBridge.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/MonitorPublisher.exe",
+    "OriginalSHA256": "b8eaa4a710a6bc9f04519746684580f7691f38984eca96e92de5076d3d8a9674",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/MonitorPublisher.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/MonitorPublisherUntilStop.exe",
+    "OriginalSHA256": "df9fe4a9fb437c8bf8bca39d7b521db527275ba2162f1ab01e96406958546222",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/MonitorPublisherUntilStop.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/MutexFixture.exe",
+    "OriginalSHA256": "e5954ca9bd29881a1af4a3a503cba3a52a2e4afb6e66706dc617522ab1eb92a9",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ElevatedCornersCompat/MutexFixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/BrowserProbe.dll",
+    "OriginalSHA256": "a937822a9fae9797aba3bc7e955e7c8861532e4edc1c4d5afcfefa31d4cfed52",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/HybridThemeBootstrap/BrowserProbe.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/PrimaryBridge.dll",
+    "OriginalSHA256": "c6e3007d0c00bccde90b125e5d60e2ec7ec2c36bb8e8715cbf598d3382566ee0",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/HybridThemeBootstrap/PrimaryBridge.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/IconRoutes.NoVfs.dll",
+    "OriginalSHA256": "f8b074b40719bc8579c9485f95a7e019404593e869501d3fc40c1f617c5b9e28",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/IconRoutesNoVfs.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeHostPCSCompat/Fixture.exe",
+    "OriginalSHA256": "4bcba61bba38e3138a22d224d32c26a18d8fce3429329135ecfc4058670a90e5",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeHostPCSCompat/Fixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/MenuSquareV2.dll",
+    "OriginalSHA256": "823daea6d7e4b238f4a2fd0d35cd619745a276e57aedeb6491c7aba1431f0f90",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeMenuSquareV2/MenuSquareV2.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/MenuSquareV2Fixture.exe",
+    "OriginalSHA256": "9b171f6c8ce595467ba16410169dfc03fd390a8fa4fae8dbdcf185f28f22cbe7",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Fixture.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/MenuThemeFixture.exe",
+    "OriginalSHA256": "5975763df477828ff92ee8771b7128240bb8cdf072aa7fad10e4388f62c633f9",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/Fixture.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/PrimaryBridge.dll",
+    "OriginalSHA256": "703d34bcd115d112c6216b8cfd5a538c0ddd3546c5edc2d9531b64d115156cc0",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/PrimaryBridge.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/UnitFixture.exe",
+    "OriginalSHA256": "0647b8d5b1503f5576763c1c57484630e7f72b4f55357dd82ae6767125c07b47",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/UnitFixture.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayCompat/NetworkFactoryProbe.exe",
+    "OriginalSHA256": "eaa222af4fdd71e6acfbafec461310c37c0ea7fd29c19f0b6965199550a4b765",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayCompat/NetworkFactoryProbe.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayCompat/NetworkTrayHost.exe",
+    "OriginalSHA256": "f3a013d814e096dce97617717556e353844583a785e1a6e3892dd141f2762558",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayCompat/NetworkTrayHost.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/LifecycleFixture.exe",
+    "OriginalSHA256": "634b3b3a9e906271d6c1b033a169356c26e8b7bfa16041ce854b9a4ff2eb6463",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/LifecycleFixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTrayTrace.exe",
+    "OriginalSHA256": "ce76d6dcb942d7accd55c0534d120fb4bf3aa294471d3549719aab2d6c14c172",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTrayTrace.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTrayUntilStop.exe",
+    "OriginalSHA256": "f5023035ebaaf09b65220243c3c2f723a0b268f7b66b1e18aa7fd8132d3fe140",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTrayUntilStop.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NotifyAdapterFixture.exe",
+    "OriginalSHA256": "416bf7ddde244d944ca7fb56f3c1d50979e5d909890d97552de7282482e549f0",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NotifyAdapterFixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/TargetFixture.exe",
+    "OriginalSHA256": "064d4c0f1690f4b1c496dd8adad308917b1355c586d1edb0b913d49a53348cd3",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/TargetFixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/Visibility.exe",
+    "OriginalSHA256": "9749fc4eae260e06ce6360acb98bd9d755838a004a62660aad5f308c26824f1d",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/Visibility.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.before-vfs-identity.dll",
+    "OriginalSHA256": "66c451ce46255254b3604fc97ca23340a81d5872190fe65dd60c7ad46d18eba8",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.before-vfs-identity.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.dll",
+    "OriginalSHA256": "1db421eab2d8272b4d708ac1d305a54bf9c79716ff5fe0035579b3b4e6ea8ab8",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsContentCompat/SettingsContentCompat.dll",
+    "OriginalSHA256": "17f7dc1e87b7fae9d4f4a9cb6832b106968cd94c529a4268d0b0f5817f77c3fc",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsContentCompat/SettingsContentCompat.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/SettingsControlTextCompat.dll",
+    "OriginalSHA256": "d294664b83358a11e5ff2230a10f5b8447bfd910b1509b591623a671afaecc66",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsControlTextCompat/SettingsControlTextCompat.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/FactoryFixture.exe",
+    "OriginalSHA256": "30fb927d29785947801386033a389c04c946398cdd1a762bae1ec9de30c7f8f2",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/FactoryFixture.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/SettingsFactorySelector.dll",
+    "OriginalSHA256": "1f4554cac1163c40441d3f725527f16d1f86c8bd00dfe098056ad758444639e2",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/SettingsFactorySelector.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsDiagnostics/SettingsFactorySelectorDiag.dll",
+    "OriginalSHA256": "167cf049df917fb6415016b25ea089a67b0f93efafe80cfe565be07c5f3fc147",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsDiagnostics/SettingsFactorySelectorDiag.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/AccessFixture.exe",
+    "OriginalSHA256": "3ccfd7b6b73f877fe0652de10606bbfc3aeffa19c31a103975ff801c994caa91",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/AccessFixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/AuxGuardFixture.exe",
+    "OriginalSHA256": "b8b4b5297518d3fc67cc6756ab53cd703ac53a227025781ddc4b1a1e9af61daa",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/AuxGuardFixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Fixture.exe",
+    "OriginalSHA256": "81f9f1b58e4a31a510f468b672d92d70b0fae9d41c056ee536604f8a80367dc5",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ShellAppearanceCompat/Fixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Resume-OwnedVisibility.exe",
+    "OriginalSHA256": "926fb514b48d2ea9f3d4f60082fb671bdcf83475f65fbfca1924f1d34c67bcd1",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Resume-OwnedVisibility.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SessionControl.exe",
+    "OriginalSHA256": "055b670236de0df5e6aba329d4036cd172903d7a0ac1ecaacc69665d980654f9",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SessionControl.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SettingsNoVfsEntry.exe",
+    "OriginalSHA256": "4125438d804c3dcea12a9a5fe1e493709a237886e109b8498312cdc9a5ed09e8",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SessionEntry.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/SettingsFactorySelectorXaml.dll",
+    "OriginalSHA256": "2ab0d5d57a018cb17e4622b5da083d40bf9fa9da281563e7547a8bdeaba60e9b",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/SettingsFactorySelectorXaml.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsPowerCompat/SettingsPowerCompat.dll",
+    "OriginalSHA256": "699f0fdea0ddcb12e9b3c5c9abc0fec0494f327ad72bd8d0d364be0f26ceb56c",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsPowerCompat/SettingsPowerCompat.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsSystemProfileCompat/SettingsSystemProfileCompat.dll",
+    "OriginalSHA256": "1de372d93b15c87b7c6f4b458d33d1cae0ed6e9b291f29e1e34d3a08371dab22",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SettingsSystemProfileCompat/SettingsSystemProfileCompat.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/PackageDebugController.exe",
+    "OriginalSHA256": "facd2cef17a3b49b4c12bf275af735bced86e7e91093b410ef0b4a41b0bd81b5",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/StartCompat/PackageDebugController.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/StartCompatProbe.exe",
+    "OriginalSHA256": "c93761f5d3c1718c342604ee3a8f9c0b7e1de0b650c6dc0417c41203184e59f0",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/StartCompat/StartCompatProbe.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/wincorlib.dll",
+    "OriginalSHA256": "9075691338b2a3fa8dfdfec4d5e999fc863c54df55fb04da08855afe715ef89c",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/StartCompat/StartCompatProxy.c",
+      "outputs/Windows10-Components/Lab/StartCompat/StartCompatProxy.def"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionControl.exe",
+    "OriginalSHA256": "c6c59684e8a91b212fd4d98075af6bc33a2d2c97bc157e4782e64e9c3cc84cb7",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/StartSessionCompat/SessionControl.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionRepair.exe",
+    "OriginalSHA256": "9b36d7b1f368c2618a62a53a2bfb881fcec4ced695d3a875b2f9d453b8f0e02c",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/StartSessionCompat/SessionRepair.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartSessionCompat/Start10SessionDebugger.exe",
+    "OriginalSHA256": "6062a3f48f3c77c60e470feb19485639c0c16b7f3f83b917e1e8031cc61d5c44",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/StartSessionCompat/StartSessionBackend.c",
+      "outputs/Windows10-Components/Lab/StartSessionCompat/StartSessionEntry.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-Dwmain=BrokerExistingWmain"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/HybridFixture.exe",
+    "OriginalSHA256": "188747d7b3c141e289c8e68a44977de25f191a3b26d2ef21f8ade4469da7d4de",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Fixture.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/ThemeFolderHybrid.dll",
+    "OriginalSHA256": "b811602bb6e726648d57197fa0ef722cf5d39a42e1f18b4385a1cbb1b719fb3d",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/ThemeFolderHybrid.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/InputSwitchCompat/InputSwitchCompat.dll",
+    "OriginalSHA256": "926bf05c5fc2a826519d71b8a8ba764be257d75520de802dfafa7305e4a03f1b",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/InputSwitchCompat/InputSwitchCompat.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/XamlQuirkCompat/XamlQuirkCompat.dll",
+    "OriginalSHA256": "92bc3f75617adbf9a24132c66354126e059a2b119241114871a960282760f498",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/XamlQuirkCompat/XamlQuirkCompat.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/FolderIconCompat/FolderCacheProbe.exe",
+    "OriginalSHA256": "6f29e5be589e377e887d6d664cbb046adc3d178f67a41e4d827ab190f3ce213f",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/FolderIconCompat/FolderCacheProbe.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/RouteConsumer.dll",
+    "OriginalSHA256": "6a2ec613308d910fb67de0ec7daa88491242eaa840962343013bae20f7f9344c",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/RouteConsumer.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NoVfsShellCompat/PinIcon.exe",
+    "OriginalSHA256": "6d4059b7a1a1d8207e25b904a124b93f5d14bdffafb371c1688c28933cabbcd2",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NoVfsShellCompat/PinIcon.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/PrimaryBridge.dll",
+    "OriginalSHA256": "703d34bcd115d112c6216b8cfd5a538c0ddd3546c5edc2d9531b64d115156cc0",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/PrimaryBridge.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/ElevatedCornerHost.exe",
+    "OriginalSHA256": "d8b67ebd1a62e42511cc20067afe7ab116f54cbfbfa00f500343a59c9cf7fff9",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Host.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/ElevatedCornerFixture.exe",
+    "OriginalSHA256": "803fcd6c7258a50ee8214e67440de4a3e19d69882e85cd22d1addab5970a5061",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/WindowStyleSession/CornerFixture.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/ThemeMenuCompat.dll",
+    "OriginalSHA256": "125306f0ce2767486dd7faa8937f5ae04ef4c51941243851bcc69618127455ef",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/ThemeMenu.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/ThreadStackSnapshot/PssStacks.exe",
+    "OriginalSHA256": "c8e126e8f50cd18cb65fb9423fda39f670fd51fcdbcc0cbb22e87cc1fc7ed769",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/ThreadStackSnapshot/PssStacks.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore",
+      "-ldbghelp"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SnapHoverCompat/SnapCacheNotify.exe",
+    "OriginalSHA256": "f16269176b5ea6fc1de22bfacd357c413eb1956882de6ea5679f2c173de9c83e",
+    "Compiler": "csc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/SnapHoverCompat/SnapCacheNotify.cs"
+    ],
+    "Args": [
+      "/platform:x64"
+    ],
+    "Libs": []
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NativeWinXCompat/WinXCompat.Immersive.dll",
+    "OriginalSHA256": "d98504fc18ceb0f7e86a382fe9bb9c6b09fbb8fe5d6c90644876c14d6d5a9e1c",
+    "Compiler": "c++",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/NativeWinXCompat/WinXCompat.Immersive.cpp"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-shared",
+      "-std=c++17"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/RouteProof.exe",
+    "OriginalSHA256": "a00a10a183040be68e2700a89c1a051ee5a1053e798b0269358efefd878d99ee",
+    "Compiler": "cc",
+    "Sources": [
+      "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/RouteProof.c"
+    ],
+    "Args": [
+      "-municode",
+      "-O2",
+      "-Wl,--subsystem,windows"
+    ],
+    "Libs": [
+      "-luser32",
+      "-lgdi32",
+      "-ladvapi32",
+      "-lshell32",
+      "-lshlwapi",
+      "-lole32",
+      "-loleaut32",
+      "-luuid",
+      "-lbcrypt",
+      "-lpsapi",
+      "-lcomctl32",
+      "-ldwmapi",
+      "-lversion",
+      "-lapi-ms-win-core-winrt-l1-1-0",
+      "-lapi-ms-win-core-winrt-string-l1-1-0",
+      "-lpropsys",
+      "-lcomdlg32",
+      "-luxtheme",
+      "-lpowrprof",
+      "-lshcore"
+    ]
+  }
+]

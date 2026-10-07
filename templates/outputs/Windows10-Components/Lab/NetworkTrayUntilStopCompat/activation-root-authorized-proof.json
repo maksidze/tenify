@@ -1,0 +1,12 @@
+{
+  "ShellPid": 13968,
+  "ShellBirth": "134356868516488744",
+  "ShellPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+  "ShellHWND": "0x304c4",
+  "EnsurePID": 11576,
+  "EnsureExit": 0,
+  "Stdout": "UntilStop network lifecycle ready PID 5768; visual icon unverified\n",
+  "Stderr": "",
+  "NoUIAutomation": true,
+  "NoIconsOrThemeChanges": true
+}

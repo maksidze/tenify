@@ -1,0 +1,30 @@
+{
+    "PreflightStatus":  "preflight-pass",
+    "PCS":  1,
+    "ConcurrentStatusReads":  467,
+    "LiveShellPreserved":  {
+                               "Path":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+                               "Pid":  13348,
+                               "Birth":  "134357611701249700"
+                           },
+    "Passed":  true,
+    "Preflight":  {
+                      "OwnedJobDrained":  true,
+                      "Version":  1,
+                      "Launcher":  {
+                                       "Path":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                                       "Pid":  708,
+                                       "Birth":  "134357665496965533"
+                                   },
+                      "PreflightBirth":  "134357665509252923",
+                      "StatusSHA256":  "79C1AE519A989BFB7C42225AED6225DE9D15A50DB7D17C660DD86A65E5257642",
+                      "PreflightPid":  8008,
+                      "StatusFile":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\state-direct\\preflight-d01ae4bbe14142d88bc3d2e903ad178f\\status.json"
+                  },
+    "USVFS":  0,
+    "UIActivated":  false,
+    "Directory":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\full-preflight\\3eb93dc4ed8d4a7db42ba70fbed9ebae",
+    "OwnedJobDrained":  true,
+    "StartupState":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\state-direct-launch\\f37ccf15f829438291481d2e1cf7e757\\startup.json",
+    "NoLiveTransition":  true
+}

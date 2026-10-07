@@ -1,0 +1,540 @@
+{
+  "preset": "immersive-compat",
+  "systemFilesBefore": {
+    "explorer.exe": "ca8c0a2a00f1d6f6da076d1d61fa706e82df57ed2b12ae3b3c36f4f73556b2ec",
+    "System32/twinui.pcshell.dll": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "System32/twinui.dll": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f",
+    "System32/twinui.appcore.dll": "507a3bba67ecfdb9980a63bc64fb9b8feee50c6f8a954967e99760adaf04d5cb",
+    "System32/windows.immersiveshell.serviceprovider.dll": "39805e1ea15bd111ee16cee81054fe3cc6ee25df1c3342c46af6595f8405b40c",
+    "System32/Windows.UI.Xaml.dll": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "System32/uDWM.dll": "3ecec64daf3db07f58d726db74f6175e89a17581758eb0226c1be89d91e2da70",
+    "System32/user32.dll": "d01c10963508ffd503ce9c789dfc3eb1dd63340df3899b695e7775ef46edd966",
+    "System32/win32u.dll": "e0eb6d60fb8fa6ab7b86a1eb13680574ab2a6d5c337b2c2bd62240ec2e0c8bac"
+  },
+  "mappings": [
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\twinui.pcshell.dll",
+      "destination": "C:\\Windows\\System32\\twinui.pcshell.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.pcshell.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.pcshell.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.dll",
+      "destination": "C:\\Windows\\System32\\twinui.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.appcore.dll",
+      "destination": "C:\\Windows\\System32\\twinui.appcore.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.appcore.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.appcore.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll",
+      "destination": "C:\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\windows.immersiveshell.serviceprovider.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\windows.immersiveshell.serviceprovider.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.PCShell",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.PCShell",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.Shell",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.Shell",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.ShellCommon",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.ShellCommon",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.ShellCommon.SharedResources",
+      "destination": "C:\\Windows\\SystemResources\\Windows.ShellCommon.SharedResources",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\U32W10.dll",
+      "destination": "C:\\Windows\\System32\\U32W10.dll"
+    }
+  ],
+  "liveShellStopped": false,
+  "registeredPackagesChanged": false,
+  "resourceBootstrap": [
+    {
+      "exception": "0x80000003",
+      "address": "0x7fffebcc25c0"
+    },
+    {
+      "exception": "0x80000003",
+      "address": "0x7fffebcc0e5d"
+    },
+    {
+      "exception": "0xe06d7363",
+      "address": "0x7fffe90366ca"
+    },
+    {
+      "exception": "0xe06d7363",
+      "address": "0x7fffe90366ca"
+    },
+    {
+      "exception": "0x80000003",
+      "address": "0x7ff785494210"
+    },
+    {
+      "pausedAtEntry": "0x7ff785494210",
+      "staticDllInitializationComplete": true
+    },
+    {
+      "loadedHelper": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\FactoryWrapper\\RSCW10.dll",
+      "base": "0x7fffd2ae0000"
+    },
+    {
+      "iatRva": "0x39b948",
+      "original": "0x7fffea2f1f50",
+      "replacement": "0x7fffd2ae1000"
+    },
+    {
+      "debugDetached": false,
+      "primaryResumed": true
+    }
+  ],
+  "created": true,
+  "pid": 716,
+  "exe": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+  "running": false,
+  "exitCode": 255,
+  "modules": [],
+  "windowClasses": [],
+  "systemFilesAfter": {
+    "explorer.exe": "ca8c0a2a00f1d6f6da076d1d61fa706e82df57ed2b12ae3b3c36f4f73556b2ec",
+    "System32/twinui.pcshell.dll": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "System32/twinui.dll": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f",
+    "System32/twinui.appcore.dll": "507a3bba67ecfdb9980a63bc64fb9b8feee50c6f8a954967e99760adaf04d5cb",
+    "System32/windows.immersiveshell.serviceprovider.dll": "39805e1ea15bd111ee16cee81054fe3cc6ee25df1c3342c46af6595f8405b40c",
+    "System32/Windows.UI.Xaml.dll": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "System32/uDWM.dll": "3ecec64daf3db07f58d726db74f6175e89a17581758eb0226c1be89d91e2da70",
+    "System32/user32.dll": "d01c10963508ffd503ce9c789dfc3eb1dd63340df3899b695e7775ef46edd966",
+    "System32/win32u.dll": "e0eb6d60fb8fa6ab7b86a1eb13680574ab2a6d5c337b2c2bd62240ec2e0c8bac"
+  },
+  "systemFilesUnchanged": true,
+  "logs": [],
+  "debugEvents": [
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\base\\mrt\\mrm\\src\\clientprofiles.cpp(1214)\\MrmCoreR.dll!00007FFFDB3D5BE2: (caller: 00007FFFDB3D59EE) ReturnHr(1) tid(1cc0) 80073D54 Процесс не имеет идентификатора пакета.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\taskbarpinning\\lib\\auxiliarypinning.cpp(606)\\explorer.exe!00007FF785455E42: (caller: 00007FF78545636F) Exception(1) tid(3374) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\taskbarpinning\\lib\\auxiliarypinning.cpp(660)\\explorer.exe!00007FF7855C66AF: (caller: 00007FF78545636F) LogHr(1) tid(3374) 80004002 Интерфейс не поддерживается\r\n    Msg:[pcshell\\shell\\taskbarpinning\\lib\\auxiliarypinning.cpp(606)\\explorer.exe!00007FF785455E42: (caller: 00007FF78545636F) Exception(1) tid(3374) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\TrayInit] \n] CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "internal\\shellcommonshell\\inc\\ShellFeeds\\shellfeedsencryptionhelper.h(192)\\explorer.exe!00007FF7854A4512: (caller: 00007FF7854A31E9) ReturnHr(1) tid(3374) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "internal\\shellcommonshell\\inc\\ShellFeeds\\shellfeedsencryptionhelper.h(73)\\explorer.exe!00007FF7854A3206: (caller: 00007FF7854A3B6E) LogHr(2) tid(3374) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "internal\\shellcommonshell\\inc\\ShellFeeds\\shellfeedsencryptionhelper.h(78)\\explorer.exe!00007FF7854A3238: (caller: 00007FF7854A3B6E) LogHr(3) tid(3374) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(71)\\explorer.exe!00007FF785553C8E: (caller: 00007FF78551859E) ReturnHr(2) tid(3374) 80070578 Недопустимый дескриптор окна.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\feedscontent\\feedsdynamiccontentinternal.cpp(915)\\explorer.exe!00007FF7855257ED: (caller: 00007FF785524AFA) LogHr(4) tid(3374) 80004005 Неопознанная ошибка\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(3) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(4) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\feedscontent\\feedsdynamiccontentinternal.cpp(915)\\explorer.exe!00007FF7855257ED: (caller: 00007FF785517B9F) LogHr(5) tid(3374) 80004005 Неопознанная ошибка\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(5) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(6) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\windows\\frameworkudk\\warppal.cpp(783)\\Microsoft.Internal.WarpPal.dll!00007FFFE437EE4C: (caller: 00007FFFE55CBE0E) ReturnHr(1) tid(3374) 80004002 Интерфейс не поддерживается\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(71)\\explorer.exe!00007FF785553C8E: (caller: 00007FF78551859E) ReturnHr(7) tid(3374) 80070578 Недопустимый дескриптор окна.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\feedscontent\\feedsdynamiccontentinternal.cpp(915)\\explorer.exe!00007FF7855257ED: (caller: 00007FF785524AFA) LogHr(6) tid(3374) 80004005 Неопознанная ошибка\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(8) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(9) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\feedscontent\\feedsdynamiccontentinternal.cpp(915)\\explorer.exe!00007FF7855257ED: (caller: 00007FF785517B9F) LogHr(7) tid(3374) 80004005 Неопознанная ошибка\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(10) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(11) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "exception",
+      "code": "0x40080201",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\windows\\frameworkudk\\warppal.cpp(783)\\Microsoft.Internal.WarpPal.dll!00007FFFE437EE4C: (caller: 00007FFFE55CBE0E) ReturnHr(2) tid(3374) 80004002 Интерфейс не поддерживается\r\n"
+    },
+    {
+      "type": "exception",
+      "code": "0x40080201",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\feedscontent\\feedsdynamiccontent.cpp(2405)\\explorer.exe!00007FF7855104F9: (caller: 00007FF7854D1CF1) LogHr(8) tid(2d48) 80070002 Не удается найти указанный файл.\r\n    Msg:[\n\u001d\u00045\u0004 ] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(12) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(13) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(14) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(15) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(16) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(17) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(18) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(19) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(20) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(21) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(22) tid(3374) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(23) tid(3374) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(24) tid(3374) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(25) tid(3374) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\inputswitch\\switch\\ctfhandler.cpp(2646)\\InputSwitch.dll!00007FFFC73075F4: (caller: 00007FFFC731F52F) LogHr(1) tid(eb8) 80004005 Неопознанная ошибка\r\n    CallContext:[\\Startup] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\immersiveshellserviceprovider\\dll\\immersiveshellcontroller.cpp(460)\\windows.immersiveshell.serviceprovider.dll!00007FFF9C4B6B5F: (caller: 00007FFF9C4A3AE4) ReturnHr(1) tid(3374) 800401F6 Невозможно запустить более одной копии приложения одновременно\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\shell32\\unicpp\\wallpaperrenderer.cpp(978)\\SHELL32.dll!00007FFFEB5B350B: (caller: 00007FFFEB4D98A5) LogHr(1) tid(1cc0) 80004005 Неопознанная ошибка\r\n    CallContext:[\\CWallpaperRenderer::Initialize] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\shell32\\unicpp\\wallpaperrenderer.cpp(2122)\\SHELL32.dll!00007FFFEB4D98C8: (caller: 00007FFFEB4D9665) LogHr(2) tid(1cc0) 80004005 Неопознанная ошибка\r\n    CallContext:[\\CWallpaperRenderer::Initialize] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecore\\base\\appmodel\\runtime\\src\\lookup.cpp(218)\\kernelbase.dll!00007FFFE8FD2A52: (caller: 00007FFFE907DA39) ReturnHr(1) tid(4f4) 8007007A Область данных, переданная по системному вызову, слишком мала.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\windows\\frameworkudk\\warppal.cpp(783)\\Microsoft.Internal.WarpPal.dll!00007FFFE437EE4C: (caller: 00007FFFE55CBE0E) ReturnHr(3) tid(1e20) 80004002 Интерфейс не поддерживается\r\n"
+    },
+    {
+      "type": "exception",
+      "code": "0x40080201",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\inputswitch\\switch\\ctfhandler.cpp(2646)\\InputSwitch.dll!00007FFFC73075F4: (caller: 00007FFFC731F52F) LogHr(2) tid(2994) 80004005 Неопознанная ошибка\r\n    CallContext:[\\Startup] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\shell\\twinui\\activation\\lib\\applicationactivationmanagerproxy.cpp(491)\\twinui.appcore.dll!00007FFFC78AEFB5: (caller: 00007FF7857548B3) ReturnHr(1) tid(4f4) 80004002 Интерфейс не поддерживается\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\twinui\\experiencemanagers\\corelib\\experienceactivationhelpers.cpp(36)\\explorer.exe!00007FF7857548D2: (caller: 00007FF78575445B) ReturnHr(26) tid(4f4) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\twinui\\experiencemanagers\\corelib\\experienceactivationhelpers.cpp(54)\\explorer.exe!00007FF78575447A: (caller: 00007FF785753D79) ReturnHr(27) tid(4f4) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\twinui\\experiencemanagers\\corelib\\experienceactivationhelpers.cpp(168)\\explorer.exe!00007FF785753D97: (caller: 00007FF785754371) ReturnHr(28) tid(4f4) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\cloudexperiencehostappmanager\\appmanager.cpp(499)\\explorer.exe!00007FF785752D16: (caller: 00007FF785752092) ReturnHr(29) tid(4f4) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\cloudexperiencehostappmanager\\appmanager.cpp(397)\\explorer.exe!00007FF7857520B1: (caller: 00007FF785464215) LogHr(9) tid(4f4) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(3955)\\explorer.exe!00007FF785464233: (caller: 00007FF785430157) ReturnHr(30) tid(4f4) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "clientcore\\windows\\dwm\\dwmapi\\composition.cpp(451)\\dwmapi.dll!00007FFFE635128C: (caller: 00007FFFEB5959D5) ReturnNt(1) tid(1e20) C0000022 {Отказано в доступе}\r\nПроцесс запросил доступ к объекту, но права на доступ не предоставлены.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\shell32\\unicpp\\wallpaper2.cpp(536)\\SHELL32.dll!00007FFFEB5959F6: (caller: 00007FFFEB87FBFA) LogHr(3) tid(1e20) 80070005 Отказано в доступе.\r\n    CallContext:[\\ProcessBatch] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(4144)\\explorer.exe!00007FF785575A85: (caller: 00007FF785573FBF) LogHr(10) tid(4f4) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(4146)\\explorer.exe!00007FF785575AEF: (caller: 00007FF785573FBF) LogHr(11) tid(4f4) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(4147)\\explorer.exe!00007FF785575B24: (caller: 00007FF785573FBF) LogHr(12) tid(4f4) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\AllLogonTasks\\LogonPhase\\LogonTask_Critical] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(7535)\\explorer.exe!00007FF78545B63B: (caller: 00007FF785486824) LogHr(13) tid(4f4) 8007054F Внутренняя ошибка.\r\n    CallContext:[\\AllLogonTasks\\RunBeforePostStartTasks\\RunBeforePostStartTasks_Critical] \n"
+    },
+    {
+      "type": "exception",
+      "code": "0x80040155",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(3409)\\explorer.exe!00007FF7855EC508: (caller: 00007FF785487C1C) ReturnHr(31) tid(1d14) 80040155 Интерфейс не зарегистрирован\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(6212)\\explorer.exe!00007FF785615593: (caller: 00007FF785430157) LogHr(14) tid(1d14) 80040155 Интерфейс не зарегистрирован\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\cloudrestorelauncher\\dll\\dll.cpp(169)\\CloudRestoreLauncher.dll!00007FFFC24B8295: (caller: 00007FFFEA477245) Exception(1) tid(247c) 80040111 Требуемый класс отсутствует в ClassFactory\r\n"
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\cloudrestorelauncher\\dll\\dll.cpp(171)\\CloudRestoreLauncher.dll!00007FFFC25A70B7: (caller: 00007FFFEA477245) ReturnHr(1) tid(247c) 80040111 Требуемый класс отсутствует в ClassFactory\r\n    Msg:[pcshell\\shell\\cloudrestorelauncher\\dll\\dll.cpp(169)\\CloudRestoreLauncher.dll!00007FFFC24B8295: (caller: 00007FFFEA477245) Exception(1) tid(247c) 80040111 Требуемый класс отсутствует в ClassFactory\r\n] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecore\\internal\\sdk\\inc\\wil\\opensource\\wil\\result_macros.h(5495)\\explorer.exe!00007FF78556E4D4: (caller: 00007FF78559A76A) Exception(2) tid(247c) 80040111 Требуемый класс отсутствует в ClassFactory\r\n"
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "shell\\lib\\logontasks\\logontasks.cpp(6300)\\explorer.exe!00007FF78559A7E8: (caller: 00007FF785430157) LogHr(15) tid(247c) 80040111 Требуемый класс отсутствует в ClassFactory\r\n    Msg:[onecore\\internal\\sdk\\inc\\wil\\opensource\\wil\\result_macros.h(5495)\\explorer.exe!00007FF78556E4D4: (caller: 00007FF78559A76A) Exception(2) tid(247c) 80040111 Требуемый класс отсутствует в ClassFactory\r\n] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\inputswitch\\switch\\ctfhandler.cpp(2646)\\InputSwitch.dll!00007FFFC73075F4: (caller: 00007FFFC731F52F) LogHr(3) tid(3374) 80004005 Неопознанная ошибка\r\n    CallContext:[\\Startup] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\shell\\ext\\thumbnailcache\\lib\\thumbcacheapi.cpp(307)\\thumbcache.dll!00007FFFC8B902D4: (caller: 00007FFFE6B3B765) ReturnHr(1) tid(3fc) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "mincore\\com\\oleaut32\\dispatch\\ups.cpp(2126)\\OLEAUT32.dll!00007FFFEB1EECCD: (caller: 00007FFFEB1EF352) ReturnHr(1) tid(2f3c) 8002801D Библиотека не зарегистрирована.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\shellexperiencehelpers.cpp(14)\\explorer.exe!00007FF785622336: (caller: 00007FF7854E10FB) ReturnHr(32) tid(2d48) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\meetnowtrayitem.cpp(60)\\explorer.exe!00007FF7854E111B: (caller: 00007FFFEAA2AB76) ReturnHr(33) tid(2d48) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\traynotificationcenterbutton.cpp(910)\\explorer.exe!00007FF78560F084: (caller: 00007FFFEAA72B2F) ReturnHr(34) tid(3374) 80070490 Элемент не найден.\r\n    CallContext:[\\CreateAppIdentityResolver\\InitializeNotificationButtonExperience] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\base\\mrt\\mrm\\src\\clientprofiles.cpp(1214)\\MrmCoreR.dll!00007FFFDB3D5BE2: (caller: 00007FFFDB3D6772) ReturnHr(2) tid(3374) 80073D54 Процесс не имеет идентификатора пакета.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\base\\mrt\\mrm\\src\\clientprofiles.cpp(1214)\\MrmCoreR.dll!00007FFFDB3D5BE2: (caller: 00007FFFDB3D59EE) ReturnHr(3) tid(3374) 80073D54 Процесс не имеет идентификатора пакета.\r\n"
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "[ResourceCompat] GetForSystemProfile manager LoadPriFileForSystemUse old ShellCommon S_OK\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(182)\\explorer.exe!00007FF78555319A: (caller: 00007FF7855537CB) ReturnHr(35) tid(3374) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(370)\\explorer.exe!00007FF785553823: (caller: 00007FF78551C1C7) ReturnHr(36) tid(3374) 80070490 Элемент не найден.\r\n"
+    },
+    {
+      "type": "exception",
+      "code": "0xc0000005",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xc0000005",
+      "firstChance": false
+    },
+    {
+      "type": "exit",
+      "code": 255
+    }
+  ]
+}

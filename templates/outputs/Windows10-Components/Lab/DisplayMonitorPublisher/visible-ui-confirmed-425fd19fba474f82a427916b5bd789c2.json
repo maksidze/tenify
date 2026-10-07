@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-05",
+  "explorerPid": 10488,
+  "explorerBirthFileTime": "134356712551859316",
+  "explorerRun": "3686bba15ab24dbc80884fead8247eac",
+  "profile": "host-dcomp-resource with XamlQuirk and InputSwitchCompat",
+  "publisherReport": "publisher-425fd19fba474f82a427916b5bd789c2.log",
+  "initialTrialSeconds": 90,
+  "factoryHRESULT": "00000000",
+  "serverHRESULT": "00000000",
+  "nativeClients": {
+    "STACompletedMs": 63,
+    "MTAFirstCompletedMs": 78,
+    "displayXYWH": [0, 0, 1718, 928],
+    "dynamicAndStaticWorkXYWH": [0, 0, 1718, 888],
+    "allComparedWithGetMonitorInfo": true,
+    "guardCanariesIntact": true
+  },
+  "userConfirmedTaskViewButton": "Да, появился",
+  "userConfirmedWinTab": "Win+tab тоже заработал",
+  "visibleUIVerifiedByUser": true,
+  "interfaceStyle": "Current hybrid profile uses Windows 11 multitasking implementation with Windows 10 Explorer/taskbar; exact Windows 10 Task View is a separate unfinished legacy profile.",
+  "systemFilesChanged": false
+}

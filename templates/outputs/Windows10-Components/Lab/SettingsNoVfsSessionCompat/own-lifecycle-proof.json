@@ -1,0 +1,17 @@
+{
+  "NoUserUI": true,
+  "ActualSEH": false,
+  "NoRegistration": true,
+  "NoVFS": true,
+  "Checks": {
+    "wrong_birth": true,
+    "wrong_package": true,
+    "wrong_thread": true,
+    "expired_owner": true,
+    "cancel": true,
+    "terminal_restored": true,
+    "success": true,
+    "partial_failure": true
+  },
+  "Passed": true
+}

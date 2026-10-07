@@ -1,0 +1,18 @@
+[
+  {
+    "mode": "native",
+    "pid": 4024,
+    "exitCode": 0,
+    "timedOut": false,
+    "noSettingsActivation": true,
+    "noSetters": true
+  },
+  {
+    "mode": "old",
+    "pid": 6524,
+    "exitCode": 0,
+    "timedOut": false,
+    "noSettingsActivation": true,
+    "noSetters": true
+  }
+]

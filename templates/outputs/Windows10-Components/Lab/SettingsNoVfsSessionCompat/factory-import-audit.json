@@ -1,0 +1,182 @@
+[
+  {
+    "Path": "C:\\Windows\\System32\\SystemSettings.DataModel.dll",
+    "SHA256": "f07bdc1334562d4ae3d5265e96cf44b8bfbde8388fd71e76cb698cc475703fbb",
+    "Imports": [
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "RVA": "0xb9eb0"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "RVA": "0xb9eb8"
+      },
+      {
+        "Kind": "Delay",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoGetActivationFactory",
+        "RVA": "0x103120"
+      },
+      {
+        "Kind": "Delay",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoActivateInstance",
+        "RVA": "0x103128"
+      }
+    ]
+  },
+  {
+    "Path": "C:\\Windows\\System32\\Windows.UI.Xaml.dll",
+    "SHA256": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "Imports": [
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "RVA": "0xe80830"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "RVA": "0xe80838"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-1.dll",
+        "Name": "LoadLibraryW",
+        "RVA": "0xe80890"
+      },
+      {
+        "Kind": "Delay",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoActivateInstance",
+        "RVA": "0x105e438"
+      },
+      {
+        "Kind": "Delay",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoGetActivationFactory",
+        "RVA": "0x105e448"
+      }
+    ]
+  },
+  {
+    "Path": "C:\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll",
+    "SHA256": "5aa25d1b1bf54d25539f6d0dd9ce35db373b7a58cc6e2edc1de39cb458217972",
+    "Imports": [
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "RVA": "0x179210"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "RVA": "0x179228"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoGetActivationFactory",
+        "RVA": "0x1795b8"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "wincorlib.DLL",
+        "Name": "?GetActivationFactoryByPCWSTR@@YAJPEAXAEAVGuid@Platform@@PEAPEAX@Z",
+        "RVA": "0x179fe0"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "wincorlib.DLL",
+        "Name": "?GetActivationFactory@Details@Platform@@YAJPEAVModuleBase@1WRL@Microsoft@@PEAUHSTRING__@@PEAPEAUIActivationFactory@@@Z",
+        "RVA": "0x17a030"
+      }
+    ]
+  },
+  {
+    "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.dll",
+    "SHA256": "ac0ed6871e27b600e338efe8cc56d28410a83b1e5ec4555670eb1ef3ff0f8d45",
+    "Imports": [
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "RVA": "0x46d270"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "RVA": "0x46d290"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-1.dll",
+        "Name": "LoadLibraryW",
+        "RVA": "0x46d2d0"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoActivateInstance",
+        "RVA": "0x46d648"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoGetActivationFactory",
+        "RVA": "0x46d650"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "wincorlib.DLL",
+        "Name": "?GetActivationFactoryByPCWSTR@@YAJPEAXAEAVGuid@Platform@@PEAPEAX@Z",
+        "RVA": "0x46df98"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "wincorlib.DLL",
+        "Name": "?GetActivationFactory@Details@Platform@@YAJPEAVModuleBase@1WRL@Microsoft@@PEAUHSTRING__@@PEAPEAUIActivationFactory@@@Z",
+        "RVA": "0x46e108"
+      }
+    ]
+  },
+  {
+    "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll",
+    "SHA256": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1",
+    "Imports": [
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-winrt-l1-1-0.dll",
+        "Name": "RoGetActivationFactory",
+        "RVA": "0x83350"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "RVA": "0x830c8"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "wincorlib.DLL",
+        "Name": "?GetActivationFactoryByPCWSTR@@YAJPEAXAEAVGuid@Platform@@PEAPEAX@Z",
+        "RVA": "0x83910"
+      },
+      {
+        "Kind": "Regular",
+        "DLL": "wincorlib.DLL",
+        "Name": "?GetActivationFactory@Details@Platform@@YAJPEAVModuleBase@1WRL@Microsoft@@PEAUHSTRING__@@PEAPEAUIActivationFactory@@@Z",
+        "RVA": "0x83938"
+      }
+    ]
+  }
+]

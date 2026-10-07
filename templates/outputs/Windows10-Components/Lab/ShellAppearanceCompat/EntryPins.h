@@ -1,0 +1,7 @@
+#define ENTRY_TARGET_PATH L"C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe"
+#define ENTRY_TARGET_SHA "f14f1c63b97d903742bfd5895b867f72e36d81e795a9b157ea708f63cd1659a7"
+#define ENTRY_BROKER_SHA "dbf90b115cfc26b5a59dd5bf9c20d94a11ffe9d2f979831ebf7cf496eeecbd0e"
+#define ENTRY_PACKAGE L"Microsoft.Windows.ShellExperienceHost_10.0.26100.5074_neutral_neutral_cw5n1h2txyewy"
+#define ENTRY_FIXTURE_PATH L"@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ShellAppearanceCompat\\Fixture.exe"
+#define ENTRY_FIXTURE_BROKER_PATH L"@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ShellAppearanceCompat\\FixtureBroker.exe"
+#define ENTRY_FIXTURE_SHA "81f9f1b58e4a31a510f468b672d92d70b0fae9d41c056ee536604f8a80367dc5"

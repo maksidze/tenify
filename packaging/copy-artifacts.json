@@ -1,0 +1,698 @@
+[
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/ClockFlyoutExperience/Assets/Fonts/CoreMDL2.1.69.ttf",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/ClockFlyoutExperience/Assets/Fonts/CoreMDL2.1.69.ttf",
+    "SHA256": "abdb69f91023df21bf7f3f0b843d13d60f2dbf1abc9e6ab03a4c827dce4d322b"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/DevicesFlowUI/Fonts/MiraMDL2.ttf",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/DevicesFlowUI/Fonts/MiraMDL2.ttf",
+    "SHA256": "7a3130f52cff241b47ccd5c1a93d33a74332d58e1da220998a0a1f225db41af3"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-100.png",
+    "SHA256": "238dc856b5b3532020d20f77a5d643dde30b4a392876248282344297e1e6c503"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-100_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-100_contrast-black.png",
+    "SHA256": "d1410f5118a9b6c75239266fccda319fc69ffcb5ff18e4fc9505ba9e73ed999a"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-100_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-100_contrast-white.png",
+    "SHA256": "8a57e5c29fea43431f439feff31481da09fb29dc167adcbdac2a7711b02011cb"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-125.png",
+    "SHA256": "c0085fa30ed0331b8fb021e044344853b057847d0514fdc5900effa7f7f8d078"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-125_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-125_contrast-black.png",
+    "SHA256": "e69ad31f83f66796587830df23c2ca5e33e9414ae96977cd0c4e994c2a90a0ab"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-125_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-125_contrast-white.png",
+    "SHA256": "f1f8b5a3cbe9dc9c28b5926c8e7947010a3a131340b4aac272b5a4fc284ef89e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-150.png",
+    "SHA256": "a30d4a2de0d5ab54716a2e2543fdc6e2ef2657d638f86e53858807fa6419959c"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-150_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-150_contrast-black.png",
+    "SHA256": "8000d7bf6101f73f10a0c02c1e6d1b3239ffab33bbe9a140f20d4d3fdb57a63b"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-150_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-150_contrast-white.png",
+    "SHA256": "2bb010d756876db2ecac89a31dece5c63f5ade33a78b79b3154a0ecf27baf099"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-200.png",
+    "SHA256": "e4ee76f91c7effdc74514f7ce51b127eccdb9360f60487d32540b11704ed5b0c"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-200_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-200_contrast-black.png",
+    "SHA256": "dad5759395f5510d16eb77a015c5b8b490053f0cfad0ba91d3dcda901f0a5ca4"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-200_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-200_contrast-white.png",
+    "SHA256": "435659ca9e775de17523e67aee8ec31e06f5812c086527bb296a545c347c21f2"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-400.png",
+    "SHA256": "3348b33c114ce43b8b2c5c670fc3ff6229b110c55a59650b377019545853d13c"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-400_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-400_contrast-black.png",
+    "SHA256": "46a7efeb69289ecdc5698dedde7ac8c09856613377b2c4cb21f47182962c9808"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/CellularToast.scale-400_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-400_contrast-white.png",
+    "SHA256": "333a9432bce5bdc5657906a590bc17c797d074257854015d2fe66055496994b3"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-black_scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-100.png",
+    "SHA256": "a56c02ff9295648022186346f6a4145a2456906635a9a6e1b30ccb5d878b06f6"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-black_scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-125.png",
+    "SHA256": "eb730a67be4050ca5db114998ade88290a1f1496c2f0ea1676c3fd34c211e44d"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-black_scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-150.png",
+    "SHA256": "19938351b9bb32997e8068e015c9daaa9299a752fded044c07a64eb4f0106145"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-black_scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-200.png",
+    "SHA256": "91121a651886ccb3a210ee8a1a3f82e6105858eae930f8968ac8d01c523aeb32"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-black_scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-400.png",
+    "SHA256": "8318d807a5c9b666d7df5d57b605d50987f2ebd3d4b94f66b9fc0375fe240fe3"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-100.png",
+    "SHA256": "4487d928bd660c55668639e625ffa941dfd41122252192bbee8ca7ab44dbca99"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-125.png",
+    "SHA256": "4d678bb72c1d824786c84efbc434762c7a26574a4bcaa2e0bac61ac6cc1d578a"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-150.png",
+    "SHA256": "c581f9c6286599c2c3a4dd81e0a72ae3b837ef2c30416266bea7bb07ce267f2d"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-200.png",
+    "SHA256": "8587788e2728425949c02725937b803b320b6be141a5baa8e0606da59b650020"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-400.png",
+    "SHA256": "a8f9d24d119c0affdd7378f118b5fdc716e770a581ab34cace26ad6f4cdd9e17"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-100.png",
+    "SHA256": "a56c02ff9295648022186346f6a4145a2456906635a9a6e1b30ccb5d878b06f6"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-125.png",
+    "SHA256": "eb730a67be4050ca5db114998ade88290a1f1496c2f0ea1676c3fd34c211e44d"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-150.png",
+    "SHA256": "19938351b9bb32997e8068e015c9daaa9299a752fded044c07a64eb4f0106145"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-200.png",
+    "SHA256": "91121a651886ccb3a210ee8a1a3f82e6105858eae930f8968ac8d01c523aeb32"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.scale-400.png",
+    "SHA256": "8318d807a5c9b666d7df5d57b605d50987f2ebd3d4b94f66b9fc0375fe240fe3"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-black_scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-100.png",
+    "SHA256": "193c06d609cb5e158844d3164e34823e70fd6f2c7d1ee6be73f9039ec949f788"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-black_scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-125.png",
+    "SHA256": "601ff0580e17f7f52e6077f4175e9df5723f509f50d608a4280e89a6c32d02cb"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-black_scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-150.png",
+    "SHA256": "626c8bd68cdbf348f0b122f50b2bb7204d2689b81a5a022642d4007885208418"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-black_scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-200.png",
+    "SHA256": "68cff2552ff71bb6e4495128e99fa9ea6787d089c99db760b33087548c0dfac4"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-black_scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-400.png",
+    "SHA256": "a6510c2c8ecc0e0a3e1a24f3630eebb1ad722e4793e3cf61e04ac949885cf2a1"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-100.png",
+    "SHA256": "b2d63de7a3483d67c65d73f0e686baebf6ad3897b5079ddb4f26e1a71b913d39"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-125.png",
+    "SHA256": "614e28f164fee8e079b60e7ab2d51aea85809040bad692799b940122e0232ae0"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-150.png",
+    "SHA256": "dc5e37f0cb9993c47c9eece6b2c2332fa2580c9a8b8ee82f62c2066b49537a44"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-200.png",
+    "SHA256": "1acfc77ad67117a66007d69cad727ed98366c38e0c31dfc59d3d59cc3dfd2298"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-400.png",
+    "SHA256": "83c1c3fb6adc74d14c55ece0bf76224f7232ddd7949ace25ebac8f3f33e0c8aa"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-100.png",
+    "SHA256": "193c06d609cb5e158844d3164e34823e70fd6f2c7d1ee6be73f9039ec949f788"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-125.png",
+    "SHA256": "601ff0580e17f7f52e6077f4175e9df5723f509f50d608a4280e89a6c32d02cb"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-150.png",
+    "SHA256": "626c8bd68cdbf348f0b122f50b2bb7204d2689b81a5a022642d4007885208418"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-200.png",
+    "SHA256": "68cff2552ff71bb6e4495128e99fa9ea6787d089c99db760b33087548c0dfac4"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/NearShare.scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.scale-400.png",
+    "SHA256": "a6510c2c8ecc0e0a3e1a24f3630eebb1ad722e4793e3cf61e04ac949885cf2a1"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/RibbonToast.scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/RibbonToast.scale-100.png",
+    "SHA256": "e6e258b7702a523ed4c87644cb2134967f08f2d5dc771f268cdb2745384967ba"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/RibbonToast.scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/RibbonToast.scale-125.png",
+    "SHA256": "dd156a34c9d71008000dabb651fb474552936778bfba057d7432c28577f6c620"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/RibbonToast.scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/RibbonToast.scale-150.png",
+    "SHA256": "7773cb0695c82a154b74ceb9f811afc32174c69ae0510cc73b9f2a016035b5c9"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/RibbonToast.scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/RibbonToast.scale-200.png",
+    "SHA256": "40888f10bbb35b291797ac2524900c08e1646977dc43eaea80ebeedb5c21253e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/RibbonToast.scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/RibbonToast.scale-400.png",
+    "SHA256": "fd0b3fb6a0395ff13460b4f7be42932fe4b1eb23f19aa1a34fc9320f9a92a702"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-100.png",
+    "SHA256": "d6c747d548b0d96e202f8d27c51f5593a649da7aaad2c430ef888da77ad67229"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-100_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-100_contrast-black.png",
+    "SHA256": "f787d04b441cb0a5c247e56fdf62b6c1480d5e517979b56978ae3f43d3efe315"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-100_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-100_contrast-white.png",
+    "SHA256": "b634c227219a88d31493466030573e0142a93ee05ab46c36b51a374151251a33"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-125.png",
+    "SHA256": "17f186458735e0403437c25bd46b2b38a6db510a3940ec97d37bbe1c8d3c569f"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-125_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-125_contrast-black.png",
+    "SHA256": "920a7226c04803107c32002f9fde8f7a9a414b58644d7ef229626d3b60ff0c15"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-125_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-125_contrast-white.png",
+    "SHA256": "23ef35dec268aeabcb20efd370387123d5bcd7369d13dfb7757aa6ed2c9e137e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-150.png",
+    "SHA256": "a51a017c9f993a2ed4e664a38aee8a76a8d93747d79ee698b86b6443f8549f0c"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-150_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-150_contrast-black.png",
+    "SHA256": "052e5c16cd64c2de4d9762232944a04d3488f629188b05f5845c2014bd2d1eb8"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-150_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-150_contrast-white.png",
+    "SHA256": "25d92dc68f9ff2683e65b5ac7119cbdc320104dca76245652f8b5c1b994547b4"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-200.png",
+    "SHA256": "bf1b8e9e9162748737477d85d9130a9c43f077c0440285b7eedcf8c972e56a2a"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-200_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-200_contrast-black.png",
+    "SHA256": "2fc3bdea98b70cd5fbd1de5acb62080501faf46efc699bb7eccf85f42b7fb9b5"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-200_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-200_contrast-white.png",
+    "SHA256": "54cfc0f21d2b601621fb445caa088c412736e8e395977ccf0a13e3f49c2a65ed"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-400.png",
+    "SHA256": "1f53a6a20cfb12e5de972b58505519473f0d4b3be6a00ec7da3788a4e7ffc235"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-400_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-400_contrast-black.png",
+    "SHA256": "5e6a3d8d08375ee3af12524304cc32a3ee6eba0bdc780e4730f91831ccd9e9f4"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-400_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-400_contrast-white.png",
+    "SHA256": "1431b8c6871f9f04cfbdc87644869efa6d7f416a847790cae27bb48e663b39ba"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-100.png",
+    "SHA256": "05fe90484e69ceac7261363ed192becd69ebc737117eb4f7b3b1b612f80beef2"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-100_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-100_contrast-black.png",
+    "SHA256": "05dbbc8d5dd8599ab18193585e96fb79e72c0c0d70aa409866cc3f8c3a7c7552"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-100_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-100_contrast-white.png",
+    "SHA256": "480fb8325345ef51736d895fb93fb0d58c20e92a6bbc28fcb4744484f9d30397"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-125.png",
+    "SHA256": "701152097f051365c2acc57950ecd0abb2962b172ffbe50d32d98b9edde0c2f9"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-125_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-125_contrast-black.png",
+    "SHA256": "f30fbf0973d16ecae5df0481a26675bd306fdff3f616eda263c2f544cc256967"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-125_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-125_contrast-white.png",
+    "SHA256": "2c4e687359afec270d824d3bb93bb24df0ac3a2dcf455fcb949ee21c9b8a0659"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-150.png",
+    "SHA256": "891ea18b9549c2ce0c25d5984a0edee4bd2e7f9cffcb567b5db2e07279d8a88b"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-150_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-150_contrast-black.png",
+    "SHA256": "8ed48d026cdf4c8a710735baad294402661e5f7f3a996a60510c64a4384e0272"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-150_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-150_contrast-white.png",
+    "SHA256": "174e6dde3fede91a8f83d37a8dad78b401e4c803cf458b4cbefa363e5101a37d"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-200.png",
+    "SHA256": "c0da9fdac624e124c7748bfd40bb6958efbdc8d417e55668bd22d1a42cd9edbc"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-200_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-200_contrast-black.png",
+    "SHA256": "3906eb6f07cd34f56ce92617cc0f71fa976869a4979d106e9771a7d4fee60fa6"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-200_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-200_contrast-white.png",
+    "SHA256": "374d100a95b5e73b81726c586643a3d368713a982e14ab25e5fb8ac012ce4821"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-400.png",
+    "SHA256": "bf75828054494aa22dd1a17fa2dff64e54621ff490c3255e3350f711256cf766"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-400_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-400_contrast-black.png",
+    "SHA256": "66d02057f193d274f0904172d6c486aa0a728ba62a4af908f9af451db21e6640"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-400_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-400_contrast-white.png",
+    "SHA256": "5068e566b8efe6fb9eb47991ea99e8da5136f40476d941f987146b6f5c3d947b"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-100.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-100.png",
+    "SHA256": "636b4e2f9efc1913e99992dcdbe6df6bdabb0ceabb413d4cc79058e3c611c3d7"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-100_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-100_contrast-black.png",
+    "SHA256": "e4bc63e2efcdd2b8ada70c622d983df4318efef87ea4310290082ec6adb4a584"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-100_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-100_contrast-white.png",
+    "SHA256": "0942e3536de755a1505c5afb0a1a4094bf128b70bcf938990970ba2aa52e403b"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-125.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-125.png",
+    "SHA256": "b2f8bc4e20aba51cb02e3e345546973e0ffd1c1c5befa1042b26fd90218c5adb"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-125_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-125_contrast-black.png",
+    "SHA256": "ac035c0e70373171923deeed6b8db7e35306d48f4c6e869babdb546b71508ab3"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-125_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-125_contrast-white.png",
+    "SHA256": "74633d6ab284d758d880a91924a932955a693d819b8b00c5ca094abd73050bfa"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-150.png",
+    "SHA256": "df1b915cf676ae6d843462a249effe75fb40a58d66727f4eacd411df63d486a6"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-150_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-150_contrast-black.png",
+    "SHA256": "873538f9bb968f6174a107a0f15cf8dc40cc83b166aa62d4a917de59a3b41ffc"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-150_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-150_contrast-white.png",
+    "SHA256": "020ea7eee9f672852e6c184a06fa6f0216818c7495ca4d015e527cd67c7d1864"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-200.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-200.png",
+    "SHA256": "ef3da4ce237fb42e752bab88dae61a7c99e9462b35dbd12484e4057a68400489"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-200_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-200_contrast-black.png",
+    "SHA256": "f09fb3ab6f1b5dc77625d55c2f72361ceeb01caa4ff88d425911c7c5809b1cc4"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-200_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-200_contrast-white.png",
+    "SHA256": "30d648a0204167bc2d6b7a7dea54725bb452f5ea63cc184fc1c589ad03301159"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-400.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-400.png",
+    "SHA256": "fdb13166b7730f926d13005334208da46562c7635896613325856a28493d5269"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-400_contrast-black.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-400_contrast-black.png",
+    "SHA256": "fd286fb97ef5fafa718365cc9543033e3f6cd4b777f518b359af5bfdd5668a4b"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-400_contrast-white.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerWarningToast.scale-400_contrast-white.png",
+    "SHA256": "967acd0ce214bd8a4a6dae654fe9acb3ca13063b361de9c4bb5b89c78f5a3d9a"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/NetworkUX/Assets/Fonts/SetMDL2.ttf",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/NetworkUX/Assets/Fonts/SetMDL2.ttf",
+    "SHA256": "4ae7d0ba41ce608596a5005349058ceae631521afa4c22e8e6c1e7ceae17d918"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/pris/Windows.UI.ShellCommon.ru-RU.pri",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/pris/Windows.UI.ShellCommon.ru-RU.pri",
+    "SHA256": "5ef3a139aff6f011c4a9db92b2221f8221b38a9aa892734cf24bc813ac07a818"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/SharePickerUI/Assets/Fonts/SharMDL2.ttf",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/SharePickerUI/Assets/Fonts/SharMDL2.ttf",
+    "SHA256": "71f764319de451b9b2f9b7ec839a339926cfed17b6012b85eebba8d27436d38d"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/StartUI/Assets/Fonts/BitMDL2.ttf",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/StartUI/Assets/Fonts/BitMDL2.ttf",
+    "SHA256": "54c6d49b8f5b28abb78b35c21e39f3c40997450d462246599bdde44782ac754e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/StartUI/Assets/Fonts/SkypeUISymbol-Regular.ttf",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/StartUI/Assets/Fonts/SkypeUISymbol-Regular.ttf",
+    "SHA256": "991b0f2e9c2cde7e2f78e79ce31ebf5bd7bcff085fc7ca120b787556a6abd30d"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/StartUI/Assets/officehub150x150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/StartUI/Assets/officehub150x150.png",
+    "SHA256": "b0134c30f2f35b00e050262005ff4ee0663498688572eded15433c8a8cbabb5e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/StartUI/Assets/officehub71x71.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/StartUI/Assets/officehub71x71.png",
+    "SHA256": "50d38cc6013b17ca7eaaace84eb9df59652aea1e7b9b8cf6f8ac1f0274b261b8"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/StartUI/Assets/onenote150x150.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/StartUI/Assets/onenote150x150.png",
+    "SHA256": "ee0f4170b7841a3be39c0b3bee0d51384a98a1caf3c825132eda43030784e84c"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/StartUI/Assets/onenote71x71.png",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/StartUI/Assets/onenote71x71.png",
+    "SHA256": "0d90405d6f77ede77d6875fc635ea061aec5599af5d6b99c48413c84f8b6464e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/Resources/Windows.UI.ShellCommon/Windows.UI.ShellCommon.pri",
+    "Kind": "media",
+    "Source": "Windows/SystemResources/Windows.UI.ShellCommon/Windows.UI.ShellCommon.pri",
+    "SHA256": "534eea454c56aa38ebed18ed7b5d1c249dd5d9bca1c80f18cdb51638e80f4e4b"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/StartUI_.dll",
+    "Kind": "media",
+    "Source": "Windows/SystemApps/Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy/StartUI.dll",
+    "SHA256": "059ad8a1b3d1b60c1ea14bd738856c2daec64c6af77e59115ca2439d82255736"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/StartCompat/WinCorHost.dll",
+    "Kind": "host",
+    "Source": "System32/wincorlib.dll",
+    "SHA256": "85a8c1ee47b82461454b3b2ffc3948aafb02931b2b0076a9e53f60dff381a486"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Runtime/Explorer10/explorer.exe",
+    "Kind": "media",
+    "Source": "Windows/explorer.exe",
+    "SHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayCompat/pnidui.dll",
+    "Kind": "media",
+    "Source": "Windows/System32/pnidui.dll",
+    "SHA256": "0886ced0200c7fd56a0444acf550c3e1ccae546681b1be610fa645ec18a3e1db"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Extracted/4/Windows/System32/pnidui.dll",
+    "Kind": "media",
+    "Source": "Windows/System32/pnidui.dll",
+    "SHA256": "0886ced0200c7fd56a0444acf550c3e1ccae546681b1be610fa645ec18a3e1db"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayCompat/ru-RU/pnidui.dll.mui",
+    "Kind": "media",
+    "Source": "Windows/System32/ru-RU/pnidui.dll.mui",
+    "SHA256": "3fb2f3fe4df0e8ec7c0450ac0686be353ca1732b4f93ebafd3a05d51ad3e1a3e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Extracted/4/Windows/System32/ru-RU/pnidui.dll.mui",
+    "Kind": "media",
+    "Source": "Windows/System32/ru-RU/pnidui.dll.mui",
+    "SHA256": "3fb2f3fe4df0e8ec7c0450ac0686be353ca1732b4f93ebafd3a05d51ad3e1a3e"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Runtime/Explorer10/ru-RU/explorer.exe.mui",
+    "Kind": "media",
+    "Source": "Windows/ru-RU/explorer.exe.mui",
+    "SHA256": "93e4495c0b3c8d497210a88c15e2ea732be7801016116e746a6a02d2746e4809"
+  },
+  {
+    "Output": "outputs/Windows10-Components/Lab/SettingsDynamicTextCompat/IsolatedOld/SettingsEnvironment.Desktop.dll",
+    "Kind": "media",
+    "Source": "Windows/System32/SettingsEnvironment.Desktop.dll",
+    "SHA256": "49fbf0c1d93064813895c88da75efbaee2054394b1c1ee32612f51e712c01a4b"
+  }
+]

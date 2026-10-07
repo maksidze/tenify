@@ -1,0 +1,17 @@
+{
+  "scope": "Own non-UI process only, genuine old/native predicates; own VM lambda install/readback/restore; no live Settings",
+  "pid": 8220,
+  "image": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsApplicabilityProbe.exe",
+  "creationFlags": "CREATE_NO_WINDOW",
+  "timedOut": false,
+  "exitCode": 0,
+  "files": {
+    "SettingsCaptionCompat.c": "ebe8ef12907071d8a3733af961f370514e32d868befa9736697c6a8a32375add",
+    "SettingsCaptionCompat.dll": "1db421eab2d8272b4d708ac1d305a54bf9c79716ff5fe0035579b3b4e6ea8ab8",
+    "SettingsApplicabilityProbe.cs": "49803ef067f5973a4d3b97c8f6dbce4f1f4005463be5649c1b7ab07f779cc58c",
+    "SettingsApplicabilityProbe.exe": "9963664e2938e870f535e1260dd17fb5be085ee7cf149b08716ae9cdd1cacb44"
+  },
+  "allGenuineQueriesMatchPreviouslyObservedProviders": true,
+  "routesExact3Old4Native": true,
+  "ownPatchAndRestorePass": true
+}

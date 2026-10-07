@@ -1,0 +1,43 @@
+{
+  "DefaultEnabled": false,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\PrimaryBridge.dll",
+      "SHA256": "83630c5b721920a8f5599b70d54e5267e389aea5a66ec53d560697733552c73d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\PrimaryBridge.cpp",
+      "SHA256": "2ee3690e6840667e88e5c6aeccaa97a3367aa963c2c4bd7760bb03eb2df86d94"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\BrowserProbe.dll",
+      "SHA256": "2382b6c89eddb4e574f2ee208c02e2c79379f636a4dcd10028b4f61316d04d6d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\BrowserProbe.cpp",
+      "SHA256": "a497a244e033adfc8140eaaeb01faed50c67f44543e765629bc2933b0b0dc63e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\Launch-ControlTheme10.py",
+      "SHA256": "37725a7d134150879e22a5077c965c5f065ad2e327075b627bf82a5d0df11b97"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\manifest.json",
+      "SHA256": "e527e1cae5a01e812e48ecbf96e0a7ac2352b39f0c8ed5475d14de4223f1c237"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\ControlTheme10.dll",
+      "SHA256": "24af2addef63804d5f8efc0aeabd881f3e8f569c7e7b170d5f70d9b3e6394390"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+      "SHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Launch-TouchpadCompat.py",
+      "SHA256": "6871b8fb163503c235c4ce16c30e2d93de3d14da74a6ce6159c715cb367020c6"
+    }
+  ],
+  "ActualWorkingShellUntouched": true,
+  "RequiresOwnEntryHeldPrimary": true
+}

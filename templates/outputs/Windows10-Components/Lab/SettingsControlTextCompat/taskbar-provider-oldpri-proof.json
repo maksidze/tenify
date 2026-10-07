@@ -1,0 +1,20 @@
+[
+  {
+    "mode": "native-oldpri",
+    "path": "C:\\Windows\\System32\\SettingsHandlers_nt.dll",
+    "sha256": "5c9e7de05c5f54761f8c91ed22077d41c5910b3da771d4944cd0a828d076ee80",
+    "exportRva": "0x1c8e0",
+    "pid": 5872,
+    "exit": 0,
+    "timeout": false
+  },
+  {
+    "mode": "old-oldpri",
+    "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\SettingsHandlers_nt.dll",
+    "sha256": "2b0ad9ae02e385a31cc05f5e304b9cc92238b3f8b1c5ff55e70e77d7209b4f4b",
+    "exportRva": "0x10150",
+    "pid": 12692,
+    "exit": 0,
+    "timeout": false
+  }
+]

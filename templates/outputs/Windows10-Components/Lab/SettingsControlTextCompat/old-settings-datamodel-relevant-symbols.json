@@ -1,0 +1,34 @@
+[
+  {
+    "rva": 276896,
+    "name": "?get_Description@CSettingItem@DataModel@SystemSettings@@UEAAJPEAPEAUHSTRING__@@@Z"
+  },
+  {
+    "rva": 46624,
+    "name": "?pDescriptionData@CSettingItemInfoInternal@DataModel@SystemSettings@@UEAAPEBUDescriptionData@23@XZ"
+  },
+  {
+    "rva": 213120,
+    "name": "?get_DisplayName@SettingsExtensionAppLinkServer@DataModel@SystemSettings@@UEAAJPEAPEAUHSTRING__@@@Z"
+  },
+  {
+    "rva": 259632,
+    "name": "?GetProperty@CSettingItem@DataModel@SystemSettings@@UEAAJPEAUHSTRING__@@PEAPEAUIInspectable@@@Z"
+  },
+  {
+    "rva": 374304,
+    "name": "??_C@_0M@MJOKAMDI@GetProperty@"
+  },
+  {
+    "rva": 374192,
+    "name": "??_C@_0BA@BIPKHHIN@get_Description@"
+  },
+  {
+    "rva": 232336,
+    "name": "?get_DisplayName@SettingsExtensionAppServer@DataModel@SystemSettings@@UEAAJPEAPEAUHSTRING__@@@Z"
+  },
+  {
+    "rva": 45856,
+    "name": "?pDescriptionData@CSettingItemInfoRegistry@DataModel@SystemSettings@@UEAAPEBUDescriptionData@23@XZ"
+  }
+]

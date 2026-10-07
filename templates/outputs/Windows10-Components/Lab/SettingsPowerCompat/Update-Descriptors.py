@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path(__file__).resolve().parent/'Inspect-OldDescriptors.py';s=p.read_text().replace('key=p.get_string_u_at_rva(a-base);','key=p.get_string_u_at_rva(a-base).decode();');s=s.replace("rows.append(row);print(row)","ptr=struct.unpack_from('<Q',desc,0x28)[0]-base;factory=struct.unpack('<4Q',p.get_data(ptr,32));row['factoryRVA']=hex(ptr);row['factoryQwords']=[hex(x) for x in factory];rows.append(row);print(row)");p.write_text(s)

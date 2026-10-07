@@ -1,0 +1,693 @@
+[
+  {
+    "rva": "0x27aa68",
+    "bytes": "48895c2418",
+    "asm": "mov qword ptr [rsp + 0x18], rbx"
+  },
+  {
+    "rva": "0x27aa6d",
+    "bytes": "55",
+    "asm": "push rbp"
+  },
+  {
+    "rva": "0x27aa6e",
+    "bytes": "56",
+    "asm": "push rsi"
+  },
+  {
+    "rva": "0x27aa6f",
+    "bytes": "57",
+    "asm": "push rdi"
+  },
+  {
+    "rva": "0x27aa70",
+    "bytes": "4156",
+    "asm": "push r14"
+  },
+  {
+    "rva": "0x27aa72",
+    "bytes": "4157",
+    "asm": "push r15"
+  },
+  {
+    "rva": "0x27aa74",
+    "bytes": "4881ec50020000",
+    "asm": "sub rsp, 0x250"
+  },
+  {
+    "rva": "0x27aa7b",
+    "bytes": "488b0516521b00",
+    "asm": "mov rax, qword ptr [rip + 0x1b5216]"
+  },
+  {
+    "rva": "0x27aa82",
+    "bytes": "4833c4",
+    "asm": "xor rax, rsp"
+  },
+  {
+    "rva": "0x27aa85",
+    "bytes": "4889842440020000",
+    "asm": "mov qword ptr [rsp + 0x240], rax"
+  },
+  {
+    "rva": "0x27aa8d",
+    "bytes": "488bda",
+    "asm": "mov rbx, rdx"
+  },
+  {
+    "rva": "0x27aa90",
+    "bytes": "488bf9",
+    "asm": "mov rdi, rcx"
+  },
+  {
+    "rva": "0x27aa93",
+    "bytes": "40b501",
+    "asm": "mov bpl, 1"
+  },
+  {
+    "rva": "0x27aa96",
+    "bytes": "4885d2",
+    "asm": "test rdx, rdx"
+  },
+  {
+    "rva": "0x27aa99",
+    "bytes": "750a",
+    "asm": "jne 0x27aaa5"
+  },
+  {
+    "rva": "0x27aa9b",
+    "bytes": "b805400080",
+    "asm": "mov eax, 0x80004005"
+  },
+  {
+    "rva": "0x27aaa0",
+    "bytes": "e9ba010000",
+    "asm": "jmp 0x27ac5f"
+  },
+  {
+    "rva": "0x27aaa5",
+    "bytes": "488db1e8000000",
+    "asm": "lea rsi, [rcx + 0xe8]"
+  },
+  {
+    "rva": "0x27aaac",
+    "bytes": "c6417100",
+    "asm": "mov byte ptr [rcx + 0x71], 0"
+  },
+  {
+    "rva": "0x27aab0",
+    "bytes": "488bd6",
+    "asm": "mov rdx, rsi"
+  },
+  {
+    "rva": "0x27aab3",
+    "bytes": "e86480ddff",
+    "asm": "call 0x52b1c"
+  },
+  {
+    "rva": "0x27aab8",
+    "bytes": "837b1000",
+    "asm": "cmp dword ptr [rbx + 0x10], 0"
+  },
+  {
+    "rva": "0x27aabc",
+    "bytes": "742e",
+    "asm": "je 0x27aaec"
+  },
+  {
+    "rva": "0x27aabe",
+    "bytes": "488b0d2b6f1b00",
+    "asm": "mov rcx, qword ptr [rip + 0x1b6f2b]"
+  },
+  {
+    "rva": "0x27aac5",
+    "bytes": "4c8d442430",
+    "asm": "lea r8, [rsp + 0x30]"
+  },
+  {
+    "rva": "0x27aaca",
+    "bytes": "41b904010000",
+    "asm": "mov r9d, 0x104"
+  },
+  {
+    "rva": "0x27aad0",
+    "bytes": "ba62030000",
+    "asm": "mov edx, 0x362"
+  },
+  {
+    "rva": "0x27aad5",
+    "bytes": "48ff1504071200",
+    "asm": "call qword ptr [rip + 0x120704]",
+    "import": [
+      "api-ms-win-core-libraryloader-l1-2-0.dll",
+      "LoadStringW"
+    ]
+  },
+  {
+    "rva": "0x27aadc",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27aae1",
+    "bytes": "85c0",
+    "asm": "test eax, eax"
+  },
+  {
+    "rva": "0x27aae3",
+    "bytes": "7e1e",
+    "asm": "jle 0x27ab03"
+  },
+  {
+    "rva": "0x27aae5",
+    "bytes": "488d4c2430",
+    "asm": "lea rcx, [rsp + 0x30]"
+  },
+  {
+    "rva": "0x27aaea",
+    "bytes": "eb08",
+    "asm": "jmp 0x27aaf4"
+  },
+  {
+    "rva": "0x27aaec",
+    "bytes": "488b0b",
+    "asm": "mov rcx, qword ptr [rbx]"
+  },
+  {
+    "rva": "0x27aaef",
+    "bytes": "4885c9",
+    "asm": "test rcx, rcx"
+  },
+  {
+    "rva": "0x27aaf2",
+    "bytes": "740f",
+    "asm": "je 0x27ab03"
+  },
+  {
+    "rva": "0x27aaf4",
+    "bytes": "488bd6",
+    "asm": "mov rdx, rsi"
+  },
+  {
+    "rva": "0x27aaf7",
+    "bytes": "48ff15a2141200",
+    "asm": "call qword ptr [rip + 0x1214a2]",
+    "import": [
+      "api-ms-win-shcore-obsolete-l1-1-0.dll",
+      "SHStrDupW"
+    ]
+  },
+  {
+    "rva": "0x27aafe",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27ab03",
+    "bytes": "8b4310",
+    "asm": "mov eax, dword ptr [rbx + 0x10]"
+  },
+  {
+    "rva": "0x27ab06",
+    "bytes": "448a7f3d",
+    "asm": "mov r15b, byte ptr [rdi + 0x3d]"
+  },
+  {
+    "rva": "0x27ab0a",
+    "bytes": "8987f8000000",
+    "asm": "mov dword ptr [rdi + 0xf8], eax"
+  },
+  {
+    "rva": "0x27ab10",
+    "bytes": "8b4314",
+    "asm": "mov eax, dword ptr [rbx + 0x14]"
+  },
+  {
+    "rva": "0x27ab13",
+    "bytes": "8987fc000000",
+    "asm": "mov dword ptr [rdi + 0xfc], eax"
+  },
+  {
+    "rva": "0x27ab19",
+    "bytes": "48837b0800",
+    "asm": "cmp qword ptr [rbx + 8], 0"
+  },
+  {
+    "rva": "0x27ab1e",
+    "bytes": "488b4b18",
+    "asm": "mov rcx, qword ptr [rbx + 0x18]"
+  },
+  {
+    "rva": "0x27ab22",
+    "bytes": "750a",
+    "asm": "jne 0x27ab2e"
+  },
+  {
+    "rva": "0x27ab24",
+    "bytes": "4885c9",
+    "asm": "test rcx, rcx"
+  },
+  {
+    "rva": "0x27ab27",
+    "bytes": "7505",
+    "asm": "jne 0x27ab2e"
+  },
+  {
+    "rva": "0x27ab29",
+    "bytes": "4532f6",
+    "asm": "xor r14b, r14b"
+  },
+  {
+    "rva": "0x27ab2c",
+    "bytes": "eb3e",
+    "asm": "jmp 0x27ab6c"
+  },
+  {
+    "rva": "0x27ab2e",
+    "bytes": "448af5",
+    "asm": "mov r14b, bpl"
+  },
+  {
+    "rva": "0x27ab31",
+    "bytes": "4885c9",
+    "asm": "test rcx, rcx"
+  },
+  {
+    "rva": "0x27ab34",
+    "bytes": "7436",
+    "asm": "je 0x27ab6c"
+  },
+  {
+    "rva": "0x27ab36",
+    "bytes": "488d9700010000",
+    "asm": "lea rdx, [rdi + 0x100]"
+  },
+  {
+    "rva": "0x27ab3d",
+    "bytes": "48ff155c141200",
+    "asm": "call qword ptr [rip + 0x12145c]",
+    "import": [
+      "api-ms-win-shcore-obsolete-l1-1-0.dll",
+      "SHStrDupW"
+    ]
+  },
+  {
+    "rva": "0x27ab44",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27ab49",
+    "bytes": "85c0",
+    "asm": "test eax, eax"
+  },
+  {
+    "rva": "0x27ab4b",
+    "bytes": "791c",
+    "asm": "jns 0x27ab69"
+  },
+  {
+    "rva": "0x27ab4d",
+    "bytes": "488b8c2478020000",
+    "asm": "mov rcx, qword ptr [rsp + 0x278]"
+  },
+  {
+    "rva": "0x27ab55",
+    "bytes": "4c8d05545a1300",
+    "asm": "lea r8, [rip + 0x135a54]"
+  },
+  {
+    "rva": "0x27ab5c",
+    "bytes": "448bc8",
+    "asm": "mov r9d, eax"
+  },
+  {
+    "rva": "0x27ab5f",
+    "bytes": "bad8010000",
+    "asm": "mov edx, 0x1d8"
+  },
+  {
+    "rva": "0x27ab64",
+    "bytes": "e86b4be2ff",
+    "asm": "call 0x9f6d4"
+  },
+  {
+    "rva": "0x27ab69",
+    "bytes": "4032ed",
+    "asm": "xor bpl, bpl"
+  },
+  {
+    "rva": "0x27ab6c",
+    "bytes": "837b1000",
+    "asm": "cmp dword ptr [rbx + 0x10], 0"
+  },
+  {
+    "rva": "0x27ab70",
+    "bytes": "745a",
+    "asm": "je 0x27abcc"
+  },
+  {
+    "rva": "0x27ab72",
+    "bytes": "8b5724",
+    "asm": "mov edx, dword ptr [rdi + 0x24]"
+  },
+  {
+    "rva": "0x27ab75",
+    "bytes": "b932000000",
+    "asm": "mov ecx, 0x32"
+  },
+  {
+    "rva": "0x27ab7a",
+    "bytes": "48ff1597ff1100",
+    "asm": "call qword ptr [rip + 0x11ff97]",
+    "import": [
+      "USER32.dll",
+      "GetSystemMetricsForDpi"
+    ]
+  },
+  {
+    "rva": "0x27ab81",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27ab86",
+    "bytes": "8b5724",
+    "asm": "mov edx, dword ptr [rdi + 0x24]"
+  },
+  {
+    "rva": "0x27ab89",
+    "bytes": "b931000000",
+    "asm": "mov ecx, 0x31"
+  },
+  {
+    "rva": "0x27ab8e",
+    "bytes": "8bd8",
+    "asm": "mov ebx, eax"
+  },
+  {
+    "rva": "0x27ab90",
+    "bytes": "48ff1581ff1100",
+    "asm": "call qword ptr [rip + 0x11ff81]",
+    "import": [
+      "USER32.dll",
+      "GetSystemMetricsForDpi"
+    ]
+  },
+  {
+    "rva": "0x27ab97",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27ab9c",
+    "bytes": "8364242800",
+    "asm": "and dword ptr [rsp + 0x28], 0"
+  },
+  {
+    "rva": "0x27aba1",
+    "bytes": "ba07010000",
+    "asm": "mov edx, 0x107"
+  },
+  {
+    "rva": "0x27aba6",
+    "bytes": "488b0d436e1b00",
+    "asm": "mov rcx, qword ptr [rip + 0x1b6e43]"
+  },
+  {
+    "rva": "0x27abad",
+    "bytes": "448bc8",
+    "asm": "mov r9d, eax"
+  },
+  {
+    "rva": "0x27abb0",
+    "bytes": "41b801000000",
+    "asm": "mov r8d, 1"
+  },
+  {
+    "rva": "0x27abb6",
+    "bytes": "895c2420",
+    "asm": "mov dword ptr [rsp + 0x20], ebx"
+  },
+  {
+    "rva": "0x27abba",
+    "bytes": "48ff15d7ff1100",
+    "asm": "call qword ptr [rip + 0x11ffd7]",
+    "import": [
+      "USER32.dll",
+      "LoadImageW"
+    ]
+  },
+  {
+    "rva": "0x27abc1",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27abc6",
+    "bytes": "c6477101",
+    "asm": "mov byte ptr [rdi + 0x71], 1"
+  },
+  {
+    "rva": "0x27abca",
+    "bytes": "eb18",
+    "asm": "jmp 0x27abe4"
+  },
+  {
+    "rva": "0x27abcc",
+    "bytes": "488b4b08",
+    "asm": "mov rcx, qword ptr [rbx + 8]"
+  },
+  {
+    "rva": "0x27abd0",
+    "bytes": "4885c9",
+    "asm": "test rcx, rcx"
+  },
+  {
+    "rva": "0x27abd3",
+    "bytes": "7416",
+    "asm": "je 0x27abeb"
+  },
+  {
+    "rva": "0x27abd5",
+    "bytes": "48ff1584ff1100",
+    "asm": "call qword ptr [rip + 0x11ff84]",
+    "import": [
+      "USER32.dll",
+      "CopyIcon"
+    ]
+  },
+  {
+    "rva": "0x27abdc",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27abe1",
+    "bytes": "4032ed",
+    "asm": "xor bpl, bpl"
+  },
+  {
+    "rva": "0x27abe4",
+    "bytes": "488987f0000000",
+    "asm": "mov qword ptr [rdi + 0xf0], rax"
+  },
+  {
+    "rva": "0x27abeb",
+    "bytes": "4584f6",
+    "asm": "test r14b, r14b"
+  },
+  {
+    "rva": "0x27abee",
+    "bytes": "7404",
+    "asm": "je 0x27abf4"
+  },
+  {
+    "rva": "0x27abf0",
+    "bytes": "c6473d01",
+    "asm": "mov byte ptr [rdi + 0x3d], 1"
+  },
+  {
+    "rva": "0x27abf4",
+    "bytes": "488b16",
+    "asm": "mov rdx, qword ptr [rsi]"
+  },
+  {
+    "rva": "0x27abf7",
+    "bytes": "488bcf",
+    "asm": "mov rcx, rdi"
+  },
+  {
+    "rva": "0x27abfa",
+    "bytes": "e81dfaffff",
+    "asm": "call 0x27a61c"
+  },
+  {
+    "rva": "0x27abff",
+    "bytes": "443a7f3d",
+    "asm": "cmp r15b, byte ptr [rdi + 0x3d]"
+  },
+  {
+    "rva": "0x27ac03",
+    "bytes": "741f",
+    "asm": "je 0x27ac24"
+  },
+  {
+    "rva": "0x27ac05",
+    "bytes": "488b8f50010000",
+    "asm": "mov rcx, qword ptr [rdi + 0x150]"
+  },
+  {
+    "rva": "0x27ac0c",
+    "bytes": "488b01",
+    "asm": "mov rax, qword ptr [rcx]"
+  },
+  {
+    "rva": "0x27ac0f",
+    "bytes": "488b8008010000",
+    "asm": "mov rax, qword ptr [rax + 0x108]"
+  },
+  {
+    "rva": "0x27ac16",
+    "bytes": "ff157c1c1200",
+    "asm": "call qword ptr [rip + 0x121c7c]",
+    "import": null
+  },
+  {
+    "rva": "0x27ac1c",
+    "bytes": "488bcf",
+    "asm": "mov rcx, rdi"
+  },
+  {
+    "rva": "0x27ac1f",
+    "bytes": "e86c7addff",
+    "asm": "call 0x52690"
+  },
+  {
+    "rva": "0x27ac24",
+    "bytes": "488b4f40",
+    "asm": "mov rcx, qword ptr [rdi + 0x40]"
+  },
+  {
+    "rva": "0x27ac28",
+    "bytes": "bb04000000",
+    "asm": "mov ebx, 4"
+  },
+  {
+    "rva": "0x27ac2d",
+    "bytes": "8bd3",
+    "asm": "mov edx, ebx"
+  },
+  {
+    "rva": "0x27ac2f",
+    "bytes": "48ff15121b1e00",
+    "asm": "call qword ptr [rip + 0x1e1b12]",
+    "import": null
+  },
+  {
+    "rva": "0x27ac36",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27ac3b",
+    "bytes": "488b4f40",
+    "asm": "mov rcx, qword ptr [rdi + 0x40]"
+  },
+  {
+    "rva": "0x27ac3f",
+    "bytes": "40f6dd",
+    "asm": "neg bpl"
+  },
+  {
+    "rva": "0x27ac42",
+    "bytes": "8bd3",
+    "asm": "mov edx, ebx"
+  },
+  {
+    "rva": "0x27ac44",
+    "bytes": "451bc0",
+    "asm": "sbb r8d, r8d"
+  },
+  {
+    "rva": "0x27ac47",
+    "bytes": "4533c9",
+    "asm": "xor r9d, r9d"
+  },
+  {
+    "rva": "0x27ac4a",
+    "bytes": "4181e02c010000",
+    "asm": "and r8d, 0x12c"
+  },
+  {
+    "rva": "0x27ac51",
+    "bytes": "48ff15681b1e00",
+    "asm": "call qword ptr [rip + 0x1e1b68]",
+    "import": null
+  },
+  {
+    "rva": "0x27ac58",
+    "bytes": "0f1f440000",
+    "asm": "nop dword ptr [rax + rax]"
+  },
+  {
+    "rva": "0x27ac5d",
+    "bytes": "33c0",
+    "asm": "xor eax, eax"
+  },
+  {
+    "rva": "0x27ac5f",
+    "bytes": "488b8c2440020000",
+    "asm": "mov rcx, qword ptr [rsp + 0x240]"
+  },
+  {
+    "rva": "0x27ac67",
+    "bytes": "4833cc",
+    "asm": "xor rcx, rsp"
+  },
+  {
+    "rva": "0x27ac6a",
+    "bytes": "e8d195e2ff",
+    "asm": "call 0xa4240"
+  },
+  {
+    "rva": "0x27ac6f",
+    "bytes": "488b9c2490020000",
+    "asm": "mov rbx, qword ptr [rsp + 0x290]"
+  },
+  {
+    "rva": "0x27ac77",
+    "bytes": "4881c450020000",
+    "asm": "add rsp, 0x250"
+  },
+  {
+    "rva": "0x27ac7e",
+    "bytes": "415f",
+    "asm": "pop r15"
+  },
+  {
+    "rva": "0x27ac80",
+    "bytes": "415e",
+    "asm": "pop r14"
+  },
+  {
+    "rva": "0x27ac82",
+    "bytes": "5f",
+    "asm": "pop rdi"
+  },
+  {
+    "rva": "0x27ac83",
+    "bytes": "5e",
+    "asm": "pop rsi"
+  },
+  {
+    "rva": "0x27ac84",
+    "bytes": "5d",
+    "asm": "pop rbp"
+  },
+  {
+    "rva": "0x27ac85",
+    "bytes": "c3",
+    "asm": "ret "
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "Restore": "ControlTheme10Restore",
+  "State": "ControlTheme10State",
+  "Status": "Inactive candidate; own fixture PASS; no production integration or live deployment",
+  "Helper": "ControlTheme10.dll",
+  "Initialize": "ControlTheme10Initialize",
+  "ProductionReadyForLive": false,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\ControlTheme10.cpp",
+      "SHA256": "3cb84ea99977d83908e7181beb8980fe5036cb894a6df4d40046808bedbfd6ce"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\ControlTheme10.dll",
+      "SHA256": "24af2addef63804d5f8efc0aeabd881f3e8f569c7e7b170d5f70d9b3e6394390"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\Pins.h",
+      "SHA256": "f5d4af449d28e74de8f92e8f88cf089f6c3097befe9706c1e1ef2b35d879ed53"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\Fixture.cpp",
+      "SHA256": "841222d6335867447ee43423a50a219b44270ee8a7720f5bb517882d217da6c5"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\FixtureControls.hpp",
+      "SHA256": "ded76fd88d638a4a0ac7dd3dcfedab7fd5401793312ecc7b62768f6fdcd0fb9c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\Fixture.manifest",
+      "SHA256": "406f51a01bb4d609e4f7f9e3559f607c094d653c9116fa4abcf39dec04a1431f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\ControlFixture.exe",
+      "SHA256": "e4aab9aaa28362e19d385f4410377578955a5199df63c0696d2aee074c46b406"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\Build-Test.py",
+      "SHA256": "c3ad2532277fa6fbb3dc29530f020d79c94a54f11c90c278a0cf11f1626d52a5"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\Readme.txt",
+      "SHA256": "53a2936faf571d6f734752938e2fdd6bef927a70c889c16ebedcc6fc22da9aac"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\own-proof.json",
+      "SHA256": "a42ac081ca492a28aba28575c0cec3fd3486672183bb47150febe426e12cc90b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\own-fixture.txt",
+      "SHA256": "07bb48d615edece9785c7f65b28b3c11b3132c1645c52fac2f252e9e0cb12c51"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\Theme10BrowserProbe\\HashCheck.hpp",
+      "SHA256": "a92b91cf84e40590c45d15320a6533f37e840c75eb1d895980d5a370640a9e06"
+    }
+  ],
+  "Scope": "comctl32 v6 same-process same-thread Button/Edit/ComboBox, DPI96, native fallback",
+  "Version": 1,
+  "OwnProofPassed": true,
+  "Host": "New owned entry-held signed Explorer10 only"
+}

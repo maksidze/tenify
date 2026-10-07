@@ -1,0 +1,18 @@
+{
+  "baseline": {
+    "exitCode": 0,
+    "stdout": "QueryActive=1 err=2 len=0 bytes=\r\nRoInitialize=00000000\r\nGetFactory=00000000 nonNull=1\r\nInitialize=8000ffff nonNull=0\r\nError0=\u0420\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u0431\u043e\u0439\r\r\n\r\nError1=WindowsXamlManager and DesktopWindowXamlSource are supported for apps targeting Windows version 10.0.18226.0 and later.  Please check either the application manifest or package manifest and ensure the MaxTestedVersion property is updated.\r\n",
+    "stderr": ""
+  },
+  "quirk": {
+    "exitCode": 0,
+    "stdout": "QueryActive=1 err=2 len=0 bytes=\r\nRoInitialize=00000000\r\nGetFactory=00000000 nonNull=1\r\nQUIRK before=1 after=0 bytesBefore=3bbdffe3bd000000 bytesAfter=3bbdffe3b9000000\r\nInitialize=00000000 nonNull=1\r\n",
+    "stderr": ""
+  },
+  "nativeModule": {
+    "path": "C:\\Windows\\System32\\Windows.UI.Xaml.dll",
+    "sha256": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "checkRVA": "0x39eb50",
+    "checkBytes": "40534883ec2033db391d7ecdc200753d4533c94c8d0566cd"
+  }
+}

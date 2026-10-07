@@ -1,0 +1,35 @@
+{
+  "vmPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll",
+  "vmHash": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1",
+  "oldProviderPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\SettingsHandlers_OneCore_PowerAndSleep.dll",
+  "oldProviderHash": "9ac1f9c879fe5204c8b96f14cbed19ffb004f25bcf88d982979e42f27cf394e6",
+  "helperSHA256": "699f0fdea0ddcb12e9b3c5c9abc0fec0494f327ad72bd8d0d364be0f26ceb56c",
+  "callsiteRVAs": [
+    "240ae",
+    "243ad",
+    "24513",
+    "24834"
+  ],
+  "UITrialPerformed": false,
+  "settersCalled": false,
+  "ownFixture": {
+    "ownChildOnly": true,
+    "noUI": true,
+    "noSetters": true,
+    "pid": 13588,
+    "exitCode": 0,
+    "timedOut": false,
+    "allAssertionsPassed": true,
+    "evidence": "own-adapter-fixture.log"
+  },
+  "semanticGuidMapping": "power-semantic-guid-proof.json",
+  "semanticGuidFlagsEqualCount": 4,
+  "readyForGuardedIntegration": true,
+  "actualSettingsUITrialPerformed": false,
+  "settersExercised": false,
+  "initializerExport": "SettingsPowerInitialize",
+  "restoreExport": "SettingsPowerRestore",
+  "compositeOrder": "After existing resource/navigation/text initializer; abort owned activation if any initialization fails.",
+  "sourceSHA256": "538c19ccb1e08debf2997ad868df6d7ecd26cffdfc0470ef39dc7d848a601738",
+  "fixtureSHA256": "57c5fcdfa4068c8efe92df245853d596c441e6d478873721594273a098396de5"
+}

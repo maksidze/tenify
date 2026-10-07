@@ -1,0 +1,49 @@
+{
+  "OwnProofPassed": true,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\AppControlTheme10.cpp",
+      "SHA256": "fedf7a5ffedbfc816c978bc49b5283f3ad36ddc294855f85977da4a0a0b29956"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\AppControlTheme10.dll",
+      "SHA256": "fd32313846258125510715880900a1838eec3ae6f07eeee513bce92eee541403"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\Apply.py",
+      "SHA256": "c96d6228914d032a1cc80947c4473b49e20343b7c722eedba87e3910a4ab8a77"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\Readme.txt",
+      "SHA256": "42ef44f64514458a811da96fbca64309f95de992f5c5ebc9a6268d09a5a26c6f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\own-proof.json",
+      "SHA256": "4f4ed51a5a7e85326034e0a91bc31a5b9caaad03dd69bee5426a0b2cd44c85f8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\Pins.h",
+      "SHA256": "ae7d743323add3a535dec745732f0993de69aa110363d3e0cbb5748fe1a34860"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\derivation.json",
+      "SHA256": "d3bd0747d7f4c080c9c912aba91386af68feddde428ff931b00abcdf7c6c01fa"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\uxtheme.dll",
+      "SHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+    },
+    {
+      "Path": "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.5074_none_3e0d6f78e32fd63f\\comctl32.dll",
+      "SHA256": "2001b6148daaac06f85685b6e4b5df231ca428b6b48484027342ad4e15a71861"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles",
+      "SHA256": "847aaa1e347631f353119d9c483d88111c4a29d0c0abafdd650447d3cbf8831e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\AppControlTheme10Compat\\Apply-AppStyle.ps1",
+      "SHA256": "bb8c341bd9f970c5de6a388e55ede06278cc699417211eb4d7f27d4893c692cd"
+    }
+  ]
+}

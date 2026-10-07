@@ -1,0 +1,203 @@
+[
+  {
+    "file": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatHostProbe.Gui.exe",
+    "subsystem": 2,
+    "entrypoint": "0x3cb0",
+    "symbols": {
+      "BrokerExistingWmain": 4096,
+      "WinMainCRTStartup": 15536,
+      "wWinMain": 15088,
+      "wmain": 19696
+    },
+    "calls": {
+      "wWinMain": [
+        {
+          "rva": "0x3b03",
+          "instruction": "call qword ptr [rip + 0x2719f]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x3b10",
+          "instruction": "call qword ptr [rip + 0x26f82]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x3b24",
+          "instruction": "call 0x1000",
+          "targetSymbol": "BrokerExistingWmain"
+        },
+        {
+          "rva": "0x3b2e",
+          "instruction": "call qword ptr [rip + 0x27224]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x3b34",
+          "instruction": "jmp 0x3b3b",
+          "targetSymbol": ""
+        }
+      ],
+      "wmain": [
+        {
+          "rva": "0x4d01",
+          "instruction": "call 0x252f0",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4d14",
+          "instruction": "jmp 0x4d2f",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4d61",
+          "instruction": "jmp 0x4d6a",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4d6e",
+          "instruction": "call qword ptr [rip + 0x25fac]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4d92",
+          "instruction": "call 0x3af0",
+          "targetSymbol": "wWinMain"
+        }
+      ]
+    }
+  },
+  {
+    "file": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsBrokerCompat\\SettingsBrokerProbe.Gui.exe",
+    "subsystem": 2,
+    "entrypoint": "0x4dd0",
+    "symbols": {
+      "BrokerExistingWmain": 4096,
+      "WinMainCRTStartup": 19920,
+      "wWinMain": 19472,
+      "wmain": 24080
+    },
+    "calls": {
+      "wWinMain": [
+        {
+          "rva": "0x4c23",
+          "instruction": "call qword ptr [rip + 0x2734f]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4c30",
+          "instruction": "call qword ptr [rip + 0x27132]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4c44",
+          "instruction": "call 0x1000",
+          "targetSymbol": "BrokerExistingWmain"
+        },
+        {
+          "rva": "0x4c4e",
+          "instruction": "call qword ptr [rip + 0x273ec]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4c54",
+          "instruction": "jmp 0x4c5b",
+          "targetSymbol": ""
+        }
+      ],
+      "wmain": [
+        {
+          "rva": "0x5e21",
+          "instruction": "call 0x263c0",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x5e34",
+          "instruction": "jmp 0x5e4f",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x5e81",
+          "instruction": "jmp 0x5e8a",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x5e8e",
+          "instruction": "call qword ptr [rip + 0x2615c]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x5eb2",
+          "instruction": "call 0x4c10",
+          "targetSymbol": "wWinMain"
+        }
+      ]
+    }
+  },
+  {
+    "file": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsBrokerCompat\\SettingsBrokerDetached.Gui.exe",
+    "subsystem": 2,
+    "entrypoint": "0x50b0",
+    "symbols": {
+      "BrokerExistingWmain": 4096,
+      "WinMainCRTStartup": 20656,
+      "wWinMain": 20208,
+      "wmain": 24816
+    },
+    "calls": {
+      "wWinMain": [
+        {
+          "rva": "0x4f03",
+          "instruction": "call qword ptr [rip + 0x270df]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4f10",
+          "instruction": "call qword ptr [rip + 0x26eba]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4f24",
+          "instruction": "call 0x1000",
+          "targetSymbol": "BrokerExistingWmain"
+        },
+        {
+          "rva": "0x4f2e",
+          "instruction": "call qword ptr [rip + 0x2717c]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x4f34",
+          "instruction": "jmp 0x4f3b",
+          "targetSymbol": ""
+        }
+      ],
+      "wmain": [
+        {
+          "rva": "0x6101",
+          "instruction": "call 0x266b0",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x6114",
+          "instruction": "jmp 0x612f",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x6161",
+          "instruction": "jmp 0x616a",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x616e",
+          "instruction": "call qword ptr [rip + 0x25eec]",
+          "targetSymbol": ""
+        },
+        {
+          "rva": "0x6192",
+          "instruction": "call 0x4ef0",
+          "targetSymbol": "wWinMain"
+        }
+      ]
+    }
+  }
+]

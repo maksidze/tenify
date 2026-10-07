@@ -1,0 +1,2200 @@
+[
+  {
+    "Hwnd": "0x401e8",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      4,
+      1228,
+      44,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x502aa",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "ForegroundStaging",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40378",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "ForegroundStaging",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x14042c",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40144",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40176",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x70434",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x6011a",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40194",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40182",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x403b0",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xe0220",
+    "Parent": "0xb05ac",
+    "PID": 8708,
+    "Class": "ATL:00007FF88738B210",
+    "Text": "Network Flyout",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x5006a",
+    "Parent": "0x60136",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      2061,
+      1188,
+      2357,
+      1208
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60136",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "NotifyIconOverflowWindow",
+    "Text": "",
+    "Rect": [
+      2095,
+      1168,
+      2215,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40152",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x500d0",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x400ce",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x7009e",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "Shell_TrayWnd",
+    "Text": "",
+    "Rect": [
+      0,
+      1248,
+      2358,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x402d0",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "TaskListThumbnailWnd",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x50382",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "SystemTray_Main",
+    "Text": "\u0418\u043d\u0434\u0438\u043a\u0430\u0442\u043e\u0440 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
+    "Rect": [
+      0,
+      0,
+      14,
+      14
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x8008c",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "ATL:00007FF8CBAAC050",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xd0214",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x70332",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      875,
+      574,
+      1232,
+      639
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xb05ac",
+    "Parent": "0x0",
+    "PID": 8708,
+    "Class": "PNIHiddenWnd",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x503a4",
+    "Parent": "0x1000c",
+    "PID": 1960,
+    "Class": "Windows.UI.Core.CoreWindow",
+    "Text": "DesktopWindowXamlSource",
+    "Rect": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x5017c",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      659,
+      611,
+      762,
+      643
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x7013a",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "_SearchEditBoxFakeWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xd031a",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xb029e",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x6037c",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "tooltips_class32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xd0334",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "CabinetWClass",
+    "Text": "Runtime",
+    "Rect": [
+      619,
+      313,
+      1758,
+      954
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x5020e",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "UIRibbonStdCompMgr",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x70488",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60212",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "ApplicationFrameWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      2358,
+      1248
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x705c2",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x9025a",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "BluetoothNotificationAreaIconWindowClass",
+    "Text": "BluetoothNotificationAreaIconWindowClass",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x59022e",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "MS_WebcheckMonitor",
+    "Text": "MS_WebcheckMonitor",
+    "Rect": [
+      156,
+      156,
+      1925,
+      1071
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x400f2",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x503aa",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x50492",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xf04a0",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60310",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "DummyDWMListenerWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x3004d0",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "TabletModeCoverWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      2358,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x501e6",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "EdgeUiInputTopWndClass",
+    "Text": "",
+    "Rect": [
+      15,
+      0,
+      2358,
+      4
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x6002c",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "Postures Broadcast Listener Class",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40484",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "DummyDWMListenerWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x50404",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "DummyDWMListenerWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x403f6",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "DummyDWMListenerWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x603e6",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "DummyDWMListenerWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x404a6",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "ApplicationManager_DesktopShellWindow",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40344",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x5047c",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x502ca",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x502a8",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "TabletPenServiceHelperClass",
+    "Text": "EXPLORER",
+    "Rect": [
+      50,
+      50,
+      350,
+      250
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xc00f4",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x3704ca",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      136,
+      39
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x50366",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "DDEMLEvent",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x5012c",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "DDEMLMom",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x50074",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "OleDdeWndClass",
+    "Text": "DDE Server Window",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x50080",
+    "Parent": "0x0",
+    "PID": 1960,
+    "Class": "Progman",
+    "Text": "Program Manager",
+    "Rect": [
+      0,
+      0,
+      2358,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x502c6",
+    "Parent": "0x502aa",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x7043e",
+    "Parent": "0x4032a",
+    "PID": 1960,
+    "Class": "MSCTFIME UI",
+    "Text": "MSCTFIME UI",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x4032a",
+    "Parent": "0x60136",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x90092",
+    "Parent": "0x8008c",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x9015e",
+    "Parent": "0xb05ac",
+    "PID": 8708,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x90258",
+    "Parent": "0x1704cc",
+    "PID": 1960,
+    "Class": "MSCTFIME UI",
+    "Text": "MSCTFIME UI",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x1704cc",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x5022a",
+    "Parent": "0x60212",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40196",
+    "Parent": "0x705c2",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xb010c",
+    "Parent": "0x400f2",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40232",
+    "Parent": "0x503aa",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xb0440",
+    "Parent": "0x40344",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x703da",
+    "Parent": "0x502a8",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x1004d6",
+    "Parent": "0xc00f4",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x7028e",
+    "Parent": "0x40352",
+    "PID": 1960,
+    "Class": "MSCTFIME UI",
+    "Text": "MSCTFIME UI",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40352",
+    "Parent": "0x50080",
+    "PID": 1960,
+    "Class": "IME",
+    "Text": "Default IME",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40320",
+    "Parent": "0x60136",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "\u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f",
+    "Rect": [
+      2095,
+      1168,
+      2215,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x501dc",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "Start",
+    "Text": "\u041f\u0443\u0441\u043a",
+    "Rect": [
+      0,
+      1248,
+      48,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x601fc",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "TrayDummySearchControl",
+    "Text": "",
+    "Rect": [
+      0,
+      1248,
+      0,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60266",
+    "Parent": "0x601fc",
+    "PID": 1960,
+    "Class": "Button",
+    "Text": "\u0427\u0442\u043e\u0431\u044b \u043d\u0430\u0447\u0430\u0442\u044c \u043f\u043e\u0438\u0441\u043a, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044c \u0437\u0430\u043f\u0440\u043e\u0441",
+    "Rect": [
+      0,
+      1248,
+      0,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x5024c",
+    "Parent": "0x601fc",
+    "PID": 1960,
+    "Class": "Static",
+    "Text": "\u0427\u0442\u043e\u0431\u044b \u043d\u0430\u0447\u0430\u0442\u044c \u043f\u043e\u0438\u0441\u043a, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044c \u0437\u0430\u043f\u0440\u043e\u0441",
+    "Rect": [
+      40,
+      1238,
+      40,
+      1258
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x80058",
+    "Parent": "0x601fc",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "",
+    "Rect": [
+      0,
+      1248,
+      0,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x403ae",
+    "Parent": "0x601fc",
+    "PID": 1960,
+    "Class": "DynamicContent1",
+    "Text": "\u0417\u043d\u0430\u0447\u043e\u043a \u043f\u043e\u0438\u0441\u043a\u0430 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0433\u043b\u0430\u0432\u043d\u043e\u0435 \u043e\u043a\u043d\u043e \u043f\u043e\u0438\u0441\u043a\u0430",
+    "Rect": [
+      0,
+      1248,
+      0,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x605c4",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "TrayButton",
+    "Text": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u0434\u0430\u0447",
+    "Rect": [
+      48,
+      1248,
+      96,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x402a6",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "ReBarWindow32",
+    "Text": "",
+    "Rect": [
+      94,
+      1248,
+      2139,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x40338",
+    "Parent": "0x402a6",
+    "PID": 1960,
+    "Class": "MSTaskSwWClass",
+    "Text": "\u0420\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+    "Rect": [
+      96,
+      1248,
+      2139,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x40142",
+    "Parent": "0x40338",
+    "PID": 1960,
+    "Class": "MSTaskListWClass",
+    "Text": "\u0420\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+    "Rect": [
+      96,
+      1248,
+      2139,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xb046e",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "DynamicContent2",
+    "Text": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u044b",
+    "Rect": [
+      2035,
+      1248,
+      2131,
+      1288
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60340",
+    "Parent": "0x7009e",
+    "PID": 1960,
+    "Class": "TrayNotifyWnd",
+    "Text": "",
+    "Rect": [
+      2139,
+      1248,
+      2358,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x604c8",
+    "Parent": "0x60340",
+    "PID": 1960,
+    "Class": "Button",
+    "Text": "",
+    "Rect": [
+      2139,
+      1248,
+      2171,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x405e0",
+    "Parent": "0x604c8",
+    "PID": 1960,
+    "Class": "Button",
+    "Text": "",
+    "Rect": [
+      2139,
+      1248,
+      2139,
+      1248
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x7010a",
+    "Parent": "0x60340",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439",
+    "Rect": [
+      2171,
+      1248,
+      2171,
+      1248
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x90448",
+    "Parent": "0x60340",
+    "PID": 1960,
+    "Class": "SysPager",
+    "Text": "",
+    "Rect": [
+      2171,
+      1248,
+      2203,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x60466",
+    "Parent": "0x90448",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439",
+    "Rect": [
+      2171,
+      1248,
+      2203,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x150442",
+    "Parent": "0x60340",
+    "PID": 1960,
+    "Class": "TrayInputIndicatorWClass",
+    "Text": "\u0418\u043d\u0434\u0438\u043a\u0430\u0442\u043e\u0440 \u0432\u0432\u043e\u0434\u0430 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439",
+    "Rect": [
+      2203,
+      1248,
+      2239,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xb042e",
+    "Parent": "0x150442",
+    "PID": 1960,
+    "Class": "IMEModeButton",
+    "Text": "",
+    "Rect": [
+      2203,
+      1248,
+      2203,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x40158",
+    "Parent": "0x150442",
+    "PID": 1960,
+    "Class": "InputIndicatorButton",
+    "Text": "",
+    "Rect": [
+      2203,
+      1248,
+      2239,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xe0012",
+    "Parent": "0x60340",
+    "PID": 1960,
+    "Class": "TrayClockWClass",
+    "Text": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0435 \u0447\u0430\u0441\u044b, 22:25, \u200e05.\u200e10.\u200e2026",
+    "Rect": [
+      2239,
+      1248,
+      2305,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x40146",
+    "Parent": "0x60340",
+    "PID": 1960,
+    "Class": "TrayButton",
+    "Text": "\u0426\u0435\u043d\u0442\u0440 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439, \u041d\u043e\u0432\u044b\u0445 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439: 4",
+    "Rect": [
+      2305,
+      1248,
+      2353,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x4029c",
+    "Parent": "0x60340",
+    "PID": 1960,
+    "Class": "TrayShowDesktopButtonWClass",
+    "Text": "",
+    "Rect": [
+      2353,
+      1248,
+      2358,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xa048c",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "UIRibbonCommandBarDock",
+    "Text": "UIRibbonDockLeft",
+    "Rect": [
+      627,
+      460,
+      627,
+      946
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x9028c",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "UIRibbonCommandBarDock",
+    "Text": "UIRibbonDockRight",
+    "Rect": [
+      1750,
+      460,
+      1750,
+      946
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x5018c",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "UIRibbonCommandBarDock",
+    "Text": "UIRibbonDockTop",
+    "Rect": [
+      627,
+      344,
+      1750,
+      460
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x70086",
+    "Parent": "0x5018c",
+    "PID": 1960,
+    "Class": "UIRibbonCommandBar",
+    "Text": "Ribbon",
+    "Rect": [
+      627,
+      344,
+      1750,
+      460
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x8046c",
+    "Parent": "0x70086",
+    "PID": 1960,
+    "Class": "UIRibbonWorkPane",
+    "Text": "Ribbon",
+    "Rect": [
+      627,
+      344,
+      1750,
+      460
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x60476",
+    "Parent": "0x8046c",
+    "PID": 1960,
+    "Class": "NUIPane",
+    "Text": "",
+    "Rect": [
+      627,
+      344,
+      1750,
+      491
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x6028a",
+    "Parent": "0x60476",
+    "PID": 1960,
+    "Class": "NetUIHWND",
+    "Text": "",
+    "Rect": [
+      627,
+      313,
+      1750,
+      460
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x6013e",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "UIRibbonCommandBarDock",
+    "Text": "UIRibbonDockBottom",
+    "Rect": [
+      627,
+      946,
+      1750,
+      946
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xa04da",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      627,
+      460,
+      1750,
+      515
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x6023a",
+    "Parent": "0xa04da",
+    "PID": 1960,
+    "Class": "ReBarWindow32",
+    "Text": "",
+    "Rect": [
+      627,
+      460,
+      1750,
+      515
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x190184",
+    "Parent": "0x6023a",
+    "PID": 1960,
+    "Class": "TravelBand",
+    "Text": "",
+    "Rect": [
+      627,
+      469,
+      727,
+      503
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xc0298",
+    "Parent": "0x190184",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "\u041a\u043d\u043e\u043f\u043a\u0438 \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438",
+    "Rect": [
+      631,
+      471,
+      727,
+      503
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x80112",
+    "Parent": "0x6023a",
+    "PID": 1960,
+    "Class": "UpBand",
+    "Text": "",
+    "Rect": [
+      727,
+      468,
+      763,
+      504
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x190274",
+    "Parent": "0x80112",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u043f\u043e\u043b\u043e\u0441\u0430",
+    "Rect": [
+      727,
+      471,
+      763,
+      507
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xf0302",
+    "Parent": "0x6023a",
+    "PID": 1960,
+    "Class": "Address Band Root",
+    "Text": "",
+    "Rect": [
+      763,
+      460,
+      1525,
+      512
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xf0514",
+    "Parent": "0xf0302",
+    "PID": 1960,
+    "Class": "msctls_progress32",
+    "Text": "",
+    "Rect": [
+      765,
+      470,
+      1523,
+      504
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x901b2",
+    "Parent": "0xf0514",
+    "PID": 1960,
+    "Class": "Breadcrumb Parent",
+    "Text": "",
+    "Rect": [
+      765,
+      470,
+      1463,
+      504
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x90580",
+    "Parent": "0x901b2",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "\u0410\u0434\u0440\u0435\u0441: @WORKSPACE_ESC@\\outputs\\Windows10-Builds\\20261005-220121-b003-untilstop-icons\\outputs\\Windows10-Components\\Runtime",
+    "Rect": [
+      771,
+      470,
+      1463,
+      504
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xb0390",
+    "Parent": "0xf0514",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "\u0410\u0434\u0440\u0435\u0441\u043d\u0430\u044f \u0441\u0442\u0440\u043e\u043a\u0430",
+    "Rect": [
+      1463,
+      470,
+      1523,
+      504
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xe04a8",
+    "Parent": "0x6023a",
+    "PID": 1960,
+    "Class": "SeparatorBand",
+    "Text": "",
+    "Rect": [
+      1529,
+      485,
+      1535,
+      486
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x70248",
+    "Parent": "0x6023a",
+    "PID": 1960,
+    "Class": "UniversalSearchBand",
+    "Text": "",
+    "Rect": [
+      1535,
+      466,
+      1739,
+      506
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x6048e",
+    "Parent": "0x70248",
+    "PID": 1960,
+    "Class": "Search Box",
+    "Text": "",
+    "Rect": [
+      1535,
+      469,
+      1739,
+      505
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x60218",
+    "Parent": "0x6048e",
+    "PID": 1960,
+    "Class": "SearchEditBoxWrapperClass",
+    "Text": "",
+    "Rect": [
+      1540,
+      469,
+      1734,
+      505
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xb0330",
+    "Parent": "0x60218",
+    "PID": 1960,
+    "Class": "DirectUIHWND",
+    "Text": "",
+    "Rect": [
+      1540,
+      469,
+      1734,
+      505
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x604c6",
+    "Parent": "0x6023a",
+    "PID": 1960,
+    "Class": "SeparatorBand",
+    "Text": "",
+    "Rect": [
+      1743,
+      485,
+      1750,
+      486
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x801b4",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "ShellTabWindowClass",
+    "Text": "Runtime",
+    "Rect": [
+      627,
+      515,
+      1750,
+      946
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x60198",
+    "Parent": "0x801b4",
+    "PID": 1960,
+    "Class": "DUIViewWndClassName",
+    "Text": "",
+    "Rect": [
+      627,
+      515,
+      1750,
+      946
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x50190",
+    "Parent": "0x60198",
+    "PID": 1960,
+    "Class": "DirectUIHWND",
+    "Text": "",
+    "Rect": [
+      627,
+      515,
+      1750,
+      946
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x700f6",
+    "Parent": "0x50190",
+    "PID": 1960,
+    "Class": "CtrlNotifySink",
+    "Text": "",
+    "Rect": [
+      629,
+      515,
+      783,
+      922
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x70108",
+    "Parent": "0x700f6",
+    "PID": 1960,
+    "Class": "NamespaceTreeControl",
+    "Text": "\u0414\u0435\u0440\u0435\u0432\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430 \u0438\u043c\u0435\u043d",
+    "Rect": [
+      629,
+      515,
+      783,
+      922
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x60138",
+    "Parent": "0x70108",
+    "PID": 1960,
+    "Class": "Static",
+    "Text": "\u0414\u0435\u0440\u0435\u0432\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430 \u0438\u043c\u0435\u043d",
+    "Rect": [
+      629,
+      515,
+      629,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40178",
+    "Parent": "0x70108",
+    "PID": 1960,
+    "Class": "SysTreeView32",
+    "Text": "\u041e\u0431\u043b\u0430\u0441\u0442\u044c \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438",
+    "Rect": [
+      629,
+      515,
+      783,
+      922
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x40180",
+    "Parent": "0x50190",
+    "PID": 1960,
+    "Class": "CtrlNotifySink",
+    "Text": "",
+    "Rect": [
+      799,
+      527,
+      799,
+      527
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x501bc",
+    "Parent": "0x40180",
+    "PID": 1960,
+    "Class": "Button",
+    "Text": "",
+    "Rect": [
+      799,
+      527,
+      799,
+      527
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x901f2",
+    "Parent": "0x50190",
+    "PID": 1960,
+    "Class": "CtrlNotifySink",
+    "Text": "",
+    "Rect": [
+      799,
+      527,
+      799,
+      527
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60202",
+    "Parent": "0x901f2",
+    "PID": 1960,
+    "Class": "Button",
+    "Text": "",
+    "Rect": [
+      799,
+      527,
+      799,
+      527
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40222",
+    "Parent": "0x50190",
+    "PID": 1960,
+    "Class": "CtrlNotifySink",
+    "Text": "",
+    "Rect": [
+      627,
+      515,
+      627,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x40224",
+    "Parent": "0x40222",
+    "PID": 1960,
+    "Class": "Shell Preview Extension Host",
+    "Text": "Shell Preview Extension Host",
+    "Rect": [
+      627,
+      515,
+      627,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x150436",
+    "Parent": "0x50190",
+    "PID": 1960,
+    "Class": "CtrlNotifySink",
+    "Text": "",
+    "Rect": [
+      787,
+      515,
+      1750,
+      922
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xa029a",
+    "Parent": "0x150436",
+    "PID": 1960,
+    "Class": "SHELLDLL_DefView",
+    "Text": "ShellView",
+    "Rect": [
+      787,
+      515,
+      1750,
+      922
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0xc016e",
+    "Parent": "0xa029a",
+    "PID": 1960,
+    "Class": "DirectUIHWND",
+    "Text": "",
+    "Rect": [
+      787,
+      515,
+      1750,
+      922
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x80308",
+    "Parent": "0xc016e",
+    "PID": 1960,
+    "Class": "CtrlNotifySink",
+    "Text": "",
+    "Rect": [
+      787,
+      515,
+      787,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x902b0",
+    "Parent": "0x80308",
+    "PID": 1960,
+    "Class": "ScrollBar",
+    "Text": "",
+    "Rect": [
+      787,
+      515,
+      787,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x50296",
+    "Parent": "0xc016e",
+    "PID": 1960,
+    "Class": "CtrlNotifySink",
+    "Text": "",
+    "Rect": [
+      787,
+      515,
+      787,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x7059c",
+    "Parent": "0x50296",
+    "PID": 1960,
+    "Class": "ScrollBar",
+    "Text": "",
+    "Rect": [
+      787,
+      515,
+      787,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x6018e",
+    "Parent": "0x801b4",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      627,
+      515,
+      1750,
+      515
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x601a6",
+    "Parent": "0x6018e",
+    "PID": 1960,
+    "Class": "ReBarWindow32",
+    "Text": "",
+    "Rect": [
+      627,
+      515,
+      1750,
+      515
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x50168",
+    "Parent": "0x601a6",
+    "PID": 1960,
+    "Class": "ToolbarWindow32",
+    "Text": "",
+    "Rect": [
+      629,
+      515,
+      1750,
+      515
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x50166",
+    "Parent": "0x801b4",
+    "PID": 1960,
+    "Class": "msctls_statusbar32",
+    "Text": "",
+    "Rect": [
+      627,
+      492,
+      627,
+      515
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xf03fa",
+    "Parent": "0xd0334",
+    "PID": 1960,
+    "Class": "UIRibbonWorkPane",
+    "Text": "UIRibbonWorkPane",
+    "Rect": [
+      627,
+      313,
+      727,
+      413
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60226",
+    "Parent": "0x60212",
+    "PID": 1960,
+    "Class": "ApplicationFrameTitleBarWindow",
+    "Text": "",
+    "Rect": [
+      8,
+      1,
+      2350,
+      33
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x70246",
+    "Parent": "0x60212",
+    "PID": 1960,
+    "Class": "ApplicationFrameTitleBarWindow",
+    "Text": "",
+    "Rect": [
+      8,
+      0,
+      8,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0x60126",
+    "Parent": "0x60212",
+    "PID": 1960,
+    "Class": "ApplicationFrameInputSinkWindow",
+    "Text": "",
+    "Rect": [
+      8,
+      33,
+      2350,
+      1240
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x500d4",
+    "Parent": "0x50080",
+    "PID": 1960,
+    "Class": "SHELLDLL_DefView",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      2358,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x604aa",
+    "Parent": "0x500d4",
+    "PID": 1960,
+    "Class": "SysListView32",
+    "Text": "FolderView",
+    "Rect": [
+      0,
+      0,
+      2358,
+      1288
+    ],
+    "Visible": true
+  },
+  {
+    "Hwnd": "0x504b0",
+    "Parent": "0x604aa",
+    "PID": 1960,
+    "Class": "SysHeader32",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Visible": false
+  },
+  {
+    "Hwnd": "0xb039c",
+    "Parent": "0x50080",
+    "PID": 1960,
+    "Class": "WorkerW",
+    "Text": "",
+    "Rect": [
+      0,
+      0,
+      2358,
+      1288
+    ],
+    "Visible": true
+  }
+]

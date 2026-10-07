@@ -1,0 +1,26 @@
+{
+  "NoVFS": true,
+  "ScopedNativeXamlOldFactories": true,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsXamlCompat\\SettingsFactorySelectorXaml.cpp",
+      "SHA256": "75cca1152aef0d0c6241cb158c88397b89f8f8a3e7e7040b8997877ef867ca3b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsXamlCompat\\SettingsFactorySelectorXaml.dll",
+      "SHA256": "2ab0d5d57a018cb17e4622b5da083d40bf9fa9da281563e7547a8bdeaba60e9b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsXamlCompat\\SelectorPins.h",
+      "SHA256": "c2ec22c0454245a7ac685999aa8de2ed2a8ef260b0c9554dd9ff1e3beba0f9c8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsXamlCompat\\Launch-SettingsNoVfs.py",
+      "SHA256": "12aa6a00e21db52065c4ea880401c09957c772f8a40773fb5de5c5049f085423"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsXamlCompat\\adapter-metadata.json",
+      "SHA256": "305b21657a32ba5166c603615cd0ca900a9131a85fefd71181d23cc1da0992cd"
+    }
+  ]
+}

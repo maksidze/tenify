@@ -1,0 +1,15 @@
+{
+  "nativeModule": "C:\\Windows\\System32\\Windows.UI.Xaml.dll",
+  "sha256": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+  "timestamp": 742116993,
+  "sizeOfImage": 17858560,
+  "validatedPrologueRVA": "0x39eb50",
+  "validatedPrologueBytes": "40534883ec2033db391d7ecdc200753d4533c94c8d0566cd",
+  "initializer": "XamlQuirkInitialize",
+  "rollback": "XamlQuirkRestore",
+  "scope": "Calling process only; native XAML cache quirk0x20106 only; unsupported cache suppression modes rejected",
+  "cachePointerRVA": "0xfcb8d0",
+  "cacheExpectedRVA": "0xfcd720",
+  "cacheByte": 4,
+  "mask": 4
+}

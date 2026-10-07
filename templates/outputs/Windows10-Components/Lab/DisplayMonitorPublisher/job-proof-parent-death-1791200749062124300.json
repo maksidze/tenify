@@ -1,0 +1,9 @@
+{
+    "Mode":  "parent-death",
+    "ParentPid":  2224,
+    "Pid":  8512,
+    "Birth":  "134356743493196922",
+    "AssignedBeforeResume":  true,
+    "Path":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThreadStackSnapshot\\PssStacks.exe",
+    "Ready":  true
+}

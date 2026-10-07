@@ -1,0 +1,7 @@
+{
+  "exitCode": 0,
+  "stdout": "QueryActive=1 err=2 len=0 bytes=\r\nRoInitialize=00000000\r\nGetFactory=00000000 nonNull=1\r\nDLL Initialize=00000000\r\nInitialize=00000000 nonNull=1\r\n",
+  "stderr": "",
+  "ownNonShellChild": true,
+  "packageIdentity": "none"
+}

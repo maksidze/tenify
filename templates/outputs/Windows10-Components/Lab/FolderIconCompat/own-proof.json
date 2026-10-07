@@ -1,0 +1,650 @@
+{
+  "Scope": "own hidden icon API children; no shared cache clearing, system file changes or live shell manipulation",
+  "Results": [
+    {
+      "mode": "native",
+      "pid": 8428,
+      "exit": 0,
+      "killed": false,
+      "directory": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\FolderIconCompat\\sessions\\d60faefac1764f91a35b218e49463594\\native",
+      "report": {
+        "pid": 8428,
+        "icons": [
+          {
+            "name": "empty-fileinfo-100",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "empty-fileinfo-110",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "empty-fileinfo-102",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "empty-location",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "flags": 4,
+            "pixelsSHA": null
+          },
+          {
+            "name": "empty-extract",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 48,
+            "height": 48,
+            "drawn": true,
+            "pixelsSHA": "45b8cf1532d3130f741646982e90225ead574bd491b74769a80a1751fcae6331"
+          },
+          {
+            "name": "empty-factory-4",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/EmptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "a3ca656566c8b6839fe8c391b3e07f6567fc1df71b462162449e228f2f51c38a"
+          },
+          {
+            "name": "empty-factory-8",
+            "hr": "8004b200",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/EmptyFolder",
+            "index": 0,
+            "pixelsSHA": null
+          },
+          {
+            "name": "empty-factory-0",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/EmptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "a3ca656566c8b6839fe8c391b3e07f6567fc1df71b462162449e228f2f51c38a"
+          },
+          {
+            "name": "nonempty-fileinfo-100",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "nonempty-fileinfo-110",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "nonempty-fileinfo-102",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "nonempty-location",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "flags": 4,
+            "pixelsSHA": null
+          },
+          {
+            "name": "nonempty-extract",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 48,
+            "height": 48,
+            "drawn": true,
+            "pixelsSHA": "45b8cf1532d3130f741646982e90225ead574bd491b74769a80a1751fcae6331"
+          },
+          {
+            "name": "nonempty-factory-4",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "a3ca656566c8b6839fe8c391b3e07f6567fc1df71b462162449e228f2f51c38a"
+          },
+          {
+            "name": "nonempty-factory-8",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "0c539071ab7d76242329d8c89b5e2b50539438b61355b4bb3d5f908b2bc09349"
+          },
+          {
+            "name": "nonempty-factory-0",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/native/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "0c539071ab7d76242329d8c89b5e2b50539438b61355b4bb3d5f908b2bc09349"
+          },
+          {
+            "name": "stock-3",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "stock-4",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -4,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "3c74925ce60fbc2d3c1e7e65947e49f97d8d74362552af15ebbf883a7765f718"
+          },
+          {
+            "name": "explorer-native",
+            "hr": "00000000",
+            "path": "C:/Windows/explorer.exe",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a3dda4da839aaa1824f98771acf7cca9cee988b63210927c8050318825f2dce7"
+          },
+          {
+            "name": "explorer-private",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/IconResourceMaximum/ResourceOnlyContainers/explorer.exe.mun",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a1b1bcf84cac2fe1d3fb4133847c3cea2ac613926a113b11aa23bee4c0de0d19"
+          },
+          {
+            "name": "explorer-old",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Image/4/Windows/explorer.exe",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a1b1bcf84cac2fe1d3fb4133847c3cea2ac613926a113b11aa23bee4c0de0d19"
+          }
+        ]
+      }
+    },
+    {
+      "mode": "merged",
+      "pid": 8532,
+      "exit": 0,
+      "killed": false,
+      "directory": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\FolderIconCompat\\sessions\\d60faefac1764f91a35b218e49463594\\merged",
+      "report": {
+        "pid": 8532,
+        "icons": [
+          {
+            "name": "empty-fileinfo-100",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "empty-fileinfo-110",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "empty-fileinfo-102",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "empty-location",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "flags": 4,
+            "pixelsSHA": null
+          },
+          {
+            "name": "empty-extract",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 48,
+            "height": 48,
+            "drawn": true,
+            "pixelsSHA": "bc7eca7574a2557a70f2dba1f29414ea67478e18de7e9373de11e66744f9ec95"
+          },
+          {
+            "name": "empty-factory-4",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/EmptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "41764f6987cbb99c33906e60adf023f498249c3129250f4bf3ee012e437f8622"
+          },
+          {
+            "name": "empty-factory-8",
+            "hr": "8004b200",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/EmptyFolder",
+            "index": 0,
+            "pixelsSHA": null
+          },
+          {
+            "name": "empty-factory-0",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/EmptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "41764f6987cbb99c33906e60adf023f498249c3129250f4bf3ee012e437f8622"
+          },
+          {
+            "name": "nonempty-fileinfo-100",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "nonempty-fileinfo-110",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "nonempty-fileinfo-102",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "nonempty-location",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "flags": 4,
+            "pixelsSHA": null
+          },
+          {
+            "name": "nonempty-extract",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 48,
+            "height": 48,
+            "drawn": true,
+            "pixelsSHA": "bc7eca7574a2557a70f2dba1f29414ea67478e18de7e9373de11e66744f9ec95"
+          },
+          {
+            "name": "nonempty-factory-4",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "41764f6987cbb99c33906e60adf023f498249c3129250f4bf3ee012e437f8622"
+          },
+          {
+            "name": "nonempty-factory-8",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "6e341874d71487cafeb5218191ba0c563adb90e56ca4ceb69c403025b5c9aba8"
+          },
+          {
+            "name": "nonempty-factory-0",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/merged/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "6e341874d71487cafeb5218191ba0c563adb90e56ca4ceb69c403025b5c9aba8"
+          },
+          {
+            "name": "stock-3",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "stock-4",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -4,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "explorer-native",
+            "hr": "00000000",
+            "path": "C:/Windows/explorer.exe",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a3dda4da839aaa1824f98771acf7cca9cee988b63210927c8050318825f2dce7"
+          },
+          {
+            "name": "explorer-private",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/IconResourceMaximum/ResourceOnlyContainers/explorer.exe.mun",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a1b1bcf84cac2fe1d3fb4133847c3cea2ac613926a113b11aa23bee4c0de0d19"
+          },
+          {
+            "name": "explorer-old",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Image/4/Windows/explorer.exe",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a1b1bcf84cac2fe1d3fb4133847c3cea2ac613926a113b11aa23bee4c0de0d19"
+          }
+        ]
+      }
+    },
+    {
+      "mode": "oldmun",
+      "pid": 5788,
+      "exit": 0,
+      "killed": false,
+      "directory": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\FolderIconCompat\\sessions\\d60faefac1764f91a35b218e49463594\\oldmun",
+      "report": {
+        "pid": 5788,
+        "icons": [
+          {
+            "name": "empty-fileinfo-100",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "empty-fileinfo-110",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "empty-fileinfo-102",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/EmptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "empty-location",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "flags": 4,
+            "pixelsSHA": null
+          },
+          {
+            "name": "empty-extract",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 48,
+            "height": 48,
+            "drawn": true,
+            "pixelsSHA": "bc7eca7574a2557a70f2dba1f29414ea67478e18de7e9373de11e66744f9ec95"
+          },
+          {
+            "name": "empty-factory-4",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/EmptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "41764f6987cbb99c33906e60adf023f498249c3129250f4bf3ee012e437f8622"
+          },
+          {
+            "name": "empty-factory-8",
+            "hr": "8004b200",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/EmptyFolder",
+            "index": 0,
+            "pixelsSHA": null
+          },
+          {
+            "name": "empty-factory-0",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/EmptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "41764f6987cbb99c33906e60adf023f498249c3129250f4bf3ee012e437f8622"
+          },
+          {
+            "name": "nonempty-fileinfo-100",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "nonempty-fileinfo-110",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "nonempty-fileinfo-102",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/NonemptyFolder",
+            "index": 3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "nonempty-location",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "flags": 4,
+            "pixelsSHA": null
+          },
+          {
+            "name": "nonempty-extract",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 48,
+            "height": 48,
+            "drawn": true,
+            "pixelsSHA": "bc7eca7574a2557a70f2dba1f29414ea67478e18de7e9373de11e66744f9ec95"
+          },
+          {
+            "name": "nonempty-factory-4",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "41764f6987cbb99c33906e60adf023f498249c3129250f4bf3ee012e437f8622"
+          },
+          {
+            "name": "nonempty-factory-8",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "6e341874d71487cafeb5218191ba0c563adb90e56ca4ceb69c403025b5c9aba8"
+          },
+          {
+            "name": "nonempty-factory-0",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/FolderIconCompat/sessions/d60faefac1764f91a35b218e49463594/oldmun/NonemptyFolder",
+            "index": 0,
+            "width": 96,
+            "height": 96,
+            "drawn": true,
+            "pixelsSHA": "6e341874d71487cafeb5218191ba0c563adb90e56ca4ceb69c403025b5c9aba8"
+          },
+          {
+            "name": "stock-3",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -3,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "stock-4",
+            "hr": "00000000",
+            "path": "C:/Windows/system32/imageres.dll",
+            "index": -4,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "12267a230f2cd59049dda6d05d99580e8f66fbe9fdca256f181dbd76741bb55f"
+          },
+          {
+            "name": "explorer-native",
+            "hr": "00000000",
+            "path": "C:/Windows/explorer.exe",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a3dda4da839aaa1824f98771acf7cca9cee988b63210927c8050318825f2dce7"
+          },
+          {
+            "name": "explorer-private",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Lab/IconResourceMaximum/ResourceOnlyContainers/explorer.exe.mun",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a1b1bcf84cac2fe1d3fb4133847c3cea2ac613926a113b11aa23bee4c0de0d19"
+          },
+          {
+            "name": "explorer-old",
+            "hr": "00000000",
+            "path": "@WORKSPACE@/outputs/Windows10-Components/Image/4/Windows/explorer.exe",
+            "index": 0,
+            "width": 32,
+            "height": 32,
+            "drawn": true,
+            "pixelsSHA": "a1b1bcf84cac2fe1d3fb4133847c3cea2ac613926a113b11aa23bee4c0de0d19"
+          }
+        ]
+      }
+    }
+  ]
+}

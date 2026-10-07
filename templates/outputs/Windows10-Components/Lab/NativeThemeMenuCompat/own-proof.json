@@ -1,0 +1,165 @@
+{
+  "Pass": true,
+  "ProductionLiveTested": false,
+  "HelperSHA": "125306f0ce2767486dd7faa8937f5ae04ef4c51941243851bcc69618127455ef",
+  "SourceSHA": "95fd0c40dad87091bbf36eff7e65539bb01122b1b45aabbeb735897eaa33e837",
+  "UnitClassifier": {
+    "Pass": true,
+    "Scope": "classifier white-box with genuine native queries; separate actual production DLL popup proof is required",
+    "Files": {
+      "ThemeMenu.cpp": "95fd0c40dad87091bbf36eff7e65539bb01122b1b45aabbeb735897eaa33e837",
+      "UnitFixture.cpp": "538597124574fae7393fd5e3399e444d95672fe9486ae4fb15d7ff1e407324ad",
+      "UnitFixture.exe": "0647b8d5b1503f5576763c1c57484630e7f72b4f55357dd82ae6767125c07b47",
+      "Pins.h": "a337731d75817efa301caef06d5ba417413ab8bc6494aac97aedf326c2d6de37"
+    },
+    "Results": [
+      {
+        "mode": "native",
+        "pid": 11780,
+        "exit": 0,
+        "killed": false,
+        "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nfixture native theme refused PASS\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+        "stderr": ""
+      },
+      {
+        "mode": "wrong-byte",
+        "pid": 9844,
+        "exit": 0,
+        "killed": false,
+        "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nown full old theme PASS\nown wrong byte PASS\nbyte guard refuses PASS\nno publication PASS\nrepair own deliberate byte PASS\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+        "stderr": ""
+      },
+      {
+        "mode": "normal",
+        "pid": 2696,
+        "exit": 0,
+        "killed": false,
+        "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nown full old theme PASS\ninitialize PASS\nidempotence PASS\ngenuine handles PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nnonMENU unchanged PASS\nnonMENU unchanged PASS\nunscoped original missing result PASS\nreserved state no translation PASS\ngenuine missing property preserved PASS\nseparate native provider load PASS\nseparate native provider open PASS\nnative different backing PASS\nforeign native MENU unchanged PASS\nquarantined installed helper cannot claim success PASS\nown foreign call marker PASS\nforeign call reinit refused PASS\nforeign call restore refused PASS\nforeign call preserved PASS\nrepair own marker PASS\nrestore PASS\n17 exact original bytes PASS\nrepeat restore safe PASS\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+        "stderr": ""
+      },
+      {
+        "mode": "generation",
+        "pid": 6572,
+        "exit": 0,
+        "killed": false,
+        "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nown full old theme PASS\ninitialize PASS\nidempotence PASS\ngenuine handles PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nnonMENU unchanged PASS\nnonMENU unchanged PASS\nunscoped original missing result PASS\nreserved state no translation PASS\ngenuine missing property preserved PASS\nseparate native provider load PASS\nseparate native provider open PASS\nnative different backing PASS\nforeign native MENU unchanged PASS\nforeign own generation PASS\nstale handle rejected before class/fromData PASS\nforeign restore refused PASS\nforeign reinit refused PASS\nall 17 patches preserved PASS\nforced generation uses immediate own process teardown; no hot continuation\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+        "stderr": ""
+      }
+    ]
+  },
+  "ActualPopup": {
+    "Results": [
+      {
+        "Policy": 2,
+        "Exit": 0,
+        "Report": "private desktop PASS\nphysical PCS guarded PASS\nnative shell hash PASS\nown full old theme PASS\npolicy=2 oldPreferred=0\nreal helper initialized PASS\ncombined genuine WinX DLL initialized PASS\ncombined genuine Square DLL initialized PASS\nShouldAppsDark=1 ownerAllowed=1\nApplyFlags=c\ncombined real popup square PASS\nPopup0 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup0 visible1 privateDesktop1\nrenderer=0 rowHeight=22 selected=0 error=0\ntimer-only cancel PASS\nnative renderer guards PASS\ngenuine Apply PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nrenderer=1 rowHeight=38 selected=0 error=0\ntimer-only cancel PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nsubmenu renderer=1 rowHeight=44\nnative renderer guards PASS\ngenuine Apply PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nrenderer=2 rowHeight=38 selected=0 error=0\ntimer-only cancel PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nsubmenu renderer=2 rowHeight=44\ncombined square restored PASS\ncombined WinX restored PASS\nreal helper restored PASS\nmodule inventory PASS\nPCSCOUNT=1\nsingle nativePCS after actualpopups PASS\nmapHits=0 fullOld=1\ndesktop close PASS\nCOMPLETE=0 no user input/commands/system theme change\n",
+        "Bootstrap": {
+          "Type": "nativePCS-DComp-memorySelector",
+          "OwnedPid": 7856,
+          "OwnedExe": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuThemeColorCompat\\MenuThemeFixture.exe",
+          "NativePCSPath": "C:\\Windows\\System32\\twinui.pcshell.dll",
+          "NativePCSSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+          "PdbSHA256": "0699cb3148a9496d2ab72bdf0cd3e22e6e105438ada5fe22eebb179ea2c9ce4b",
+          "NativeBase": "0x7ff8ba0f0000",
+          "Physical": {
+            "physicalMappedFile": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinui.pcshell.dll",
+            "expectedPhysicalFile": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinui.pcshell.dll",
+            "mappedIdentityMatched": true
+          },
+          "Reported": "c:\\windows\\system32\\twinui.pcshell.dll",
+          "CallRVA": "0x18781f",
+          "Original": "e884370d00",
+          "Replacement": "e8dc87e6ff",
+          "Thunk": "0x7ff8ba0e0000",
+          "ThunkBytes": "83fa017505e9220e4a00e999af2600",
+          "OriginalXamlRVA": "0x25afa8",
+          "AltTabDcompRVA": "0x490e2c",
+          "Condition": "edx==1",
+          "Threads": [
+            {
+              "tid": 1376,
+              "priorSuspendCount": 0,
+              "rip": "0x7ff8d81e6ee4"
+            },
+            {
+              "tid": 3604,
+              "priorSuspendCount": 0,
+              "rip": "0x7ff8d81e6ee4"
+            },
+            {
+              "tid": 6804,
+              "priorSuspendCount": 0,
+              "rip": "0x7ff8d81e6ee4"
+            },
+            {
+              "tid": 13352,
+              "priorSuspendCount": 1,
+              "rip": "0x7ff796816570"
+            }
+          ],
+          "NoVFS": true,
+          "NoDiskWrites": true
+        }
+      },
+      {
+        "Policy": 3,
+        "Exit": 0,
+        "Report": "private desktop PASS\nphysical PCS guarded PASS\nnative shell hash PASS\nown full old theme PASS\npolicy=3 oldPreferred=0\nreal helper initialized PASS\ncombined genuine WinX DLL initialized PASS\ncombined genuine Square DLL initialized PASS\nShouldAppsDark=0 ownerAllowed=0\nApplyFlags=4\ncombined real popup square PASS\nPopup0 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup0 visible1 privateDesktop1\nrenderer=0 rowHeight=22 selected=0 error=0\ntimer-only cancel PASS\nnative renderer guards PASS\ngenuine Apply PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nrenderer=1 rowHeight=26 selected=0 error=0\ntimer-only cancel PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup1 visible1 privateDesktop1\nsubmenu renderer=1 rowHeight=28\nnative renderer guards PASS\ngenuine Apply PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nrenderer=2 rowHeight=26 selected=0 error=0\ntimer-only cancel PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nown HiliteMenuItem hot PASS\ncombined real popup square PASS\nPopup2 visible1 privateDesktop1\nsubmenu renderer=2 rowHeight=28\ncombined square restored PASS\ncombined WinX restored PASS\nreal helper restored PASS\nmodule inventory PASS\nPCSCOUNT=1\nsingle nativePCS after actualpopups PASS\nmapHits=0 fullOld=1\ndesktop close PASS\nCOMPLETE=0 no user input/commands/system theme change\n",
+        "Bootstrap": {
+          "Type": "nativePCS-DComp-memorySelector",
+          "OwnedPid": 9208,
+          "OwnedExe": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuThemeColorCompat\\MenuThemeFixture.exe",
+          "NativePCSPath": "C:\\Windows\\System32\\twinui.pcshell.dll",
+          "NativePCSSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+          "PdbSHA256": "0699cb3148a9496d2ab72bdf0cd3e22e6e105438ada5fe22eebb179ea2c9ce4b",
+          "NativeBase": "0x7ff8ba0f0000",
+          "Physical": {
+            "physicalMappedFile": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinui.pcshell.dll",
+            "expectedPhysicalFile": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinui.pcshell.dll",
+            "mappedIdentityMatched": true
+          },
+          "Reported": "c:\\windows\\system32\\twinui.pcshell.dll",
+          "CallRVA": "0x18781f",
+          "Original": "e884370d00",
+          "Replacement": "e8dc87e6ff",
+          "Thunk": "0x7ff8ba0e0000",
+          "ThunkBytes": "83fa017505e9220e4a00e999af2600",
+          "OriginalXamlRVA": "0x25afa8",
+          "AltTabDcompRVA": "0x490e2c",
+          "Condition": "edx==1",
+          "Threads": [
+            {
+              "tid": 2232,
+              "priorSuspendCount": 0,
+              "rip": "0x7ff8d81e6ee4"
+            },
+            {
+              "tid": 5452,
+              "priorSuspendCount": 1,
+              "rip": "0x7ff796816570"
+            },
+            {
+              "tid": 6868,
+              "priorSuspendCount": 0,
+              "rip": "0x7ff8d81e6ee4"
+            },
+            {
+              "tid": 8600,
+              "priorSuspendCount": 0,
+              "rip": "0x7ff8d81e6ee4"
+            }
+          ],
+          "NoVFS": true,
+          "NoDiskWrites": true
+        }
+      }
+    ],
+    "FixtureSHA": "5975763df477828ff92ee8771b7128240bb8cdf072aa7fad10e4388f62c633f9",
+    "HelperSHA": "125306f0ce2767486dd7faa8937f5ae04ef4c51941243851bcc69618127455ef",
+    "WinXSHA": "d98504fc18ceb0f7e86a382fe9bb9c6b09fbb8fe5d6c90644876c14d6d5a9e1c",
+    "SquareSHA": "823daea6d7e4b238f4a2fd0d35cd619745a276e57aedeb6491c7aba1431f0f90",
+    "NoVFS": true,
+    "PCSCountAfterMain": 1
+  },
+  "ActualPopupFile": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuThemeColorCompat\\real-helper-proof.json"
+}

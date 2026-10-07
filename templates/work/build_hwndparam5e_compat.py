@@ -1,0 +1,7 @@
+from pathlib import Path
+import sys,struct,json,hashlib
+sys.path.insert(0,str(Path('work/pylib').resolve()))
+import pefile
+r=Path('outputs/Windows10-Components/Lab/PfnCompat');f=r/'W1N32U.dll';d=bytearray(f.read_bytes());p=pefile.PE(data=d);h=pefile.PE('C:/Windows/System32/win32u.dll');x=next(x for x in h.DIRECTORY_ENTRY_EXPORT.symbols if x.name==b'NtUserGetClassIcoCur');b=h.get_data(x.address,32);assert b[:4]==bytes.fromhex('4c8bd1b8');num=struct.unpack_from('<I',b,4)[0];rva=next(x.address for x in p.DIRECTORY_ENTRY_EXPORT.symbols if x.name==b'NtUserCallHwndParam');off=p.get_offset_from_rva(rva);before=bytes(d[off:off+32]);assert before[0]==0xb8 and before[5:7]==b'\x0f\x0b';code=bytes.fromhex('4183f85e7407')+b'\xb8'+before[1:5]+b'\x0f\x0b'+bytes.fromhex('4c8bd1b8')+struct.pack('<I',num)+b'\x0f\x05\xc3';assert len(code)==24;d[off:off+len(code)]=code
+p=pefile.PE(data=d);struct.pack_into('<I',d,p.OPTIONAL_HEADER.get_field_absolute_offset('CheckSum'),p.generate_checksum());f.write_bytes(d)
+(r/'hwndparam5e-compat-info.json').write_text(json.dumps({'rva':hex(rva),'selector':'0x5e','hostName':'NtUserGetClassIcoCur','hostSyscall':hex(num),'newBytes':code.hex(),'guardRVA':hex(rva+11),'proof':'Old _GetClassData12577..12588 uses HWND from tagWND firstQWORD and signed index RDX, selector5e for GCL_HICON=-14/GCL_HCURSOR=-12; host _GetClassData/GetClassLong uses same HWND and signed index then NtUserGetClassIcoCur at422c3,42821. Runtime caller1258f and RDX-14 confirmed.','systemFilesModified':False},indent=2))

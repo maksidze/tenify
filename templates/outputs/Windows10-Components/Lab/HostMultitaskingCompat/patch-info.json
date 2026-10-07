@@ -1,0 +1,24 @@
+{
+  "status": "Built and statically validated; runtime routing not yet tested",
+  "source": "C:\\Windows\\System32\\twinui.pcshell.dll",
+  "sourceSha256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+  "sourceVersion": "10.0.26100.6584",
+  "output": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\HostMultitaskingCompat\\twinui.pcshell.dll",
+  "outputSha256": "adb6a8773c03bf896a349eabbe7ebc638e4fd137b384cd7294f6555d4ea084e7",
+  "pdbUrl": "https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/01E019DF95600CDC17CC1B4E932792551/twinui.pcshell.pdb",
+  "pdbMatch": true,
+  "patch": {
+    "outerRva": "0x187688",
+    "xamlRva": "0x25afa8",
+    "dcompRva": "0x490e2c",
+    "callRva": "0x18781f",
+    "originalCall": "e884370d00",
+    "patchedCall": "e8dc677900",
+    "thunkRva": "0x91e000",
+    "thunkBytes": "83fa017505e9222eb7ffe999cf93ff",
+    "behavior": "edx == 1 (Alt+Tab): DComp; otherwise: original XAML"
+  },
+  "signature": "Lab DLL signature invalidated; FORCE_INTEGRITY cleared only on lab copy",
+  "systemFileUnchanged": true,
+  "reference": "https://github.com/valinet/ExplorerPatcher/blob/0a88a6e0ef6b1752fea36e581cffff1097e862b0/ExplorerPatcher/TwinUIPatches.cpp#L1054"
+}

@@ -1,0 +1,37 @@
+{
+  "State": {
+    "Mode": "UntilStop",
+    "ManifestSHA256": "2BDACDE7C8250323FCF38DC3682C5153529A77E1C852D21C1B94A9DC14348A94",
+    "ControllerPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "TargetPid": 6924,
+    "TargetBorn": "134357030383058038",
+    "ChildPid": 10520,
+    "ChildBorn": "134357343396697388",
+    "ChildPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayUntilStop.exe",
+    "ControllerPid": 4816,
+    "ControllerBorn": "134357343385429680",
+    "StopFile": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-9bb6286caf054070a6b8af3958e3817d.stop",
+    "Ready": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-9bb6286caf054070a6b8af3958e3817d.ready",
+    "VisualVerified": false,
+    "NoShellTermination": true
+  },
+  "ActiveEXESHA256": "f5023035ebaaf09b65220243c3c2f723a0b268f7b66b1e18aa7fd8132d3fe140",
+  "RealNIMAddTrue": true,
+  "RealNIMSetVersionTrue": true,
+  "CurrentThemeRegistry": {
+    "AppsUseLightTheme": 1,
+    "SystemUsesLightTheme": 1
+  },
+  "HighContrastAPIReadSuccess": true,
+  "HighContrastOn": false,
+  "SourceAndOwnFixtureLightGlyphBlack226Pixels": true,
+  "BorrowedOriginalIconNotRetained": "CopyIcon-first own actualfunction fixture PASS",
+  "ThemeRefreshPollMilliseconds": 500,
+  "ClickMissingReplaceVanScopedFallback0": true,
+  "ManualPopupAndActualRenderedColorPending": false,
+  "ExplorerUnchanged": 6924,
+  "NoSystemFileChanges": true,
+  "UserConfirmedNetworkClickOpensFlyout": true,
+  "FlyoutAppearance": "Native Windows11 rounded panel; old NetworkUX appearance not applied",
+  "ManualRenderedColorAndThemeRefreshPending": true
+}

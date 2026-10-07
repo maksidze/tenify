@@ -1,0 +1,18 @@
+[
+  {
+    "fileOffset": "0x293e90",
+    "value": "SystemSettings_Taskbar_Autohide"
+  },
+  {
+    "fileOffset": "0x293ed0",
+    "value": "SystemSettings_Taskbar_Badging"
+  },
+  {
+    "fileOffset": "0x2941d0",
+    "value": "SystemSettings_Taskbar_Lock"
+  },
+  {
+    "fileOffset": "0x29eba0",
+    "value": "Windows.UI.SettingsHandlers-nt"
+  }
+]

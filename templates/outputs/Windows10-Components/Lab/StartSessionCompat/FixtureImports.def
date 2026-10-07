@@ -1,0 +1,4 @@
+LIBRARY wincorlib.dll
+EXPORTS
+"?GetActivationFactoryByPCWSTR@@YAJPEAXAEAVGuid@Platform@@PEAPEAX@Z"=FixtureOriginalFactory
+"?GetCmdArguments@Details@Platform@@YAPEAPEA_WPEAH@Z"=FixtureOriginalArguments

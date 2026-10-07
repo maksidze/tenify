@@ -1,0 +1,10 @@
+from pathlib import Path
+import sys,json,struct,hashlib,argparse,shutil
+sys.path.insert(0,str(Path('work/pylib').resolve()))
+import pefile
+parser=argparse.ArgumentParser();parser.add_argument('--source',default='outputs/Windows10-Components/Lab/WindowGroupCompat/twinui.pcshell.dll');a=parser.parse_args();src=Path(a.source);out=Path('outputs/Windows10-Components/Lab/WindowWatcherCompat');out.mkdir(exist_ok=True);data=bytearray(src.read_bytes());p=pefile.PE(data=data);patches=[]
+for rv,old,new,name in [(0x348908,0x90,0xa0,'IWindowWatcher.get_Status'),(0x348bc3,0x98,0xa8,'IWindowWatcher.Start')]:
+ off=p.get_offset_from_rva(rv);before=b'\x48\x8b\x80'+struct.pack('<I',old);after=b'\x48\x8b\x80'+struct.pack('<I',new);assert bytes(data[off:off+7])==before,'Unexpected callsite bytes';data[off:off+7]=after;patches.append({'rva':hex(rv),'before':before.hex(),'after':after.hex(),'method':name,'oldSlot':old//8,'hostSlot':new//8})
+p=pefile.PE(data=data);struct.pack_into('<I',data,p.OPTIONAL_HEADER.get_field_absolute_offset('CheckSum'),p.generate_checksum());(out/'twinui.pcshell.dll').write_bytes(data)
+info={'source':str(src.resolve()),'sourceSHA256':hashlib.sha256(src.read_bytes()).hexdigest(),'patchedSHA256':hashlib.sha256(data).hexdigest(),'IID':'c5230dad-4d49-4c07-aafa-7bafbbff72b0','patches':patches,'NDRproof':'Matching official old/host OneCoreUAPCommonProxyStub PDB: unchanged IID; method counts21/23. Host inserted OrderRegionChanged add/remove at16/17 before VisibilityChanged. Status parameters unchanged FC_ENUM32*out at stack8 and HRESULTreturn16; Start no arguments except HRESULTreturn8. Retain host proxy/stub and host wire numbering.','fullMethodMap':{str(i):i if i<16 else i+2 for i in range(21)},'limitations':'Only two proven IWindowWatcher use sites patched. Other interfaces, including IAppViewWatcher, not changed. No old proxy/stub registration. Not yet validated live; parent owns live test.','systemFilesModified':False}
+(out/'windowwatcher-slot-patch.json').write_text(json.dumps(info,indent=2),encoding='utf8');print(json.dumps(info,indent=2))

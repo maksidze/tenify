@@ -1,0 +1,60 @@
+{
+  "RunningStateRejected": true,
+  "Installed": {
+    "Type": "nativePCS-DComp-memorySelector",
+    "NativePCSPath": "C:\\Windows\\System32\\twinui.pcshell.dll",
+    "NativePCSSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "PdbSHA256": "0699cb3148a9496d2ab72bdf0cd3e22e6e105438ada5fe22eebb179ea2c9ce4b",
+    "NativeBase": "0x7ff8ba0f0000",
+    "Physical": {
+      "physicalMappedFile": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinui.pcshell.dll",
+      "expectedPhysicalFile": "\\Device\\HarddiskVolume3\\Windows\\System32\\twinui.pcshell.dll",
+      "mappedIdentityMatched": true
+    },
+    "Reported": "c:\\windows\\system32\\twinui.pcshell.dll",
+    "CallRVA": "0x18781f",
+    "Original": "e884370d00",
+    "Replacement": "e8dc87e6ff",
+    "Thunk": "0x7ff8ba0e0000",
+    "ThunkBytes": "83fa017505e9220e4a00e999af2600",
+    "OriginalXamlRVA": "0x25afa8",
+    "AltTabDcompRVA": "0x490e2c",
+    "Condition": "edx==1",
+    "Threads": [
+      {
+        "tid": 1596,
+        "priorSuspendCount": 0,
+        "rip": "0x7ff8d81e6ee4"
+      },
+      {
+        "tid": 2604,
+        "priorSuspendCount": 0,
+        "rip": "0x7ff8d81e6ee4"
+      },
+      {
+        "tid": 5640,
+        "priorSuspendCount": 0,
+        "rip": "0x7ff8d81e6ee4"
+      },
+      {
+        "tid": 14068,
+        "priorSuspendCount": 1,
+        "rip": "0x7ff79fae11e0"
+      }
+    ],
+    "NoVFS": true,
+    "NoDiskWrites": true
+  },
+  "RepeatRejectedBeforeExtraAllocation": true,
+  "PCSCount": 1,
+  "DebuggerAbsent": true,
+  "BranchResults": {
+    "0": 222,
+    "1": 111,
+    "2": 222,
+    "3": 222
+  },
+  "PrimaryRan": true,
+  "NativeDiskUnchanged": true,
+  "Passed": true
+}

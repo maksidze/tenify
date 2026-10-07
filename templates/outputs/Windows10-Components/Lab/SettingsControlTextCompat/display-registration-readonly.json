@@ -1,0 +1,212 @@
+[
+  {
+    "Id": "SystemSettings_Display_Status_PageDisabled",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Custom"
+  },
+  {
+    "Id": "SystemSettings_Display_MonitorSelection",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "DisplayString"
+  },
+  {
+    "Id": "SystemSettings_Display_MultiMonitors",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "SettingCollection"
+  },
+  {
+    "Id": "SystemSettings_Display_Status_NoneDetected",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Custom"
+  },
+  {
+    "Id": "SystemSettings_Display_MonitorActions",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Action"
+  },
+  {
+    "Id": "SystemSettings_Display_BrightnessColorTitleLabel",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "DisplayString"
+  },
+  {
+    "Id": "SystemSettings_Display_Brightness",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "String"
+  },
+  {
+    "Id": "SystemSettings_Display_IsAutoBrightnessEnabled",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Boolean"
+  },
+  {
+    "Id": "SystemSettings_Display_BlueLight_AutomaticOnScheduleWithTime",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_Display.dll",
+    "Type": "Boolean"
+  },
+  {
+    "Id": "SystemSettings_Display_BlueLightSettings",
+    "RegistryEntry": false,
+    "DllPath": null,
+    "Type": null
+  },
+  {
+    "Id": "SystemSettings_Display_ColorProfile",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "List"
+  },
+  {
+    "Id": "SystemSettings_Display_AdaptiveColor",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Boolean"
+  },
+  {
+    "Id": "SystemSettings_Display_AdaptiveColorStrength",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "String"
+  },
+  {
+    "Id": "SystemSettings_Display_HDColorLinkInfo",
+    "RegistryEntry": false,
+    "DllPath": null,
+    "Type": null
+  },
+  {
+    "Id": "SystemSettings_Display_AdvancedColorSettings",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Action"
+  },
+  {
+    "Id": "SystemSettings_Display_AdvancedColorSupport",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Boolean"
+  },
+  {
+    "Id": "SystemSettings_Display_LegacyCustomScaling_Disable",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Action"
+  },
+  {
+    "Id": "SystemSettings_Display_Scaling_SignoutWarning",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "DisplayString"
+  },
+  {
+    "Id": "SystemSettings_Display_Scaling_ItemSizeOverride",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "String"
+  },
+  {
+    "Id": "SystemSettings_Display_AdvancedScalingSettings",
+    "RegistryEntry": false,
+    "DllPath": null,
+    "Type": null
+  },
+  {
+    "Id": "SystemSettings_Display_Resolution",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "String"
+  },
+  {
+    "Id": "SystemSettings_Display_Orientation",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "List"
+  },
+  {
+    "Id": "SystemSettings_Display_IsRotationLocked",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Boolean"
+  },
+  {
+    "Id": "SystemSettings_Display_Status_SaveError",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Custom"
+  },
+  {
+    "Id": "SystemSettings_Display_LaunchDialog",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Action"
+  },
+  {
+    "Id": "SystemSettings_Display_Status_DuplicateWarning",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Custom"
+  },
+  {
+    "Id": "SystemSettings_Display_Duplicate",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "List"
+  },
+  {
+    "Id": "SystemSettings_Display_MainMonitor",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Boolean"
+  },
+  {
+    "Id": "SystemSettings_Display_ConnectWireless",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Action"
+  },
+  {
+    "Id": "SystemSettings_Display_Status_3DWarning",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Custom"
+  },
+  {
+    "Id": "SystemSettings_Display_IsStereoEnabled",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Boolean"
+  },
+  {
+    "Id": "SystemSettings_Display_Status_RelatedLinksNoneDetected",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Custom"
+  },
+  {
+    "Id": "SystemSettings_Display_Detect",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Action"
+  },
+  {
+    "Id": "SystemSettings_Display_AdvancedDisplaySettings",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SettingsHandlers_PCDisplay.dll",
+    "Type": "Action"
+  },
+  {
+    "Id": "SystemSettings_SettingsExtensibility_ExtensionAppList",
+    "RegistryEntry": true,
+    "DllPath": "C:\\Windows\\System32\\SystemSettings.SettingsExtensibility.dll",
+    "Type": "SettingCollection"
+  }
+]

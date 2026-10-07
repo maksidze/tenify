@@ -1,0 +1,48 @@
+{
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\PublisherJobGuard.cs",
+      "Sha256": "f5017d3d541f15f9df51496a648e264ed778b574c9403be82e8dc8e8071bccce"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\windowsudk.shellcommon.dll",
+      "Sha256": "663b0da9910c7a35baad2dc470f6368fb70635cc50f8b2ec658eda294a4196b0"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\Taskbar.dll",
+      "Sha256": "2d0860ed50126bf60d59797141ab5ea3bfb5a98e73a3292bd1e4bfa110b1a385"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+      "Sha256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\MonitorPublisherUntilStop.c",
+      "Sha256": "dbfac688b55badfa484cee407af94293a2363dd37ac6d4b1aca12c55b95cf07b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\MonitorPublisherUntilStop.exe",
+      "Sha256": "df9fe4a9fb437c8bf8bca39d7b521db527275ba2162f1ab01e96406958546222"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\Build-UntilStop.py",
+      "Sha256": "ca107c5a92ba0f2eb13117e83ab7e0ae629ac8a160534aee56202ac2396ee589"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\Start-MonitorPublisherUntilStop.ps1",
+      "Sha256": "19c3ad581aa39e4accbcb4e8da002d60ab67b9f15f8f0b8b4cab6096e90039f4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\Stop-MonitorPublisherUntilStop.ps1",
+      "Sha256": "1e6be94c15945fb90e7484a320b648408759659b75862706e5e817951ad41642"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\Test-UntilStop.py",
+      "Sha256": "dfc6ec08810e0cd6ca8bf4af99e33cd809bba3ed65497c6e3c4e74a57b47d592"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\Ensure-MonitorPublisherUntilStop.ps1",
+      "Sha256": "b5d90c8283e22cd52f00342f9ac2ba7516e7e8981a5736b62d698efd13b9fde5"
+    }
+  ]
+}

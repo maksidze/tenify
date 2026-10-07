@@ -1,0 +1,39 @@
+{
+    "NativeExplorerNeverStarted":  true,
+    "Directory":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\recovery-races\\c1cd69ae1f58445fbffb6e9f5f0d3456",
+    "Cases":  [
+                  {
+                      "Passed":  true,
+                      "Result":  {
+                                     "ExistingShellPreserved":  true,
+                                     "NativeStarted":  false,
+                                     "ElapsedMs":  3046,
+                                     "NativeExplorerNeverStarted":  true
+                                 },
+                      "Test":  "new-desktop-ready"
+                  },
+                  {
+                      "Passed":  true,
+                      "Result":  {
+                                     "NativeStarted":  false,
+                                     "SimulatedFallbackRequested":  true,
+                                     "CleanupWasComplete":  true,
+                                     "ElapsedMs":  3014,
+                                     "NativeExplorerNeverStarted":  true
+                                 },
+                      "Test":  "failed-transition-drained"
+                  },
+                  {
+                      "Passed":  true,
+                      "Result":  {
+                                     "NativeStarted":  false,
+                                     "SimulatedFallbackRequested":  true,
+                                     "CleanupWasComplete":  false,
+                                     "ElapsedMs":  0,
+                                     "NativeExplorerNeverStarted":  true
+                                 },
+                      "Test":  "restore-shell-gate-held"
+                  }
+              ],
+    "Passed":  true
+}

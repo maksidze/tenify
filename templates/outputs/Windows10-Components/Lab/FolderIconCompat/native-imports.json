@@ -1,0 +1,1237 @@
+[
+  {
+    "Module": "shell32.dll",
+    "Entries": [
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "Iat": "0x5f47d8"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LockResource",
+        "Iat": "0x5f47e0"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FreeLibrary",
+        "Iat": "0x5f47f0"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadResource",
+        "Iat": "0x5f4800"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FreeResource",
+        "Iat": "0x5f4810"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "DisableThreadLibraryCalls",
+        "Iat": "0x5f4818"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "Iat": "0x5f4828"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "EnumResourceNamesExW",
+        "Iat": "0x5f4848"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "SizeofResource",
+        "Iat": "0x5f4850"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FindResourceExW",
+        "Iat": "0x5f4858"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExA",
+        "Iat": "0x5f4860"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-1.dll",
+        "Name": "LoadLibraryW",
+        "Iat": "0x5f4878"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-1.dll",
+        "Name": "FindResourceW",
+        "Iat": "0x5f4880"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-shlwapi-legacy-l1-1-0.dll",
+        "Name": "PathParseIconLocationW",
+        "Iat": "0x5f4d18"
+      },
+      {
+        "Type": "import",
+        "From": "KERNELBASE.dll",
+        "Name": "IsMrtResourceRedirectionEnabled",
+        "Iat": "0x5f3a50"
+      },
+      {
+        "Type": "import",
+        "From": "USER32.dll",
+        "Name": "LoadIconW",
+        "Iat": "0x5f3fa0"
+      },
+      {
+        "Type": "import",
+        "From": "USER32.dll",
+        "Name": "GetIconInfo",
+        "Iat": "0x5f3fd8"
+      },
+      {
+        "Type": "import",
+        "From": "USER32.dll",
+        "Name": "IsIconic",
+        "Iat": "0x5f40e0"
+      },
+      {
+        "Type": "import",
+        "From": "USER32.dll",
+        "Name": "CopyIcon",
+        "Iat": "0x5f40f0"
+      },
+      {
+        "Type": "import",
+        "From": "USER32.dll",
+        "Name": "DestroyIcon",
+        "Iat": "0x5f42f8"
+      },
+      {
+        "Type": "import",
+        "From": "USER32.dll",
+        "Name": "DrawIcon",
+        "Iat": "0x5f4308"
+      },
+      {
+        "Type": "import",
+        "From": "USER32.dll",
+        "Name": "DrawIconEx",
+        "Iat": "0x5f43b8"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "RtlDeleteResource",
+        "Iat": "0x5f59e0"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "RtlReleaseResource",
+        "Iat": "0x5f59f8"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "RtlAcquireResourceExclusive",
+        "Iat": "0x5f5a00"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "RtlInitializeResource",
+        "Iat": "0x5f5a08"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "RtlQueryResourcePolicy",
+        "Iat": "0x5f5a10"
+      },
+      {
+        "Type": "delay",
+        "From": "MPR.dll",
+        "Name": "WNetEnumResourceW",
+        "Iat": "0x72f168"
+      },
+      {
+        "Type": "delay",
+        "From": "api-ms-win-storage-exports-internal-l1-1-0.dll",
+        "Name": "IsLibraryCreatedByPolicy",
+        "Iat": "0x731480"
+      },
+      {
+        "Type": "delay",
+        "From": "api-ms-win-storage-exports-internal-l1-1-0.dll",
+        "Name": "IsLibraryPolicyEnabled",
+        "Iat": "0x7314d8"
+      },
+      {
+        "Type": "delay",
+        "From": "api-ms-win-storage-exports-internal-l1-1-0.dll",
+        "Name": "SHResolveLibrary",
+        "Iat": "0x7314e8"
+      },
+      {
+        "Type": "delay",
+        "From": "api-ms-win-storage-exports-internal-l1-1-0.dll",
+        "Name": "Global_WindowsStorage_MaxIcons",
+        "Iat": "0x731520"
+      },
+      {
+        "Type": "delay",
+        "From": "api-ms-win-storage-exports-internal-l1-1-0.dll",
+        "Name": "Global_WindowsStorage_csIconCache",
+        "Iat": "0x731528"
+      },
+      {
+        "Type": "delay",
+        "From": "api-ms-win-storage-exports-internal-l1-1-0.dll",
+        "Name": "Global_WindowsStorage_iLastSysIcon",
+        "Iat": "0x731530"
+      },
+      {
+        "Type": "delay",
+        "From": "api-ms-win-storage-exports-internal-l1-1-0.dll",
+        "Name": "SendNotificationsForLibraryItem",
+        "Iat": "0x731628"
+      },
+      {
+        "Type": "delay",
+        "From": "ntshrui.dll",
+        "Name": "GetLocalPathFromNetResourceW",
+        "Iat": "0x731c48"
+      },
+      {
+        "Type": "delay",
+        "From": "ntshrui.dll",
+        "Name": "GetNetResourceFromLocalPathW",
+        "Iat": "0x731c50"
+      },
+      {
+        "Type": "delay",
+        "From": "DUI70.dll",
+        "Name": "?CreateGraphic@Value@DirectUI@@SAPEAV12@PEAUHICON__@@_N11@Z",
+        "Iat": "0x72ea88"
+      },
+      {
+        "Type": "delay",
+        "From": "DUI70.dll",
+        "Name": "?SetXMLFromResourceWithTheme@DUIXmlParser@DirectUI@@QEAAJIPEAUHINSTANCE__@@00@Z",
+        "Iat": "0x72ea90"
+      },
+      {
+        "Type": "delay",
+        "From": "DUI70.dll",
+        "Name": "?SetXMLFromResource@DUIXmlParser@DirectUI@@QEAAJPEBGPEAUHINSTANCE__@@1@Z",
+        "Iat": "0x72ea98"
+      },
+      {
+        "Type": "delay",
+        "From": "DUI70.dll",
+        "Name": "?SetXMLFromResource@DUIXmlParser@DirectUI@@QEAAJIPEAUHINSTANCE__@@0@Z",
+        "Iat": "0x72ed48"
+      },
+      {
+        "Type": "delay",
+        "From": "DUI70.dll",
+        "Name": "?Initialize@NativeHWNDHost@DirectUI@@QEAAJPEBG0PEAUHWND__@@PEAUHICON__@@HHHHHHPEAUHINSTANCE__@@I@Z",
+        "Iat": "0x72efb8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "DuplicateIcon",
+        "Iat": "0x72fd70"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractAssociatedIconA",
+        "Iat": "0x72fdb8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractAssociatedIconExA",
+        "Iat": "0x72fdc0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractAssociatedIconExW",
+        "Iat": "0x72fdd0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHUpdateRecycleBinIconEx",
+        "Iat": "0x72fdf8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetIconLocationFromExt",
+        "Iat": "0x72fe88"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHGetFileIcon",
+        "Iat": "0x72fea0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "IsIconResourcePath",
+        "Iat": "0x72fed0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ImageList_MirroredDraw",
+        "Iat": "0x72ff40"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ImageList_GetMirrored",
+        "Iat": "0x72ff48"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "IsRecycleBinIconEmpty",
+        "Iat": "0x72ffa0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "MapIDListToIconILIndex",
+        "Iat": "0x730040"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "UpdateRecycleBinIcon",
+        "Iat": "0x730128"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetShellIconLocationParts",
+        "Iat": "0x730218"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHAddIconsToCache",
+        "Iat": "0x730258"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetStockIconIndexAndSystemIL",
+        "Iat": "0x730260"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "QueryNewMaxIcons",
+        "Iat": "0x730268"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ResetFileClassIcon",
+        "Iat": "0x730270"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetShellIconLocation",
+        "Iat": "0x730278"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "IsShell32IconStock",
+        "Iat": "0x730280"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "Shell32IconToShell32ExtractIconParameter",
+        "Iat": "0x730288"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetSystemImageListBitDepth",
+        "Iat": "0x730298"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetThreadIconCache",
+        "Iat": "0x7302a0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "FileIconInitIfNeeded",
+        "Iat": "0x7303e0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetShellIconLocationCommaIndex",
+        "Iat": "0x7303e8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "GetStockIcon",
+        "Iat": "0x730490"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "Shell_GetImageLists",
+        "Iat": "0x7304d8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractAssociatedIconW",
+        "Iat": "0x7304e0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractIconA",
+        "Iat": "0x7304e8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHUpdateRecycleBinIcon",
+        "Iat": "0x730560"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHMapIDListToSystemImageListIndexAsync2",
+        "Iat": "0x730600"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHMapIDListToSystemImageListIndexAsync",
+        "Iat": "0x730608"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHMapIDListToSystemImageListIndex",
+        "Iat": "0x730610"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHLoadNonloadedIconOverlayIdentifiers",
+        "Iat": "0x730620"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHGetStockIconInfo",
+        "Iat": "0x730668"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHGetNoAssocIconIndex",
+        "Iat": "0x7306c0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHGetNetResource",
+        "Iat": "0x7306d8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHGetImageList",
+        "Iat": "0x730710"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractIconExA",
+        "Iat": "0x730778"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractIconExW",
+        "Iat": "0x730780"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "ExtractIconW",
+        "Iat": "0x730788"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHExtractIconsW",
+        "Iat": "0x7307f0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHDefExtractIconW",
+        "Iat": "0x730818"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHDefExtractIconA",
+        "Iat": "0x730820"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHCreateFileExtractIconW",
+        "Iat": "0x7308c0"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "SHCreateDefaultExtractIcon",
+        "Iat": "0x7308f8"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "InternalExtractIconListW",
+        "Iat": "0x730a60"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "InternalExtractIconListA",
+        "Iat": "0x730a68"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "FreeThreadIconCache",
+        "Iat": "0x730b10"
+      },
+      {
+        "Type": "delay",
+        "From": "Windows.Storage.dll",
+        "Name": "FreeIconList",
+        "Iat": "0x730b18"
+      }
+    ]
+  },
+  {
+    "Module": "windows.storage.dll",
+    "Entries": [
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LockResource",
+        "Iat": "0x6c2d28"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "DisableThreadLibraryCalls",
+        "Iat": "0x6c2d40"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "SizeofResource",
+        "Iat": "0x6c2d48"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FreeResource",
+        "Iat": "0x6c2d58"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "Iat": "0x6c2d60"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "Iat": "0x6c2d68"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FindResourceExW",
+        "Iat": "0x6c2d80"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadResource",
+        "Iat": "0x6c2d88"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FreeLibrary",
+        "Iat": "0x6c2d90"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "RtlQueryResourcePolicy",
+        "Iat": "0x6c4068"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-shlwapi-legacy-l1-1-0.dll",
+        "Name": "PathParseIconLocationW",
+        "Iat": "0x6c32e8"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-1.dll",
+        "Name": "FindResourceW",
+        "Iat": "0x6c2db8"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-1.dll",
+        "Name": "LoadLibraryW",
+        "Iat": "0x6c2dc0"
+      },
+      {
+        "Type": "delay",
+        "From": "PROPSYS.dll",
+        "Name": "InitPropVariantFromResource",
+        "Iat": "0x834300"
+      },
+      {
+        "Type": "delay",
+        "From": "PROPSYS.dll",
+        "Name": "InitVariantFromResource",
+        "Iat": "0x8343d0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-base-rstrtmgr-l1-1-0.dll",
+        "Name": "RmRegisterResources",
+        "Iat": "0x835690"
+      },
+      {
+        "Type": "delay",
+        "From": "MPR.dll",
+        "Name": "WNetEnumResourceW",
+        "Iat": "0x834188"
+      },
+      {
+        "Type": "delay",
+        "From": "MPR.dll",
+        "Name": "WNetGetResourceParentW",
+        "Iat": "0x834190"
+      },
+      {
+        "Type": "delay",
+        "From": "MPR.dll",
+        "Name": "WNetGetResourceInformationW",
+        "Iat": "0x8341d8"
+      },
+      {
+        "Type": "delay",
+        "From": "MrmCoreR.dll",
+        "Name": "ResourceManagerQueueGetString",
+        "Iat": "0x834220"
+      },
+      {
+        "Type": "delay",
+        "From": "MrmCoreR.dll",
+        "Name": "ResourceManagerQueueIsResourceReference",
+        "Iat": "0x834228"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-window-l1-1-0.dll",
+        "Name": "IsIconic",
+        "Iat": "0x8359a0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-misc-l1-5-1.dll",
+        "Name": "PrivateExtractIconsW",
+        "Iat": "0x835928"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-gui-l1-1-0.dll",
+        "Name": "DrawIconEx",
+        "Iat": "0x835818"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-gui-l1-1-0.dll",
+        "Name": "GetIconInfo",
+        "Iat": "0x835820"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-gui-l1-1-0.dll",
+        "Name": "LookupIconIdFromDirectory",
+        "Iat": "0x835828"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-gui-l1-1-0.dll",
+        "Name": "LoadIconW",
+        "Iat": "0x835830"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-gui-l1-1-0.dll",
+        "Name": "DestroyIcon",
+        "Iat": "0x835838"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-ntuser-gui-l1-3-0.dll",
+        "Name": "CreateIconIndirect",
+        "Iat": "0x835860"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-ntshrui-l1-1-0.dll",
+        "Name": "GetNetResourceFromLocalPathW",
+        "Iat": "0x8360a8"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-ntshrui-l1-1-0.dll",
+        "Name": "GetLocalPathFromNetResourceW",
+        "Iat": "0x8360b0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_GetIconOverlayManager",
+        "Iat": "0x835d30"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconOverlayManagerInit",
+        "Iat": "0x835d38"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCache_ExpandEnvAndSearchPath",
+        "Iat": "0x835d68"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCache_RememberRecentlyExtractedIconsW",
+        "Iat": "0x835d70"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_LookupBackIconIndex",
+        "Iat": "0x835d78"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_LookupFrontIconIndex",
+        "Iat": "0x835d80"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_AddToFrontIconTable",
+        "Iat": "0x835d88"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCacheDestroy",
+        "Iat": "0x835d90"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCacheCreate",
+        "Iat": "0x835d98"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCacheRestore",
+        "Iat": "0x835da0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_SHAddSparseIcon",
+        "Iat": "0x835da8"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_AddToBackIconTable",
+        "Iat": "0x835db0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCacheHandleAssociationChanged",
+        "Iat": "0x835db8"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_PurgeSystemIcon",
+        "Iat": "0x835dc0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCache_AboutToExtractIcons",
+        "Iat": "0x835dc8"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_IconCache_DoneExtractingIcons",
+        "Iat": "0x835dd0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_ShowHideIconOnlyOnDesktop",
+        "Iat": "0x835e58"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_CLibraryDropTarget_CreateInstance",
+        "Iat": "0x835f28"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHELL32_StampIconForFile",
+        "Iat": "0x835f60"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-shell-exports-internal-l1-1-0.dll",
+        "Name": "SHCreateDrvExtIcon",
+        "Iat": "0x835f98"
+      },
+      {
+        "Type": "delay",
+        "From": "USER32.dll",
+        "Name": "GetProcessUIContextInformation",
+        "Iat": "0x8348d0"
+      }
+    ]
+  },
+  {
+    "Module": "user32.dll",
+    "Entries": [
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserInternalGetWindowIcon",
+        "Iat": "0xaade8"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserFindExistingCursorIcon",
+        "Iat": "0xaae00"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserSetCursorIconDataEx",
+        "Iat": "0xaae08"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserDrawIconEx",
+        "Iat": "0xab060"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserArrangeIconicWindows",
+        "Iat": "0xab390"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserLoadCursorsAndIcons",
+        "Iat": "0xab400"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserGetIconInfo",
+        "Iat": "0xab588"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserGetIconSize",
+        "Iat": "0xab6b8"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserSetTargetForResourceBrokering",
+        "Iat": "0xab880"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserGetProcessUIContextInformation",
+        "Iat": "0xabe30"
+      },
+      {
+        "Type": "import",
+        "From": "win32u.dll",
+        "Name": "NtUserGetGuiResources",
+        "Iat": "0xabf10"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrFlushAlternateResourceModules",
+        "Iat": "0xaaae0"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "DisableThreadLibraryCalls",
+        "Iat": "0xaa468"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FreeLibrary",
+        "Iat": "0xaa488"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "Iat": "0xaa490"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "SizeofResource",
+        "Iat": "0xaa4a8"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "Iat": "0xaa4b0"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "EnumResourceNamesExW",
+        "Iat": "0xaa4c0"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FindResourceExW",
+        "Iat": "0xaa4c8"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadResource",
+        "Iat": "0xaa4d0"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-kernel32-legacy-l1-1-0.dll",
+        "Name": "FindResourceExA",
+        "Iat": "0xaa430"
+      },
+      {
+        "Type": "import",
+        "From": "GDI32.dll",
+        "Name": "GdiAddFontResourceW",
+        "Iat": "0xa9ee8"
+      },
+      {
+        "Type": "import",
+        "From": "GDI32.dll",
+        "Name": "GdiConvertBitmapV5",
+        "Iat": "0xa9f20"
+      },
+      {
+        "Type": "import",
+        "From": "GDI32.dll",
+        "Name": "GdiConvertToDevmodeW",
+        "Iat": "0xa9f38"
+      },
+      {
+        "Type": "import",
+        "From": "GDI32.dll",
+        "Name": "GdiConvertAndCheckDC",
+        "Iat": "0xaa018"
+      },
+      {
+        "Type": "import",
+        "From": "GDI32.dll",
+        "Name": "GdiConvertEnhMetaFile",
+        "Iat": "0xaa108"
+      },
+      {
+        "Type": "import",
+        "From": "GDI32.dll",
+        "Name": "GdiConvertMetaFilePict",
+        "Iat": "0xaa110"
+      }
+    ]
+  },
+  {
+    "Module": "kernelbase.dll",
+    "Entries": [
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrResSearchResource",
+        "Iat": "0x296148"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrFindResourceEx_U",
+        "Iat": "0x2965a0"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrAccessResource",
+        "Iat": "0x296608"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "RtlAddResourceAttributeAce",
+        "Iat": "0x296d48"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrUnloadAlternateResourceModule",
+        "Iat": "0x296ed8"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrFindResource_U",
+        "Iat": "0x296f48"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrpResGetResourceDirectory",
+        "Iat": "0x296f58"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrResFindResourceDirectory",
+        "Iat": "0x296f68"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrResFindResource",
+        "Iat": "0x296f70"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrLoadAlternateResourceModule",
+        "Iat": "0x296f80"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "LdrLoadAlternateResourceModuleEx",
+        "Iat": "0x296f90"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "DbgUiContinue",
+        "Iat": "0x297268"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "DbgUiConvertStateChangeStructureEx",
+        "Iat": "0x297278"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "DbgUiConvertStateChangeStructure",
+        "Iat": "0x297280"
+      },
+      {
+        "Type": "import",
+        "From": "ntdll.dll",
+        "Name": "DbgUiConnectToDbg",
+        "Iat": "0x297298"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-mrmcorer-resmanager-l1-1-0.dll",
+        "Name": "ResourceManagerQueueIsResourceReference",
+        "Iat": "0x3b9758"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-mrmcorer-resmanager-l1-1-0.dll",
+        "Name": "ResourceManagerQueueGetString",
+        "Iat": "0x3b9760"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-kernel32-errorhandling-l1-1-0.dll",
+        "Name": "CheckForReadOnlyResourceFilter",
+        "Iat": "0x3b94e0"
+      },
+      {
+        "Type": "delay",
+        "From": "ext-ms-win-kernel32-registry-l1-1-0.dll",
+        "Name": "BasepNotifyLoadStringResource",
+        "Iat": "0x3b95c0"
+      }
+    ]
+  },
+  {
+    "Module": "imageres.dll",
+    "Entries": []
+  },
+  {
+    "Module": "shcore.dll",
+    "Entries": [
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FreeLibraryAndExitThread",
+        "Iat": "0xa9638"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "GetProcAddress",
+        "Iat": "0xa9648"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FreeLibrary",
+        "Iat": "0xa9650"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "FindResourceExW",
+        "Iat": "0xa9658"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "DisableThreadLibraryCalls",
+        "Iat": "0xa9668"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadLibraryExW",
+        "Iat": "0xa9670"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "SizeofResource",
+        "Iat": "0xa9678"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LoadResource",
+        "Iat": "0xa9680"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-0.dll",
+        "Name": "LockResource",
+        "Iat": "0xa9688"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-threadpool-l1-2-0.dll",
+        "Name": "FreeLibraryWhenCallbackReturns",
+        "Iat": "0xa9b30"
+      },
+      {
+        "Type": "import",
+        "From": "api-ms-win-core-libraryloader-l1-2-1.dll",
+        "Name": "LoadLibraryW",
+        "Iat": "0xa96b8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Date": "2026-10-06",
+  "Source": "Direct user confirmations relayed by root",
+  "NetworkClickOpensFlyout": true,
+  "IconChangesCorrectlyLightAndDark": true,
+  "FlyoutAppearance": "Native Windows11 rounded panel; old-style appearance still under research",
+  "CurrentNetworkState": {
+    "Mode": "UntilStop",
+    "ManifestSHA256": "2BDACDE7C8250323FCF38DC3682C5153529A77E1C852D21C1B94A9DC14348A94",
+    "ControllerPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "TargetPid": 6924,
+    "TargetBorn": "134357030383058038",
+    "ChildPid": 10520,
+    "ChildBorn": "134357343396697388",
+    "ChildPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayUntilStop.exe",
+    "ControllerPid": 4816,
+    "ControllerBorn": "134357343385429680",
+    "StopFile": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-9bb6286caf054070a6b8af3958e3817d.stop",
+    "Ready": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-9bb6286caf054070a6b8af3958e3817d.ready",
+    "VisualVerified": false,
+    "NoShellTermination": true
+  },
+  "NoAutomaticGlobalThemeChanges": true,
+  "HelperEXESHA256": "f5023035ebaaf09b65220243c3c2f723a0b268f7b66b1e18aa7fd8132d3fe140"
+}

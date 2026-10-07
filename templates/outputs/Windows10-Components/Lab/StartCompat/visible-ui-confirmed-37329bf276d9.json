@@ -1,0 +1,16 @@
+{
+  "trial": "37329bf276d9",
+  "date": "2026-10-05",
+  "explorerPid": 13848,
+  "explorerProfile": "host-dcomp-resource",
+  "startPid": 6056,
+  "startDebuggerDetached": true,
+  "oldStartUiPhysicallyLoaded": true,
+  "evidenceLog": "broker-host-37329bf276d9.log",
+  "verificationMethod": "User clicked the taskbar Start button during the live trial",
+  "userAnswer": "Пуск Windows 10 с плитками",
+  "visibleWindows10StartConfirmed": true,
+  "allStartFunctionsVerified": false,
+  "longTermStabilityVerified": false,
+  "systemFilesModified": false
+}

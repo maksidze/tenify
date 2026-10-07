@@ -1,0 +1,19 @@
+{
+  "ActualPackageActivation": false,
+  "ActualSEH": false,
+  "ExistingPackageSIDOnly": true,
+  "NoRegistration": true,
+  "NoProfileCreated": true,
+  "ACL": {
+    "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\fixtures\\a158cfce0cc047458fd3a124bdc409f2",
+    "PackageFamilyName": "windows.immersivecontrolpanel_cw5n1h2txyewy",
+    "SID": "S-1-15-2-2376884767-3641813526-1736181949-1293975252-228260496-2789807194-3363476418",
+    "OnlyPrivateTree": true,
+    "Permission": "Inherited read+execute; no write"
+  },
+  "Result": 0,
+  "RealAppContainer": true,
+  "FiveDirectDllLoads": true,
+  "NtBackingIdentity": true,
+  "Passed": true
+}

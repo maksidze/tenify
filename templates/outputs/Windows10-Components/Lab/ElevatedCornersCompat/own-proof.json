@@ -1,0 +1,13 @@
+{
+    "NewTerminalProcesses":  0,
+    "StopRestored":  true,
+    "ForegroundWindows":  0,
+    "UserWindowsChanged":  false,
+    "CrashRecoveryWithCancel":  true,
+    "MediumProductionRefused":  true,
+    "ActualUACStarted":  false,
+    "Success":  true,
+    "NewWindowApplied":  true,
+    "OnlyOwnHiddenFixture":  true,
+    "ExitedHostRefused":  true
+}

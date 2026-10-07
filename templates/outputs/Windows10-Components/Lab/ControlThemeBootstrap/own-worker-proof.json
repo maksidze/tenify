@@ -1,0 +1,10 @@
+{
+  "OwnChildOnly": true,
+  "PrivateNeverSwitched": true,
+  "NormalWinMainHeld": true,
+  "WrongExpectedDesktopRefused": true,
+  "ActualPrivateWorkerNavigation": true,
+  "WorkerThread": 12960,
+  "DesktopClosed": true,
+  "Passed": true
+}

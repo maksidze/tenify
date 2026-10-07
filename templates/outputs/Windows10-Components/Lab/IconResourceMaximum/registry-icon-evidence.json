@@ -1,0 +1,4272 @@
+[
+  {
+    "Key": "CLSID\\{025A5937-A6BE-4686-A844-36FE4BEC8B6D}",
+    "Old": "%SystemRoot%\\System32\\powercpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\powercpl.dll,-1",
+    "OldNormalized": [
+      "powercpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "powercpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{031E4825-7B94-4dc3-B131-E946B44C8DD5}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-1023",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-1023",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1023"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1023"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{04731B67-D933-450a-90E6-4ACD2E9408FE}",
+    "Old": "%SystemRoot%\\system32\\Windows.Storage.Search.dll,-323",
+    "Host": "%SystemRoot%\\system32\\Windows.Storage.Search.dll,-323",
+    "OldNormalized": [
+      "windows.storage.search.dll",
+      "-323"
+    ],
+    "HostNormalized": [
+      "windows.storage.search.dll",
+      "-323"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{047ea9a0-93bb-415f-a1c3-d7aeb3dd5087}",
+    "Old": "%SystemRoot%\\System32\\fsquirt.exe,-107",
+    "Host": "%SystemRoot%\\System32\\fsquirt.exe,-107",
+    "OldNormalized": [
+      "fsquirt.exe",
+      "-107"
+    ],
+    "HostNormalized": [
+      "fsquirt.exe",
+      "-107"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}",
+    "Old": "%SystemRoot%\\System32\\taskbarcpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\taskbarcpl.dll,-1",
+    "OldNormalized": [
+      "taskbarcpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "taskbarcpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{088e3905-0323-4b02-9826-5d99428e115f}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-184",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-184",
+    "OldNormalized": [
+      "imageres.dll",
+      "-184"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-184"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{0c39a5cf-1a7a-40c8-ba74-8900e6df5fcd}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-117",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-117",
+    "OldNormalized": [
+      "imageres.dll",
+      "-117"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-117"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-198",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-198",
+    "OldNormalized": [
+      "imageres.dll",
+      "-198"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-198"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{0DF44EAA-FF21-4412-828E-260A8728E7F1}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-80",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-80",
+    "OldNormalized": [
+      "imageres.dll",
+      "-80"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-80"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{0F563B5F-8EE2-4516-BA0A-544DE058C75B}",
+    "Old": "%SystemRoot%\\System32\\FileHistory.exe,-100",
+    "Host": "%SystemRoot%\\System32\\FileHistory.exe,-100",
+    "OldNormalized": [
+      "filehistory.exe",
+      "-100"
+    ],
+    "HostNormalized": [
+      "filehistory.exe",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{1206F5F1-0569-412C-8FEC-3204630DFB70}",
+    "Old": "%SystemRoot%\\system32\\Vault.dll,-1",
+    "Host": "%SystemRoot%\\system32\\Vault.dll,-1",
+    "OldNormalized": [
+      "vault.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "vault.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{148BD520-A2AB-11CE-B11F-00AA00530503}",
+    "Old": "%systemroot%\\System32\\mstask.dll,-101",
+    "Host": "%systemroot%\\System32\\mstask.dll,-101",
+    "OldNormalized": [
+      "mstask.dll",
+      "-101"
+    ],
+    "HostNormalized": [
+      "mstask.dll",
+      "-101"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{148BD52A-A2AB-11CE-B11F-00AA00530503}",
+    "Old": "%systemroot%\\System32\\mstask.dll,0",
+    "Host": "%systemroot%\\System32\\mstask.dll,0",
+    "OldNormalized": [
+      "mstask.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "mstask.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{15eae92e-f17a-4431-9f28-805e482dafd4}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-87",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-87",
+    "OldNormalized": [
+      "imageres.dll",
+      "-87"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-87"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{17cd9488-1228-4b2f-88ce-4298e93e0966}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-24",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-24",
+    "OldNormalized": [
+      "imageres.dll",
+      "-24"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-24"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{1CF1260C-4DD0-4ebb-811F-33C572699FDE}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-108",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-108",
+    "OldNormalized": [
+      "imageres.dll",
+      "-108"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-108"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{208D2C60-3AEA-1069-A2D7-08002B30309D}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-25",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-25",
+    "OldNormalized": [
+      "imageres.dll",
+      "-25"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-25"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-109",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-109",
+    "OldNormalized": [
+      "imageres.dll",
+      "-109"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-109"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{21EC2020-3AEA-1069-A2DD-08002B30309D}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "OldNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2227A280-3AEA-1069-A2DE-08002B30309D}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-26",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-26",
+    "OldNormalized": [
+      "imageres.dll",
+      "-26"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-26"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{22877a6d-37a1-461a-91b0-dbda5aaebc99}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-117",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-117",
+    "OldNormalized": [
+      "imageres.dll",
+      "-117"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-117"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-113",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-113",
+    "OldNormalized": [
+      "imageres.dll",
+      "-113"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-113"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{25336920-03F9-11cf-8FD0-00AA00686F13}",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2559a1f0-21d7-11d4-bdaf-00c04f60b9f0}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-177",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-177",
+    "OldNormalized": [
+      "imageres.dll",
+      "-177"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-177"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2559a1f2-21d7-11d4-bdaf-00c04f60b9f0}",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,-48",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,-48",
+    "OldNormalized": [
+      "shell32.dll",
+      "-48"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "-48"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2559a1f3-21d7-11d4-bdaf-00c04f60b9f0}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-100",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-100",
+    "OldNormalized": [
+      "imageres.dll",
+      "-100"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2559a1f5-21d7-11d4-bdaf-00c04f60b9f0}",
+    "Old": "%SystemRoot%\\explorer.exe,-254",
+    "Host": "%SystemRoot%\\explorer.exe,-254",
+    "OldNormalized": [
+      "explorer.exe",
+      "-254"
+    ],
+    "HostNormalized": [
+      "explorer.exe",
+      "-254"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2559a1f7-21d7-11d4-bdaf-00c04f60b9f0}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-24",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-24",
+    "OldNormalized": [
+      "imageres.dll",
+      "-24"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-24"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{26EE0668-A00A-44D7-9371-BEB064C98683}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "OldNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{28803F59-3A75-4058-995F-4EE5503B023C}",
+    "Old": "%systemroot%\\system32\\DevicePairingFolder.dll,-200",
+    "Host": "%systemroot%\\system32\\DevicePairingFolder.dll,-200",
+    "OldNormalized": [
+      "devicepairingfolder.dll",
+      "-200"
+    ],
+    "HostNormalized": [
+      "devicepairingfolder.dll",
+      "-200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{289AF617-1CC3-42A6-926C-E6A863F0E3BA}",
+    "Old": "dlnashext.dll,-200",
+    "Host": "dlnashext.dll,-200",
+    "OldNormalized": [
+      "dlnashext.dll",
+      "-200"
+    ],
+    "HostNormalized": [
+      "dlnashext.dll",
+      "-200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2E17C0EF-2851-459b-A3C8-27A41D4BC9F7}",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,7",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,7",
+    "OldNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{2F6CE85C-F9EE-43CA-90C7-8A9BD53A2467}",
+    "Old": "FileHistory.exe,0",
+    "Host": "FileHistory.exe,0",
+    "OldNormalized": [
+      "filehistory.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "filehistory.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3050F3D9-98B5-11CF-BB82-00AA00BDCE0B}",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3050f4d8-98B5-11CF-BB82-00AA00BDCE0B}",
+    "Old": "X:\\Windows\\System32\\mshta.exe,1",
+    "Host": "C:\\Windows\\System32\\mshta.exe,1",
+    "OldNormalized": [
+      "mshta.exe",
+      "1"
+    ],
+    "HostNormalized": [
+      "mshta.exe",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{30590066-98b5-11cf-bb82-00aa00bdce0b}",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{30590067-98b5-11cf-bb82-00aa00bdce0b}",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3080F90D-D7AD-11D9-BD98-0000947B0257}",
+    "Old": "%SystemRoot%\\explorer.exe,-103",
+    "Host": "%SystemRoot%\\explorer.exe,-103",
+    "OldNormalized": [
+      "explorer.exe",
+      "-103"
+    ],
+    "HostNormalized": [
+      "explorer.exe",
+      "-103"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3080F90E-D7AD-11D9-BD98-0000947B0257}",
+    "Old": "%SystemRoot%\\explorer.exe,-258",
+    "Host": "%SystemRoot%\\explorer.exe,-258",
+    "OldNormalized": [
+      "explorer.exe",
+      "-258"
+    ],
+    "HostNormalized": [
+      "explorer.exe",
+      "-258"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3134ef9c-6b18-4996-ad04-ed5912e00eb5}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-117",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-117",
+    "OldNormalized": [
+      "imageres.dll",
+      "-117"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-117"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{323CA680-C24D-4099-B94D-446DD2D7249E}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-1024",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-1024",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1024"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1024"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{328B0346-7EAF-4BBE-A479-7CB88A095F5B}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-27",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-27",
+    "OldNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{374DE290-123F-4565-9164-39C4925E467B}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-184",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-184",
+    "OldNormalized": [
+      "imageres.dll",
+      "-184"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-184"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3936E9E4-D92C-4EEE-A85A-BC16D5EA0819}",
+    "Old": "%SystemRoot%\\system32\\shell32.dll,-37219",
+    "Host": "%SystemRoot%\\system32\\shell32.dll,-37219",
+    "OldNormalized": [
+      "shell32.dll",
+      "-37219"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "-37219"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3ADD1653-EB32-4cb0-BBD7-DFA0ABB5ACCA}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-113",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-113",
+    "OldNormalized": [
+      "imageres.dll",
+      "-113"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-113"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-108",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-108",
+    "OldNormalized": [
+      "imageres.dll",
+      "-108"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-108"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{3f6bc534-dfa1-4ab4-ae54-ef25a74e0107}",
+    "Old": "%SystemRoot%\\System32\\rstrui.exe,0",
+    "Host": "%SystemRoot%\\System32\\rstrui.exe,0",
+    "OldNormalized": [
+      "rstrui.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "rstrui.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{4026492F-2F69-46B8-B9BF-5654FC07E423}",
+    "Old": "X:\\Windows\\System32\\FirewallControlPanel.dll,-1",
+    "Host": "C:\\Windows\\System32\\FirewallControlPanel.dll,-1",
+    "OldNormalized": [
+      "firewallcontrolpanel.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "firewallcontrolpanel.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{40419485-C444-4567-851A-2DD7BFA1684D}",
+    "Old": "%SystemRoot%\\System32\\telephon.cpl,-100",
+    "Host": "%SystemRoot%\\System32\\telephon.cpl,-100",
+    "OldNormalized": [
+      "telephon.cpl",
+      "-100"
+    ],
+    "HostNormalized": [
+      "telephon.cpl",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{430da762-8632-4840-bc61-3eeaa078e62e}",
+    "Old": "%SystemRoot%\\system32\\display.dll,1",
+    "Host": "%SystemRoot%\\system32\\display.dll,1",
+    "OldNormalized": [
+      "display.dll",
+      "1"
+    ],
+    "HostNormalized": [
+      "display.dll",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{450D8FBA-AD25-11D0-98A8-0800361B1103}",
+    "Old": "%SystemRoot%\\system32\\shell32.dll,-235",
+    "Host": "%SystemRoot%\\system32\\shell32.dll,-235",
+    "OldNormalized": [
+      "shell32.dll",
+      "-235"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "-235"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{48123BC4-99D9-11D1-A6B3-00C04FD91555}",
+    "Old": "%SystemRoot%\\System32\\msxml3.dll,0",
+    "Host": "%SystemRoot%\\System32\\msxml3.dll,0",
+    "OldNormalized": [
+      "msxml3.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "msxml3.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{4c892621-6757-4fe0-ad8c-a6301be7fba2}",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,7",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,7",
+    "OldNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{5399E694-6CE5-4D6C-8FCE-1D8870FDCBA0}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-27",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-27",
+    "OldNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{59031a47-3f72-44a7-89c5-5595fe6b30ee}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-123",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-123",
+    "OldNormalized": [
+      "imageres.dll",
+      "-123"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-123"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{5ea4f148-308c-46d7-98a9-49041b1dd468}",
+    "Old": "%SystemRoot%\\system32\\mblctr.exe,0",
+    "Host": "%SystemRoot%\\system32\\mblctr.exe,0",
+    "OldNormalized": [
+      "mblctr.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "mblctr.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{5ED4F38C-D3FF-4D61-B506-6820320AEBFE}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "OldNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{5ef4af3a-f726-11d0-b8a2-00c04fc309a4}",
+    "Old": "%SystemRoot%\\system32\\shell32.dll,-33",
+    "Host": "%SystemRoot%\\system32\\shell32.dll,-33",
+    "OldNormalized": [
+      "shell32.dll",
+      "-33"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "-33"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{60632754-c523-4b62-b45c-4172da012619}",
+    "Old": "%SystemRoot%\\System32\\usercpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\usercpl.dll,-1",
+    "OldNormalized": [
+      "usercpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "usercpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{60F6E464-4DEF-11d2-B2D9-00C04F8EEC8C}",
+    "Old": "%SystemRoot%\\System32\\DATACLEN.DLL,-2002",
+    "Host": "%SystemRoot%\\System32\\DATACLEN.DLL,-2002",
+    "OldNormalized": [
+      "dataclen.dll",
+      "-2002"
+    ],
+    "HostNormalized": [
+      "dataclen.dll",
+      "-2002"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{62D8ED13-C9D0-4CE8-A914-47DD628FB1B0}",
+    "Old": "%SystemRoot%\\System32\\intl.cpl,-200",
+    "Host": "%SystemRoot%\\System32\\intl.cpl,-200",
+    "OldNormalized": [
+      "intl.cpl",
+      "-200"
+    ],
+    "HostNormalized": [
+      "intl.cpl",
+      "-200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{6377013E-2C35-40F3-B8E1-1AB47D12982B}",
+    "Old": "%SystemRoot%\\system32\\WABSyncProvider.dll,0",
+    "Host": "%SystemRoot%\\system32\\WABSyncProvider.dll,0",
+    "OldNormalized": [
+      "wabsyncprovider.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "wabsyncprovider.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{63da6ec0-2e98-11cf-8d82-444553540000}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-73",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-73",
+    "OldNormalized": [
+      "imageres.dll",
+      "-73"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-73"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{645FF040-5081-101B-9F08-00AA002F954E}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-55",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-55",
+    "OldNormalized": [
+      "imageres.dll",
+      "-55"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-55"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{67718415-c450-4f3c-bf8a-b487642dc39b}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-87",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-87",
+    "OldNormalized": [
+      "imageres.dll",
+      "-87"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-87"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{679f85cb-0220-4080-b29b-5540cc05aab6}",
+    "Old": "%SystemRoot%\\system32\\shell32.dll,-51380",
+    "Host": "%SystemRoot%\\system32\\shell32.dll,-51380",
+    "OldNormalized": [
+      "shell32.dll",
+      "-51380"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "-51380"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{67CA7650-96E6-4FDD-BB43-A8E774F73A57}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-1013",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-1013",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1013"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1013"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{6C8EEC18-8D75-41B2-A177-8831D59D2D50}",
+    "Old": "%SystemRoot%\\System32\\main.cpl,-100",
+    "Host": "%SystemRoot%\\System32\\main.cpl,-100",
+    "OldNormalized": [
+      "main.cpl",
+      "-100"
+    ],
+    "HostNormalized": [
+      "main.cpl",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{6DFD7C5C-2451-11d3-A299-00C04F8EF6AF}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-166",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-166",
+    "OldNormalized": [
+      "imageres.dll",
+      "-166"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-166"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{725BE8F7-668E-4C7B-8F90-46BDB0936430}",
+    "Old": "%SystemRoot%\\System32\\main.cpl,-200",
+    "Host": "%SystemRoot%\\System32\\main.cpl,-200",
+    "OldNormalized": [
+      "main.cpl",
+      "-200"
+    ],
+    "HostNormalized": [
+      "main.cpl",
+      "-200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{74246bfc-4c96-11d0-abef-0020af6b0b7a}",
+    "Old": "%SystemRoot%\\system32\\devmgr.dll,-201",
+    "Host": "%SystemRoot%\\system32\\devmgr.dll,-201",
+    "OldNormalized": [
+      "devmgr.dll",
+      "-201"
+    ],
+    "HostNormalized": [
+      "devmgr.dll",
+      "-201"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{7A9D77BD-5403-11d2-8785-2E0420524153}",
+    "Old": "%SystemRoot%\\system32\\netplwiz.dll,-102",
+    "Host": "%SystemRoot%\\system32\\netplwiz.dll,-102",
+    "OldNormalized": [
+      "netplwiz.dll",
+      "-102"
+    ],
+    "HostNormalized": [
+      "netplwiz.dll",
+      "-102"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{7b81be6a-ce2b-4676-a29e-eb907a5126c5}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-87",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-87",
+    "OldNormalized": [
+      "imageres.dll",
+      "-87"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-87"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{7BD29E00-76C1-11CF-9DD0-00A0C9034933}",
+    "Old": "X:\\Windows\\System32\\ieframe.dll,-20780",
+    "Host": "C:\\Windows\\System32\\ieframe.dll,-20780",
+    "OldNormalized": [
+      "ieframe.dll",
+      "-20780"
+    ],
+    "HostNormalized": [
+      "ieframe.dll",
+      "-20780"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{80F3F1D5-FECA-45F3-BC32-752C152E456E}",
+    "Old": "%SystemRoot%\\System32\\tabletpc.cpl,-10200",
+    "Host": "%SystemRoot%\\System32\\tabletpc.cpl,-10200",
+    "OldNormalized": [
+      "tabletpc.cpl",
+      "-10200"
+    ],
+    "HostNormalized": [
+      "tabletpc.cpl",
+      "-10200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{8369AB20-56C9-11D0-94E8-00AA0059CE02}",
+    "Old": "X:\\Windows\\System32\\occache.dll,0",
+    "Host": "C:\\Windows\\System32\\occache.dll,0",
+    "OldNormalized": [
+      "occache.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "occache.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{863aa9fd-42df-457b-8e4d-0de1b8015c60}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-26",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-26",
+    "OldNormalized": [
+      "imageres.dll",
+      "-26"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-26"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{871C5380-42A0-1069-A2EA-08002B30309D}",
+    "Old": "X:\\Windows\\System32\\ieframe.dll,-190",
+    "Host": "C:\\Windows\\System32\\ieframe.dll,-190",
+    "OldNormalized": [
+      "ieframe.dll",
+      "-190"
+    ],
+    "HostNormalized": [
+      "ieframe.dll",
+      "-190"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{87D66A43-7B11-4A28-9811-C86EE395ACF7}",
+    "Old": "%SystemRoot%\\System32\\srchadmin.dll,-201",
+    "Host": "%SystemRoot%\\System32\\srchadmin.dll,-201",
+    "OldNormalized": [
+      "srchadmin.dll",
+      "-201"
+    ],
+    "HostNormalized": [
+      "srchadmin.dll",
+      "-201"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{89D83576-6BD1-4c86-9454-BEB04E94C819}",
+    "Old": "%systemroot%\\system32\\mssvp.dll,-504",
+    "Host": "%systemroot%\\system32\\mssvp.dll,-504",
+    "OldNormalized": [
+      "mssvp.dll",
+      "-504"
+    ],
+    "HostNormalized": [
+      "mssvp.dll",
+      "-504"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{8E6E6079-0CB7-11d2-8F10-0000F87ABD16}",
+    "Old": "X:\\Windows\\System32\\webcheck.dll,0",
+    "Host": "C:\\Windows\\System32\\webcheck.dll,0",
+    "OldNormalized": [
+      "webcheck.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "webcheck.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{8E908FC9-BECC-40f6-915B-F4CA0E70D03D}",
+    "Old": "%SystemRoot%\\System32\\netcenter.dll,-1",
+    "Host": "%SystemRoot%\\System32\\netcenter.dll,-1",
+    "OldNormalized": [
+      "netcenter.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "netcenter.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{8FD8B88D-30E1-4F25-AC2B-553D3D65F0EA}",
+    "Old": "%systemroot%\\system32\\dxp.dll,0",
+    "Host": "%systemroot%\\system32\\dxp.dll,0",
+    "OldNormalized": [
+      "dxp.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "dxp.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9324DA94-50EC-4A14-A770-E90CA03E7C8F}",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,7",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,7",
+    "OldNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9343812e-1c37-4a49-a12e-4b2d810d956b}",
+    "Old": "%SystemRoot%\\System32\\searchfolder.dll,-323",
+    "Host": "%SystemRoot%\\System32\\searchfolder.dll,-323",
+    "OldNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "HostNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{98F275B4-4FFF-11E0-89E2-7B86DFD72085}",
+    "Old": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "Host": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "OldNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "HostNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9B0EFD60-F7B0-11D0-BAEF-00C04FC308C9}",
+    "Old": "X:\\Windows\\System32\\inetcpl.cpl,15",
+    "Host": "C:\\Windows\\System32\\inetcpl.cpl,15",
+    "OldNormalized": [
+      "inetcpl.cpl",
+      "15"
+    ],
+    "HostNormalized": [
+      "inetcpl.cpl",
+      "15"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9C60DE1E-E5FC-40f4-A487-460851A8D915}",
+    "Old": "%SystemRoot%\\System32\\autoplay.dll,-1",
+    "Host": "%SystemRoot%\\System32\\autoplay.dll,-1",
+    "OldNormalized": [
+      "autoplay.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "autoplay.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9C73F5E5-7AE7-4E32-A8E8-8D23B85255BF}",
+    "Old": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "Host": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "OldNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "HostNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9DB7A13C-F208-4981-8353-73CC61AE2783}",
+    "Old": "%SystemRoot%\\system32\\twext.dll,-100",
+    "Host": "%SystemRoot%\\system32\\twext.dll,-100",
+    "OldNormalized": [
+      "twext.dll",
+      "-100"
+    ],
+    "HostNormalized": [
+      "twext.dll",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9E56BE60-C50F-11CF-9A2C-00A0C90A90CE}",
+    "Old": "%SystemRoot%\\system32\\sendmail.dll,-2001",
+    "Host": "%SystemRoot%\\system32\\sendmail.dll,-2001",
+    "OldNormalized": [
+      "sendmail.dll",
+      "-2001"
+    ],
+    "HostNormalized": [
+      "sendmail.dll",
+      "-2001"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9E56BE61-C50F-11CF-9A2C-00A0C90A90CE}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-110",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-110",
+    "OldNormalized": [
+      "imageres.dll",
+      "-110"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-110"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{9FE63AFD-59CF-4419-9775-ABCC3849F861}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-1022",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-1022",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1022"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1022"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{a00ee528-ebd9-48b8-944a-8942113d46ac}",
+    "Old": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "Host": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "OldNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "HostNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{A0953C92-50DC-43bf-BE83-3742FED03C9C}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-189",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-189",
+    "OldNormalized": [
+      "imageres.dll",
+      "-189"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-189"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{A3DD4F92-658A-410F-84FD-6FBBBEF2FFFE}",
+    "Old": "X:\\Windows\\System32\\inetcpl.cpl,-4487",
+    "Host": "C:\\Windows\\System32\\inetcpl.cpl,-4487",
+    "OldNormalized": [
+      "inetcpl.cpl",
+      "-4487"
+    ],
+    "HostNormalized": [
+      "inetcpl.cpl",
+      "-4487"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{A8A91A66-3A7D-4424-8D24-04E180695C7A}",
+    "Old": "%systemroot%\\system32\\DeviceCenter.dll,-1",
+    "Host": "%systemroot%\\system32\\DeviceCenter.dll,-1",
+    "OldNormalized": [
+      "devicecenter.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "devicecenter.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{A8CDFF1C-4878-43be-B5FD-F8091C1C60D0}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-112",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-112",
+    "OldNormalized": [
+      "imageres.dll",
+      "-112"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-112"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{A9B48EAC-3ED8-11d2-8216-00C04FB687DA}",
+    "Old": "%SystemRoot%\\System32\\DATACLEN.DLL,-2000",
+    "Host": "%SystemRoot%\\System32\\DATACLEN.DLL,-2000",
+    "OldNormalized": [
+      "dataclen.dll",
+      "-2000"
+    ],
+    "HostNormalized": [
+      "dataclen.dll",
+      "-2000"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{ADB9F5A4-E73E-49b8-99B6-2FA317EF9DBC}",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,7",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,7",
+    "OldNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{B12AE898-D056-4378-A844-6D393FE37956}",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,7",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,7",
+    "OldNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{B2C761C6-29BC-4f19-9251-E6195265BAF1}",
+    "Old": "X:\\Windows\\System32\\colorcpl.exe,-5",
+    "Host": "C:\\Windows\\System32\\colorcpl.exe,-5",
+    "OldNormalized": [
+      "colorcpl.exe",
+      "-5"
+    ],
+    "HostNormalized": [
+      "colorcpl.exe",
+      "-5"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-183",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-183",
+    "OldNormalized": [
+      "imageres.dll",
+      "-183"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-183"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{B7BBD408-F09C-4aa8-B65E-A00B8FE0F0B9}",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,7",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,7",
+    "OldNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "7"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{B98A2BEA-7D42-4558-8BD1-832F41BAC6FD}",
+    "Old": "%SystemRoot%\\System32\\sdcpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\sdcpl.dll,-1",
+    "OldNormalized": [
+      "sdcpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "sdcpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-149",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-149",
+    "OldNormalized": [
+      "imageres.dll",
+      "-149"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-149"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{BB64F8A7-BEE7-4E1A-AB8D-7D8273F7FDB6}",
+    "Old": "%SystemRoot%\\System32\\ActionCenterCPL.dll,-1",
+    "Host": "%SystemRoot%\\System32\\ActionCenterCPL.dll,-1",
+    "OldNormalized": [
+      "actioncentercpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "actioncentercpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{BC48B32F-5910-47F5-8570-5074A8A5636A}",
+    "Old": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "Host": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "OldNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "HostNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{BD7A2E7B-21CB-41b2-A086-B309680C6B7E}",
+    "Old": "%systemroot%\\system32\\mssvp.dll,-505",
+    "Host": "%systemroot%\\system32\\mssvp.dll,-505",
+    "OldNormalized": [
+      "mssvp.dll",
+      "-505"
+    ],
+    "HostNormalized": [
+      "mssvp.dll",
+      "-505"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{c57a6066-66a3-4d91-9eb9-41532179f0a5}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-1020",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-1020",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1020"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1020"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{C58C4893-3BE0-4B45-ABB5-A63E4B8C8651}",
+    "Old": "%SystemRoot%\\System32\\DiagCpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\DiagCpl.dll,-1",
+    "OldNormalized": [
+      "diagcpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "diagcpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{c79d1575-b8c6-4862-a284-788836518b97}",
+    "Old": "%SystemRoot%\\system32\\display.dll,1",
+    "Host": "%SystemRoot%\\system32\\display.dll,1",
+    "OldNormalized": [
+      "display.dll",
+      "1"
+    ],
+    "HostNormalized": [
+      "display.dll",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{D17D1D6D-CC3F-4815-8FE3-607E7D5D10B3}",
+    "Old": "%SystemRoot%\\System32\\Speech\\SpeechUX\\sapi.cpl,-138",
+    "Host": "%SystemRoot%\\System32\\Speech\\SpeechUX\\sapi.cpl,-138",
+    "OldNormalized": [
+      "sapi.cpl",
+      "-138"
+    ],
+    "HostNormalized": [
+      "sapi.cpl",
+      "-138"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{D2035EDF-75CB-4EF1-95A7-410D9EE17170}",
+    "Old": "dlnashext.dll,-200",
+    "Host": "dlnashext.dll,-200",
+    "OldNormalized": [
+      "dlnashext.dll",
+      "-200"
+    ],
+    "HostNormalized": [
+      "dlnashext.dll",
+      "-200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{D20EA4E1-3957-11d2-A40B-0C5020524153}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-114",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-114",
+    "OldNormalized": [
+      "imageres.dll",
+      "-114"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-114"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{d3162b92-9365-467a-956b-92703aca08af}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-112",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-112",
+    "OldNormalized": [
+      "imageres.dll",
+      "-112"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-112"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{D3E34B21-9D75-101A-8C3D-00AA001A1652}",
+    "Old": "%systemroot%\\system32\\mspaint.exe,-3",
+    "Host": "C:\\Program Files\\WindowsApps\\Microsoft.Paint_11.2412.295.0_x64__8wekyb3d8bbwe\\PaintApp\\mspaint.exe,-3",
+    "OldNormalized": [
+      "mspaint.exe",
+      "-3"
+    ],
+    "HostNormalized": [
+      "mspaint.exe",
+      "-3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{D4480A50-BA28-11d1-8E75-00C04FA31A86}",
+    "Old": "%SystemRoot%\\System32\\shwebsvc.dll,-107",
+    "Host": "%SystemRoot%\\System32\\shwebsvc.dll,-107",
+    "OldNormalized": [
+      "shwebsvc.dll",
+      "-107"
+    ],
+    "HostNormalized": [
+      "shwebsvc.dll",
+      "-107"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{d450a8a1-9568-45c7-9c0e-b4f9fb4537bd}",
+    "Old": "appwiz.cpl,-1507",
+    "Host": "appwiz.cpl,-1507",
+    "OldNormalized": [
+      "appwiz.cpl",
+      "-1507"
+    ],
+    "HostNormalized": [
+      "appwiz.cpl",
+      "-1507"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{D555645E-D4F8-4c29-A827-D93C859C4F2A}",
+    "Old": "%SystemRoot%\\System32\\accessibilitycpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\accessibilitycpl.dll,-1",
+    "OldNormalized": [
+      "accessibilitycpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "accessibilitycpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{D9EF8727-CAC2-4e60-809E-86F80A666C91}",
+    "Old": "%SystemRoot%\\System32\\fvecpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\fvecpl.dll,-1",
+    "OldNormalized": [
+      "fvecpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "fvecpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{daf95313-e44d-46af-be1b-cbacea2c3065}",
+    "Old": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "Host": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "OldNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "HostNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{E2E7934B-DCE5-43C4-9576-7FE4F75E7480}",
+    "Old": "%SystemRoot%\\System32\\timedate.cpl,-50",
+    "Host": "%SystemRoot%\\System32\\timedate.cpl,-50",
+    "OldNormalized": [
+      "timedate.cpl",
+      "-50"
+    ],
+    "HostNormalized": [
+      "timedate.cpl",
+      "-50"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{e345f35f-9397-435c-8f95-4e922c26259e}",
+    "Old": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "Host": "%SystemRoot%\\system32\\SearchFolder.dll,-323",
+    "OldNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "HostNormalized": [
+      "searchfolder.dll",
+      "-323"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{E413D040-6788-4C22-957E-175D1C513A34}",
+    "Old": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "Host": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "OldNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "HostNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{E44E5D18-0652-4508-A4E2-8A090067BCB0}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-24",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-24",
+    "OldNormalized": [
+      "imageres.dll",
+      "-24"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-24"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{E96F5460-09CE-4f46-88B1-F4B6B4A8E252}",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll, 101",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll, 101",
+    "OldNormalized": [
+      "wmploc.dll",
+      "101"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "101"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{ECDB0924-4208-451E-8EE0-373C0956DE16}",
+    "Old": "X:\\Windows\\System32\\WorkfoldersControl.dll, 1",
+    "Host": "C:\\Windows\\System32\\WorkfoldersControl.dll, 1",
+    "OldNormalized": [
+      "workfolderscontrol.dll",
+      "1"
+    ],
+    "HostNormalized": [
+      "workfolderscontrol.dll",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{ECF03A32-103D-11d2-854D-006008059367}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-1002",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-1002",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1002"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1002"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{ED7BA470-8E54-465E-825C-99712043E01C}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-27",
+    "OldNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-27"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}",
+    "Old": "%SystemRoot%\\System32\\themecpl.dll,-1",
+    "Host": "%SystemRoot%\\System32\\themecpl.dll,-1",
+    "OldNormalized": [
+      "themecpl.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "themecpl.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-25",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-25",
+    "OldNormalized": [
+      "imageres.dll",
+      "-25"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-25"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{F1390A9A-A3F4-4E5D-9C5F-98F3BD8D935C}",
+    "Old": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "Host": "%SystemRoot%\\System32\\SyncCenter.dll,-1000",
+    "OldNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "HostNormalized": [
+      "synccenter.dll",
+      "-1000"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{F20DA720-C02F-11CE-927B-0800095AE340}",
+    "Old": "%SystemRoot%\\system32\\packager.dll,0",
+    "Host": "%SystemRoot%\\system32\\packager.dll,0",
+    "OldNormalized": [
+      "packager.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "packager.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{F2DDFC82-8F12-4CDD-B7DC-D4FE1425AA4D}",
+    "Old": "%SystemRoot%\\System32\\mmsys.cpl,-100",
+    "Host": "%SystemRoot%\\System32\\mmsys.cpl,-100",
+    "OldNormalized": [
+      "mmsys.cpl",
+      "-100"
+    ],
+    "HostNormalized": [
+      "mmsys.cpl",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{F5078F40-C551-11D3-89B9-0000F81FE221}",
+    "Old": "%SystemRoot%\\System32\\msxml3.dll,0",
+    "Host": "%SystemRoot%\\System32\\msxml3.dll,0",
+    "OldNormalized": [
+      "msxml3.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "msxml3.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{F82DF8F7-8B9F-442E-A48C-818EA735FF9B}",
+    "Old": "%SystemRoot%\\System32\\tabletpc.cpl,-10201",
+    "Host": "%SystemRoot%\\System32\\tabletpc.cpl,-10201",
+    "OldNormalized": [
+      "tabletpc.cpl",
+      "-10201"
+    ],
+    "HostNormalized": [
+      "tabletpc.cpl",
+      "-10201"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a}",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-189",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-189",
+    "OldNormalized": [
+      "imageres.dll",
+      "-189"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-189"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{F942C606-0914-47AB-BE56-1321B8035096}",
+    "Old": "X:\\Windows\\System32\\SpaceControl.dll,-1",
+    "Host": "C:\\Windows\\System32\\SpaceControl.dll,-1",
+    "OldNormalized": [
+      "spacecontrol.dll",
+      "-1"
+    ],
+    "HostNormalized": [
+      "spacecontrol.dll",
+      "-1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{FF393560-C2A7-11CF-BFF4-444553540000}",
+    "Old": "X:\\Windows\\System32\\ieframe.dll,-20785",
+    "Host": "C:\\Windows\\System32\\ieframe.dll,-20785",
+    "OldNormalized": [
+      "ieframe.dll",
+      "-20785"
+    ],
+    "HostNormalized": [
+      "ieframe.dll",
+      "-20785"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CLSID\\{FF3AE31D-55B0-4945-BDE9-622ABB334C1A}",
+    "Old": "%SystemRoot%\\system32\\WABSyncProvider.dll,0",
+    "Host": "%SystemRoot%\\system32\\WABSyncProvider.dll,0",
+    "OldNormalized": [
+      "wabsyncprovider.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "wabsyncprovider.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "accountpicturefile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-5203",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-5203",
+    "OldNormalized": [
+      "imageres.dll",
+      "-5203"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-5203"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Application.Manifest",
+    "Old": "X:\\Windows\\System32\\dfshim.dll,1",
+    "Host": "C:\\Windows\\System32\\dfshim.dll,1",
+    "OldNormalized": [
+      "dfshim.dll",
+      "1"
+    ],
+    "HostNormalized": [
+      "dfshim.dll",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "AudioCD",
+    "Old": "%SystemRoot%\\system32\\shell32.dll,40",
+    "Host": "%SystemRoot%\\system32\\shell32.dll,40",
+    "OldNormalized": [
+      "shell32.dll",
+      "40"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "40"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "batfile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-68",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-68",
+    "OldNormalized": [
+      "imageres.dll",
+      "-68"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-68"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "brmFile",
+    "Old": "%SystemRoot%\\System32\\printbrmui.exe,-104",
+    "Host": "%SystemRoot%\\System32\\printbrmui.exe,-104",
+    "OldNormalized": [
+      "printbrmui.exe",
+      "-104"
+    ],
+    "HostNormalized": [
+      "printbrmui.exe",
+      "-104"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CABFolder",
+    "Old": "%SystemRoot%\\system32\\cabview.dll,0",
+    "Host": "%SystemRoot%\\system32\\cabview.dll,0",
+    "OldNormalized": [
+      "cabview.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "cabview.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "campfile",
+    "Old": "%SystemRoot%\\System32\\colorui.dll,-17",
+    "Host": "%SystemRoot%\\System32\\colorui.dll,-17",
+    "OldNormalized": [
+      "colorui.dll",
+      "-17"
+    ],
+    "HostNormalized": [
+      "colorui.dll",
+      "-17"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CATFile",
+    "Old": "cryptui.dll,-3418",
+    "Host": "cryptui.dll,-3418",
+    "OldNormalized": [
+      "cryptui.dll",
+      "-3418"
+    ],
+    "HostNormalized": [
+      "cryptui.dll",
+      "-3418"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "cdmpfile",
+    "Old": "%SystemRoot%\\System32\\colorui.dll,-16",
+    "Host": "%SystemRoot%\\System32\\colorui.dll,-16",
+    "OldNormalized": [
+      "colorui.dll",
+      "-16"
+    ],
+    "HostNormalized": [
+      "colorui.dll",
+      "-16"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CERFile",
+    "Old": "cryptui.dll,-3410",
+    "Host": "cryptui.dll,-3410",
+    "OldNormalized": [
+      "cryptui.dll",
+      "-3410"
+    ],
+    "HostNormalized": [
+      "cryptui.dll",
+      "-3410"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "certificate_wab_auto_file",
+    "Old": "%ProgramFiles%\\Windows Mail\\wab.exe,1",
+    "Host": "%ProgramFiles%\\Windows Mail\\wab.exe,1",
+    "OldNormalized": [
+      "wab.exe",
+      "1"
+    ],
+    "HostNormalized": [
+      "wab.exe",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "chm.file",
+    "Old": "%SystemRoot%\\hh.exe,0",
+    "Host": "%SystemRoot%\\hh.exe,0",
+    "OldNormalized": [
+      "hh.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "hh.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "cmdfile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-68",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-68",
+    "OldNormalized": [
+      "imageres.dll",
+      "-68"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-68"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "comfile",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,2",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,2",
+    "OldNormalized": [
+      "shell32.dll",
+      "2"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "2"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "contact_wab_auto_file",
+    "Old": "%ProgramFiles%\\Windows Mail\\wab.exe,1",
+    "Host": "%ProgramFiles%\\Windows Mail\\wab.exe,1",
+    "OldNormalized": [
+      "wab.exe",
+      "1"
+    ],
+    "HostNormalized": [
+      "wab.exe",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CRLFile",
+    "Old": "cryptui.dll,-3417",
+    "Host": "cryptui.dll,-3417",
+    "OldNormalized": [
+      "cryptui.dll",
+      "-3417"
+    ],
+    "HostNormalized": [
+      "cryptui.dll",
+      "-3417"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "CSSfile",
+    "Old": "X:\\Windows\\System32\\shell32.dll,-151",
+    "Host": "C:\\Windows\\System32\\shell32.dll,-151",
+    "OldNormalized": [
+      "shell32.dll",
+      "-151"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "-151"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "dbfile",
+    "Old": "X:\\Windows\\system32\\imageres.dll,-67",
+    "Host": "C:\\Windows\\system32\\imageres.dll,-67",
+    "OldNormalized": [
+      "imageres.dll",
+      "-67"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-67"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "desktopthemepackfile",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,-704",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,-704",
+    "OldNormalized": [
+      "themeui.dll",
+      "-704"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "-704"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Diagnostic.Cabinet",
+    "Old": "%SystemRoot%\\system32\\msdt.exe,-10013",
+    "Host": "%SystemRoot%\\system32\\msdt.exe,-10013",
+    "OldNormalized": [
+      "msdt.exe",
+      "-10013"
+    ],
+    "HostNormalized": [
+      "msdt.exe",
+      "-10013"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Diagnostic.Config",
+    "Old": "%SystemRoot%\\system32\\msdt.exe,-10015",
+    "Host": "%SystemRoot%\\system32\\msdt.exe,-10015",
+    "OldNormalized": [
+      "msdt.exe",
+      "-10015"
+    ],
+    "HostNormalized": [
+      "msdt.exe",
+      "-10015"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Diagnostic.Document",
+    "Old": "%SystemRoot%\\system32\\msdt.exe,-10011",
+    "Host": "%SystemRoot%\\system32\\msdt.exe,-10011",
+    "OldNormalized": [
+      "msdt.exe",
+      "-10011"
+    ],
+    "HostNormalized": [
+      "msdt.exe",
+      "-10011"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Diagnostic.Perfmon.Config",
+    "Old": "%SystemRoot%\\system32\\wdc.dll,-10038",
+    "Host": "%SystemRoot%\\system32\\wdc.dll,-10038",
+    "OldNormalized": [
+      "wdc.dll",
+      "-10038"
+    ],
+    "HostNormalized": [
+      "wdc.dll",
+      "-10038"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Diagnostic.Perfmon.Document",
+    "Old": "%SystemRoot%\\system32\\wdc.dll,-10024",
+    "Host": "%SystemRoot%\\system32\\wdc.dll,-10024",
+    "OldNormalized": [
+      "wdc.dll",
+      "-10024"
+    ],
+    "HostNormalized": [
+      "wdc.dll",
+      "-10024"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Diagnostic.Resmon.Config",
+    "Old": "%SystemRoot%\\system32\\wdc.dll,-10040",
+    "Host": "%SystemRoot%\\system32\\wdc.dll,-10040",
+    "OldNormalized": [
+      "wdc.dll",
+      "-10040"
+    ],
+    "HostNormalized": [
+      "wdc.dll",
+      "-10040"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Directory",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,3",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,3",
+    "OldNormalized": [
+      "shell32.dll",
+      "3"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "dllfile",
+    "Old": "X:\\Windows\\system32\\imageres.dll,-67",
+    "Host": "C:\\Windows\\system32\\imageres.dll,-67",
+    "OldNormalized": [
+      "imageres.dll",
+      "-67"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-67"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "DLNA-PLAYSINGLE",
+    "Old": "%SystemRoot%\\system32\\dlnashext.dll,-200",
+    "Host": "%SystemRoot%\\system32\\dlnashext.dll,-200",
+    "OldNormalized": [
+      "dlnashext.dll",
+      "-200"
+    ],
+    "HostNormalized": [
+      "dlnashext.dll",
+      "-200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Drive",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,8",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,8",
+    "OldNormalized": [
+      "shell32.dll",
+      "8"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "8"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "DVD",
+    "Old": "shell32.dll,40",
+    "Host": "shell32.dll,40",
+    "OldNormalized": [
+      "shell32.dll",
+      "40"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "40"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "evtfile",
+    "Old": "%SystemRoot%\\system32\\miguiresource.dll,0",
+    "Host": "%SystemRoot%\\system32\\miguiresource.dll,0",
+    "OldNormalized": [
+      "miguiresource.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "miguiresource.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "evtxfile",
+    "Old": "%SystemRoot%\\system32\\miguiresource.dll,0",
+    "Host": "%SystemRoot%\\system32\\miguiresource.dll,0",
+    "OldNormalized": [
+      "miguiresource.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "miguiresource.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Folder",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,3",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,3",
+    "OldNormalized": [
+      "shell32.dll",
+      "3"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "fonfile",
+    "Old": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "Host": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "OldNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "HostNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "giffile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-71",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-71",
+    "OldNormalized": [
+      "imageres.dll",
+      "-71"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-71"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "gmmpfile",
+    "Old": "%SystemRoot%\\System32\\colorui.dll,-18",
+    "Host": "%SystemRoot%\\System32\\colorui.dll,-18",
+    "OldNormalized": [
+      "colorui.dll",
+      "-18"
+    ],
+    "HostNormalized": [
+      "colorui.dll",
+      "-18"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "group_wab_auto_file",
+    "Old": "%ProgramFiles%\\Windows Mail\\wab.exe,2",
+    "Host": "%ProgramFiles%\\Windows Mail\\wab.exe,2",
+    "OldNormalized": [
+      "wab.exe",
+      "2"
+    ],
+    "HostNormalized": [
+      "wab.exe",
+      "2"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "hlpfile",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,23",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,23",
+    "OldNormalized": [
+      "shell32.dll",
+      "23"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "23"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "htafile",
+    "Old": "X:\\Windows\\System32\\mshta.exe,1",
+    "Host": "C:\\Windows\\System32\\mshta.exe,1",
+    "OldNormalized": [
+      "mshta.exe",
+      "1"
+    ],
+    "HostNormalized": [
+      "mshta.exe",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "htmlfile",
+    "Old": "%ProgramFiles%\\Internet Explorer\\iexplore.exe,-17",
+    "Host": "%ProgramFiles%\\Internet Explorer\\iexplore.exe,-17",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-17"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-17"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "icmfile",
+    "Old": "%SystemRoot%\\System32\\colorui.dll,-15",
+    "Host": "%SystemRoot%\\System32\\colorui.dll,-15",
+    "OldNormalized": [
+      "colorui.dll",
+      "-15"
+    ],
+    "HostNormalized": [
+      "colorui.dll",
+      "-15"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.AssocFile.HTM",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.AssocFile.MHT",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-32554",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-32554",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-32554"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-32554"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.AssocFile.PARTIAL",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.AssocFile.SVG",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.AssocFile.URL",
+    "Old": "X:\\Windows\\System32\\url.dll,0",
+    "Host": "C:\\Windows\\System32\\url.dll,0",
+    "OldNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.AssocFile.WEBSITE",
+    "Old": "X:\\Windows\\System32\\ieframe.dll,-211",
+    "Host": "C:\\Windows\\System32\\ieframe.dll,-211",
+    "OldNormalized": [
+      "ieframe.dll",
+      "-211"
+    ],
+    "HostNormalized": [
+      "ieframe.dll",
+      "-211"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.AssocFile.XHT",
+    "Old": "X:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "Host": "C:\\Program Files\\Internet Explorer\\iexplore.exe,-19",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-19"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.FTP",
+    "Old": "X:\\Windows\\System32\\url.dll,0",
+    "Host": "C:\\Windows\\System32\\url.dll,0",
+    "OldNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.HTTP",
+    "Old": "X:\\Windows\\System32\\url.dll,0",
+    "Host": "C:\\Windows\\System32\\url.dll,0",
+    "OldNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "IE.HTTPS",
+    "Old": "X:\\Windows\\System32\\url.dll,0",
+    "Host": "C:\\Windows\\System32\\url.dll,0",
+    "OldNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "InternetShortcut",
+    "Old": "X:\\Windows\\System32\\url.dll,5",
+    "Host": "C:\\Windows\\System32\\url.dll,5",
+    "OldNormalized": [
+      "url.dll",
+      "5"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "5"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "jpegfile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-72",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-72",
+    "OldNormalized": [
+      "imageres.dll",
+      "-72"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-72"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "JSEFile",
+    "Old": "X:\\Windows\\System32\\WScript.exe,3",
+    "Host": "C:\\Windows\\System32\\WScript.exe,3",
+    "OldNormalized": [
+      "wscript.exe",
+      "3"
+    ],
+    "HostNormalized": [
+      "wscript.exe",
+      "3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "JSFile",
+    "Old": "X:\\Windows\\System32\\WScript.exe,3",
+    "Host": "C:\\Windows\\System32\\WScript.exe,3",
+    "OldNormalized": [
+      "wscript.exe",
+      "3"
+    ],
+    "HostNormalized": [
+      "wscript.exe",
+      "3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Label",
+    "Old": "%SystemRoot%\\system32\\shell32.dll,-253",
+    "Host": "%SystemRoot%\\system32\\shell32.dll,-253",
+    "OldNormalized": [
+      "shell32.dll",
+      "-253"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "-253"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "LibraryFolder",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-8",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-8",
+    "OldNormalized": [
+      "imageres.dll",
+      "-8"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-8"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "LpkSetup.1",
+    "Old": "%systemroot%\\system32\\lpksetup.exe,0",
+    "Host": "%systemroot%\\system32\\lpksetup.exe,0",
+    "OldNormalized": [
+      "lpksetup.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "lpksetup.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "mhtmlfile",
+    "Old": "%ProgramFiles%\\Internet Explorer\\iexplore.exe,-32554",
+    "Host": "%ProgramFiles%\\Internet Explorer\\iexplore.exe,-32554",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-32554"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-32554"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Microsoft.System.Update.1",
+    "Old": "\"%systemroot%\\system32\\wusa.exe\",-101",
+    "Host": "\"%systemroot%\\system32\\wusa.exe\",-101",
+    "OldNormalized": [
+      "wusa.exe",
+      "-101"
+    ],
+    "HostNormalized": [
+      "wusa.exe",
+      "-101"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Microsoft.Website",
+    "Old": "X:\\Windows\\System32\\ieframe.dll,-211",
+    "Host": "C:\\Windows\\System32\\ieframe.dll,-211",
+    "OldNormalized": [
+      "ieframe.dll",
+      "-211"
+    ],
+    "HostNormalized": [
+      "ieframe.dll",
+      "-211"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Microsoft.Workfolders",
+    "Old": "X:\\Windows\\System32\\WorkfoldersControl.dll, 1",
+    "Host": "C:\\Windows\\System32\\WorkfoldersControl.dll, 1",
+    "OldNormalized": [
+      "workfolderscontrol.dll",
+      "1"
+    ],
+    "HostNormalized": [
+      "workfolderscontrol.dll",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "MMS",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "MSDASC",
+    "Old": "%CommonProgramFiles%\\System\\Ole DB\\oledb32.dll,0",
+    "Host": "%CommonProgramFiles%\\System\\Ole DB\\oledb32.dll,0",
+    "OldNormalized": [
+      "oledb32.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "oledb32.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "MSDASQL",
+    "Old": "%CommonProgramFiles%\\System\\Ole DB\\msdasql.dll,0",
+    "Host": "%CommonProgramFiles%\\System\\Ole DB\\msdasql.dll,0",
+    "OldNormalized": [
+      "msdasql.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "msdasql.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "MSEdgeHTM",
+    "Old": "X:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe,0",
+    "Host": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\154.0.4258.53\\msedge.exe,0",
+    "OldNormalized": [
+      "msedge.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "msedge.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Msi.Package",
+    "Old": "X:\\Windows\\System32\\msiexec.exe,0",
+    "Host": "C:\\Windows\\System32\\msiexec.exe,0",
+    "OldNormalized": [
+      "msiexec.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "msiexec.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Msi.Patch",
+    "Old": "X:\\Windows\\System32\\msiexec.exe,0",
+    "Host": "C:\\Windows\\System32\\msiexec.exe,0",
+    "OldNormalized": [
+      "msiexec.exe",
+      "0"
+    ],
+    "HostNormalized": [
+      "msiexec.exe",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "MSInfoFile",
+    "Old": "%SystemRoot%\\system32\\msinfo32.exe,-10002",
+    "Host": "%SystemRoot%\\system32\\msinfo32.exe,-10002",
+    "OldNormalized": [
+      "msinfo32.exe",
+      "-10002"
+    ],
+    "HostNormalized": [
+      "msinfo32.exe",
+      "-10002"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "msstylesfile",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,-701",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,-701",
+    "OldNormalized": [
+      "themeui.dll",
+      "-701"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "-701"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "ODBC.FileDSN",
+    "Old": "%SystemRoot%\\system32\\odbcint.dll,1",
+    "Host": "%SystemRoot%\\system32\\odbcint.dll,1",
+    "OldNormalized": [
+      "odbcint.dll",
+      "1"
+    ],
+    "HostNormalized": [
+      "odbcint.dll",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "opensearchblocked",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-105",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-105",
+    "OldNormalized": [
+      "imageres.dll",
+      "-105"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-105"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "opensearchdescription",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-1025",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-1025",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1025"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1025"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "opensearchfilefolderresult",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,3",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,3",
+    "OldNormalized": [
+      "shell32.dll",
+      "3"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "otffile",
+    "Old": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "Host": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "OldNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "HostNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "P7RFile",
+    "Old": "cryptui.dll,-3410",
+    "Host": "cryptui.dll,-3410",
+    "OldNormalized": [
+      "cryptui.dll",
+      "-3410"
+    ],
+    "HostNormalized": [
+      "cryptui.dll",
+      "-3410"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "pbkfile",
+    "Old": "%SystemRoot%\\system32\\rasdlg.dll,-562",
+    "Host": "%SystemRoot%\\system32\\rasdlg.dll,-562",
+    "OldNormalized": [
+      "rasdlg.dll",
+      "-562"
+    ],
+    "HostNormalized": [
+      "rasdlg.dll",
+      "-562"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "PerfFile",
+    "Old": "%SystemRoot%\\system32\\wdc.dll,-10024",
+    "Host": "%SystemRoot%\\system32\\wdc.dll,-10024",
+    "OldNormalized": [
+      "wdc.dll",
+      "-10024"
+    ],
+    "HostNormalized": [
+      "wdc.dll",
+      "-10024"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "pfmfile",
+    "Old": "%SystemRoot%\\system32\\fontext.dll,-419",
+    "Host": "%SystemRoot%\\system32\\fontext.dll,-419",
+    "OldNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "HostNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "PFXFile",
+    "Old": "cryptui.dll,-3425",
+    "Host": "cryptui.dll,-3425",
+    "OldNormalized": [
+      "cryptui.dll",
+      "-3425"
+    ],
+    "HostNormalized": [
+      "cryptui.dll",
+      "-3425"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "PhotoViewer.FileAssoc.Tiff",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-122",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-122",
+    "OldNormalized": [
+      "imageres.dll",
+      "-122"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-122"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "pjpegfile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-72",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-72",
+    "OldNormalized": [
+      "imageres.dll",
+      "-72"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-72"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "pnffile",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-67",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-67",
+    "OldNormalized": [
+      "imageres.dll",
+      "-67"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-67"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "pngfile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-83",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-83",
+    "OldNormalized": [
+      "imageres.dll",
+      "-83"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-83"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Previous.Versions",
+    "Old": "%SystemRoot%\\system32\\twext.dll,-100",
+    "Host": "%SystemRoot%\\system32\\twext.dll,-100",
+    "OldNormalized": [
+      "twext.dll",
+      "-100"
+    ],
+    "HostNormalized": [
+      "twext.dll",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "prffile",
+    "Old": "@%SystemRoot%\\System32\\msrating.dll,3",
+    "Host": "@%SystemRoot%\\System32\\msrating.dll,3",
+    "OldNormalized": [
+      "msrating.dll",
+      "3"
+    ],
+    "HostNormalized": [
+      "msrating.dll",
+      "3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "ratfile",
+    "Old": "@%SystemRoot%\\System32\\msrating.dll,8",
+    "Host": "@%SystemRoot%\\System32\\msrating.dll,8",
+    "OldNormalized": [
+      "msrating.dll",
+      "8"
+    ],
+    "HostNormalized": [
+      "msrating.dll",
+      "8"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "RDBFileProperties.1",
+    "Old": "%SystemRoot%\\system32\\rdbui.dll,-300",
+    "Host": "%SystemRoot%\\system32\\rdbui.dll,-300",
+    "OldNormalized": [
+      "rdbui.dll",
+      "-300"
+    ],
+    "HostNormalized": [
+      "rdbui.dll",
+      "-300"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "regfile",
+    "Old": "%SystemRoot%\\regedit.exe,1",
+    "Host": "%SystemRoot%\\regedit.exe,1",
+    "OldNormalized": [
+      "regedit.exe",
+      "1"
+    ],
+    "HostNormalized": [
+      "regedit.exe",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "rlogin",
+    "Old": "X:\\Windows\\System32\\url.dll,0",
+    "Host": "C:\\Windows\\System32\\url.dll,0",
+    "OldNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "SavedDsQuery",
+    "Old": "%SystemRoot%\\system32\\dsquery.dll,0",
+    "Host": "%SystemRoot%\\system32\\dsquery.dll,0",
+    "OldNormalized": [
+      "dsquery.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "dsquery.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "scriptletfile",
+    "Old": "X:\\Windows\\System32\\scrobj.dll,0",
+    "Host": "C:\\Windows\\System32\\scrobj.dll,0",
+    "OldNormalized": [
+      "scrobj.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "scrobj.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "SearchConnectorFolder",
+    "Old": "%SystemRoot%\\system32\\imageres.dll,-1025",
+    "Host": "%SystemRoot%\\system32\\imageres.dll,-1025",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1025"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1025"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "SearchFolder",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-8",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-8",
+    "OldNormalized": [
+      "imageres.dll",
+      "-8"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-8"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "SPCFile",
+    "Old": "cryptui.dll,-3410",
+    "Host": "cryptui.dll,-3410",
+    "OldNormalized": [
+      "cryptui.dll",
+      "-3410"
+    ],
+    "HostNormalized": [
+      "cryptui.dll",
+      "-3410"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Stack",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-148",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-148",
+    "OldNormalized": [
+      "imageres.dll",
+      "-148"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-148"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Stack.System.Music.AlbumID",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-1026",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-1026",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1026"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1026"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Stack.System.Music.AlbumTitle",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-1026",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-1026",
+    "OldNormalized": [
+      "imageres.dll",
+      "-1026"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-1026"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Stack.System.SearchScope",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-4",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-4",
+    "OldNormalized": [
+      "imageres.dll",
+      "-4"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-4"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Stack.System.WordWheel",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-177",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-177",
+    "OldNormalized": [
+      "imageres.dll",
+      "-177"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-177"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "svgfile",
+    "Old": "%ProgramFiles%\\Internet Explorer\\iexplore.exe,-17",
+    "Host": "%ProgramFiles%\\Internet Explorer\\iexplore.exe,-17",
+    "OldNormalized": [
+      "iexplore.exe",
+      "-17"
+    ],
+    "HostNormalized": [
+      "iexplore.exe",
+      "-17"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "telnet",
+    "Old": "X:\\Windows\\System32\\url.dll,0",
+    "Host": "C:\\Windows\\System32\\url.dll,0",
+    "OldNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "themefile",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,-701",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,-701",
+    "OldNormalized": [
+      "themeui.dll",
+      "-701"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "-701"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "themepackfile",
+    "Old": "%SystemRoot%\\system32\\themeui.dll,-704",
+    "Host": "%SystemRoot%\\system32\\themeui.dll,-704",
+    "OldNormalized": [
+      "themeui.dll",
+      "-704"
+    ],
+    "HostNormalized": [
+      "themeui.dll",
+      "-704"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "TIFImage.Document",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-122",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-122",
+    "OldNormalized": [
+      "imageres.dll",
+      "-122"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-122"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "tn3270",
+    "Old": "X:\\Windows\\System32\\url.dll,0",
+    "Host": "C:\\Windows\\System32\\url.dll,0",
+    "OldNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "url.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "ttcfile",
+    "Old": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "Host": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "OldNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "HostNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "ttffile",
+    "Old": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "Host": "%SystemRoot%\\System32\\fontext.dll,-419",
+    "OldNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "HostNormalized": [
+      "fontext.dll",
+      "-419"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Unknown",
+    "Old": "%SystemRoot%\\System32\\shell32.dll,0",
+    "Host": "%SystemRoot%\\System32\\shell32.dll,0",
+    "OldNormalized": [
+      "shell32.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "shell32.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "VBEFile",
+    "Old": "%SystemRoot%\\System32\\WScript.exe,2",
+    "Host": "%SystemRoot%\\System32\\WScript.exe,2",
+    "OldNormalized": [
+      "wscript.exe",
+      "2"
+    ],
+    "HostNormalized": [
+      "wscript.exe",
+      "2"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "VBSFile",
+    "Old": "%SystemRoot%\\System32\\WScript.exe,2",
+    "Host": "%SystemRoot%\\System32\\WScript.exe,2",
+    "OldNormalized": [
+      "wscript.exe",
+      "2"
+    ],
+    "HostNormalized": [
+      "wscript.exe",
+      "2"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "vcard_wab_auto_file",
+    "Old": "%ProgramFiles%\\Windows Mail\\wab.exe,1",
+    "Host": "%ProgramFiles%\\Windows Mail\\wab.exe,1",
+    "OldNormalized": [
+      "wab.exe",
+      "1"
+    ],
+    "HostNormalized": [
+      "wab.exe",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "wab_auto_file",
+    "Old": "%ProgramFiles%\\Windows Mail\\wab.exe,10",
+    "Host": "%ProgramFiles%\\Windows Mail\\wab.exe,10",
+    "OldNormalized": [
+      "wab.exe",
+      "10"
+    ],
+    "HostNormalized": [
+      "wab.exe",
+      "10"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "wbcatfile",
+    "Old": "%SystemRoot%\\system32\\sdclt.exe,-5500",
+    "Host": "%SystemRoot%\\system32\\sdclt.exe,-5500",
+    "OldNormalized": [
+      "sdclt.exe",
+      "-5500"
+    ],
+    "HostNormalized": [
+      "sdclt.exe",
+      "-5500"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "wdpfile",
+    "Old": "%SystemRoot%\\System32\\wmphoto.dll,-400",
+    "Host": "%SystemRoot%\\System32\\wmphoto.dll,-400",
+    "OldNormalized": [
+      "wmphoto.dll",
+      "-400"
+    ],
+    "HostNormalized": [
+      "wmphoto.dll",
+      "-400"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "webpnpFile",
+    "Old": "%SystemRoot%\\system32\\oleprn.dll,-200",
+    "Host": "%SystemRoot%\\system32\\oleprn.dll,-200",
+    "OldNormalized": [
+      "oleprn.dll",
+      "-200"
+    ],
+    "HostNormalized": [
+      "oleprn.dll",
+      "-200"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Windows.CompositeFont",
+    "Old": "X:\\Windows\\System32\\PresentationHost.exe,2",
+    "Host": "C:\\Windows\\System32\\PresentationHost.exe,2",
+    "OldNormalized": [
+      "presentationhost.exe",
+      "2"
+    ],
+    "HostNormalized": [
+      "presentationhost.exe",
+      "2"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Windows.IsoFile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-5205",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-5205",
+    "OldNormalized": [
+      "imageres.dll",
+      "-5205"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-5205"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Windows.VhdFile",
+    "Old": "%SystemRoot%\\System32\\imageres.dll,-32",
+    "Host": "%SystemRoot%\\System32\\imageres.dll,-32",
+    "OldNormalized": [
+      "imageres.dll",
+      "-32"
+    ],
+    "HostNormalized": [
+      "imageres.dll",
+      "-32"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Windows.VhdPmemFile",
+    "Old": "%SystemRoot%\\System32\\setupapi.dll,-54",
+    "Host": "%SystemRoot%\\System32\\setupapi.dll,-54",
+    "OldNormalized": [
+      "setupapi.dll",
+      "-54"
+    ],
+    "HostNormalized": [
+      "setupapi.dll",
+      "-54"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Windows.XamlDocument",
+    "Old": "X:\\Windows\\System32\\PresentationHost.exe,2",
+    "Host": "C:\\Windows\\System32\\PresentationHost.exe,2",
+    "OldNormalized": [
+      "presentationhost.exe",
+      "2"
+    ],
+    "HostNormalized": [
+      "presentationhost.exe",
+      "2"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "Windows.Xbap",
+    "Old": "X:\\Windows\\System32\\PresentationHost.exe,3",
+    "Host": "C:\\Windows\\System32\\PresentationHost.exe,3",
+    "OldNormalized": [
+      "presentationhost.exe",
+      "3"
+    ],
+    "HostNormalized": [
+      "presentationhost.exe",
+      "3"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WindowsDefender",
+    "Old": "X:\\Program Files\\Windows Defender\\EppManifest.dll,-100",
+    "Host": "C:\\Program Files\\Windows Defender\\EppManifest.dll,-100",
+    "OldNormalized": [
+      "eppmanifest.dll",
+      "-100"
+    ],
+    "HostNormalized": [
+      "eppmanifest.dll",
+      "-100"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP.DVR-MSFile",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP.WMDBFile",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP.WTVFile",
+    "Old": "X:\\Windows\\System32\\sberes.dll,-301",
+    "Host": "C:\\Windows\\System32\\sberes.dll,-301",
+    "OldNormalized": [
+      "sberes.dll",
+      "-301"
+    ],
+    "HostNormalized": [
+      "sberes.dll",
+      "-301"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.3G2",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.3GP",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.ADTS",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.AIFF",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.ASF",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.ASX",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.AU",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.AVI",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-731",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-731",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-731"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-731"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.CDA",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.FLAC",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-738",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-738",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-738"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-738"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.M2TS",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.M3U",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.M4A",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-738",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-738",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-738"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-738"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MIDI",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MK3D",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MKA",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-738",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-738",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-738"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-738"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MKV",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MOV",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MP3",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-732",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-732",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-732"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-732"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MP4",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.MPEG",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-733",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-733",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-733"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-733"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.TTS",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WAV",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-734",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-734",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-734"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-734"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WAX",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.wma",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-735",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-735",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-735"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-735"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WMD",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WMS",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-617",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-617",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-617"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-617"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WMV",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-736",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-736",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-736"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-736"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WMZ",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-617",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-617",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-617"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-617"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WPL",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-616",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-616",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-616"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-616"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocFile.WVX",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocProtocol.DLNA-PLAYSINGLE",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WMP11.AssocProtocol.MMS",
+    "Old": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "Host": "%SystemRoot%\\system32\\wmploc.dll,-730",
+    "OldNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "HostNormalized": [
+      "wmploc.dll",
+      "-730"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WSFFile",
+    "Old": "%SystemRoot%\\System32\\WScript.exe,2",
+    "Host": "%SystemRoot%\\System32\\WScript.exe,2",
+    "OldNormalized": [
+      "wscript.exe",
+      "2"
+    ],
+    "HostNormalized": [
+      "wscript.exe",
+      "2"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "WSHFile",
+    "Old": "%SystemRoot%\\System32\\WScript.exe,1",
+    "Host": "%SystemRoot%\\System32\\WScript.exe,1",
+    "OldNormalized": [
+      "wscript.exe",
+      "1"
+    ],
+    "HostNormalized": [
+      "wscript.exe",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "xmlfile",
+    "Old": "%SystemRoot%\\System32\\msxml3.dll,0",
+    "Host": "%SystemRoot%\\System32\\msxml3.dll,0",
+    "OldNormalized": [
+      "msxml3.dll",
+      "0"
+    ],
+    "HostNormalized": [
+      "msxml3.dll",
+      "0"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "xslfile",
+    "Old": "%SystemRoot%\\System32\\msxml3.dll,1",
+    "Host": "%SystemRoot%\\System32\\msxml3.dll,1",
+    "OldNormalized": [
+      "msxml3.dll",
+      "1"
+    ],
+    "HostNormalized": [
+      "msxml3.dll",
+      "1"
+    ],
+    "SameResourceContract": true
+  },
+  {
+    "Key": "zapfile",
+    "Old": "%SystemRoot%\\system32\\appmgr.dll,-218",
+    "Host": "%SystemRoot%\\system32\\appmgr.dll,-218",
+    "OldNormalized": [
+      "appmgr.dll",
+      "-218"
+    ],
+    "HostNormalized": [
+      "appmgr.dll",
+      "-218"
+    ],
+    "SameResourceContract": true
+  }
+]

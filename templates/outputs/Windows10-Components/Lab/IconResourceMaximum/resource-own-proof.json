@@ -1,0 +1,227 @@
+{
+  "LoadLibrariesAsDataOnly": true,
+  "OwnGUIChildNoWindow": true,
+  "Files": 130,
+  "ResourceGroupsVerified": 2620,
+  "ChangedPixels": 473,
+  "Failures": [],
+  "OldBaselineBlank": [
+    {
+      "Module": "C:\\Windows\\SystemResources\\comdlg32.dll.mun",
+      "Group": 538
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\comdlg32.dll.mun",
+      "Group": 539
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\connect.dll.mun",
+      "Group": 11103
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 101
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 104
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 105
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 106
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 107
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 108
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 109
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 114
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 115
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 116
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\ieframe.dll.mun",
+      "Group": 117
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\imageres.dll.mun",
+      "Group": 119
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\imageres.dll.mun",
+      "Group": 121
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\imageres.dll.mun",
+      "Group": 1301
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\imageres.dll.mun",
+      "Group": 1302
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\imageres.dll.mun",
+      "Group": 1303
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\imageres.dll.mun",
+      "Group": 14
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\inetcpl.cpl.mun",
+      "Group": 6627
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\inetcpl.cpl.mun",
+      "Group": 6628
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\inetcpl.cpl.mun",
+      "Group": 6629
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\inetcpl.cpl.mun",
+      "Group": 6630
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30503
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30529
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30531
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30536
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30545
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30554
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30558
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30566
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30578
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30579
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmcndmgr.dll.mun",
+      "Group": 30598
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\mmsys.cpl.mun",
+      "Group": 4000
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\moricons.dll.mun",
+      "Group": 108
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\msdt.exe.mun",
+      "Group": 109
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\newdev.dll.mun",
+      "Group": 205
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\rasgcw.dll.mun",
+      "Group": 10004
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\rasgcw.dll.mun",
+      "Group": 10006
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\shell32.dll.mun",
+      "Group": 50
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\shell32.dll.mun",
+      "Group": 51
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\shell32.dll.mun",
+      "Group": 52
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\shell32.dll.mun",
+      "Group": 53
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\wdc.dll.mun",
+      "Group": 109
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\wdc.dll.mun",
+      "Group": 110
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\wiashext.dll.mun",
+      "Group": 110
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\wiashext.dll.mun",
+      "Group": 111
+    },
+    {
+      "Module": "C:\\Windows\\SystemResources\\wmploc.DLL.mun",
+      "Group": 29577
+    },
+    {
+      "Module": "C:\\Windows\\System32\\devmgr.dll",
+      "Group": 41
+    },
+    {
+      "Module": "C:\\Windows\\System32\\input.dll",
+      "Group": 204
+    },
+    {
+      "Module": "C:\\Windows\\explorer.exe",
+      "Group": 250
+    },
+    {
+      "Module": "C:\\Windows\\explorer.exe",
+      "Group": 251
+    }
+  ],
+  "NoSystemFilesModified": true
+}

@@ -1,0 +1,13 @@
+{
+  "controllerPid": 8640,
+  "controllerConsole": null,
+  "guiChildPid": 3888,
+  "guiChildCreationFlags": 0,
+  "guiChildConsole": "0000000000000000",
+  "argc": 11,
+  "allArgumentsRoundTrip": true,
+  "exitCode": 42,
+  "stdout": "",
+  "stderr": "",
+  "packageActivationPerformed": false
+}

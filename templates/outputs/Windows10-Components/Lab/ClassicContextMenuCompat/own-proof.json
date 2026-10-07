@@ -1,0 +1,9 @@
+{
+  "Exit": 0,
+  "Pass": true,
+  "IsolatedDesktop": true,
+  "NativeCDefView": true,
+  "GenuineMenus": true,
+  "CommandsExecuted": false,
+  "Log": "COM=00000000\nFactory=00000000\nInitialize=00000000\nBrowse=00000000\nGetView=00000000\nView=00000000000C016A class=SHELLDLL_DefView\nCancelHooks=2\nPatch=0\nViewTableRva=5ab6f8 GetWindowRva=123bc0\nGenuineBackgroundContext=00000000 object=0000025B9D1A3FA0\nNativePopupResult=00000073\nSelectOwnedFixture=00000000\nGenuineSelectionContext=00000000 object=0000025B9D2755F0\nSelectionNativePopupResult=0000007f\nClassicNativePopupCalls=2; hooks cancel all menus, no commands executed\nRestore=0\nWrongByteGuard=4 untouched=1\n"
+}

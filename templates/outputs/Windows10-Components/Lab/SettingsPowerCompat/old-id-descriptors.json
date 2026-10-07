@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutAC",
+    "descriptorRVA": "0x14770",
+    "qwords": [
+      "0x180015760",
+      "0xffffffff",
+      "0x0",
+      "0x6030000",
+      "0x232b",
+      "0x18001a038",
+      "0x180015840",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a038",
+    "factoryQwords": [
+      "0x6",
+      "0x180001590",
+      "0x0",
+      "0x18001a3e8"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutAC_AoAc",
+    "descriptorRVA": "0x14710",
+    "qwords": [
+      "0x1800157d0",
+      "0xffffffff",
+      "0x0",
+      "0x6030000",
+      "0x232d",
+      "0x18001a078",
+      "0x1800158b0",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a078",
+    "factoryQwords": [
+      "0x6",
+      "0x180001590",
+      "0x0",
+      "0x18001a3e8"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutDC",
+    "descriptorRVA": "0x147a0",
+    "qwords": [
+      "0x180015840",
+      "0xffffffff",
+      "0x0",
+      "0x6030000",
+      "0x232a",
+      "0x18001a018",
+      "0x180015920",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a018",
+    "factoryQwords": [
+      "0x6",
+      "0x180001590",
+      "0x0",
+      "0x18001a3c0"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutDC_AoAc",
+    "descriptorRVA": "0x14740",
+    "qwords": [
+      "0x1800158b0",
+      "0xffffffff",
+      "0x0",
+      "0x6030000",
+      "0x232c",
+      "0x18001a058",
+      "0x180015760",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a058",
+    "factoryQwords": [
+      "0x6",
+      "0x180001590",
+      "0x0",
+      "0x18001a3c0"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_LockScreenPageOverrideLink",
+    "descriptorRVA": "0x147d0",
+    "qwords": [
+      "0x180015920",
+      "0xffffffff",
+      "0x0",
+      "0x6030000",
+      "0x2329",
+      "0x18001a000",
+      "0x118",
+      "0x0"
+    ],
+    "factoryRVA": "0x1a000",
+    "factoryQwords": [
+      "0x7",
+      "0x180001390",
+      "0x0",
+      "0x6"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_SleepTimeoutAC",
+    "descriptorRVA": "0x146b0",
+    "qwords": [
+      "0x180015990",
+      "0xffffffff",
+      "0x0",
+      "0x6030000",
+      "0x232f",
+      "0x18001a0b8",
+      "0x1800159f0",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a0b8",
+    "factoryQwords": [
+      "0x6",
+      "0x180001590",
+      "0x0",
+      "0x18001a438"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_SleepTimeoutDC",
+    "descriptorRVA": "0x146e0",
+    "qwords": [
+      "0x1800159f0",
+      "0xffffffff",
+      "0x0",
+      "0x6030000",
+      "0x232e",
+      "0x18001a098",
+      "0x1800157d0",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a098",
+    "factoryQwords": [
+      "0x6",
+      "0x180001590",
+      "0x0",
+      "0x18001a410"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_UserPresencePredictionDC",
+    "descriptorRVA": "0x14680",
+    "qwords": [
+      "0x180015a50",
+      "0xffffffff",
+      "0x0",
+      "0xa000000",
+      "0x2347",
+      "0x18001a0d8",
+      "0x180015990",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a0d8",
+    "factoryQwords": [
+      "0x3",
+      "0x180001630",
+      "0x0",
+      "0x0"
+    ]
+  },
+  {
+    "id": "SystemSettings_PowerAndSleep_WifiDC",
+    "descriptorRVA": "0x14650",
+    "qwords": [
+      "0x180015ac0",
+      "0xffffffff",
+      "0x0",
+      "0xa000000",
+      "0x2348",
+      "0x18001a0f8",
+      "0x180015a50",
+      "0xffffffff"
+    ],
+    "factoryRVA": "0x1a0f8",
+    "factoryQwords": [
+      "0x6",
+      "0x1800014a0",
+      "0x0",
+      "0x180015760"
+    ]
+  }
+]

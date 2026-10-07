@@ -1,0 +1,249 @@
+{
+  "NoVFS": true,
+  "ActualRuntimeRepeat": true,
+  "ActualVisualUIConfirmed": false,
+  "DefaultProfile": "SettingsNoVfsXamlCompat",
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.dll",
+      "SHA256": "ac0ed6871e27b600e338efe8cc56d28410a83b1e5ec4555670eb1ef3ff0f8d45"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll",
+      "SHA256": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\Telemetry.Common.dll",
+      "SHA256": "e81f727bcb26dc215f71b8b339ba26b16bbe690dd55f014e623468baf8a3ea5a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\Launch-NativeDcomp.py",
+      "SHA256": "d1a7ed2f26e7aebb671b43b2c1c043ffc789b600c3656ccfd9f3aba1ddf9b417"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsCaptionCompat.before-vfs-identity.dll",
+      "SHA256": "66c451ce46255254b3604fc97ca23340a81d5872190fe65dd60c7ad46d18eba8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsCaptionCompat.dll",
+      "SHA256": "1db421eab2d8272b4d708ac1d305a54bf9c79716ff5fe0035579b3b4e6ea8ab8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\SettingsContentCompat.dll",
+      "SHA256": "17f7dc1e87b7fae9d4f4a9cb6832b106968cd94c529a4268d0b0f5817f77c3fc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsControlTextCompat\\SettingsControlTextCompat.dll",
+      "SHA256": "d294664b83358a11e5ff2230a10f5b8447bfd910b1509b591623a671afaecc66"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\adapter-metadata.json",
+      "SHA256": "829f4c921a8c54910c6a6ef90bf13e06b1a1cfd50160220c8761f7adcdbe6d06"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Launch-SettingsNoVfs.py",
+      "SHA256": "12aa6a00e21db52065c4ea880401c09957c772f8a40773fb5de5c5049f085423"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SelectorPins.h",
+      "SHA256": "a920282b4d13b3275f174db79de03ea73fff09879c04fa995aafc5ddaa0dd082"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.cpp",
+      "SHA256": "ea6d4f361bc5c1f29ec25731b30df7ced6895afd8722ef580b815a334555fece"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.dll",
+      "SHA256": "1f4554cac1163c40441d3f725527f16d1f86c8bd00dfe098056ad758444639e2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\AccessFixture.c",
+      "SHA256": "9eec193b38d7ac970a655eeb5d28d6538718f810e34a6b7bc81b3ec882fc826a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\AccessFixture.exe",
+      "SHA256": "3ccfd7b6b73f877fe0652de10606bbfc3aeffa19c31a103975ff801c994caa91"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Audit-FactoryImports.py",
+      "SHA256": "f6afebdba1f3c18b23dd6b86a5de3b585ce3d3f8eebe49cff2bf2777b5f77620"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\AuxGuardFixture.c",
+      "SHA256": "284a587481a0e8bef94941b8d230032951b3186dd17e4e99aac6ba0be70822f1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\AuxGuardFixture.exe",
+      "SHA256": "b8b4b5297518d3fc67cc6756ab53cd703ac53a227025781ddc4b1a1e9af61daa"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Bootstrap.py",
+      "SHA256": "20d142ed23212f52c41ee8990a3097aacfc3794d076bd848225064a6598fd9e4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Build.py",
+      "SHA256": "75e329602a15e94f23cc0ead70dc7d2a34e12f7229e3dbb7129d675b1b3c7262"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Callback.py",
+      "SHA256": "607aaed46e70c0e7b24331d54ce08dad7ae5daa3e1b1dfe8491ad69f3ccd3646"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Cleanup-Visibility3772.py",
+      "SHA256": "c5a11ac33c6ffbaa057ff568f81ad4d4a9f861ee02ac54a9dcc9d87999db094f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Create-AccessTest.py",
+      "SHA256": "a5b127792c872d90a37d22f83ecad98b9c9c296491e8efbdfb2125d2f71c3b5c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Create-Diagnostic.py",
+      "SHA256": "8bf8ecb1a17b8e3192068ac8e323f2a18ef655015ae3bccdaed99ef8d2bf2ff0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Create-Tests.py",
+      "SHA256": "343facd12ac2b3ca92be63d36d24063a1b17f141109b99e2b143406a9a7ca599"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Disable-Settings10-NoVFS.ps1",
+      "SHA256": "a80b9085bca59f527f1c3c8f442b551699701d36ab738b7d4915057965e39784"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Enable-Settings10-NoVFS.ps1",
+      "SHA256": "c099b51eee06e0a832059ae46cbf5750db7288a4d7e603d0abb0d74457ea800a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\EntryGuard.h",
+      "SHA256": "953618260b7c87fdb3313e1cefbfe55ea06e9874ba2e7461686f01481bc2b1e4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\EntryPins.h",
+      "SHA256": "0991f5fb7ec6a6273e0120f807612e41272862bd0d26c268ca041d0659ce2ec8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Fixture.exe",
+      "SHA256": "81f9f1b58e4a31a510f468b672d92d70b0fae9d41c056ee536604f8a80367dc5"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\HashCheck.h",
+      "SHA256": "79e63000dbfa7b091053674bb13d36c82a5789f561f77c71c04c92808dc967c9"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\LeaseIO.py",
+      "SHA256": "3eb5e1bf5bdf64c3e077c0b0b1d0870f6a1c0ebfeac2e664e2c07a36166d3f86"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Lifecycle.py",
+      "SHA256": "dd239c2d26ee09aa1ad5c6b50afc29aaad30b511847d8c8148a196a026d9acbd"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\OwnBootstrap.py",
+      "SHA256": "526e1e274ff1d016e2fd0468bf7458e4c54806b16c09651e00fa511f576fffdd"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\PackageAccess.py",
+      "SHA256": "231dcd59419a8aaebd4248eb9e9594a1138953bf192a92402ce420a5ab4b043b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Prepare.py",
+      "SHA256": "191bbc89195768875b988f6f7144f904e173e963a341b73f8d9e60e0f31f5e57"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Resume-OwnedVisibility.c",
+      "SHA256": "5bf92fee0b0aa26a1e37e1fa3e2b74dd3d8f2356160c4ecd0e0d7370553fee09"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Resume-OwnedVisibility.exe",
+      "SHA256": "926fb514b48d2ea9f3d4f60082fb671bdcf83475f65fbfca1924f1d34c67bcd1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\ScopedRecovery.py",
+      "SHA256": "80b576ce678c38ef290da44afe4db039a175df427af71ec700518b8b5e6a0f1d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\SessionControl.c",
+      "SHA256": "b5abc1dcc2cc49c34c4d1eed113928132778c034aae6c9ea5491fb23243a08ac"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\SessionControl.exe",
+      "SHA256": "055b670236de0df5e6aba329d4036cd172903d7a0ac1ecaacc69665d980654f9"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\SessionController.py",
+      "SHA256": "e654fc1784a6d1a8a921e089687e588d25bfa8e039a731435377c354ddbe168c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\SessionEndObserver.py",
+      "SHA256": "c3431ba7b29216261c6ec08e49825648478f956b665f191efb59aed8c752b577"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\SessionEntry.c",
+      "SHA256": "52502370b6b20aa5406ac7b40f4b1b966c39e878976479019ff21ebf2d62bb1d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\SettingsNoVfsEntry.exe",
+      "SHA256": "4125438d804c3dcea12a9a5fe1e493709a237886e109b8498312cdc9a5ed09e8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\source-paths.json",
+      "SHA256": "e552ed754c532b5a18b9e550769b8de04fd8b31f2202a58be494dd25675621e9"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\SourceAccess.ps1",
+      "SHA256": "c80bad3e17e70bd2b44537b30e7727b2177541b65d3b574c5895dea2899a95c5"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Test-AuxGuard.py",
+      "SHA256": "97d5f8d768c647e61ae0bb514b220324ace56d8c78216fbb62a2dac338a0ecc6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Test-Guard.py",
+      "SHA256": "da50d1c3e7387dc9c1f6b9af22890fa9cb76276c65b16321af5292c2b8f87526"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Test-LeaseIO.py",
+      "SHA256": "500c383311d6d6e0d04607efb866085ed5ee873f2456c4b4caa664f446ba484c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Test-Lifecycle.py",
+      "SHA256": "ffeff4d8ae511da92af3ca358bf28a1338a099ac0730d4a96eccb9b83d204e1d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Test-PackageAccess.py",
+      "SHA256": "6301b91df4e0937fb1a78587d1714338b95f051aed3288369229800eb82739e7"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsPowerCompat\\SettingsPowerCompat.dll",
+      "SHA256": "699f0fdea0ddcb12e9b3c5c9abc0fec0494f327ad72bd8d0d364be0f26ceb56c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSystemProfileCompat\\SettingsSystemProfileCompat.dll",
+      "SHA256": "1de372d93b15c87b7c6f4b458d33d1cae0ed6e9b291f29e1e34d3a08371dab22"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Launch-TouchpadCompat.py",
+      "SHA256": "6871b8fb163503c235c4ce16c30e2d93de3d14da74a6ce6159c715cb367020c6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsSessionCompat\\Test-StaleRecovery.py",
+      "SHA256": "75fe5c083bfa441e9850fc4b918e622f49f942cb45b07c1642798b54fbbaa563"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsDynamicTextCompat\\IsolatedOld\\SettingsEnvironment.Desktop.dll",
+      "SHA256": "49fbf0c1d93064813895c88da75efbaee2054394b1c1ee32612f51e712c01a4b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsHandlers-nt\\Windows.UI.SettingsHandlers-nt.pri",
+      "SHA256": "f03e22b4d7131012a88b43ac39ee2fa01a876bed3db9d84e8d93136736ac1f51"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsHandlers-nt\\pris\\Windows.UI.SettingsHandlers-nt.ru-RU.pri",
+      "SHA256": "786267b3b2f4e2e7a7fcfc9684871f38764dfb674f514e8e839c324b972b79ad"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\SettingsHandlers_OneCore_PowerAndSleep.dll",
+      "SHA256": "9ac1f9c879fe5204c8b96f14cbed19ffb004f25bcf88d982979e42f27cf394e6"
+    }
+  ],
+  "StaleStopRecovery": "Exact dead-owner recovery also publishes terminal completion when package registration is already absent."
+}

@@ -1,0 +1,44 @@
+{
+    "Passed":  true,
+    "Cases":  [
+                  {
+                      "Reads":  0,
+                      "Result":  {
+                                     "Passed":  true,
+                                     "Replacements":  1,
+                                     "Retries":  9,
+                                     "ElapsedMs":  108.99999999674037
+                                 },
+                      "FinalSequence":  1,
+                      "Mode":  "release",
+                      "Passed":  true
+                  },
+                  {
+                      "Reads":  0,
+                      "Result":  {
+                                     "Passed":  true,
+                                     "WinError":  5,
+                                     "ElapsedMs":  250.0
+                                 },
+                      "FinalSequence":  0,
+                      "Mode":  "refuse",
+                      "Passed":  true
+                  },
+                  {
+                      "Reads":  412,
+                      "Result":  {
+                                     "Passed":  true,
+                                     "Replacements":  400,
+                                     "Retries":  389,
+                                     "ElapsedMs":  7562.999999994645
+                                 },
+                      "FinalSequence":  400,
+                      "Mode":  "concurrent",
+                      "Passed":  true
+                  }
+              ],
+    "UIActivated":  false,
+    "Directory":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\status-fixtures\\8ceca64cb76240619eb6e4f0729474ea",
+    "Writer":  "Production AtomicStatus.write_json",
+    "CREATE_NO_WINDOW":  true
+}

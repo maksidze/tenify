@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Files": {
+    "Repair.py": "b5a13d2d6dfadb40907400a6997da9c314107189b0e8a5e8d4f779d1ddb5ff7a",
+    "TargetIcons.ps1": "b48c68128b5976eaafb33ca9b17e41a388020012d314f06d35ec69e35928cf78",
+    "Setup-TargetIcons.ps1": "1ff35ed627a86bdac10a4a0ebdb3e1c01ac48ad01fc81dff0fbc1e7d2bce3ff1",
+    "Restore-TargetIcons.ps1": "0b988a1f52444a88993f2fdc4d561c049f1267a8a545acfc6cfd3479e643fa78",
+    "Render-Proof.py": "edfac51f55c2da7ce34bd0ee588563245c1f73cd705b415912b2e3e62cb72391",
+    "pins.json": "01cabb783ef6f83f76b61b497e5f3dcd061376d7561c89d0781a85dcc782031e",
+    "Readme.txt": "53679de03f613b0710fd0f81853f4b6b6d94ecc4bd9434f28816146012de5948",
+    "own-proof.json": "154dfc727c50ad7dafe9a405c6af3ba4ddb8edb10c9ce8fb8866764b942a2fbc"
+  },
+  "OwnLifecycleProofPassed": true,
+  "RealPinApplied": true,
+  "TargetPIDLPreserved": true,
+  "RealThumbnailAPIPassed": true,
+  "LiveVisualConfirmed": false,
+  "ActiveJournal": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\runs\\f372d2b81e764302986b51278ace4eeb\\journal.json",
+  "ExplorerRestarted": false,
+  "SystemFilesModified": false,
+  "GlobalCacheDeleted": false,
+  "SetupScript": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\Setup-TargetIcons.ps1",
+  "RestoreScript": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\Restore-TargetIcons.ps1"
+}

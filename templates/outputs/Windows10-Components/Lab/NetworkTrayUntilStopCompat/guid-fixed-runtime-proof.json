@@ -1,0 +1,27 @@
+{
+  "State": {
+    "Mode": "UntilStop",
+    "ManifestSHA256": "2FD287E56A878FDB74FEDE271F5C1357C1EFB0C13CD009730BFBE7BE487F2077",
+    "ControllerPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "TargetPid": 1960,
+    "TargetBorn": "134357001629709353",
+    "ChildPid": 8708,
+    "ChildBorn": "134357015388873098",
+    "ChildPath": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\NetworkTrayUntilStop.exe",
+    "ControllerPid": 9916,
+    "ControllerBorn": "134357015384590832",
+    "StopFile": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-b1bb0103cdbb499ea80c72a301746e8c.stop",
+    "Ready": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayUntilStopCompat\\run-b1bb0103cdbb499ea80c72a301746e8c.ready",
+    "VisualVerified": false,
+    "NoShellTermination": true
+  },
+  "RegistrationProof": {
+    "GenuineAddTrue": true,
+    "GenuineSetVersionTrue": true,
+    "GenuineModifyTrue": true
+  },
+  "VisualConfirmed": false,
+  "NoSystemFileOrGlobalCacheChanges": true,
+  "BoundedPreviousDeleteTrue": true,
+  "SourceRule": "https://learn.microsoft.com/en-us/windows/win32/shell/samples-notificationicon"
+}

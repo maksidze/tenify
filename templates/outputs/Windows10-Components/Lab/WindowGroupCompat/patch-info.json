@@ -1,0 +1,56 @@
+{
+  "purpose": "LAB ONLY: WindowGroup feature unavailable on Windows11; return FALSE + ERROR_NOT_SUPPORTED, never fabricate success or kernel syscall numbers",
+  "sourceDLL": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.pcshell.dll",
+  "sourceSHA256": "9123f1a3adc314373e576db01297bb554866ac2fbe7bd2ead16d03d5a5a7c1b8",
+  "patchedSHA256": "8c7cf4b44b2b1c1e011bb691a3f9546e697b7a385c1ef620242cbf8ab4704a5b",
+  "signature": "Patch invalidates signature on this separate lab DLL; signed Explorer and all system files untouched",
+  "changedImports": [
+    {
+      "field": "import DLL name",
+      "offset": 6559398,
+      "old": "USER32.dll",
+      "new": "U32W10.dll"
+    }
+  ],
+  "stubContractTest": [
+    {
+      "ordinal": 2628,
+      "return": 0,
+      "lastError": 50
+    },
+    {
+      "ordinal": 2629,
+      "return": 0,
+      "lastError": 50
+    },
+    {
+      "ordinal": 2630,
+      "return": 0,
+      "lastError": 50
+    },
+    {
+      "ordinal": 2631,
+      "return": 0,
+      "lastError": 50
+    },
+    {
+      "ordinal": 2632,
+      "return": 0,
+      "lastError": 50
+    }
+  ],
+  "forwardedNames": 45,
+  "forwardedOrdinals": [
+    2509,
+    2510,
+    2511,
+    2521,
+    2537,
+    2540,
+    2556,
+    2561,
+    2563,
+    2627
+  ],
+  "codeSectionsUnchanged": true
+}

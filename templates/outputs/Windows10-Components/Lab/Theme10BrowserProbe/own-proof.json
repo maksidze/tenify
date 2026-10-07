@@ -1,0 +1,63 @@
+{
+  "results": [
+    {
+      "mode": "native",
+      "pid": 11412,
+      "exit": 0,
+      "killed": false,
+      "transcript": "PID=11412 TID=8916 mode=native privateDesktop=ThemeBrowserOwn-11412-49194125 neverSwitched=1\nCoInitializeEx=00000000\nGetCurrentThemeName=00000000\ntheme=C:\\Windows\\resources\\themes\\Aero\\Aero.msstyles\nCoCreateInstance ExplorerBrowser INPROC=00000000\nExplorerBrowser Initialize=00000000\nSetOptions=00000000\nAdvise=00000000\nParse own folder=00000000\nOnNavigationPending=00000000\nOnViewCreated=00000000\nOnNavigationComplete=00000000\nBrowseToIDList=00000000\nnavigationComplete=1 failed=0\nGetCurrentView=00000000\nItemCount=00000000\nitemCount=1\nHWND=00000000005E04D0 PID=11412 TID=8916 class=Theme10BrowserProbeOwn rect=0,0,800,600\nHWND=00000000001707E2 PID=11412 TID=8916 class=ExplorerBrowserControl rect=8,31,788,591\nHWND=00000000003A0330 PID=11412 TID=8916 class=SHELLDLL_DefView rect=9,32,787,590\nHWND=0000000000430346 PID=11412 TID=8916 class=DirectUIHWND rect=9,32,787,590\nHWND=0000000000260328 PID=11412 TID=8916 class=CtrlNotifySink rect=9,32,9,32\nHWND=00000000002703F4 PID=11412 TID=8916 class=ScrollBar rect=9,32,9,32\nHWND=00000000000F067E PID=11412 TID=8916 class=CtrlNotifySink rect=9,32,9,32\nHWND=0000000000090748 PID=11412 TID=8916 class=ScrollBar rect=9,32,9,32\nfolderMatched=1\nDestroy browser=00000000\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=0 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    },
+    {
+      "mode": "native-loaded",
+      "pid": 6928,
+      "exit": 0,
+      "killed": false,
+      "transcript": "PID=6928 TID=7608 mode=native-loaded privateDesktop=ThemeBrowserOwn-6928-49194312 neverSwitched=1\nCoInitializeEx=00000000\nLoaderLoadThemeForTesting=00000000\nGetCurrentThemeName=00000000\ntheme=C:\\Windows\\Resources\\Themes\\aero\\aero.msstyles\nCoCreateInstance ExplorerBrowser INPROC=00000000\nExplorerBrowser Initialize=00000000\nSetOptions=00000000\nAdvise=00000000\nParse own folder=00000000\nOnNavigationPending=00000000\nOnViewCreated=00000000\nOnNavigationComplete=00000000\nBrowseToIDList=00000000\nnavigationComplete=1 failed=0\nGetCurrentView=00000000\nItemCount=00000000\nitemCount=1\nHWND=00000000002E056E PID=6928 TID=7608 class=Theme10BrowserProbeOwn rect=0,0,800,600\nHWND=00000000003E0442 PID=6928 TID=7608 class=ExplorerBrowserControl rect=8,31,788,591\nHWND=0000000000310106 PID=6928 TID=7608 class=SHELLDLL_DefView rect=9,32,787,590\nHWND=0000000000710546 PID=6928 TID=7608 class=DirectUIHWND rect=9,32,787,590\nHWND=0000000000140716 PID=6928 TID=7608 class=CtrlNotifySink rect=9,32,9,32\nHWND=0000000000190798 PID=6928 TID=7608 class=ScrollBar rect=9,32,9,32\nHWND=00000000003505E2 PID=6928 TID=7608 class=CtrlNotifySink rect=9,32,9,32\nHWND=00000000001406B6 PID=6928 TID=7608 class=ScrollBar rect=9,32,9,32\nfolderMatched=1\nDestroy browser=00000000\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=0 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    },
+    {
+      "mode": "old",
+      "pid": 8424,
+      "exit": 1,
+      "killed": false,
+      "transcript": "PID=8424 TID=11008 mode=old privateDesktop=ThemeBrowserOwn-8424-49194515 neverSwitched=1\nCoInitializeEx=00000000\nLoaderLoadThemeForTesting=00000000\nGetCurrentThemeName=00000000\ntheme=@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles\nCoCreateInstance ExplorerBrowser INPROC=00000000\nExplorerBrowser Initialize=00000000\nSetOptions=00000000\nAdvise=00000000\nParse own folder=00000000\nOnNavigationPending=00000000\nOnNavigationFailed=80004005\nBrowseToIDList=80004005\nDestroy browser=00000000\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=1 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    },
+    {
+      "mode": "scoped",
+      "pid": 9628,
+      "exit": 0,
+      "killed": false,
+      "transcript": "PID=9628 TID=5196 mode=scoped privateDesktop=ThemeBrowserOwn-9628-49194656 neverSwitched=1\nCoInitializeEx=00000000\nOpenThemeFileFromData native borrowed=00000000\nLoaderLoadTheme standalone=00000000\nsectionShared=0000000000000258 sectionNonShared=000000000000025C currentUnchangedAfterLoad=1\nCAppInfo OpenThemeFile separate=00000000\nOpenThemeFileFromData old borrowed=00000000\nscopedFile=000001A5532F29D0 nativeFile=000001A54F830A30 oldDataSameFile=1 currentUnchanged=1 nativeDraw=00000000 oldDraw=00000000 editDraw=00000000 nativePixels=0e272252 oldPixels=208c0005 editPixels=105818c5\nGetCurrentThemeName=00000000\ntheme=C:\\Windows\\resources\\themes\\Aero\\Aero.msstyles\nCoCreateInstance ExplorerBrowser INPROC=00000000\nExplorerBrowser Initialize=00000000\nSetOptions=00000000\nAdvise=00000000\nParse own folder=00000000\nOnNavigationPending=00000000\nOnViewCreated=00000000\nOnNavigationComplete=00000000\nBrowseToIDList=00000000\nnavigationComplete=1 failed=0\nGetCurrentView=00000000\nItemCount=00000000\nitemCount=1\nHWND=00000000000C0748 PID=9628 TID=5196 class=Theme10BrowserProbeOwn rect=0,0,800,600\nHWND=000000000035020E PID=9628 TID=5196 class=ExplorerBrowserControl rect=8,31,788,591\nHWND=0000000000150742 PID=9628 TID=5196 class=SHELLDLL_DefView rect=9,32,787,590\nHWND=000000000036031A PID=9628 TID=5196 class=DirectUIHWND rect=9,32,787,590\nHWND=00000000001506C6 PID=9628 TID=5196 class=CtrlNotifySink rect=9,32,9,32\nHWND=00000000000F0724 PID=9628 TID=5196 class=ScrollBar rect=9,32,9,32\nHWND=00000000000A0788 PID=9628 TID=5196 class=CtrlNotifySink rect=9,32,9,32\nHWND=00000000003C0330 PID=9628 TID=5196 class=ScrollBar rect=9,32,9,32\nfolderMatched=1\nDestroy browser=00000000\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=0 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    }
+  ],
+  "checks": [
+    {
+      "mode": "native",
+      "expectedResultVerified": true
+    },
+    {
+      "mode": "native-loaded",
+      "expectedResultVerified": true
+    },
+    {
+      "mode": "old",
+      "expectedResultVerified": true
+    },
+    {
+      "mode": "scoped",
+      "expectedResultVerified": true
+    }
+  ],
+  "pass": true,
+  "Files": {
+    "BrowserProbe.cpp": "bb82787b2ef0d340353bffaa90fd8677fa0a4a9aab5ff4aaeb29521702382c6e",
+    "HashCheck.hpp": "a92b91cf84e40590c45d15320a6533f37e840c75eb1d895980d5a370640a9e06",
+    "ScopedTheme.hpp": "84e283549f6e5a240fb4907a32e85020c9a062dd0312a7c7b1246ed2b05343db",
+    "BrowserProbe.exe": "82976378af9e2ef9d1ca453fa512128517d735175ee98b03b32e2c555d9cddd4",
+    "build_run.py": "811786b80ae507c1730dc7da9be77cd1ab1c5cdd962b99c82bb568a66d0edb58"
+  },
+  "NoInteractiveDesktopOrInput": true
+}

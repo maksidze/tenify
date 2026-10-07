@@ -1,0 +1,26 @@
+{
+  "Format": 1,
+  "BuiltUtc": "2026-10-05T12:51:45.0807622Z",
+  "NativeTwinuiSha256": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f",
+  "TwinuiPdbGuid": "703b71f3-6094-508a-2c32-634a12cb2dbc",
+  "TwinuiPdbAge": 1,
+  "CacheService": "53660488-8855-460b-a9ab-5cfc6b5012ca",
+  "CacheInterface": "4214f6fa-eb36-4e2f-9ca2-23fdc1832df7",
+  "Setting": 11,
+  "OnSettingChangedSlot": 3,
+  "GetBoolSlot": 4,
+  "BoolBytes": 4,
+  "Subsystem": "Windows GUI",
+  "ProcessCreation": "CREATE_NO_WINDOW",
+  "ParentDeadlineMs": 15000,
+  "OwnWatchdogMs": 14000,
+  "Files": {
+    "SnapCacheNotify.cs": "a963ebb96e9c563f9dcf7c14a9b1f0d1779324b9386a6842083074c971947e30",
+    "SnapCacheNotify.exe": "f16269176b5ea6fc1de22bfacd357c413eb1956882de6ea5679f2c173de9c83e",
+    "Readme.txt": "9d3c66d340e2dd4beb11af8c219638358093cb8d20d4055396fa0f6514e1e854",
+    "refresh_once.py": "e3f240cb7522730fc22e5c7c2f1a84ecedad9d89a575c5fe1026e33a53b4e535",
+    "read_snap_service.py": "599a33980ab6f2f7c3af947e08e767413caafad5cf76c88bf2656a02515a909b",
+    "visible-ui-confirmed.json": "4e33ea80ea2db3640c73b330a653956b3b4332b55518302bba5280c5412d45f3",
+    "../../WindowStyle/SnapHover.ps1": "e1a6cdbe54102b82ea8cabe552ebfb3b9f81485a2fccfe3e6450b13da5496fdd"
+  }
+}

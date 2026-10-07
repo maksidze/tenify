@@ -1,0 +1,15 @@
+{
+  "Status": "Applied",
+  "Pin": {
+    "Status": "AlreadyApplied",
+    "SHA256": "9385c702a54d1815a781168d7f81baf4aacc76a0ad8582159ba5dd46902c31a1"
+  },
+  "Thumbnail": {
+    "Status": "AlreadyRefreshed",
+    "Fingerprint": "fa6d46f8edbfa5f899ba09848576ad2d97178a082f6c0efd5380955661200322"
+  },
+  "Journal": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\runs\\f372d2b81e764302986b51278ace4eeb\\journal.json",
+  "ExplorerRestarted": false,
+  "SystemFilesModified": false,
+  "GlobalCacheDeleted": false
+}

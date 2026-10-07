@@ -1,0 +1,1 @@
+exec(Path('work/inspect_hwndparam_guard.py').read_text().split('rv=')[0]);r.sort();print([x for x in r if x[0]<=0x1258f][-3:]);print([(x.name,x.address) for x in pefile.PE('C:/Windows/System32/win32u.dll').DIRECTORY_ENTRY_EXPORT.symbols if x.name and (b'IcoCur' in x.name or b'Class' in x.name)])

@@ -1,0 +1,104 @@
+{
+  "NoWorkingShellAttach": true,
+  "NoGlobalShellActivation": true,
+  "PrivateDesktopNeverSwitched": true,
+  "NormalExplorerWinMainNeverRun": true,
+  "Runs": [
+    {
+      "ScopedTheme": false,
+      "PID": 8168,
+      "PrimaryThread": 6420,
+      "Browser": {
+        "Size": 48,
+        "Version": 1,
+        "Result": 0,
+        "Complete": 1,
+        "Thread": 6420,
+        "NavigationComplete": 1,
+        "NavigationFailed": 0,
+        "ItemCount": 1,
+        "FolderMatched": 1,
+        "DefViews": 1,
+        "DirectUIViews": 1,
+        "Reserved": 0
+      },
+      "Passed": true,
+      "DesktopClosed": true
+    },
+    {
+      "ScopedTheme": true,
+      "PID": 13964,
+      "PrimaryThread": 5768,
+      "Install": {
+        "Installed": true,
+        "helperBase": "0x7ff8afd10000",
+        "helperSHA256": "24af2addef63804d5f8efc0aeabd881f3e8f569c7e7b170d5f70d9b3e6394390",
+        "bridgeBase": "0x7ff8b37c0000",
+        "bridgeSHA256": "83630c5b721920a8f5599b70d54e5267e389aea5a66ec53d560697733552c73d",
+        "manifestSHA256": "e9d5b1c012e700b70c6d3d7b65f4b9c552ae5837ba6b6858c56b805af207b650",
+        "PhysicalHelper": {
+          "physicalMappedFile": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\ControlTheme10.dll",
+          "expectedPhysicalFile": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\ControlTheme10Compat\\ControlTheme10.dll",
+          "mappedIdentityMatched": true
+        },
+        "PhysicalBridge": {
+          "physicalMappedFile": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\PrimaryBridge.dll",
+          "expectedPhysicalFile": "\\Device\\HarddiskVolume3\\Users\\MAKSIDZE\\Documents\\Codex\\2026-10-03\\ctq\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\PrimaryBridge.dll",
+          "mappedIdentityMatched": true
+        },
+        "DPI": {
+          "size": 96,
+          "version": 1,
+          "result": 0,
+          "complete": 1,
+          "primaryThread": 5768,
+          "processBefore": 2,
+          "processAfter": 2,
+          "threadBefore": 2,
+          "threadAfter": 2,
+          "processSame": 1,
+          "threadSame": 1,
+          "pmv2Before": 1,
+          "pmv2After": 1,
+          "dpiBefore": 96,
+          "dpiAfter": 96,
+          "initializerResult": 0,
+          "processContextBefore": 34,
+          "processContextAfter": 34,
+          "threadContextBefore": 34,
+          "threadContextAfter": 34
+        },
+        "Theme": {
+          "Size": 128,
+          "Version": 1,
+          "Result": 0,
+          "Active": 1,
+          "OldOpenFailures": 0,
+          "Quarantined": 0,
+          "Retained": 1,
+          "SeparateFile": "0x36b0de0",
+          "NativeCurrent": "0x36b0bb0"
+        },
+        "Scope": "Button/Edit/ComboBox common-controls96 only",
+        "NativeCurrentUnchanged": true
+      },
+      "Browser": {
+        "Size": 48,
+        "Version": 1,
+        "Result": 0,
+        "Complete": 1,
+        "Thread": 5768,
+        "NavigationComplete": 1,
+        "NavigationFailed": 0,
+        "ItemCount": 1,
+        "FolderMatched": 1,
+        "DefViews": 1,
+        "DirectUIViews": 1,
+        "Reserved": 0
+      },
+      "Passed": true,
+      "DesktopClosed": true
+    }
+  ],
+  "Passed": true
+}

@@ -1,0 +1,146 @@
+{
+  "old": [
+    {
+      "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutAC",
+      "descriptorRVA": "0x14770",
+      "factoryRVA": "0x1a038",
+      "factoryQwords": [
+        "0x6",
+        "0x180001590",
+        "0x0",
+        "0x18001a3e8"
+      ],
+      "contextRVA": "0x1a3e8",
+      "contextRaw": "5fb9167576f764448c5306167f40cc9921c00b3ca8c8074ea9736b14cbcb2b7e0000000000000000",
+      "subgroup": "7516b95f-f776-4464-8c53-06167f40cc99",
+      "setting": "3c0bc021-c8a8-4e07-a973-6b14cbcb2b7e",
+      "flags": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutDC",
+      "descriptorRVA": "0x147a0",
+      "factoryRVA": "0x1a018",
+      "factoryQwords": [
+        "0x6",
+        "0x180001590",
+        "0x0",
+        "0x18001a3c0"
+      ],
+      "contextRVA": "0x1a3c0",
+      "contextRaw": "5fb9167576f764448c5306167f40cc9921c00b3ca8c8074ea9736b14cbcb2b7e0100000000000000",
+      "subgroup": "7516b95f-f776-4464-8c53-06167f40cc99",
+      "setting": "3c0bc021-c8a8-4e07-a973-6b14cbcb2b7e",
+      "flags": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerAndSleep_SleepTimeoutAC",
+      "descriptorRVA": "0x146b0",
+      "factoryRVA": "0x1a0b8",
+      "factoryQwords": [
+        "0x6",
+        "0x180001590",
+        "0x0",
+        "0x18001a438"
+      ],
+      "contextRVA": "0x1a438",
+      "contextRaw": "a89f8c23ad0aed4183f497be242c8f20dbc1f629da86c5489fdbf2b67b1f44da0000000001010100",
+      "subgroup": "238c9fa8-0aad-41ed-83f4-97be242c8f20",
+      "setting": "29f6c1db-86da-48c5-9fdb-f2b67b1f44da",
+      "flags": [
+        0,
+        65793
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerAndSleep_SleepTimeoutDC",
+      "descriptorRVA": "0x146e0",
+      "factoryRVA": "0x1a098",
+      "factoryQwords": [
+        "0x6",
+        "0x180001590",
+        "0x0",
+        "0x18001a410"
+      ],
+      "contextRVA": "0x1a410",
+      "contextRaw": "a89f8c23ad0aed4183f497be242c8f20dbc1f629da86c5489fdbf2b67b1f44da0100000000000000",
+      "subgroup": "238c9fa8-0aad-41ed-83f4-97be242c8f20",
+      "setting": "29f6c1db-86da-48c5-9fdb-f2b67b1f44da",
+      "flags": [
+        1,
+        0
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "SystemSettings_PowerTimeouts_DisplayOff_AC",
+      "descriptorRVA": "0x494b8",
+      "factoryRVA": "0x59428",
+      "factoryQwords": [
+        "0x6",
+        "0x18002f070",
+        "0x0",
+        "0x18005b4e8"
+      ],
+      "contextRVA": "0x5b4e8",
+      "contextRaw": ""
+    },
+    {
+      "id": "SystemSettings_PowerTimeouts_DisplayOff_DC",
+      "descriptorRVA": "0x49518",
+      "factoryRVA": "0x593e8",
+      "factoryQwords": [
+        "0x6",
+        "0x18002f070",
+        "0x0",
+        "0x18005a300"
+      ],
+      "contextRVA": "0x5a300",
+      "contextRaw": "00000000000000000000000000000000000000000000000000000000000000000100000000000000",
+      "subgroup": "00000000-0000-0000-0000-000000000000",
+      "setting": "00000000-0000-0000-0000-000000000000",
+      "flags": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerTimeouts_Sleep_AC",
+      "descriptorRVA": "0x493f8",
+      "factoryRVA": "0x594a8",
+      "factoryQwords": [
+        "0x6",
+        "0x18002f070",
+        "0x0",
+        "0x18005b510"
+      ],
+      "contextRVA": "0x5b510",
+      "contextRaw": ""
+    },
+    {
+      "id": "SystemSettings_PowerTimeouts_Sleep_DC",
+      "descriptorRVA": "0x49458",
+      "factoryRVA": "0x59468",
+      "factoryQwords": [
+        "0x6",
+        "0x18002f070",
+        "0x0",
+        "0x18005a328"
+      ],
+      "contextRVA": "0x5a328",
+      "contextRaw": "00000000000000000000000000000000000000000000000000000000000000000100000000000000",
+      "subgroup": "00000000-0000-0000-0000-000000000000",
+      "setting": "00000000-0000-0000-0000-000000000000",
+      "flags": [
+        1,
+        0
+      ]
+    }
+  ]
+}

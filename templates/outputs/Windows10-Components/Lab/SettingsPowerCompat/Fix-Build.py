@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path(__file__).resolve().parent/'Build-Adapter.py';s=p.read_text(encoding='utf-8-sig').replace("'-lruntimeobject',",'').replace('#include <wchar.h>\\n','#include <wchar.h>\\n#include <limits.h>\\n');s=s.replace('PCWSTR text=WindowsGetStringRawBuffer(key,&count);','PCWSTR(WINAPI*raw)(HSTRING,UINT32*)=(void*)GetProcAddress(GetModuleHandleW(L"combase.dll"),"WindowsGetStringRawBuffer");if(!raw)return FALSE;PCWSTR text=raw(key,&count);');p.write_text(s)

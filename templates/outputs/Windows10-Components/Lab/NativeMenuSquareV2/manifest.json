@@ -1,0 +1,187 @@
+{
+  "Version": 2,
+  "HelperSHA256": "823daea6d7e4b238f4a2fd0d35cd619745a276e57aedeb6491c7aba1431f0f90",
+  "Scope": "own #32768, exact uxtheme/PCS/shell32 attr33 value3 calls",
+  "OwnProofPassed": true,
+  "LiveUIVerified": false,
+  "SystemFilesModified": false,
+  "NativeCallers": [
+    {
+      "name": "uxtheme.dll",
+      "path": "C:\\Windows\\System32\\uxtheme.dll",
+      "sha256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b",
+      "iat": 671968,
+      "caller": 261047,
+      "thunk": 332093,
+      "guards": [
+        {
+          "rva": 260984,
+          "bytes": "48895c2408574883ec30488bfa488bd9e8231c000085c00f85b6000000448d4804c64310014c8d442458c7442458030000008d5021488bcf48ff15294506000f"
+        },
+        {
+          "rva": 332093,
+          "bytes": "488d059c2f0500e951ffffff"
+        },
+        {
+          "rva": 614128,
+          "bytes": "01000000408a080048be0900c0400a0010600900386309000000000000000000"
+        },
+        {
+          "rva": 614448,
+          "bytes": "3662090000000000"
+        },
+        {
+          "rva": 559680,
+          "bytes": "64776d6170692e646c6c00"
+        },
+        {
+          "rva": 614966,
+          "bytes": "1b0044776d53657457696e646f7741747472696275746500"
+        }
+      ]
+    },
+    {
+      "name": "twinui.pcshell.dll",
+      "path": "C:\\Windows\\System32\\twinui.pcshell.dll",
+      "sha256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+      "iat": 9457824,
+      "caller": 6680990,
+      "thunk": 2985862,
+      "guards": [
+        {
+          "rva": 6680624,
+          "bytes": "48895c24084889742420574881ec50080000488b05378d23004833c448898424"
+        },
+        {
+          "rva": 6680959,
+          "bytes": "448bcfc7442438030000004c8d442438ba21000000488bcb48ff15025f2a000f"
+        },
+        {
+          "rva": 2985862,
+          "bytes": "488d0513c16200e9d3feffff"
+        },
+        {
+          "rva": 8922208,
+          "bytes": "01000000208976005093890078509000183a8800887588000000000000000000"
+        },
+        {
+          "rva": 8927808,
+          "bytes": "ae59880000000000"
+        },
+        {
+          "rva": 7768352,
+          "bytes": "6578742d6d732d77696e2d64776d6170692d6578742d6c312d312d302e646c6c00"
+        },
+        {
+          "rva": 8935854,
+          "bytes": "0c0044776d53657457696e646f7741747472696275746500"
+        }
+      ]
+    },
+    {
+      "name": "shell32.dll",
+      "path": "C:\\Windows\\System32\\shell32.dll",
+      "sha256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0",
+      "iat": 7542568,
+      "caller": 5582786,
+      "thunk": 2079794,
+      "guards": [
+        {
+          "rva": 5582420,
+          "bytes": "48895c24084889742420574881ec50080000488b05931b19004833c448898424"
+        },
+        {
+          "rva": 5582755,
+          "bytes": "448bcfc7442438030000004c8d442438ba21000000488bcb48ff1566e71d000f"
+        },
+        {
+          "rva": 2079794,
+          "bytes": "488d05ef5a5300e963ffffff"
+        },
+        {
+          "rva": 7065416,
+          "bytes": "01000000b0b16100505c6e0008177300700e6c0000f36c000000000000000000"
+        },
+        {
+          "rva": 7081616,
+          "bytes": "0a376c0000000000"
+        },
+        {
+          "rva": 6402480,
+          "bytes": "64776d6170692e646c6c00"
+        },
+        {
+          "rva": 7091978,
+          "bytes": "1b0044776d53657457696e646f7741747472696275746500"
+        }
+      ]
+    }
+  ],
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\MenuSquareV2.c",
+      "SHA256": "16ae6fac64041ae2bc9fbdecfe246330812070c8ed2894e1277a525b044df8b3",
+      "Bytes": 8434
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\MenuSquareV2.dll",
+      "SHA256": "823daea6d7e4b238f4a2fd0d35cd619745a276e57aedeb6491c7aba1431f0f90",
+      "Bytes": 176640
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\Guard.h",
+      "SHA256": "3ef8efe5a83bd104d73e4785c972eb7a31abbd9779d5251dde9bca47095533b2",
+      "Bytes": 4890
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\Fixture.cpp",
+      "SHA256": "6b5bf953753312c2e8c8c9c9363bd2ad6b7c1afdad56beb78e7b9eaba1a72544",
+      "Bytes": 9241
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\MenuSquareV2Fixture.exe",
+      "SHA256": "9b171f6c8ce595467ba16410169dfc03fd390a8fa4fae8dbdcf185f28f22cbe7",
+      "Bytes": 371712
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\RendererSelect.h",
+      "SHA256": "4e07708c54cc4fd239d936faa3e4af9290359353aedbd4b769bcffdf7db20d1b",
+      "Bytes": 7286
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\build_test.py",
+      "SHA256": "61dd6f23df4bbc1a52cfae3c20644fb3963359bf2184e78811560260f22c5aac",
+      "Bytes": 6119
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\Launch-MenuSquareV2.py",
+      "SHA256": "2e04706a7aebd643df4180da72456d04fbc4204ca3f299e09b6c7eebc654d7cb",
+      "Bytes": 4559
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\native-guards.json",
+      "SHA256": "4ca045facfd9d0a8d07967dfe1b112fb72efcd3b77f2833bfea8808797d08f2b",
+      "Bytes": 3050
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\own-proof.json",
+      "SHA256": "4e45e5c2ed6d2d2c72669110e1c091d105d4498e1a88472aa41ff3eace902240",
+      "Bytes": 4481
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\own-proof.txt",
+      "SHA256": "aef4a72bf7394df6daf978ae7ed54b502a943c8aa08c61a1fa37c7e94806add6",
+      "Bytes": 4201
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\Readme.txt",
+      "SHA256": "947f351beb9e0820c5b45f27bafc0e57e9430e00ff35ecb9a6af170f3b229494",
+      "Bytes": 435
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\finalize.py",
+      "SHA256": "2e4046290134455e3046fb36282a7e06c76652dc103783737dd5c2ebdc8e6fb6",
+      "Bytes": 1176
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "mode": "mta",
+    "pid": 13768,
+    "exit": 0,
+    "timedOut": false,
+    "createNoWindow": true
+  },
+  {
+    "mode": "sta",
+    "pid": 7752,
+    "exit": 0,
+    "timedOut": false,
+    "createNoWindow": true
+  },
+  {
+    "mode": "bad-guard",
+    "pid": 6240,
+    "exit": 0,
+    "timedOut": false,
+    "createNoWindow": true
+  },
+  {
+    "mode": "missing-dependency",
+    "pid": 13680,
+    "exit": 0,
+    "timedOut": false,
+    "createNoWindow": true
+  }
+]

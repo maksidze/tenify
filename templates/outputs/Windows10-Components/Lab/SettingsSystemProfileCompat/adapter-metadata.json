@@ -1,0 +1,56 @@
+{
+  "helperSha256": "1de372d93b15c87b7c6f4b458d33d1cae0ed6e9b291f29e1e34d3a08371dab22",
+  "scope": "Owned Settings broker child only; no system files or global COM registration",
+  "retainedApartment": {
+    "type": "MTA",
+    "lifetime": "CreateThread waits unsignaled event for owned process lifetime; no RoUninitialize, no singleton teardown",
+    "nativeObjectsRetained": [
+      "ResourceManager statics2",
+      "current system-profile ResourceManager",
+      "IResourceManagerExtensions"
+    ]
+  },
+  "API": {
+    "statics2": "4a8eac58-b652-459d-8de1-239471e8b22b",
+    "GetCurrentResourceManagerForSystemProfileSlot": 7,
+    "extensions": "8c25e859-1042-4da0-9232-bf2aa8ff3726",
+    "LoadPriFileForSystemUseSlot": 6
+  },
+  "exactFailure": {
+    "log": "broker-settings-34d4ae368efa.log",
+    "resourceId": "HomeTitleText_FontWeight",
+    "failureOnlyBreakpointOldSettingsRva": "0x1bc111",
+    "guard": "ff15c91e2b00",
+    "resourceIdRegister": "RBX HSTRING",
+    "emptyCandidateReturn": "RDI=0",
+    "HRESULT": "80070057 -> 802B000A"
+  },
+  "exactResource": "ms-resource://Windows.UI.SettingsAppThreshold/SystemSettings/Resources/HomeTitleText_FontWeight",
+  "ownGenuineResourceResult": {
+    "candidate": "String",
+    "value": "Light",
+    "delayAfterHelperInitSeconds": 2,
+    "log": "work/settings-systemprofile-resource-own.log"
+  },
+  "orderingCaution": "Readonly native probe querying the map BEFORE LoadPri returned LoadPri E_ABORT80004004; helper must register the old PRI before old custom ResourceLoader map access. No fake string fallback.",
+  "actualBrokerTrial": {
+    "log": "broker-settings-8e50d14fd14b.log",
+    "ownPID": 6684,
+    "LoadPriFileForSystemUse": "00000000",
+    "guardSeconds": 60,
+    "outcome": "Genuine visible native ApplicationFrameWindow contains owned oldSettings CoreWindow; lived until controlled guard, content/functionality not yet reviewed",
+    "windowsSnapshot": "work/settings-systemprofile-actual-windows.json",
+    "fatalCustomResourceErrorCleared": true,
+    "coreApplicationClosedErrorSeen": false,
+    "nonfatalRemaining": "RelatedQueriesServiceClient REGDB_E_CLASSNOTREG80040154 and provider logs",
+    "cleanup": {
+      "DebugA": false,
+      "DebugB": false,
+      "IFEOValueNames": [
+        "MitigationOptions"
+      ],
+      "IFEOValue": 4294967296,
+      "remainingSettingsProcesses": []
+    }
+  }
+}

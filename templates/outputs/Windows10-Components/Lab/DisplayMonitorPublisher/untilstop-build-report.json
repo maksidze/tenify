@@ -1,0 +1,22 @@
+{
+  "CanonicalPublisherUnmodifiedSHA256": "0dcbf3958163b17b47c6232109d4f10f030a13a9442a01870b2527cc8d0ad618",
+  "Command": [
+    "@WORKSPACE_ESC@\\work\\compat-research\\toolchain\\zig-x86_64-windows-0.15.2\\zig.exe",
+    "cc",
+    "-target",
+    "x86_64-windows-gnu",
+    "-municode",
+    "-mwindows",
+    "-Wl,--subsystem,windows",
+    "-Dwmain=BrokerExistingWmain",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\MonitorPublisherUntilStop.c",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\BrokerGuiEntry\\BrokerGuiEntry.c",
+    "-o",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\MonitorPublisherUntilStop.exe",
+    "-luser32",
+    "-lshell32",
+    "-lole32"
+  ],
+  "ExitCode": 0,
+  "ActivationPerformed": false
+}

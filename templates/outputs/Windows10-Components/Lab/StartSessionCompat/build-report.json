@@ -1,0 +1,14 @@
+[
+  {
+    "Exit": 0,
+    "Output": "zig: warning: argument unused during compilation: '-mwindows' [-Wunused-command-line-argument]\r\n@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartSessionCompat\\StartSessionEntry.c:1:9: warning: 'UNICODE' macro redefined [-Wmacro-redefined]\r\n    1 | #define UNICODE\r\n      |         ^\r\n<command line>:1:9: note: previous definition is here\r\n    1 | #define UNICODE 1\r\n      |         ^\r\n1 warning generated.\r\n"
+  },
+  {
+    "Exit": 0,
+    "Output": ""
+  },
+  {
+    "Exit": 0,
+    "Output": ""
+  }
+]

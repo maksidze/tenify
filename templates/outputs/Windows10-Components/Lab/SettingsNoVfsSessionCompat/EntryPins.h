@@ -1,0 +1,6 @@
+#define ENTRY_TARGET_PATH L"C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe"
+#define ENTRY_TARGET_SHA "50db6a50fc541e24f31fdcb240c97c9d3c267afc4de907bf1dcf9238ef2a914b"
+#define ENTRY_BROKER_SHA "dbf90b115cfc26b5a59dd5bf9c20d94a11ffe9d2f979831ebf7cf496eeecbd0e"
+#define ENTRY_PACKAGE L"windows.immersivecontrolpanel_10.0.8.1000_neutral_neutral_cw5n1h2txyewy"
+#define ENTRY_AUX_PATH L"@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayVisibilityCompat\\Visibility.exe"
+#define ENTRY_AUX_SHA "9749fc4eae260e06ce6360acb98bd9d755838a004a62660aad5f308c26824f1d"

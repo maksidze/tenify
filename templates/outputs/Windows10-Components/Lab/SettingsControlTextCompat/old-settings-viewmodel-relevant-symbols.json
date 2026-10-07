@@ -1,0 +1,142 @@
+[
+  {
+    "rva": 221168,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsGroupEntryPublicNonVirtuals____abi_get_Description@?Q__ISettingsGroupEntryPublicNonVirtuals@ViewModel@SystemSettings@@SettingsGroupEntry@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 61808,
+    "name": "?get@?QISettingItem@DataModel@SystemSettings@@Description@BaseSetting@Handlers@3@UE$AAAPE$AAVString@Platform@@XZ"
+  },
+  {
+    "rva": 97420,
+    "name": "?GetProperty@ISettingItem@DataModel@SystemSettings@@UE$AAAPE$AAVObject@Platform@@PE$AAVString@5@@Z"
+  },
+  {
+    "rva": 161900,
+    "name": "?GetProperty@?QISettingItem@DataModel@SystemSettings@@DeepLinkTest@Handlers@3@UE$AAAPE$AAVObject@Platform@@PE$AAVString@7@@Z"
+  },
+  {
+    "rva": 320176,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageGroupPublicNonVirtuals____abi_set_AlternateDescription@?Q__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageGroup@23@UE$AAAJPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 224416,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageEntryPublicNonVirtuals____abi_get_DisplayName@?Q__ISettingsPageEntryPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageEntry@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 235600,
+    "name": "?get@?QDescription@__ISettingEntryPublicNonVirtuals@ViewModel@SystemSettings@@1SettingEntry@34@UE$AAAPE$AAVString@Platform@@XZ"
+  },
+  {
+    "rva": 313120,
+    "name": "?get@?QUseAlternateDescription@__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsPageGroup@34@UE$AAA_NXZ"
+  },
+  {
+    "rva": 576816,
+    "name": "??_C@_0BN@NABNPHKM@SettingEntry_Description_get@"
+  },
+  {
+    "rva": 156092,
+    "name": "?GetProperty@?QISettingItem@DataModel@SystemSettings@@BaseSetting@Handlers@3@UE$AAAPE$AAVObject@Platform@@PE$AAVString@7@@Z"
+  },
+  {
+    "rva": 320032,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageGroupPublicNonVirtuals____abi_set_UseAlternateDescription@?Q__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageGroup@23@UE$AAAJ_N@Z"
+  },
+  {
+    "rva": 313136,
+    "name": "?set@?QUseAlternateDescription@__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsPageGroup@34@UE$AAAX_N@Z"
+  },
+  {
+    "rva": 253344,
+    "name": "?set@?QDescription@__ISettingsGroupEntryPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsGroupEntry@34@UE$AAAXPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 313008,
+    "name": "?get@?QDescription@__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsPageGroup@34@UE$AAAPE$AAVString@Platform@@XZ"
+  },
+  {
+    "rva": 206576,
+    "name": "?get@?QISettingItem@DataModel@SystemSettings@@Description@BaseSetting@Handlers@3@WBA@E$AAAPE$AAVString@Platform@@XZ"
+  },
+  {
+    "rva": 319952,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageGroupPublicNonVirtuals____abi_get_UseAlternateDescription@?Q__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageGroup@23@UE$AAAJPEA_N@Z"
+  },
+  {
+    "rva": 211936,
+    "name": "?__abi_SystemSettings_DataModel_ISettingItem____abi_GetProperty@?QISettingItem@DataModel@SystemSettings@@BaseSetting@Handlers@3@WBA@E$AAAJPE$AAVString@Platform@@PEAPE$AAVObject@7@@Z"
+  },
+  {
+    "rva": 208720,
+    "name": "?__abi_SystemSettings_DataModel_ISettingItem____abi_get_Description@?QISettingItem@DataModel@SystemSettings@@BaseSetting@Handlers@3@WBA@E$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 320096,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageGroupPublicNonVirtuals____abi_get_AlternateDescription@?Q__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageGroup@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 313104,
+    "name": "?set@?QDescription@__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsPageGroup@34@UE$AAAXPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 250880,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingEntryPublicNonVirtuals____abi_get_DisplayName@?Q__ISettingEntryPublicNonVirtuals@ViewModel@SystemSettings@@SettingEntry@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 203328,
+    "name": "?GetProperty@?QISettingItem@DataModel@SystemSettings@@DeepLinkTest@Handlers@3@WCA@E$AAAPE$AAVObject@Platform@@PE$AAVString@7@@Z"
+  },
+  {
+    "rva": 313152,
+    "name": "?get@?QAlternateDescription@__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsPageGroup@34@UE$AAAPE$AAVString@Platform@@XZ"
+  },
+  {
+    "rva": 250416,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingEntryPublicNonVirtuals____abi_get_Description@?Q__ISettingEntryPublicNonVirtuals@ViewModel@SystemSettings@@SettingEntry@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 319664,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageGroupPublicNonVirtuals____abi_get_DisplayName@?Q__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageGroup@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 221248,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsGroupEntryPublicNonVirtuals____abi_set_Description@?Q__ISettingsGroupEntryPublicNonVirtuals@ViewModel@SystemSettings@@SettingsGroupEntry@23@UE$AAAJPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 313248,
+    "name": "?set@?QAlternateDescription@__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsPageGroup@34@UE$AAAXPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 170156,
+    "name": "?__abi_SystemSettings_DataModel_ISettingItem____abi_GetProperty@?QISettingItem@DataModel@SystemSettings@@BaseSetting@Handlers@3@UE$AAAJPE$AAVString@Platform@@PEAPE$AAVObject@7@@Z"
+  },
+  {
+    "rva": 243628,
+    "name": "?get@Description@ISettingItem@DataModel@SystemSettings@@UE$AAAPE$AAVString@Platform@@XZ"
+  },
+  {
+    "rva": 206976,
+    "name": "?GetProperty@?QISettingItem@DataModel@SystemSettings@@BaseSetting@Handlers@3@WBA@E$AAAPE$AAVObject@Platform@@PE$AAVString@7@@Z"
+  },
+  {
+    "rva": 319808,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageGroupPublicNonVirtuals____abi_get_Description@?Q__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageGroup@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 220736,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsGroupEntryPublicNonVirtuals____abi_get_DisplayName@?Q__ISettingsGroupEntryPublicNonVirtuals@ViewModel@SystemSettings@@SettingsGroupEntry@23@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 319888,
+    "name": "?__abi_SystemSettings_ViewModel___ISettingsPageGroupPublicNonVirtuals____abi_set_Description@?Q__ISettingsPageGroupPublicNonVirtuals@ViewModel@SystemSettings@@SettingsPageGroup@23@UE$AAAJPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 169276,
+    "name": "?__abi_SystemSettings_DataModel_ISettingItem____abi_get_Description@?QISettingItem@DataModel@SystemSettings@@BaseSetting@Handlers@3@UE$AAAJPEAPE$AAVString@Platform@@@Z"
+  },
+  {
+    "rva": 253424,
+    "name": "?get@?QDescription@__ISettingsGroupEntryPublicNonVirtuals@ViewModel@SystemSettings@@1SettingsGroupEntry@34@UE$AAAPE$AAVString@Platform@@XZ"
+  }
+]

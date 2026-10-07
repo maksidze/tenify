@@ -1,0 +1,231 @@
+{
+  "ExitCode": 0,
+  "Passed": true,
+  "Rows": [
+    {
+      "type": "extractPointers",
+      "iat": "00007FF8D6421FB0",
+      "module": "00007FF8D6220000",
+      "export": "00007FF8D6421FB0"
+    },
+    {
+      "type": "init",
+      "result": 0,
+      "patches": 18
+    },
+    {
+      "type": "remoteChildLoader",
+      "nativePointer": true,
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 0,
+      "id": 1,
+      "before": "0",
+      "expected": "0",
+      "actual": "0",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 1,
+      "id": 100,
+      "before": "e7002d372cad4a39",
+      "expected": "e7002d372cad4a39",
+      "actual": "e7002d372cad4a39",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 2,
+      "id": 100,
+      "before": "932a53d04c2104a7",
+      "expected": "932a53d04c2104a7",
+      "actual": "932a53d04c2104a7",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 3,
+      "id": 201,
+      "before": "cac220339e14ce7a",
+      "expected": "cac220339e14ce7a",
+      "actual": "cac220339e14ce7a",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 4,
+      "id": 1,
+      "before": "0",
+      "expected": "0",
+      "actual": "0",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 5,
+      "id": 100,
+      "before": "c437f4bbb1050c27",
+      "expected": "c437f4bbb1050c27",
+      "actual": "c437f4bbb1050c27",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 6,
+      "id": 200,
+      "before": "9890f59b0c520f01",
+      "expected": "9890f59b0c520f01",
+      "actual": "9890f59b0c520f01",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 7,
+      "id": 2110,
+      "before": "ce8267d00f623b1",
+      "expected": "ce8267d00f623b1",
+      "actual": "ce8267d00f623b1",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 8,
+      "id": 128,
+      "before": "95f5b68e28cc346b",
+      "expected": "95f5b68e28cc346b",
+      "actual": "95f5b68e28cc346b",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 9,
+      "id": 8,
+      "before": "b66e50181e59aa1e",
+      "expected": "b66e50181e59aa1e",
+      "actual": "b66e50181e59aa1e",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 10,
+      "id": 323,
+      "before": "e4325c2582eb9600",
+      "expected": "50c1535d97569980",
+      "actual": "50c1535d97569980",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 11,
+      "id": 200,
+      "before": "45c337565b37e0a3",
+      "expected": "45c337565b37e0a3",
+      "actual": "45c337565b37e0a3",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 12,
+      "id": 300,
+      "before": "cbaec8d79d0368d9",
+      "expected": "cbaec8d79d0368d9",
+      "actual": "cbaec8d79d0368d9",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 13,
+      "id": 100,
+      "before": "e6f678dcfcdbf359",
+      "expected": "e6f678dcfcdbf359",
+      "actual": "e6f678dcfcdbf359",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 14,
+      "id": 148,
+      "before": "a5861503ad5fdf2",
+      "expected": "5ce228f4c4072b4a",
+      "actual": "5ce228f4c4072b4a",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 15,
+      "id": 100,
+      "before": "c0af29939e2537b5",
+      "expected": "c0af29939e2537b5",
+      "actual": "c0af29939e2537b5",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 16,
+      "id": 1001,
+      "before": "857f9482538e9cdc",
+      "expected": "857f9482538e9cdc",
+      "actual": "857f9482538e9cdc",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 17,
+      "id": 202,
+      "before": "d6e06f07a8a994fe",
+      "expected": "d6e06f07a8a994fe",
+      "actual": "d6e06f07a8a994fe",
+      "pass": true
+    },
+    {
+      "type": "extract",
+      "case": 18,
+      "id": 101,
+      "before": "20eaf386c745dd09",
+      "expected": "20eaf386c745dd09",
+      "actual": "20eaf386c745dd09",
+      "pass": true
+    },
+    {
+      "type": "loadImage",
+      "pass": true
+    },
+    {
+      "type": "hits",
+      "value": 20
+    },
+    {
+      "type": "findLoadSize",
+      "pass": true
+    },
+    {
+      "type": "nonIconNative",
+      "pass": true
+    },
+    {
+      "type": "lateModuleConcurrent",
+      "pass": true,
+      "consumer": true,
+      "heldAfterFree": true
+    },
+    {
+      "type": "foreignSlotPreserved",
+      "pass": true,
+      "error": 170
+    },
+    {
+      "type": "moduleReleaseAfterRestore",
+      "pass": true
+    },
+    {
+      "type": "restore",
+      "pass": true,
+      "failures": 0
+    }
+  ],
+  "HelperSHA256": "8fde96078271024a39c263d10ec3f23cc5430ef8647fbe5e5f2769a881bd2952",
+  "SystemFilesModified": false
+}

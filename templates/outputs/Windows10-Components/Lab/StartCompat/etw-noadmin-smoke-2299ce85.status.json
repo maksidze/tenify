@@ -1,0 +1,10 @@
+{
+    "Session":  "StartCompatLifecycle_20c302725f",
+    "Provider":  "Microsoft-Windows-AppModel-Exec",
+    "HelperPid":  748,
+    "HelperCreationUtc":  "2026-10-05T08:49:21.5798416Z",
+    "DeadlineUtc":  "2026-10-05T08:49:31.7355802Z",
+    "Etl":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\etw-noadmin-smoke-2299ce85.etl",
+    "State":  "Stopped",
+    "PersistentLogConfigurationChanged":  false
+}

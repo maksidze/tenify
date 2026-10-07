@@ -1,0 +1,13 @@
+NativeHostPCSCompat — noVFS owned-child DComp selector, 2026-10-06
+
+API import Launch-NativeDcomp.py; install_native_dcomp_compat(bootstrap). Caller supplies genuine OwnChildBootstrap for its own CREATE_SUSPENDED child, already paused at executable entrypoint after static DLL initialization, debugger detached, primary still suspended. This module takes no arbitraryPID/EXE arguments and never launches or restarts Explorer.
+
+Native signed C:/Windows/System32/twinui.pcshell.dll SHA256 b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9 is loaded directly. Exact matched official PDB SHA and RSDS GUID/age checked. PreciselyONE PCS image is required; duplicate/privatebacking rejected. Physical K32GetMappedFileName section backing validated from parent (no child filevirtualization).
+
+Only native call RVA18781f (E884370D00, originalXAML target25afa8) changes in owned process memory. OwnnearRW allocation gets15-byte leaf dispatch cmpedx,1 / jne / directjmp490e2c DComp / directjmp25afa8 XAML; then becomesRX. Caller’s originalCALL→thunk retains native returnaddress/stack and ShadowStack pairing. Directbranches need no CFG indirect-target substitution; no nativevtable changes. AltTabmode1 follows existing nativeDComp routine, allother modes remain nativeXAML. Exact32-byte call context and targetprologues guard beforepatch. SystemDLL on disk and its MUI untouched.
+
+Publication guard enumerates onlyownedPID threads, opens exactthreadhandles and verifies GetProcessIdOfThread, suspends EACH once (primary mustalreadyhavecount>=1), validates CONTROLcontext RIP notinside replacement/call region, rechecks unchangedthreadIDset, publishesreadback, then resumes exactlyitsownincrement. It performs no RPC/LoadLibrary while threadsheld. Nearallocatedmemory/code remainsuntilownedprocessend. Caller MUSTterminate exactownchild onanyinstaller error; do not resume partially initialized startup.
+
+Own proof Test-OwnChild.py uses NEW GUI Fixture.exe (no shellwindow, userinput, package orregistry): entrypause+detach, genuine nativePCS load, physicalnativebacking/singleimage,guard4threads,callpublish/readback,primaryresumeexit0; CheckRemoteDebuggerPresent=false; nativeon-diskSHAunchanged. Runningstate rejected; repeat alreadyalteredcontext refused before extraallocation. Exactdispatch shape independently executes ownnativecode endpoints for0/1/2/3→222/111/222/222. It does not call nativeUI methods with fakearguments, so actualAltTab visualbehavior notclaimed. Ownfixturelogs no consolewindow.
+
+Integration guard migrations (WinX/MenuSquare/ThemeMenu native-physical variants) belong to root and are NOTmodified here. Frozen old privatePCS and existinglaunchers unchanged. Do not install this onto a running user's Explorer.

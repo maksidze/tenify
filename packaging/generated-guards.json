@@ -1,0 +1,587 @@
+[
+  {
+    "Template": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_0@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 18208,
+    "Length": 321,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_1@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 43000,
+    "Length": 456,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_2@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 180752,
+    "Length": 383,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_3@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 300016,
+    "Length": 230,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_4@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 18208,
+    "Length": 321,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_5@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 43000,
+    "Length": 456,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_6@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 180752,
+    "Length": 383,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ControlTheme10Compat/Pins.h",
+    "Token": "@GENERATED_GUARD_7@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 300016,
+    "Length": 230,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/CacheKeyPins.h",
+    "Token": "@GENERATED_GUARD_8@",
+    "Kind": "host",
+    "Source": "System32/windows.storage.dll",
+    "Offset": 2455856,
+    "Length": 32,
+    "SourceSHA256": "86e17648d3314fd50d8b5e373d24abbfa14c83351eda569688e6619e6fac834c"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_9@",
+    "Kind": "media",
+    "Source": "Windows/explorer.exe",
+    "Offset": 578544,
+    "Length": 98,
+    "SourceSHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_10@",
+    "Kind": "media",
+    "Source": "Windows/explorer.exe",
+    "Offset": 578642,
+    "Length": 46,
+    "SourceSHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_11@",
+    "Kind": "media",
+    "Source": "Windows/explorer.exe",
+    "Offset": 577381,
+    "Length": 65,
+    "SourceSHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_12@",
+    "Kind": "media",
+    "Source": "Windows/explorer.exe",
+    "Offset": 56752,
+    "Length": 46,
+    "SourceSHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_13@",
+    "Kind": "media",
+    "Source": "Windows/explorer.exe",
+    "Offset": 2592111,
+    "Length": 35,
+    "SourceSHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_14@",
+    "Kind": "host",
+    "Source": "System32/InputSwitch.dll",
+    "Offset": 114464,
+    "Length": 99,
+    "SourceSHA256": "587ed34d684ef819df0fad8a124e32345a28c4a73808981d4767722a45a5250c"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_15@",
+    "Kind": "host",
+    "Source": "System32/InputSwitch.dll",
+    "Offset": 115090,
+    "Length": 33,
+    "SourceSHA256": "587ed34d684ef819df0fad8a124e32345a28c4a73808981d4767722a45a5250c"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_16@",
+    "Kind": "host",
+    "Source": "System32/InputSwitch.dll",
+    "Offset": 102440,
+    "Length": 43,
+    "SourceSHA256": "587ed34d684ef819df0fad8a124e32345a28c4a73808981d4767722a45a5250c"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_17@",
+    "Kind": "host",
+    "Source": "System32/InputSwitch.dll",
+    "Offset": 102745,
+    "Length": 65,
+    "SourceSHA256": "587ed34d684ef819df0fad8a124e32345a28c4a73808981d4767722a45a5250c"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_18@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 260984,
+    "Length": 64,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_19@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 614128,
+    "Length": 32,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_20@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6680624,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_21@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6680959,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_22@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 8922208,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_23@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 7768352,
+    "Length": 33,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_24@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 5582420,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_25@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 5582755,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "Token": "@GENERATED_GUARD_26@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 7065416,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_27@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6689268,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_28@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6691608,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_29@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6682452,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_30@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 4985220,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_31@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 1212376,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_32@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 1213836,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_33@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 1432476,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "Token": "@GENERATED_GUARD_34@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 2053272,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_35@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6689268,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_36@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6691608,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_37@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6682452,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_38@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 4985220,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_39@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 1212376,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_40@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 1213836,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_41@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 1432476,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "Token": "@GENERATED_GUARD_42@",
+    "Kind": "host",
+    "Source": "System32/shell32.dll",
+    "Offset": 2053272,
+    "Length": 32,
+    "SourceSHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_43@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 395712,
+    "Length": 32,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_44@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 229232,
+    "Length": 32,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeWinXCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_45@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6148272,
+    "Length": 41,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeWinXCompat/Guards.h",
+    "Token": "@GENERATED_GUARD_46@",
+    "Kind": "host",
+    "Source": "System32/twinui.dll",
+    "Offset": 865516,
+    "Length": 43,
+    "SourceSHA256": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeWinXCompat/RendererGuards.h",
+    "Token": "@GENERATED_GUARD_47@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6689268,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeWinXCompat/RendererGuards.h",
+    "Token": "@GENERATED_GUARD_48@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6691608,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeWinXCompat/RendererGuards.h",
+    "Token": "@GENERATED_GUARD_49@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 6682452,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/NativeWinXCompat/RendererGuards.h",
+    "Token": "@GENERATED_GUARD_50@",
+    "Kind": "host",
+    "Source": "System32/twinui.pcshell.dll",
+    "Offset": 4985140,
+    "Length": 32,
+    "SourceSHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.before-vfs-identity.c",
+    "Token": "@GENERATED_GUARD_51@",
+    "Kind": "media",
+    "Source": "Windows/ImmersiveControlPanel/SystemSettingsViewModel.Desktop.dll",
+    "Offset": 306864,
+    "Length": 64,
+    "SourceSHA256": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.c",
+    "Token": "@GENERATED_GUARD_52@",
+    "Kind": "media",
+    "Source": "Windows/ImmersiveControlPanel/SystemSettingsViewModel.Desktop.dll",
+    "Offset": 306864,
+    "Length": 64,
+    "SourceSHA256": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/DescriptionCallsite.h",
+    "Token": "@GENERATED_GUARD_53@",
+    "Kind": "media",
+    "Source": "Windows/ImmersiveControlPanel/SystemSettingsViewModel.Desktop.dll",
+    "Offset": 232676,
+    "Length": 33,
+    "SourceSHA256": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_54@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 18208,
+    "Length": 321,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_55@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 43000,
+    "Length": 456,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_56@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 180752,
+    "Length": 383,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_57@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 300016,
+    "Length": 230,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_58@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 395712,
+    "Length": 107,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_59@",
+    "Kind": "host",
+    "Source": "System32/uxtheme.dll",
+    "Offset": 391104,
+    "Length": 93,
+    "SourceSHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_60@",
+    "Kind": "host",
+    "Source": "System32/dui70.dll",
+    "Offset": 1278148,
+    "Length": 32,
+    "SourceSHA256": "ad77463fb9835d268d4187dfcb3aab6396d7271cefea18327071d862f665aa4e"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_61@",
+    "Kind": "host",
+    "Source": "System32/dui70.dll",
+    "Offset": 1278148,
+    "Length": 32,
+    "SourceSHA256": "ad77463fb9835d268d4187dfcb3aab6396d7271cefea18327071d862f665aa4e"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_62@",
+    "Kind": "host",
+    "Source": "System32/dui70.dll",
+    "Offset": 159224,
+    "Length": 115,
+    "SourceSHA256": "ad77463fb9835d268d4187dfcb3aab6396d7271cefea18327071d862f665aa4e"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "Token": "@GENERATED_GUARD_63@",
+    "Kind": "host",
+    "Source": "System32/dui70.dll",
+    "Offset": 190688,
+    "Length": 340,
+    "SourceSHA256": "ad77463fb9835d268d4187dfcb3aab6396d7271cefea18327071d862f665aa4e"
+  },
+  {
+    "Template": "outputs/Windows10-Components/Lab/FolderIconCompat/ResourceRoutesNoVfs/CacheKeyPins.h",
+    "Token": "@GENERATED_GUARD_64@",
+    "Kind": "host",
+    "Source": "System32/windows.storage.dll",
+    "Offset": 2455856,
+    "Length": 32,
+    "SourceSHA256": "86e17648d3314fd50d8b5e373d24abbfa14c83351eda569688e6619e6fac834c"
+  }
+]

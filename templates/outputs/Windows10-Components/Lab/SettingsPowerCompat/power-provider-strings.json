@@ -1,0 +1,294 @@
+{
+  "old": [
+    {
+      "offset": "0x13d00",
+      "text": "Windows.Foundation.PropertyValue"
+    },
+    {
+      "offset": "0x13d60",
+      "text": "SystemSettings_PowerAndSleep_DisplayOffTimeoutAC"
+    },
+    {
+      "offset": "0x13dd0",
+      "text": "SystemSettings_PowerAndSleep_DisplayOffTimeoutAC_AoAc"
+    },
+    {
+      "offset": "0x13e40",
+      "text": "SystemSettings_PowerAndSleep_DisplayOffTimeoutDC"
+    },
+    {
+      "offset": "0x13eb0",
+      "text": "SystemSettings_PowerAndSleep_DisplayOffTimeoutDC_AoAc"
+    },
+    {
+      "offset": "0x13f20",
+      "text": "SystemSettings_PowerAndSleep_LockScreenPageOverrideLink"
+    },
+    {
+      "offset": "0x13f90",
+      "text": "SystemSettings_PowerAndSleep_SleepTimeoutAC"
+    },
+    {
+      "offset": "0x13ff0",
+      "text": "SystemSettings_PowerAndSleep_SleepTimeoutDC"
+    },
+    {
+      "offset": "0x14050",
+      "text": "SystemSettings_PowerAndSleep_UserPresencePredictionDC"
+    },
+    {
+      "offset": "0x140c0",
+      "text": "SystemSettings_PowerAndSleep_WifiDC"
+    },
+    {
+      "offset": "0x14450",
+      "text": "PossibleValues"
+    },
+    {
+      "offset": "0x14610",
+      "text": "Value"
+    }
+  ],
+  "native": [
+    {
+      "offset": "0x4b8b0",
+      "text": "Windows.Foundation.PropertyValue"
+    },
+    {
+      "offset": "0x4b930",
+      "text": "SystemSettings_EnergySaving_AdaptiveBrightness"
+    },
+    {
+      "offset": "0x4b990",
+      "text": "SystemSettings_EnergySaving_AppliedPowerSaver_InfoBar"
+    },
+    {
+      "offset": "0x4ba00",
+      "text": "SystemSettings_EnergySaving_Brightness"
+    },
+    {
+      "offset": "0x4ba50",
+      "text": "SystemSettings_EnergySaving_Cabc_AC_DC"
+    },
+    {
+      "offset": "0x4baa0",
+      "text": "SystemSettings_EnergySaving_DarkTheme"
+    },
+    {
+      "offset": "0x4baf0",
+      "text": "SystemSettings_EnergySaving_DynamicRefreshRate"
+    },
+    {
+      "offset": "0x4bb50",
+      "text": "SystemSettings_EnergySaving_Hdr"
+    },
+    {
+      "offset": "0x4bb90",
+      "text": "SystemSettings_EnergySaving_HeroControl_Button"
+    },
+    {
+      "offset": "0x4bbf0",
+      "text": "SystemSettings_EnergySaving_HeroControl_Leaf"
+    },
+    {
+      "offset": "0x4bc50",
+      "text": "SystemSettings_EnergySaving_HeroControl_Link"
+    },
+    {
+      "offset": "0x4bcb0",
+      "text": "SystemSettings_EnergySaving_HeroControl_Title"
+    },
+    {
+      "offset": "0x4bd10",
+      "text": "SystemSettings_EnergySaving_HomePage_ApplyAllButton"
+    },
+    {
+      "offset": "0x4bd80",
+      "text": "SystemSettings_EnergySaving_HumanPresenceDim"
+    },
+    {
+      "offset": "0x4bde0",
+      "text": "SystemSettings_EnergySaving_HumanPresenceSleepOnLeave"
+    },
+    {
+      "offset": "0x4be50",
+      "text": "SystemSettings_EnergySaving_LowerRefreshRate"
+    },
+    {
+      "offset": "0x4beb0",
+      "text": "SystemSettings_EnergySaving_PowerMode"
+    },
+    {
+      "offset": "0x4bf00",
+      "text": "SystemSettings_EnergySaving_ScreenOff"
+    },
+    {
+      "offset": "0x4bf50",
+      "text": "SystemSettings_EnergySaving_Sleep"
+    },
+    {
+      "offset": "0x4bfa0",
+      "text": "SystemSettings_EnergySaving_SystemPage_Button"
+    },
+    {
+      "offset": "0x4c000",
+      "text": "SystemSettings_EnergySaving_TurnOffScreenSaver"
+    },
+    {
+      "offset": "0x4c060",
+      "text": "SystemSettings_EnergySaving_UndoPowerSaver_InfoBar"
+    },
+    {
+      "offset": "0x4c0d0",
+      "text": "SystemSettings_EnergySaving_UsbBatterySaver"
+    },
+    {
+      "offset": "0x4c130",
+      "text": "SystemSettings_PowerActions_Lid_AC"
+    },
+    {
+      "offset": "0x4c180",
+      "text": "SystemSettings_PowerActions_Lid_DC"
+    },
+    {
+      "offset": "0x4c1d0",
+      "text": "SystemSettings_PowerActions_PowerButton_AC"
+    },
+    {
+      "offset": "0x4c230",
+      "text": "SystemSettings_PowerActions_PowerButton_DC"
+    },
+    {
+      "offset": "0x4c290",
+      "text": "SystemSettings_PowerActions_SleepButton_AC"
+    },
+    {
+      "offset": "0x4c2f0",
+      "text": "SystemSettings_PowerActions_SleepButton_DC"
+    },
+    {
+      "offset": "0x4c350",
+      "text": "SystemSettings_PowerAndBattery_PowerActions"
+    },
+    {
+      "offset": "0x4c3b0",
+      "text": "SystemSettings_PowerAndBattery_PowerTimeouts"
+    },
+    {
+      "offset": "0x4c410",
+      "text": "SystemSettings_PowerAndSleep_EnergySaving"
+    },
+    {
+      "offset": "0x4c470",
+      "text": "SystemSettings_PowerAndSleep_LockScreenPageOverrideLink"
+    },
+    {
+      "offset": "0x4c4e0",
+      "text": "SystemSettings_PowerAndSleep_UserPresencePredictionDC"
+    },
+    {
+      "offset": "0x4c550",
+      "text": "SystemSettings_PowerAndSleep_WifiDC"
+    },
+    {
+      "offset": "0x4c5a0",
+      "text": "SystemSettings_PowerTimeouts_DisplayOff_AC"
+    },
+    {
+      "offset": "0x4c600",
+      "text": "SystemSettings_PowerTimeouts_DisplayOff_AC2"
+    },
+    {
+      "offset": "0x4c660",
+      "text": "SystemSettings_PowerTimeouts_DisplayOff_DC"
+    },
+    {
+      "offset": "0x4c6c0",
+      "text": "SystemSettings_PowerTimeouts_DisplayOff_DC2"
+    },
+    {
+      "offset": "0x4c720",
+      "text": "SystemSettings_PowerTimeouts_Hibernate_AC"
+    },
+    {
+      "offset": "0x4c780",
+      "text": "SystemSettings_PowerTimeouts_Hibernate_DC"
+    },
+    {
+      "offset": "0x4c7e0",
+      "text": "SystemSettings_PowerTimeouts_Sleep_AC"
+    },
+    {
+      "offset": "0x4c830",
+      "text": "SystemSettings_PowerTimeouts_Sleep_AC2"
+    },
+    {
+      "offset": "0x4c880",
+      "text": "SystemSettings_PowerTimeouts_Sleep_DC"
+    },
+    {
+      "offset": "0x4c8d0",
+      "text": "SystemSettings_PowerTimeouts_Sleep_DC2"
+    },
+    {
+      "offset": "0x4dd10",
+      "text": "PossibleValues"
+    },
+    {
+      "offset": "0x4dd30",
+      "text": "Value"
+    },
+    {
+      "offset": "0x4e3c0",
+      "text": "SystemSettings_Display_AdvancedDisplaySettings"
+    },
+    {
+      "offset": "0x4e420",
+      "text": "SystemSettings_PowerAndSleep_HumanPresence_LockOnSwitch"
+    },
+    {
+      "offset": "0x4e490",
+      "text": "SystemSettings_PowerAndSleep_HumanPresence_DimSwitch"
+    },
+    {
+      "offset": "0x4e500",
+      "text": "SystemSettings_PowerAndBattery_PowerModes2"
+    },
+    {
+      "offset": "0x4e560",
+      "text": "SystemSettings_Usb_AttemptRecoveryFromPowerDrain"
+    },
+    {
+      "offset": "0x4e5d0",
+      "text": "SystemSettings_Personalize_ScreenSaverLink"
+    },
+    {
+      "offset": "0x4e630",
+      "text": "SystemSettings_Display_Brightness"
+    },
+    {
+      "offset": "0x4e680",
+      "text": "SystemSettings_Display_Multimon_Brightness"
+    },
+    {
+      "offset": "0x4e6e0",
+      "text": "SystemSettings_Display_IsAutoBrightnessEnabled"
+    },
+    {
+      "offset": "0x4e740",
+      "text": "SystemSettings_Display_CABCOptions"
+    },
+    {
+      "offset": "0x4e790",
+      "text": "SystemSettings_Personalize_Color_ColorMode"
+    },
+    {
+      "offset": "0x4e7f0",
+      "text": "SystemSettings_Display_AdvancedDisplaySettingsRefreshRate"
+    },
+    {
+      "offset": "0x4e870",
+      "text": "SystemSettings_Display_AdvancedColorSupport"
+    }
+  ]
+}

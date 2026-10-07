@@ -1,0 +1,292 @@
+{
+  "NoVFS": true,
+  "ActualSettingsUI": false,
+  "PackageFactoryProbe": true,
+  "SelectedOldVMFactoryCount": 17,
+  "Factories": [
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.Search.ConstraintIndexOptions",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.Search.ConstraintIndexOptions",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingDataProperty",
+      "HRESULT": "80040111",
+      "PhysicalFactoryModule": "none"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingDataProperty",
+      "HRESULT": "80040154",
+      "PhysicalFactoryModule": "none"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsListEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsListEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SwitchableSettingsDatabase",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SwitchableSettingsDatabase",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsGroupEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsGroupEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsPageEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsPageEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.AdvancedPageInfo",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.AdvancedPageInfo",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingActionCommand",
+      "HRESULT": "80040111",
+      "PhysicalFactoryModule": "none"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingActionCommand",
+      "HRESULT": "80040154",
+      "PhysicalFactoryModule": "none"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.DeclaredParentId",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.DeclaredParentId",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.ViewModelBase",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.ViewModelBase",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingEntryTemplateSelector",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingEntryTemplateSelector",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsEnvironment",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsEnvironment",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.EnvironmentChangedEventHandler",
+      "HRESULT": "80040111",
+      "PhysicalFactoryModule": "none"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.EnvironmentChangedEventHandler",
+      "HRESULT": "80040154",
+      "PhysicalFactoryModule": "none"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.UndockedResourceLoader",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.UndockedResourceLoader",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsPageGroup",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsPageGroup",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.ViewModelPath",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.ViewModelPath",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsViewModel",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsViewModel",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsGroupTemplateSelector",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsGroupTemplateSelector",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "OLD",
+      "Class": "SystemSettings.ViewModel.SettingsPageTemplateSelector",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "REGISTERED",
+      "Class": "SystemSettings.ViewModel.SettingsPageTemplateSelector",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    },
+    {
+      "Kind": "EXTRA",
+      "Class": "SystemSettings.Telemetry.TelemetryHelper",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\Telemetry.Common.dll"
+    },
+    {
+      "Kind": "EXTRA",
+      "Class": "SystemSettings.SystemSettingsApplication",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.dll"
+    },
+    {
+      "Kind": "EXTRA",
+      "Class": "SystemSettings.DataModel.SettingsDatabase",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "C:\\Windows\\System32\\SystemSettings.DataModel.dll"
+    },
+    {
+      "Kind": "EXTRA",
+      "Class": "Windows.Foundation.Uri",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "C:\\Windows\\System32\\iertutil.dll"
+    },
+    {
+      "Kind": "OLD_PC",
+      "Class": "SystemSettings.ViewModel.SettingEntry",
+      "HRESULT": "00000000",
+      "PhysicalFactoryModule": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll"
+    }
+  ],
+  "WrongIIDPreserved": true,
+  "ContentInitializer": 0,
+  "ModernResourceProviderOldFileMrtResult": 0,
+  "NativeDataModelPreserved": true,
+  "NativeUriPreserved": true,
+  "OwnLEADataRelocation": true,
+  "FixtureSHA256": "30fb927d29785947801386033a389c04c946398cdd1a762bae1ec9de30c7f8f2",
+  "SelectorSHA256": "3c4a6338292b2fb6930dd9c0c6930f1e635263b41bb9bea70e2401939332eb1f",
+  "Modules": [
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.dll",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\Telemetry.Common.dll"
+  ],
+  "SingleOldSettingsModules": true
+}

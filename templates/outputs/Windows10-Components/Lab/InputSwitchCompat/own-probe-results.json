@@ -1,0 +1,29 @@
+[
+  {
+    "arg": "--fixtures",
+    "pid": 8980,
+    "utc": "2026-10-05T10:52:57.996232+00:00",
+    "timeoutSeconds": 10,
+    "killedExactOwnPid": false,
+    "executableSha256": "ab7f2463e903000e4806c585d57f72e07448ed5b841efe53a733b787f8407b70",
+    "exitCode": 0,
+    "exactChildExited": true,
+    "log": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\InputSwitchCompat\\fixtures.log",
+    "passed": true
+  },
+  {
+    "arg": "--native-query",
+    "pid": 9268,
+    "utc": "2026-10-05T10:52:58.014246+00:00",
+    "timeoutSeconds": 20,
+    "killedExactOwnPid": false,
+    "executableSha256": "ab7f2463e903000e4806c585d57f72e07448ed5b841efe53a733b787f8407b70",
+    "exitCode": 0,
+    "exactChildExited": true,
+    "desktopOpenAfterChildExit": false,
+    "desktopOpenError": 2,
+    "desktopReleasedByProcessExit": true,
+    "log": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\InputSwitchCompat\\native-query.log",
+    "passed": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Passed": true,
+  "AtomicReplaces": 800,
+  "SharedDeleteReads": 496886,
+  "Errors": [],
+  "ExclusiveReadRefused": true,
+  "ExclusiveSeconds": 0.25,
+  "ExpiredLeaseRejected": true,
+  "NoRegistration": true,
+  "NoUI": true
+}

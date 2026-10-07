@@ -1,0 +1,172 @@
+{
+  "preset": "immersive-compat",
+  "systemFilesBefore": {
+    "explorer.exe": "ca8c0a2a00f1d6f6da076d1d61fa706e82df57ed2b12ae3b3c36f4f73556b2ec",
+    "System32/twinui.pcshell.dll": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "System32/twinui.dll": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f",
+    "System32/twinui.appcore.dll": "507a3bba67ecfdb9980a63bc64fb9b8feee50c6f8a954967e99760adaf04d5cb",
+    "System32/windows.immersiveshell.serviceprovider.dll": "39805e1ea15bd111ee16cee81054fe3cc6ee25df1c3342c46af6595f8405b40c",
+    "System32/Windows.UI.Xaml.dll": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "System32/uDWM.dll": "3ecec64daf3db07f58d726db74f6175e89a17581758eb0226c1be89d91e2da70",
+    "System32/user32.dll": "d01c10963508ffd503ce9c789dfc3eb1dd63340df3899b695e7775ef46edd966",
+    "System32/win32u.dll": "e0eb6d60fb8fa6ab7b86a1eb13680574ab2a6d5c337b2c2bd62240ec2e0c8bac"
+  },
+  "mappings": [
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\twinui.pcshell.dll",
+      "destination": "C:\\Windows\\System32\\twinui.pcshell.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.pcshell.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.pcshell.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.dll",
+      "destination": "C:\\Windows\\System32\\twinui.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\twinui.appcore.dll",
+      "destination": "C:\\Windows\\System32\\twinui.appcore.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\twinui.appcore.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\twinui.appcore.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll",
+      "destination": "C:\\Windows\\System32\\windows.immersiveshell.serviceprovider.dll"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\ru-RU\\windows.immersiveshell.serviceprovider.dll.mui",
+      "destination": "C:\\Windows\\System32\\ru-RU\\windows.immersiveshell.serviceprovider.dll.mui"
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.PCShell",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.PCShell",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.Shell",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.Shell",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.ShellCommon",
+      "destination": "C:\\Windows\\SystemResources\\Windows.UI.ShellCommon",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.ShellCommon.SharedResources",
+      "destination": "C:\\Windows\\SystemResources\\Windows.ShellCommon.SharedResources",
+      "recursive": true
+    },
+    {
+      "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\WindowGroupCompat\\U32W10.dll",
+      "destination": "C:\\Windows\\System32\\U32W10.dll"
+    }
+  ],
+  "liveShellStopped": false,
+  "registeredPackagesChanged": false,
+  "created": true,
+  "pid": 5892,
+  "exe": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ResourceCompat\\FactoryWrapper\\explorer.exe",
+  "running": false,
+  "exitCode": 3221226525,
+  "modules": [],
+  "windowClasses": [],
+  "systemFilesAfter": {
+    "explorer.exe": "ca8c0a2a00f1d6f6da076d1d61fa706e82df57ed2b12ae3b3c36f4f73556b2ec",
+    "System32/twinui.pcshell.dll": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9",
+    "System32/twinui.dll": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f",
+    "System32/twinui.appcore.dll": "507a3bba67ecfdb9980a63bc64fb9b8feee50c6f8a954967e99760adaf04d5cb",
+    "System32/windows.immersiveshell.serviceprovider.dll": "39805e1ea15bd111ee16cee81054fe3cc6ee25df1c3342c46af6595f8405b40c",
+    "System32/Windows.UI.Xaml.dll": "7a2fb4f7933a8d74708a4b78085b7c67332fafcc9cd5c3d2d240bff404c4b544",
+    "System32/uDWM.dll": "3ecec64daf3db07f58d726db74f6175e89a17581758eb0226c1be89d91e2da70",
+    "System32/user32.dll": "d01c10963508ffd503ce9c789dfc3eb1dd63340df3899b695e7775ef46edd966",
+    "System32/win32u.dll": "e0eb6d60fb8fa6ab7b86a1eb13680574ab2a6d5c337b2c2bd62240ec2e0c8bac"
+  },
+  "systemFilesUnchanged": true,
+  "logs": [],
+  "debugEvents": [
+    {
+      "type": "exception",
+      "code": "0x80000003",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0x80000003",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "onecoreuap\\base\\mrt\\mrm\\src\\clientprofiles.cpp(1214)\\MrmCoreR.dll!00007FFFDB3D5BE2: (caller: 00007FFFDB3D59EE) ReturnHr(1) tid(8a4) 80073D54 Процесс не имеет идентификатора пакета.\r\n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\taskbarpinning\\lib\\auxiliarypinning.cpp(606)\\explorer.exe!00007FF670625E42: (caller: 00007FF67062636F) Exception(1) tid(334c) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xe06d7363",
+      "firstChance": true
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\taskbarpinning\\lib\\auxiliarypinning.cpp(660)\\explorer.exe!00007FF6707966AF: (caller: 00007FF67062636F) LogHr(1) tid(334c) 80004002 Интерфейс не поддерживается\r\n    Msg:[pcshell\\shell\\taskbarpinning\\lib\\auxiliarypinning.cpp(606)\\explorer.exe!00007FF670625E42: (caller: 00007FF67062636F) Exception(1) tid(334c) 80004002 Интерфейс не поддерживается\r\n    CallContext:[\\TrayInit] \n] CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "internal\\shellcommonshell\\inc\\ShellFeeds\\shellfeedsencryptionhelper.h(192)\\explorer.exe!00007FF670674512: (caller: 00007FF6706731E9) ReturnHr(1) tid(334c) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "internal\\shellcommonshell\\inc\\ShellFeeds\\shellfeedsencryptionhelper.h(73)\\explorer.exe!00007FF670673206: (caller: 00007FF670673B6E) LogHr(2) tid(334c) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "internal\\shellcommonshell\\inc\\ShellFeeds\\shellfeedsencryptionhelper.h(78)\\explorer.exe!00007FF670673238: (caller: 00007FF670673B6E) LogHr(3) tid(334c) 80070002 Не удается найти указанный файл.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\helpers\\feedsutil.cpp(71)\\explorer.exe!00007FF670723C8E: (caller: 00007FF6706E859E) ReturnHr(2) tid(334c) 80070578 Недопустимый дескриптор окна.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "debugString",
+      "message": "pcshell\\shell\\explorer\\feedscontent\\feedscontent.cpp(107)\\explorer.exe!00007FF6706EEEA5: (caller: 00007FF6706E1A8C) ReturnHr(3) tid(334c) 80070005 Отказано в доступе.\r\n    CallContext:[\\TrayInit] \n"
+    },
+    {
+      "type": "exception",
+      "code": "0xc0000005",
+      "firstChance": true
+    },
+    {
+      "type": "exception",
+      "code": "0xc000041d",
+      "firstChance": false
+    },
+    {
+      "type": "exit",
+      "code": 3221226525
+    }
+  ]
+}

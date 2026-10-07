@@ -1,0 +1,388 @@
+{
+  "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsControlTextCompat\\old\\013-PCSystemDisplayPageViewModel.xbf",
+  "sha256": "5b12464d87bd9dadc6b061a32e339527cf5e3d9566e92590d247a74c4658325c",
+  "decodedStream": 0,
+  "complete": true,
+  "nodeCount": 282,
+  "scopeBalanced": true,
+  "aboutEntries": [
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1ec7",
+      "properties": {
+        "Id": "SystemSettings_Display_Status_PageDisabled",
+        "CustomTemplateKey": "DisplayPageWarningTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1ede",
+      "properties": {
+        "Id": "SystemSettings_Display_MonitorSelection",
+        "CustomTemplateKey": "DisplayStringSettingTemplate"
+      },
+      "resourceBag": "SystemSettings_Display_MonitorSelection"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1ef9",
+      "properties": {
+        "Id": "SystemSettings_Display_MultiMonitors",
+        "CustomTemplateKey": "DisplayRearrangeTemplate",
+        "IsConditional": true
+      },
+      "resourceBag": "SystemSettingDisplayRearrange"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1f12",
+      "properties": {
+        "Id": "SystemSettings_Display_Status_NoneDetected",
+        "CustomTemplateKey": "DisplayPageErrorNoneDetectedRightAlignedTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1f29",
+      "properties": {
+        "Id": "SystemSettings_Display_MonitorActions",
+        "CustomTemplateKey": "DisplayMonitorActionsTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x1ead",
+      "properties": {
+        "Id": "SettingsGroupDisplayMonitorSettings",
+        "CustomTemplateKey": "AsyncCollapseOnAllSettingsGroupTemplate",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsGroupDisplayMonitorSettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1f57",
+      "properties": {
+        "Id": "SystemSettings_Display_BrightnessColorTitleLabel",
+        "CustomTemplateKey": "DisplayBrightnessColorHeaderTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1f68",
+      "properties": {
+        "Id": "SystemSettings_Display_Brightness",
+        "CustomTemplateKey": "DisplayBrightnessTextSliderTemplate",
+        "IsConditional": true
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1f7d",
+      "properties": {
+        "Id": "SystemSettings_Display_IsAutoBrightnessEnabled",
+        "CustomTemplateKey": "DisplayAutoBrightnessTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1f8e",
+      "properties": {
+        "Id": "SystemSettings_Display_BlueLight_AutomaticOnScheduleWithTime",
+        "IsConditional": true
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1f9d",
+      "properties": {
+        "Id": "SystemSettings_Display_BlueLightSettings",
+        "CustomTemplateKey": "HyperLinkLaunchAsFlowSettingTemplate",
+        "IsConditional": true,
+        "IsHandlerRequired": false,
+        "AdvancedPageSource": "VMInstance/PCSystemDisplayBlueLightPageViewModel.xaml"
+      },
+      "resourceBag": "SystemSettingsDisplayBlueLightSettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1fc0",
+      "properties": {
+        "Id": "SystemSettings_Display_ColorProfile"
+      },
+      "resourceBag": "SystemSettings_Display_ColorProfile"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1fcf",
+      "properties": {
+        "Id": "SystemSettings_Display_AdaptiveColor",
+        "CustomTemplateKey": "DisplayAdaptiveColorTemplate"
+      },
+      "resourceBag": "SystemSettings_Display_AdaptiveColor"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1fe4",
+      "properties": {
+        "Id": "SystemSettings_Display_AdaptiveColorStrength",
+        "CustomTemplateKey": "DisplayBrightnessTextSliderTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x1f3d",
+      "properties": {
+        "Id": "SettingsGroupDisplayBrightnessColorSettings",
+        "CustomTemplateKey": "SettingGroupTemplateWithNoHeader",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsGroupDisplayBrightnessColorSettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2012",
+      "properties": {
+        "Id": "SystemSettings_Display_HDColorLinkInfo",
+        "CustomTemplateKey": "DisplayHDColorLinkInfoTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2029",
+      "properties": {
+        "Id": "SystemSettings_Display_AdvancedColorSettings",
+        "CustomTemplateKey": "HyperLinkLaunchAsFlowSettingTemplate",
+        "IsConditional": true,
+        "AdvancedPageSource": "VMInstance/PCSystemDisplayAdvancedColorPageViewModel.xaml"
+      },
+      "resourceBag": "SystemSettings_Display_AdvancedColorSettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2048",
+      "properties": {
+        "Id": "SystemSettings_Display_AdvancedColorSupport",
+        "CustomTemplateKey": "DisplayAdvancedColorHdrTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x1ff8",
+      "properties": {
+        "Id": "SettingsGroupDisplayHDColorSettings",
+        "CustomTemplateKey": "SettingGroupTemplateWithNoHeader",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsGroupDisplayHDColorSettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2070",
+      "properties": {
+        "Id": "SystemSettings_Display_Status_PageDisabled",
+        "CustomTemplateKey": "DisplayPageWarningTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2087",
+      "properties": {
+        "Id": "SystemSettings_Display_LegacyCustomScaling_Disable",
+        "CustomTemplateKey": "DisplayDescriptionAndLinkActionWarningTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2098",
+      "properties": {
+        "Id": "SystemSettings_Display_Scaling_SignoutWarning",
+        "CustomTemplateKey": "ErrorTextblockSettingTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x20a9",
+      "properties": {
+        "Id": "SystemSettings_Display_Scaling_ItemSizeOverride",
+        "CustomTemplateKey": "SettingsComboBoxWithRelatedItemsTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x20ba",
+      "properties": {
+        "Id": "SystemSettings_Display_AdvancedScalingSettings",
+        "CustomTemplateKey": "HyperLinkLaunchAsFlowSettingTemplate",
+        "IsConditional": true,
+        "IsHandlerRequired": false,
+        "AdvancedPageSource": "VMInstance/PCSystemDisplayAdvancedScalingPageViewModel.xaml"
+      },
+      "resourceBag": "SystemSettingsDisplayAdvancedScalingSettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x20dd",
+      "properties": {
+        "Id": "SystemSettings_Display_Resolution",
+        "CustomTemplateKey": "SettingsComboBoxWithRelatedItemsTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x20ee",
+      "properties": {
+        "Id": "SystemSettings_Display_Orientation",
+        "CustomTemplateKey": "SettingsComboBoxWithRelatedItemsTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x20ff",
+      "properties": {
+        "Id": "SystemSettings_Display_IsRotationLocked",
+        "IsConditional": true
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x210e",
+      "properties": {
+        "Id": "SystemSettings_Display_Status_SaveError",
+        "CustomTemplateKey": "DisplayPageSaveErrorTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2125",
+      "properties": {
+        "Id": "SystemSettings_Display_LaunchDialog",
+        "CustomLaunchAsFlowTemplateKey": "DisplayApplyDialogLauncherTemplate",
+        "ShouldLaunchAsFlow": true,
+        "CustomTemplateKey": "DisplayApplyDialogTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x205c",
+      "properties": {
+        "Id": "SettingsGroupDisplayScaleAndLayoutSettings",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsGroupDisplayScaleAndLayoutSettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x2163",
+      "properties": {
+        "Id": "SystemSettings_Display_Status_DuplicateWarning",
+        "CustomTemplateKey": "DisplayPageWarningDupExtTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x217a",
+      "properties": {
+        "Id": "SystemSettings_Display_Duplicate",
+        "CustomTemplateKey": "SettingsComboBoxWithRelatedItemsTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x218b",
+      "properties": {
+        "Id": "SystemSettings_Display_MainMonitor",
+        "CustomTemplateKey": "BooleanSettingCheckBoxTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x219c",
+      "properties": {
+        "Id": "SystemSettings_Display_ConnectWireless",
+        "CustomTemplateKey": "ActionLinkSettingTemplate"
+      },
+      "resourceBag": "SystemSettings_Display_ConnectWireless"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x21b1",
+      "properties": {
+        "Id": "SystemSettings_Display_Status_3DWarning",
+        "CustomTemplateKey": "DisplayPageWarning3DTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x21c8",
+      "properties": {
+        "Id": "SystemSettings_Display_IsStereoEnabled"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x21d3",
+      "properties": {
+        "Id": "SystemSettings_Display_Status_RelatedLinksNoneDetected",
+        "CustomTemplateKey": "DisplayPageErrorNoneDetectedTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x21ea",
+      "properties": {
+        "Id": "SystemSettings_Display_Detect",
+        "CustomTemplateKey": "DisplayPageSingleMonitorDetectTemplate"
+      },
+      "resourceBag": "SystemSettings_Display_Detect"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x21ff",
+      "properties": {
+        "Id": "SystemSettings_Display_AdvancedDisplaySettings",
+        "CustomTemplateKey": "HyperLinkLaunchAsFlowSettingTemplate",
+        "AdvancedPageSource": "VMInstance/PCSystemDisplayAdvancedDisplaySettingsPageViewModel.xaml"
+      },
+      "resourceBag": "SystemSettings_Display_AdvancedDisplaySettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x22a2",
+      "properties": {
+        "Id": "SettingsPageGpuPreferenceView",
+        "IsHandlerRequired": false,
+        "IsConditional": true,
+        "CustomTemplateKey": "HyperLinkLaunchAsFlowSettingTemplate",
+        "AdvancedPageSource": "VMInstance/GpuPreferencePageViewModel.xaml"
+      },
+      "resourceBag": "SettingsPageGpuPreferenceView"
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x214f",
+      "properties": {
+        "Id": "SettingsGroupDisplayMultiDisplaySettings",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsGroupDisplayMultiDisplaySettings"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x22e6",
+      "properties": {
+        "Id": "SystemSettings_SettingsExtensibility_ExtensionAppList",
+        "CustomTemplateKey": "SettingsExtensionAppListTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x22ce",
+      "properties": {
+        "Id": "SettingsGroupExtensionApps",
+        "CustomTemplateKey": "SettingGroupTemplateWithNoHeader"
+      }
+    }
+  ],
+  "rootCustomRuntimeDataStreamDecoded": true
+}

@@ -1,0 +1,310 @@
+{
+  "source": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsControlTextCompat\\old\\014-TaskbarPageViewModel.xbf",
+  "sha256": "223e1195f7b03c06094af89377cdadd38cc0bcc487ebfdcc19f4570e83b21862",
+  "decodedStream": 0,
+  "complete": true,
+  "nodeCount": 219,
+  "scopeBalanced": true,
+  "aboutEntries": [
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1489",
+      "properties": {
+        "Id": "SystemSettings_Personalize_ActivationLink",
+        "Tag": "SettingsPageActivate",
+        "CustomTemplateKey": "NavigateToPageSettingTemplate",
+        "IsHandlerRequired": false
+      },
+      "resourceBag": "SystemSettings_Personalize_ActivationLink"
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x1473",
+      "properties": {
+        "Id": "SettingsPagePersonalizeActivationLink",
+        "CustomTemplateKey": "NonGenuineSettingGroupTemplate"
+      },
+      "resourceBag": "SettingsPagePersonalizeActivationLink"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x14bd",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_Lock"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x14c8",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_Autohide"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x14d3",
+      "properties": {
+        "Id": "SystemSettings_ShellMode_TaskbarTabletModeAutohide",
+        "IsConditional": true
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x14e2",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_SmallButtons"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x14ed",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_PeekPreviewDesktop"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x14f8",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_ReplaceCommandPromptWithPowerShellWinX",
+        "IsConditional": true
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1507",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_Badging",
+        "IsConditional": true
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1516",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_Location",
+        "CustomTemplateKey": "TaskbarComboBoxTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1527",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_GlommingPrimary",
+        "CustomTemplateKey": "MinWidth450ListSettingComboBoxTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1538",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_Help",
+        "CustomTemplateKey": "ActionLinkSettingTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x14ab",
+      "properties": {
+        "Id": "SettingsGroupTaskbar",
+        "CustomTemplateKey": "GenuineSettingGroupTemplateWithNoHeader"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1562",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_SelectIconsToAppearOnTaskbar",
+        "IsHandlerRequired": false,
+        "CustomTemplateKey": "HyperLinkLaunchAsFlowSettingTemplate",
+        "AdvancedPageSource": "VMInstance/AppsNotificationsTaskbarAdvancedPageViewModel.xaml"
+      },
+      "resourceBag": "SystemSettings_Taskbar_SelectIconsToAppearOnTaskbar"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1581",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_SystemIcons",
+        "IsHandlerRequired": false,
+        "CustomTemplateKey": "HyperLinkLaunchAsFlowSettingTemplate",
+        "AdvancedPageSource": "VMInstance/AppsNotificationsSystemAdvancedPageViewModel.xaml"
+      },
+      "resourceBag": "SystemSettings_Taskbar_SystemIcons"
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x154c",
+      "properties": {
+        "Id": "SettingsGroupTaskbarNotificationArea",
+        "CustomTemplateKey": "GenuineSettingGroupTemplate"
+      },
+      "resourceBag": "SettingsGroupTaskbarNotificationArea"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x15b9",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_MultiMon"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x15c4",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_MultiMonTaskbarMode",
+        "CustomTemplateKey": "MinWidth450ListSettingComboBoxTemplate"
+      }
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x15d5",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_GlommingSecondary",
+        "CustomTemplateKey": "MinWidth450ListSettingComboBoxTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x15a3",
+      "properties": {
+        "Id": "SettingsGroupTaskbarMultiMon",
+        "CustomTemplateKey": "GenuineSettingGroupTemplate"
+      },
+      "resourceBag": "SettingsGroupTaskbarMultiMon"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1603",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_FeedsBlurb",
+        "CustomTemplateKey": "DisplayStringSettingTemplate",
+        "IsHandlerRequired": false
+      },
+      "resourceBag": "SystemSettings_Taskbar_FeedsBlurb"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1622",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_FeedsLearnMoreLink",
+        "CustomTemplateKey": "ActionLinkSettingTemplate"
+      },
+      "resourceBag": "SystemSettings_Taskbar_FeedsLearnMoreLink"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1637",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_Feeds",
+        "CustomTemplateKey": "BooleanSettingTemplate"
+      },
+      "resourceBag": "SystemSettings_Taskbar_Feeds"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x164c",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_FeedsViewMode"
+      },
+      "resourceBag": "SystemSettings_Taskbar_FeedsViewMode"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x165b",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_FeedsOpenOnHover",
+        "CustomTemplateKey": "BooleanSettingTemplate"
+      },
+      "resourceBag": "SystemSettings_Taskbar_FeedsOpenOnHover"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1670",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_FeedsReduceUpdates",
+        "CustomTemplateKey": "BooleanSettingTemplate"
+      },
+      "resourceBag": "SystemSettings_Taskbar_FeedsReduceUpdates"
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x15e9",
+      "properties": {
+        "Id": "SettingsGroupTaskbarFeeds",
+        "CustomTemplateKey": "GenuineSettingGroupTemplate",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsGroupTaskbarFeeds"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x16a2",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_People"
+      },
+      "resourceBag": "SystemSettings_Taskbar_People"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x16b1",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_PeopleBarCapacity"
+      },
+      "resourceBag": "SystemSettings_Taskbar_PeopleBarCapacity"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x16c0",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_ShoulderTap",
+        "IsConditional": true
+      },
+      "resourceBag": "SystemSettings_Taskbar_ShoulderTap"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x16d3",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_ShoulderTapAudio",
+        "IsConditional": true
+      },
+      "resourceBag": "SystemSettings_Taskbar_ShoulderTapAudio"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x16e6",
+      "properties": {
+        "Id": "SystemSettings_Taskbar_PeopleAppUpsell"
+      },
+      "resourceBag": "SystemSettings_Taskbar_PeopleAppUpsell"
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x1688",
+      "properties": {
+        "Id": "SettingsGroupTaskbarPeople",
+        "CustomTemplateKey": "GenuineSettingGroupTemplate",
+        "IsConditional": true
+      },
+      "resourceBag": "SettingsGroupTaskbarPeople"
+    },
+    {
+      "type": "SettingEntry",
+      "fileOffset": "0x1710",
+      "properties": {
+        "Id": "SystemSettings_SettingsExtensibility_ExtensionAppList",
+        "CustomTemplateKey": "SettingsExtensionAppListTemplate"
+      }
+    },
+    {
+      "type": "SettingsGroupEntry",
+      "fileOffset": "0x16f8",
+      "properties": {
+        "Id": "SettingsGroupExtensionApps",
+        "CustomTemplateKey": "SettingGroupTemplateWithNoHeader"
+      }
+    }
+  ],
+  "rootCustomRuntimeDataStreamDecoded": true
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "rva": 211084,
+    "name": "?Initialize@CLchCondition@@QEAAJPEBGPEAUHKEY__@@@Z"
+  },
+  {
+    "rva": 15104,
+    "name": "?Start@CNwSSO@@UEAAJIPEAPEAXPEAI@Z"
+  },
+  {
+    "rva": 53616,
+    "name": "?Initialize@TraceLoggingProvider@wil@@MEAAXXZ"
+  },
+  {
+    "rva": 148232,
+    "name": "?MakeAndInitialize@?$ProcessLocalStorageData@VFeatureStateData@details_abi@wil@@@details_abi@wil@@CAJPEBG$$QEAV?$unique_any_t@V?$mutex_t@V?$unique_storage@U?$resource_policy@PEAXP6AXPEAX@Z$1?CloseHandle@details@wil@@YAX0@ZU?$integral_constant@_K$0A@@wistd@@PEAXPEAX$0A@$$T@details@wil@@@details@wil@@Uerr_returncode_policy@3@@wil@@@3@PEAPEAV123@@Z"
+  },
+  {
+    "rva": 191028,
+    "name": "?zInternalStop@?$ActivityBase@VNetworkUxLogging@@$00$0EAAAAAAAAAAA@$04$0A@U_TlgReflectorTag_Param0IsProviderType@@@wil@@QEAAXXZ"
+  },
+  {
+    "rva": 35856,
+    "name": "?Initialize@CLchFinder@@AEAAJXZ"
+  },
+  {
+    "rva": 247300,
+    "name": "?Initialize@MbaeHardwareIdGeneratorBase@@QEAAJXZ"
+  },
+  {
+    "rva": 164940,
+    "name": "?Stop@CServiceMonitor@@QEAAJXZ"
+  },
+  {
+    "rva": 101272,
+    "name": "?MakeAndInitialize@?$ProcessLocalStorageData@UProcessLocalData@details_abi@wil@@@details_abi@wil@@CAJPEBG$$QEAV?$unique_any_t@V?$mutex_t@V?$unique_storage@U?$resource_policy@PEAXP6AXPEAX@Z$1?CloseHandle@details@wil@@YAX0@ZU?$integral_constant@_K$0A@@wistd@@PEAXPEAX$0A@$$T@details@wil@@@details@wil@@Uerr_returncode_policy@3@@wil@@@3@PEAPEAV123@@Z"
+  },
+  {
+    "rva": 245860,
+    "name": "?_Initialize@CTrustedCertificate@@AEAAXPEBUOPERATOR_TRUSTED_CERTIFICATE@@@Z"
+  },
+  {
+    "rva": 191028,
+    "name": "?zInternalStop@?$ActivityBase@VNetworkLegacyUxLogging@@$00$0EAAAAAAAAAAA@$04$0A@U_TlgReflectorTag_Param0IsProviderType@@@wil@@QEAAXXZ"
+  },
+  {
+    "rva": 53552,
+    "name": "?GetObjectDescription@?$CComCoClass@VCNwSSO@@$1?CLSID_NetworkTraySSO@@3U_GUID@@B@ATL@@SAPEBGXZ"
+  },
+  {
+    "rva": 165080,
+    "name": "?Stop@PNILaunchBowser@NetworkUxTelemetry@@QEAAX_N0@Z"
+  },
+  {
+    "rva": 252016,
+    "name": "?Initialize@MbaeHashCalculator@@QEAAJXZ"
+  },
+  {
+    "rva": 315232,
+    "name": "CLSID_NetworkTraySSO"
+  },
+  {
+    "rva": 196688,
+    "name": "?Stop@CNwSSO@@UEAAJXZ"
+  },
+  {
+    "rva": 315392,
+    "name": "?_tlgEvent@?M@??Stop@PNILaunchBowser@NetworkUxTelemetry@@QEAAX_N0@Z@4U<unnamed-type-_tlgEvent>@?M@??123@QEAAX00@Z@B"
+  },
+  {
+    "rva": 243132,
+    "name": "?_Initialize@CConnectionInfo@@AEAAXPEBUOPERATOR_CONNECTION_INFO@@@Z"
+  },
+  {
+    "rva": 134344,
+    "name": "??$_tlgWriteActivityAutoStop@$0EAAAAAAAAAAA@$04@@YAXPEBU_tlgProvider_t@@PEBU_GUID@@@Z"
+  },
+  {
+    "rva": 315716,
+    "name": "?_tlgEvent@?BO@??Stop@PNILaunchBowser@NetworkUxTelemetry@@QEAAX_N0@Z@4U<unnamed-type-_tlgEvent>@?BO@??123@QEAAX00@Z@B"
+  },
+  {
+    "rva": 253408,
+    "name": "?Initialize@CMbaeUtils@@QEAAJXZ"
+  }
+]

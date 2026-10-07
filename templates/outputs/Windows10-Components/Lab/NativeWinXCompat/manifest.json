@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "dependencies": {
+    "explorer": {
+      "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+      "sha256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+    },
+    "pcs": {
+      "path": "C:/Windows/System32/twinui.pcshell.dll",
+      "sha256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+    },
+    "udk": {
+      "path": "C:\\Windows\\System32\\WindowsUdk.ShellCommon.dll",
+      "sha256": "663b0da9910c7a35baad2dc470f6368fb70635cc50f8b2ec658eda294a4196b0"
+    },
+    "metadata": {
+      "path": "C:\\Windows\\SystemApps\\MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy\\windowsudk.winmd",
+      "sha256": "01de9cbac9438b5c29fba9e0f5df8052010bc75f21df368507e3e7940a3ca172"
+    },
+    "twinui": {
+      "path": "C:\\Windows\\System32\\twinui.dll",
+      "sha256": "10ae13c8560cc89abb33425f9b9e6d49368d43f39e73e3845f3f0e191eb5af2f"
+    }
+  },
+  "guids": {
+    "Vector": "a393bf3f-fae7-594a-a87b-9934109ad4c1",
+    "Operation": "5e0134af-928b-5e96-a516-039b9fd3a6ce"
+  },
+  "vtableRva": 7252472,
+  "methodRvas": [
+    6152656,
+    4511072,
+    6153184,
+    2367216,
+    6148272
+  ],
+  "byteGuards": [
+    {
+      "rva": 2367216,
+      "bytes": "33c0c3"
+    },
+    {
+      "rva": 6148272,
+      "bytes": "40534883ec30498bd8498320004883c1a80f1002f30f7f4424204c8d442420488d542440e8eb0a0000"
+    },
+    {
+      "rva": 8029896,
+      "bytes": "5fdbc1b8b3cbbc48afd9ce6b880c79ed"
+    },
+    {
+      "rva": 6689268,
+      "bytes": "40555356574154415541564157488dac2458fdffff4881eca8030000488b0569"
+    },
+    {
+      "rva": 6691608,
+      "bytes": "48895c240848897c241055488bec4883ec60488bfa488bd9e8870300000f57c0"
+    },
+    {
+      "rva": 6682452,
+      "bytes": "48895c240848896c2418565741564883ec2032db8bc2885c2448498bf98bea48"
+    },
+    {
+      "rva": 4985220,
+      "bytes": "e9abffffffcccccccccccccc"
+    },
+    {
+      "rva": 4985140,
+      "bytes": "48895c2408574883ec2033ff488bd948397908761a488b03488b0cf84885c974"
+    }
+  ],
+  "hotkey": {
+    "guardRva": 865516,
+    "guardBytes": "83ee0b743483ee010f84aa00000083ee01741883ee01741383fe010f854f030000e8fa621400e945030000",
+    "callRva": 865549,
+    "originalTargetRva": 2201612,
+    "registrationRva": 3994496,
+    "registrationBytes": "0c0000000f00000008400000580000000000000000000000"
+  },
+  "helperFile": "WinXCompat.Immersive.dll",
+  "artifacts": {
+    "WinXCompat.Immersive.cpp": "206c2d54ee049ae4912297a8fd151bf037d371597d15802690f359e655c90fcd",
+    "WinXCompat.Immersive.dll": "d98504fc18ceb0f7e86a382fe9bb9c6b09fbb8fe5d6c90644876c14d6d5a9e1c",
+    "Guards.h": "ac22cb1afdbaa54c208184ce0643d9e17edbc531fffe286845d5881f083e7a2e",
+    "WinXAbi.h": "c3f6e1a29a4e5cb8ad930c9b7aa1ab223e395163d7332c94be0f0660ca387eb7",
+    "OwnerWindow.Immersive.h": "9dfa0d4d3d95583379c054af9e36ccccf6fade59054d23a55dde3b6840aa4e44",
+    "Renderer.h": "f24504de6171323aee1776a76922c6f034690cbe6b354dca0087efd62b4a320f",
+    "RendererGuards.h": "4525c54ba0d904316cbdf3fcce40b565b049c3ddf0bb0d75b38ac9f9619a3cd9",
+    "Launch-WinXNative.py": "4efa75a9d1db4e82ecbefd5b9256f3f0f89e472f9aeed7c82090eab5cd828e7f",
+    "Build-Native.py": "dc66c83ae699cfac8771a0d8041c0175a95d5a2c50eafc639d73e818d79aabcc"
+  },
+  "ownProof": {
+    "passed": true,
+    "fixtureLogSha256": "14a5196d335e3e7caa9d9961d2e937403f14337367fe0a165db042d75f1a9355",
+    "popupOwnerFixtureSha256": "2ba4d94bdada1bff1e508e63d9184a42376e6e36072eb3359d25fec5ed887823",
+    "visibleUiVerified": false,
+    "nativeCommandInvoked": false
+  },
+  "renderer": {
+    "module": "pcs",
+    "kind": "native immersive ownerdraw",
+    "rvas": {
+      "apply": 6689268,
+      "remove": 6691608,
+      "wndProc": 6682452,
+      "destroyArray": 4985220
+    },
+    "options": 12,
+    "ownRowHeightBefore": 22,
+    "ownRowHeightAfter": 38,
+    "visibleUiVerified": false
+  },
+  "NativePhysicalVariant": true,
+  "NoVFS": true,
+  "CombinedOwnProof": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuThemeColorCompat\\combined-2\\own-proof.json"
+}

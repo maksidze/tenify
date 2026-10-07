@@ -1,0 +1,24 @@
+{
+  "Tests": [
+    {
+      "Test": "bootstrap",
+      "ExitCode": 57034,
+      "Elapsed": 1.7809999999954016,
+      "NoPublication": true
+    },
+    {
+      "Test": "stall",
+      "ExitCode": 57034,
+      "Elapsed": 0.10900000000401633,
+      "NoPublication": true
+    },
+    {
+      "Test": "normal-DoneEvent-thread-join-before-handle-close",
+      "ExitCode": 0,
+      "NoPublication": true
+    }
+  ],
+  "Subsystem": 2,
+  "PublicationPerformed": false,
+  "CurrentShellUntouched": true
+}

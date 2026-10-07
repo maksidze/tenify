@@ -1,0 +1,7 @@
+#include <windows.h>
+#include <shobjidl.h>
+#include <shlobj.h>
+#include <stdio.h>
+static unsigned long digest(PCIDLIST_ABSOLUTE p){if(!p)return 0;UINT n=ILGetSize(p);unsigned long h=2166136261u;for(UINT i=0;i<n;i++){h^=((BYTE*)p)[i];h*=16777619u;}return h;}
+int wmain(int argc,wchar_t**argv){if(argc!=4)return 2;FILE*f=_wfopen(argv[3],L"w");if(!f)return 3;HRESULT hr=CoInitializeEx(nullptr,COINIT_APARTMENTTHREADED);if(FAILED(hr))return 4;IShellLinkW*l=nullptr;IPersistFile*p=nullptr;PIDLIST_ABSOLUTE before=nullptr,after=nullptr;WCHAR icon[32768],target[32768],arguments[32768];int index=0;unsigned long b=0,a=0;
+hr=CoCreateInstance(CLSID_ShellLink,nullptr,CLSCTX_INPROC_SERVER,IID_PPV_ARGS(&l));if(SUCCEEDED(hr))hr=l->QueryInterface(IID_PPV_ARGS(&p));if(SUCCEEDED(hr))hr=p->Load(argv[1],STGM_READWRITE);if(SUCCEEDED(hr)){l->GetIDList(&before);b=digest(before);l->GetIconLocation(icon,32768,&index);l->GetPath(target,32768,nullptr,SLGP_RAWPATH);l->GetArguments(arguments,32768);fprintf(f,"OriginalIcon=%ls,%d\nTarget=%ls\nArguments=%ls\nPIDLBefore=%08lx\n",icon,index,target,arguments,b);hr=l->SetIconLocation(argv[2],0);}if(SUCCEEDED(hr)){l->GetIDList(&after);a=digest(after);if(a!=b||!before||!after||ILGetSize(before)!=ILGetSize(after)||memcmp(before,after,ILGetSize(before)))hr=E_UNEXPECTED;}if(SUCCEEDED(hr))hr=p->Save(argv[1],TRUE);fprintf(f,"Result=%08lx PIDLAfter=%08lx\n",hr,a);if(before)CoTaskMemFree(before);if(after)CoTaskMemFree(after);if(p)p->Release();if(l)l->Release();CoUninitialize();fclose(f);return FAILED(hr)?1:0;}

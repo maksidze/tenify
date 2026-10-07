@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "InitializeFunction": "install_native_dcomp_compat",
+  "NativePCSPath": "C:/Windows/System32/twinui.pcshell.dll",
+  "OwnProof": true,
+  "ActualExplorerTested": false,
+  "NoVFS": true,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\Launch-NativeDcomp.py",
+      "SHA256": "d1a7ed2f26e7aebb671b43b2c1c043ffc789b600c3656ccfd9f3aba1ddf9b417"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\Fixture.c",
+      "SHA256": "2edc6ab3dc0c6502df31cb82adb837bf3f518a84aa0a13b7338de9bd905d5257"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\Fixture.exe",
+      "SHA256": "4bcba61bba38e3138a22d224d32c26a18d8fce3429329135ecfc4058670a90e5"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\Test-OwnChild.py",
+      "SHA256": "35eec93995fa48431932f53557e96d6f37073ee574b30b76f536df5ae79a4739"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\own-proof.json",
+      "SHA256": "1a61b1bb8c8ef29399e36ec376ccb876b0369efe24ee256f75c26c32ad44ee3b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\Readme.txt",
+      "SHA256": "b11839024384f243c878314dd8abcbe6d133c17bc25a8b153f07faf4e21a97b0"
+    }
+  ]
+}

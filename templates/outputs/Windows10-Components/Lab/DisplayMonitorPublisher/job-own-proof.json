@@ -1,0 +1,23 @@
+{
+  "normal": {
+    "parentPid": 10060,
+    "parentExitCode": 0,
+    "childPid": 9936,
+    "childBirth": "134356743487385849",
+    "assignedBeforeResume": true,
+    "childExited": true,
+    "childExitCode": 57346,
+    "stderr": ""
+  },
+  "parent-death": {
+    "parentPid": 2224,
+    "parentExitCode": 1,
+    "childPid": 8512,
+    "childBirth": "134356743493196922",
+    "assignedBeforeResume": true,
+    "childExited": true,
+    "childExitCode": 0,
+    "stderr": ""
+  },
+  "ok": true
+}

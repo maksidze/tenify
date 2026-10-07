@@ -1,0 +1,47 @@
+{
+  "Pass": true,
+  "OwnFixtureOnly": true,
+  "results": [
+    {
+      "mode": "old",
+      "pid": 13964,
+      "exit": 1,
+      "killed": false,
+      "log": "PID=13964 TID=10712 mode=old privateDesktop=ThemeBrowserOwn-13964-54564171 neverSwitched=1\nCoInitializeEx=00000000\nLoaderLoadThemeForTesting=00000000\nGetCurrentThemeName=00000000\ntheme=@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles\nCoCreateInstance ExplorerBrowser INPROC=00000000\nExplorerBrowser Initialize=00000000\nSetOptions=00000000\nAdvise=00000000\nParse own folder=00000000\nOnNavigationPending=00000000\nOnNavigationFailed=80004005\nBrowseToIDList=80004005\nDestroy browser=00000000\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=1 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    },
+    {
+      "mode": "adapter",
+      "pid": 13992,
+      "exit": 0,
+      "killed": false,
+      "log": "PID=13992 TID=9856 mode=adapter privateDesktop=ThemeBrowserOwn-13992-54564312 neverSwitched=1\nCoInitializeEx=00000000\ncheck=schema pass=1\ncheck=wrongHost pass=1\ncheck=wrongInstructionRefused pass=1\ninitialize=0 state=0 active=1 fullTheme=1 dpiStable=1\ncheck=initialized pass=1\ncheck=idempotent pass=1\ncheck=foreignReinitialize pass=1\ncheck=foreignRestoreRefused pass=1\ncheck=repairedIdempotent pass=1\ncheck=realHandles pass=1\nqueryCase=0 pass=1 expected=00000000 actual=00000000\nqueryCase=1 pass=1 expected=00000000 actual=00000000\nqueryCase=2 pass=1 expected=80070490 actual=80070490\nqueryCase=3 pass=1 expected=80070490 actual=80070490\nqueryCase=4 pass=1 expected=80070490 actual=80070490\nqueryCase=5 pass=1 expected=00000000 actual=00000000\nqueryCase=6 pass=1 expected=80070006 actual=80070006\ncheck=otherThreadGenuineColor pass=1\nGetCurrentThemeName=00000000\ntheme=@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles\nCoCreateInstance ExplorerBrowser INPROC=00000000\nExplorerBrowser Initialize=00000000\nSetOptions=00000000\nAdvise=00000000\nParse own folder=00000000\nOnNavigationPending=00000000\nOnViewCreated=00000000\nOnNavigationComplete=00000000\nBrowseToIDList=00000000\nnavigationComplete=1 failed=0\nGetCurrentView=00000000\nItemCount=00000000\nitemCount=1\nHWND=00000000003D06AE PID=13992 TID=9856 class=Theme10BrowserProbeOwn rect=0,0,800,600\nHWND=00000000005A0170 PID=13992 TID=9856 class=ExplorerBrowserControl rect=8,31,788,591\nHWND=00000000002E03A4 PID=13992 TID=9856 class=SHELLDLL_DefView rect=9,32,787,590\nHWND=0000000000180764 PID=13992 TID=9856 class=DirectUIHWND rect=9,32,787,590\nHWND=000000000013081C PID=13992 TID=9856 class=CtrlNotifySink rect=9,32,9,32\nHWND=000000000040066C PID=13992 TID=9856 class=ScrollBar rect=9,32,9,32\nHWND=00000000003B0902 PID=13992 TID=9856 class=CtrlNotifySink rect=9,32,9,32\nHWND=0000000000510656 PID=13992 TID=9856 class=ScrollBar rect=9,32,9,32\nfolderMatched=1\nDestroy browser=00000000\nbrowserFallback8=1 browserFallback11=1 tracked=1 failures=0\ncheck=browserTwoMissingStatesOrNativeCapacity pass=1\ncheck=restore pass=1\ncheck=slotOriginal pass=1\ncheck=slotOriginal pass=1\ncheck=nativeThemeRestored pass=1\ncheck=restoreIdempotent pass=1\nFIXTURE_PASS=1\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=0 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    },
+    {
+      "mode": "capacity",
+      "pid": 10496,
+      "exit": 0,
+      "killed": false,
+      "log": "PID=10496 TID=13432 mode=capacity privateDesktop=ThemeBrowserOwn-10496-54565765 neverSwitched=1\nCoInitializeEx=00000000\ncheck=schema pass=1\ncheck=wrongHost pass=1\ncheck=wrongInstructionRefused pass=1\ninitialize=0 state=0 active=1 fullTheme=1 dpiStable=1\ncheck=initialized pass=1\ncheck=idempotent pass=1\ncheck=foreignReinitialize pass=1\ncheck=foreignRestoreRefused pass=1\ncheck=repairedIdempotent pass=1\ncheck=realHandles pass=1\nqueryCase=0 pass=1 expected=00000000 actual=00000000\nqueryCase=1 pass=1 expected=00000000 actual=00000000\nqueryCase=2 pass=1 expected=80070490 actual=80070490\nqueryCase=3 pass=1 expected=80070490 actual=80070490\nqueryCase=4 pass=1 expected=80070490 actual=80070490\nqueryCase=5 pass=1 expected=00000000 actual=00000000\nqueryCase=6 pass=1 expected=80070006 actual=80070006\ncheck=otherThreadGenuineColor pass=1\ncheck=forceCapacity0 pass=1\ncheck=capacityRealNativeHandle pass=1\nGetCurrentThemeName=00000000\ntheme=@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles\nCoCreateInstance ExplorerBrowser INPROC=00000000\nExplorerBrowser Initialize=00000000\nSetOptions=00000000\nAdvise=00000000\nParse own folder=00000000\nOnNavigationPending=00000000\nOnViewCreated=00000000\nOnNavigationComplete=00000000\nBrowseToIDList=00000000\nnavigationComplete=1 failed=0\nGetCurrentView=00000000\nItemCount=00000000\nitemCount=1\nHWND=00000000003701C0 PID=10496 TID=13432 class=Theme10BrowserProbeOwn rect=0,0,800,600\nHWND=000000000024060E PID=10496 TID=13432 class=ExplorerBrowserControl rect=8,31,788,591\nHWND=0000000000300088 PID=10496 TID=13432 class=SHELLDLL_DefView rect=9,32,787,590\nHWND=000000000015081E PID=10496 TID=13432 class=DirectUIHWND rect=9,32,787,590\nHWND=000000000057054C PID=10496 TID=13432 class=CtrlNotifySink rect=9,32,9,32\nHWND=00000000001707A2 PID=10496 TID=13432 class=ScrollBar rect=9,32,9,32\nHWND=00000000003106C0 PID=10496 TID=13432 class=CtrlNotifySink rect=9,32,9,32\nHWND=0000000000300144 PID=10496 TID=13432 class=ScrollBar rect=9,32,9,32\nfolderMatched=1\nDestroy browser=00000000\nbrowserFallback8=0 browserFallback11=0 tracked=0 failures=0\ncheck=browserTwoMissingStatesOrNativeCapacity pass=1\ncheck=restore pass=1\ncheck=slotOriginal pass=1\ncheck=slotOriginal pass=1\ncheck=nativeThemeRestored pass=1\ncheck=restoreIdempotent pass=1\nFIXTURE_PASS=1\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=0 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    },
+    {
+      "mode": "generation",
+      "pid": 13260,
+      "exit": 0,
+      "killed": false,
+      "log": "PID=13260 TID=7924 mode=generation privateDesktop=ThemeBrowserOwn-13260-54566093 neverSwitched=1\nCoInitializeEx=00000000\ncheck=schema pass=1\ncheck=wrongHost pass=1\ncheck=wrongInstructionRefused pass=1\ninitialize=0 state=0 active=1 fullTheme=1 dpiStable=1\ncheck=initialized pass=1\ncheck=idempotent pass=1\ncheck=foreignReinitialize pass=1\ncheck=foreignRestoreRefused pass=1\ncheck=repairedIdempotent pass=1\ncheck=realHandles pass=1\nqueryCase=0 pass=1 expected=00000000 actual=00000000\nqueryCase=1 pass=1 expected=00000000 actual=00000000\nqueryCase=2 pass=1 expected=80070490 actual=80070490\nqueryCase=3 pass=1 expected=80070490 actual=80070490\nqueryCase=4 pass=1 expected=80070490 actual=80070490\nqueryCase=5 pass=1 expected=00000000 actual=00000000\nqueryCase=6 pass=1 expected=80070006 actual=80070006\ncheck=otherThreadGenuineColor pass=1\ncheck=genuineForeignGeneration pass=1\ncheck=reinitPreservesForeignTheme pass=1\ncheck=restorePreservesForeignTheme pass=1\ncheck=foreignGenerationIatUnchanged pass=1\ncheck=foreignGenerationIatUnchanged pass=1\ncheck=foreignStaleHandleRejectedBeforeNative pass=1\nbrowserFallback8=0 browserFallback11=0 tracked=1 failures=0\ncheck=foreignGenerationNoFallback pass=1\ncheck=foreignRestoreStillRefused pass=1\ncheck=foreignThemeStillNative pass=1\ngenerationResourcesRetainedUntilOwnProcessExit=1 FIXTURE_PASS=1\nscopedThemeClosed=1 currentUnchangedAfterClose=1\nworkerDesktopReleasedByThreadExit=1\nCOMPLETE exit=0 no global shell activation or input\nworkerExited=1 desktopCloseAfterThreadExit=1 error=0\n",
+      "stderr": ""
+    }
+  ],
+  "Files": {
+    "ThemeFolderHybrid.cpp": "3496b1ddf8b083e6dc309ce52b0435a130210d6c3eb37da36271d963379c7a40",
+    "ThemeFolderHybrid.dll": "b811602bb6e726648d57197fa0ef722cf5d39a42e1f18b4385a1cbb1b719fb3d",
+    "Fixture.cpp": "d7d4c20765254b85e0d4c822e24182a4a4e35f96e19b085d4475a046fd4e7dc1",
+    "FixtureHybrid.hpp": "a64e567d9e982c8902651b5e18f4917f21c9cd4d2459abb1352d13f4a8493937",
+    "HybridFixture.exe": "188747d7b3c141e289c8e68a44977de25f191a3b26d2ef21f8ade4469da7d4de",
+    "Pins.h": "5c4b06029496e2fa0484c17a4907072b4f07e01d7fff39f519a0071b4ef52549",
+    "Build-Test.py": "54349287dc56f6d49a7385d385a17548321c8bfc11241476b88d90f1da8ee655"
+  }
+}

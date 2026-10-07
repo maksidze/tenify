@@ -1,0 +1,24 @@
+{
+  "scope": "own nonUI process only; read-only ResourceMap; no Settings activation, VFS or registry changes",
+  "exeSHA256": "bd3c0a080128f5171e5a588211cd7a7b847cd44afe9e1a07f8656bf99eb5e3a0",
+  "sourceSHA256": "ad74df943cb73eba3ec069c6d1064573b84fac6e96d58915f7a5b0482b2575c7",
+  "oldPri": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\Windows.UI.SettingsAppThreshold.pri",
+  "runs": [
+    {
+      "mode": "native",
+      "pid": 5224,
+      "creationFlags": "CREATE_NO_WINDOW",
+      "image": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsCaptionProbe.exe",
+      "timedOut": false,
+      "exitCode": 0
+    },
+    {
+      "mode": "old",
+      "pid": 6696,
+      "creationFlags": "CREATE_NO_WINDOW",
+      "image": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsCaptionProbe.exe",
+      "timedOut": false,
+      "exitCode": 0
+    }
+  ]
+}

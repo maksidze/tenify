@@ -1,0 +1,73 @@
+{
+    "Passed":  true,
+    "Cases":  [
+                  {
+                      "CompanionsPreserved":  false,
+                      "Result":  {
+                                     "Transition":  true,
+                                     "Refused":  false,
+                                     "Mode":  "wait"
+                                 },
+                      "Mode":  "approve",
+                      "Passed":  true
+                  },
+                  {
+                      "CompanionsPreserved":  true,
+                      "Result":  {
+                                     "Transition":  false,
+                                     "Refused":  true,
+                                     "Error":  "Direct startup cancelled.",
+                                     "Mode":  "wait"
+                                 },
+                      "Mode":  "cancel-before-ack",
+                      "Passed":  true
+                  },
+                  {
+                      "CompanionsPreserved":  true,
+                      "Result":  {
+                                     "Transition":  false,
+                                     "Refused":  true,
+                                     "Error":  "Simulated own preflight failure",
+                                     "Mode":  "fail-before-ready"
+                                 },
+                      "Mode":  "fail-before-ready",
+                      "Passed":  true
+                  },
+                  {
+                      "CompanionsPreserved":  true,
+                      "Result":  {
+                                     "Transition":  false,
+                                     "Refused":  true,
+                                     "Mode":  "foreign-parent"
+                                 },
+                      "Mode":  "foreign-parent",
+                      "Passed":  true
+                  },
+                  {
+                      "CompanionsPreserved":  true,
+                      "Result":  {
+                                     "Transition":  false,
+                                     "Refused":  true,
+                                     "Error":  "Preflight transition approval identity differs.",
+                                     "Mode":  "wait"
+                                 },
+                      "Mode":  "wrong-ack-birth",
+                      "Passed":  true
+                  },
+                  {
+                      "Result":  {
+                                     "Transition":  false,
+                                     "Refused":  true,
+                                     "Error":  "Exact startup parent exited.",
+                                     "Mode":  "wait"
+                                 },
+                      "ExactParentOnlyTerminated":  true,
+                      "Mode":  "parent-death",
+                      "Passed":  true
+                  }
+              ],
+    "UIActivated":  false,
+    "Directory":  "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\handshake-fixtures\\561b2f87da0c4abd90048686ef5ccd63",
+    "ProductionHandshakeFunctions":  true,
+    "CREATE_NO_WINDOW":  true
+}

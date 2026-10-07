@@ -1,0 +1,97 @@
+{
+  "scope": "Exact old VM Description callsite; native first; eight native items verified, ninth resource only",
+  "createdUtc": "2026-10-05T15:38:00.694969+00:00",
+  "initializerExport": "SettingsControlTextInitialize",
+  "restoreExport": "SettingsControlTextRestore",
+  "queryExport": "SettingsControlTextQuery",
+  "files": {
+    "SettingsControlTextCompat.c": "c28b46ced5e464a543c9487046030c96c6b7d90cd24e21de486ead87c8c3ed96",
+    "SettingsControlTextCompat.dll": "d294664b83358a11e5ff2230a10f5b8447bfd910b1509b591623a671afaecc66",
+    "DescriptionCallsite.h": "a6e842698ec119cf363cd7521019bac8728a0a307ccb502ef2c13c82c8600135",
+    "ControlTextFixture.cs": "0cfa3856c1e86b63866e29fa645aeab6913fce65c8310fa3dd2ca8d899ece0be",
+    "ControlTextFixture.exe": "3f3f3c84592ebe7aa55736a352a810ff93edc53db5e0b2bfa0109a17f2230660",
+    "build_control_text.py": "c48d79a92d0c60fcf0c47a32ab4c651186a2960bc0bbef4fb34df0236883803a",
+    "prepare_adapter_metadata.py": "03d79f208ffbaa45b0a52b453194e2a1ea76c4554a5a63f93756b50a6634e873",
+    "write_adapter_manifest.py": "0958cdb331ae34babef359b08d56f68e14736a01d53c3e89316e5c86394c68ad",
+    "Readme.txt": "dfe0f1c08641421ee198b13114323dc349a8057c8f8a1b79642a27bb14e0eabd",
+    "own-adapter-proof.json": "38ba04c8059928218b455407eb0a1e3982110a25484f8a249be39b912e0e88ae",
+    "fixture-mta.log": "bb7b14d594d78ba9928b3631f2b865922ea7ac9ecf5d38b8644af941b5705d0f",
+    "fixture-sta.log": "bb7b14d594d78ba9928b3631f2b865922ea7ac9ecf5d38b8644af941b5705d0f",
+    "fixture-bad-guard.log": "19b3000b71ab714b5289f42dd5c0aaeba951bf6ee87b4391303d53e796f562d6",
+    "fixture-missing-dependency.log": "79164495cbffe78f067a06d1929d3ac8f0d05ac6510586a870aea5b24f9e0bc7",
+    "fresh-nt-map-proof.json": "7e36e42f92ca7d165a93239314d61e5e2a4c749ff0b8448de644fd27c99c35ff",
+    "fresh-nt-map.log": "2b7295f61ce11c72b74c03bbb51b8b8342926ee771510f5e55510cd1b53e20a0",
+    "xbf-taskbar-evidence.json": "c1efe4a2e2accb5dcda2226e3df18899d58f1f7b5beb150f31198033a13a6396",
+    "adapter-callsite.txt": "31af9850d96aae84fec8c64c03f8bf45f71abbc9c800fcf69a4a1494fb1cfeb1"
+  },
+  "dependencies": {
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1",
+    "C:\\Windows\\System32\\SystemSettings.DataModel.dll": "f07bdc1334562d4ae3d5265e96cf44b8bfbde8388fd71e76cb698cc475703fbb",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsHandlers-nt\\Windows.UI.SettingsHandlers-nt.pri": "f03e22b4d7131012a88b43ac39ee2fa01a876bed3db9d84e8d93136736ac1f51",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsHandlers-nt\\pris\\Windows.UI.SettingsHandlers-nt.ru-RU.pri": "786267b3b2f4e2e7a7fcfc9684871f38764dfb674f514e8e839c324b972b79ad"
+  },
+  "hookRva": "398f8",
+  "contextRva": "398e4",
+  "guardBytes": 33,
+  "originalCallHex": "e8af1e0000",
+  "patchBytes": 5,
+  "sharedProjectionUnchangedRva": "3b7ac",
+  "nativeItemIID": "40c037cc-d8bf-489e-8697-d66baa3221bf",
+  "nativeDescriptionSlot": 11,
+  "scopedIDs": [
+    "SystemSettings_Taskbar_Lock",
+    "SystemSettings_Taskbar_Autohide",
+    "SystemSettings_Taskbar_SmallButtons",
+    "SystemSettings_Taskbar_Badging",
+    "SystemSettings_Taskbar_Location",
+    "SystemSettings_Taskbar_GlommingPrimary",
+    "SystemSettings_Taskbar_PeekPreviewDesktop",
+    "SystemSettings_Taskbar_ReplaceCommandPromptWithPowerShellWinX",
+    "SystemSettings_ShellMode_TaskbarTabletModeAutohide"
+  ],
+  "nativeItemVerifiedIDs": [
+    "SystemSettings_Taskbar_Lock",
+    "SystemSettings_Taskbar_Autohide",
+    "SystemSettings_Taskbar_SmallButtons",
+    "SystemSettings_Taskbar_Badging",
+    "SystemSettings_Taskbar_Location",
+    "SystemSettings_Taskbar_GlommingPrimary",
+    "SystemSettings_Taskbar_PeekPreviewDesktop",
+    "SystemSettings_Taskbar_ReplaceCommandPromptWithPowerShellWinX"
+  ],
+  "ninthNativeGetSetting": "80070002/NULL; description lookup only if a real item is supplied",
+  "ownFixturePass": true,
+  "ownFixtureResults": [
+    {
+      "mode": "mta",
+      "pid": 13768,
+      "exit": 0,
+      "timedOut": false,
+      "createNoWindow": true
+    },
+    {
+      "mode": "sta",
+      "pid": 7752,
+      "exit": 0,
+      "timedOut": false,
+      "createNoWindow": true
+    },
+    {
+      "mode": "bad-guard",
+      "pid": 6240,
+      "exit": 0,
+      "timedOut": false,
+      "createNoWindow": true
+    },
+    {
+      "mode": "missing-dependency",
+      "pid": 13680,
+      "exit": 0,
+      "timedOut": false,
+      "createNoWindow": true
+    }
+  ],
+  "liveVerified": false,
+  "productionChanged": false,
+  "integration": "Load after base/Caption while owned child is quiescent; call initializer with NULL; abort owned startup on any failed HRESULT; never resume partial bootstrap"
+}

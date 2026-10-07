@@ -1,0 +1,19 @@
+{
+  "Passed": true,
+  "TypedChecks": 36,
+  "Classes": 18,
+  "NativeXamlActualIAT": true,
+  "GenuineOldFactoryExactHRESULTAndModule": true,
+  "Canaries": true,
+  "PrivateIID": "60d27c8d-5f61-4cce-b751-690fae66aa53",
+  "PrivateIIDGenuineUnsupportedPreserved": true,
+  "RoActivateInstanceGenuineHRESULT": "8001010e",
+  "RoActivateInstanceActualHRESULT": "8001010e",
+  "RoActivateInstanceMTAWrongThreadPreserved": true,
+  "NativeUnknownUri": "XAML_NATIVE\tWindows.Foundation.Uri\t00000000\tC:\\Windows\\System32\\iertutil.dll",
+  "NoUI": true,
+  "ActualCanonicalApp": false,
+  "NoVFS": true,
+  "HelperSHA256": "2ab0d5d57a018cb17e4622b5da083d40bf9fa9da281563e7547a8bdeaba60e9b",
+  "FixtureSHA256": "efa3030245e10c52d06cdf36796652e7ab416cfa3f1e17deedcad8f4c0728446"
+}

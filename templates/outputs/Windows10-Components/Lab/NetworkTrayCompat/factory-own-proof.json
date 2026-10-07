@@ -1,0 +1,7 @@
+{
+  "ExitCode": 0,
+  "NoStartOrStop": true,
+  "NoRegistryWrites": true,
+  "NoShellProcessTouched": true,
+  "Log": "CoInitializeEx=00000000 console=0000000000000000\nLoadLibrary=00007FF862360000 error=203\nFactory=00000000 ptr=000002613A096CC0\nCreateExactSSO=00000000 ptr=000002613A091260\nQI_IOleCommandTarget=80004002 ptr=0000000000000000\nSSOSlot0=cc00\nSSOSlot1=c740\nSSOSlot2=ca40\nSSOSlot3=3b00\nSSOSlot4=30050\nSSOSlot5=d2b0\nObjectReleased; Start/Stop not called\n"
+}

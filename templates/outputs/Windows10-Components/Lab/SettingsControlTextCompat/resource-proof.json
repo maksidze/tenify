@@ -1,0 +1,16 @@
+[
+  {
+    "Mode": "native",
+    "PID": 6972,
+    "ExitCode": 0,
+    "TimedOut": false,
+    "NoSettingsActivation": true
+  },
+  {
+    "Mode": "old",
+    "PID": 648,
+    "ExitCode": 0,
+    "TimedOut": false,
+    "NoSettingsActivation": true
+  }
+]

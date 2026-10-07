@@ -1,0 +1,35 @@
+{
+  "NativeExe": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+  "NativeExeSHA256": "50db6a50fc541e24f31fdcb240c97c9d3c267afc4de907bf1dcf9238ef2a914b",
+  "OldMain": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.dll",
+  "OldMainSHA256": "ac0ed6871e27b600e338efe8cc56d28410a83b1e5ec4555670eb1ef3ff0f8d45",
+  "Selector": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.dll",
+  "SelectorSHA256": "1f4554cac1163c40441d3f725527f16d1f86c8bd00dfe098056ad758444639e2",
+  "InitializeExport": "SettingsNoVfsInitialize",
+  "ContentHelper": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\SettingsContentCompat.dll",
+  "ContentSHA256": "17f7dc1e87b7fae9d4f4a9cb6832b106968cd94c529a4268d0b0f5817f77c3fc",
+  "ContentInitialize": "SettingsInitialize",
+  "LEA_RVA": 41999,
+  "LEABytes": "488d0d8a480000",
+  "NativeSlot": "LoadLibraryExW e288",
+  "NoVFS": true,
+  "ActualSettingsUI": false,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.dll",
+      "SHA256": "1f4554cac1163c40441d3f725527f16d1f86c8bd00dfe098056ad758444639e2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.cpp",
+      "SHA256": "ea6d4f361bc5c1f29ec25731b30df7ced6895afd8722ef580b815a334555fece"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SelectorPins.h",
+      "SHA256": "a920282b4d13b3275f174db79de03ea73fff09879c04fa995aafc5ddaa0dd082"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\Launch-SettingsNoVfs.py",
+      "SHA256": "12aa6a00e21db52065c4ea880401c09957c772f8a40773fb5de5c5049f085423"
+    }
+  ]
+}

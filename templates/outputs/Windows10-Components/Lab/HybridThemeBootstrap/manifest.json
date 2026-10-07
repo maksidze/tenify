@@ -1,0 +1,86 @@
+{
+  "DefaultEnabled": false,
+  "ProductionVisibleUnverified": true,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles",
+      "SHA256": "847aaa1e347631f353119d9c483d88111c4a29d0c0abafdd650447d3cbf8831e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\Launch-ControlTheme10.py",
+      "SHA256": "37725a7d134150879e22a5077c965c5f065ad2e327075b627bf82a5d0df11b97"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\HybridThemeBootstrap\\BrowserProbe.cpp",
+      "SHA256": "37a8a9d0645319f771b3e643b652f49962e8e623fef7ec2fa67266f98ce27835"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\HybridThemeBootstrap\\BrowserProbe.dll",
+      "SHA256": "a937822a9fae9797aba3bc7e955e7c8861532e4edc1c4d5afcfefa31d4cfed52"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\HybridThemeBootstrap\\Launch-HybridTheme10.py",
+      "SHA256": "51cd3aad785b3c34f977e7a783da08a54d25817ad11db90f3e5bbf26d3a39c22"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\HybridThemeBootstrap\\PrimaryBridge.cpp",
+      "SHA256": "6757d846191e8d585dbd3f1d76580df7982d72170e75478f318798911af1d2ed"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\HybridThemeBootstrap\\PrimaryBridge.dll",
+      "SHA256": "c6e3007d0c00bccde90b125e5d60e2ec7ec2c36bb8e8715cbf598d3382566ee0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\Build-Test.py",
+      "SHA256": "54349287dc56f6d49a7385d385a17548321c8bfc11241476b88d90f1da8ee655"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\Fixture.cpp",
+      "SHA256": "d7d4c20765254b85e0d4c822e24182a4a4e35f96e19b085d4475a046fd4e7dc1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\FixtureHybrid.hpp",
+      "SHA256": "a64e567d9e982c8902651b5e18f4917f21c9cd4d2459abb1352d13f4a8493937"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\HybridFixture.exe",
+      "SHA256": "188747d7b3c141e289c8e68a44977de25f191a3b26d2ef21f8ade4469da7d4de"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\manifest.json",
+      "SHA256": "92cfc35e200133604d6db3aac4e18b44c5c835d6f214772db155900c59a691f1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\Pins.h",
+      "SHA256": "5c4b06029496e2fa0484c17a4907072b4f07e01d7fff39f519a0071b4ef52549"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\ThemeFolderHybrid.cpp",
+      "SHA256": "3496b1ddf8b083e6dc309ce52b0435a130210d6c3eb37da36271d963379c7a40"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ThemeFolderHybridCompat\\ThemeFolderHybrid.dll",
+      "SHA256": "b811602bb6e726648d57197fa0ef722cf5d39a42e1f18b4385a1cbb1b719fb3d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Launch-TouchpadCompat.py",
+      "SHA256": "6871b8fb163503c235c4ce16c30e2d93de3d14da74a6ce6159c715cb367020c6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+      "SHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+    },
+    {
+      "Path": "C:\\Windows\\Resources\\Themes\\aero\\aero.msstyles",
+      "SHA256": "347c92f717d0aaa32a2e9982dab0811d736d777a39b5ef097e02b8c8f32074b4"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\dui70.dll",
+      "SHA256": "ad77463fb9835d268d4187dfcb3aab6396d7271cefea18327071d862f665aa4e"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\uxtheme.dll",
+      "SHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+    }
+  ]
+}

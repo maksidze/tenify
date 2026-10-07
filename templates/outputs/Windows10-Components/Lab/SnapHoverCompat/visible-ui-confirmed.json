@@ -1,0 +1,16 @@
+{
+  "RecordedUtc": "2026-10-05T12:51:45.0449085Z",
+  "Source": "Parent root message relaying direct human verification",
+  "UserText": "Да, исчезла",
+  "ConfirmedBehavior": "Hover Snap Layout flyout disappeared",
+  "ShellPid": 10488,
+  "ShellBirthFileTime": "134356712551859316",
+  "Registry": "EnableSnapAssistFlyout REG_DWORD 0",
+  "CacheBefore": 1,
+  "OnSettingChangedHRESULT": "00000000",
+  "CacheAfter": 0,
+  "Canaries": true,
+  "RestartedExplorer": false,
+  "Evidence": "live-cache-refresh.log",
+  "Limit": "Does not assert Win+Z or SnapBar disabled"
+}

@@ -1,0 +1,45 @@
+{
+  "Tests": [
+    {
+      "Mode": "until-cancel",
+      "ExitCode": 0,
+      "Elapsed": 2.5,
+      "NoIconChanges": true,
+      "Log": "Bootstrap=00000000\nRunning UntilStop=1; bootstrap finished, no total-hour deadline in persistent mode\nFIXTURE cooperative cleanup; no actual SSO was started\nReleased own SSO; no Explorer termination\n"
+    },
+    {
+      "Mode": "bounded-deadline",
+      "ExitCode": 0,
+      "Elapsed": 1.0470000000004802,
+      "NoIconChanges": true,
+      "Log": "Bootstrap=00000000\nRunning UntilStop=0; bootstrap finished, no total-hour deadline in persistent mode\nFIXTURE cooperative cleanup; no actual SSO was started\nReleased own SSO; no Explorer termination\n"
+    },
+    {
+      "Mode": "target-death",
+      "ExitCode": 0,
+      "Elapsed": 1.6880000000001019,
+      "NoIconChanges": true,
+      "Log": "Bootstrap=00000000\nRunning UntilStop=1; bootstrap finished, no total-hour deadline in persistent mode\nFIXTURE cooperative cleanup; no actual SSO was started\nReleased own SSO; no Explorer termination\n"
+    },
+    {
+      "Mode": "bootstrap-stall",
+      "ExitCode": 125,
+      "Elapsed": 1.6409999999996217,
+      "NoIconChanges": true,
+      "Log": ""
+    },
+    {
+      "Mode": "wrong-birth",
+      "ExitCode": 4,
+      "Elapsed": 0.01599999999962165,
+      "NoIconChanges": true,
+      "Log": "No bootstrap"
+    }
+  ],
+  "Changes": [
+    "Harmless own target replaces native shell-owner lookup in fixture ONLY",
+    "No real COM/factory/SSO initialization in lifecycle fixture",
+    "Time scale1s bootstrap/500ms cleanup in fixture ONLY"
+  ],
+  "ProductionUnchanged": true
+}

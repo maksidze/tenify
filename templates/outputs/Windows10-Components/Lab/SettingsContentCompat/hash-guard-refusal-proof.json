@@ -1,0 +1,46 @@
+{
+  "DynamicNamespace": "__se6cb4595",
+  "DerivedPair": {
+    "Nonce": "e6cb4595fb194e4189902eadc13c4634",
+    "Directory": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\sessions\\e6cb4595fb194e4189902eadc13c4634",
+    "VfsProxy": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\sessions\\e6cb4595fb194e4189902eadc13c4634\\PrivateUSVFS\\usvfs_proxy_x64.exe",
+    "Files": [
+      {
+        "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\sessions\\e6cb4595fb194e4189902eadc13c4634\\PrivateUSVFS\\usvfs_x64.dll",
+        "SHA256": "bfc76e94648a35f300a372f07b64b19b4bbd6bd74ab076634ebc48b5c011bbab"
+      },
+      {
+        "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\sessions\\e6cb4595fb194e4189902eadc13c4634\\PrivateUSVFS\\usvfs_proxy_x64.exe",
+        "SHA256": "95591c689ded4f7789aaa8945a4d3d4d147b20a453cdea2809f6f20dbd04e3c5"
+      }
+    ]
+  },
+  "ActualSettingsMappings": 7,
+  "ProductionOwnerReused": true,
+  "FixtureLoggerCreateExitBetweenEach": true,
+  "NoRealPackageActivation": true,
+  "Results": [
+    {
+      "Index": 0,
+      "Pid": 5164,
+      "Directory": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\fixtures\\repeat-9f34435557bb4bcea6098c01011b8355",
+      "BackendExit": 0,
+      "VfsPrepared": true,
+      "Initializer": false,
+      "Detached": false,
+      "LogTail": "\\System32\\msvcrt.dll\nDLL base=00007FF8D7F90000 path=\\\\?\\C:\\Windows\\System32\\sechost.dll\nDLL base=00007FF8C6EA0000 path=\\\\?\\C:\\Windows\\System32\\vcruntime140_1.dll\nDLL base=00007FF8C6EB0000 path=\\\\?\\C:\\Windows\\System32\\msvcp140.dll\nDLL base=00007FF8CA170000 path=\\\\?\\C:\\Windows\\System32\\vcruntime140.dll\nDLL base=00007FF8D2EB0000 path=\\\\?\\C:\\Windows\\System32\\windows.storage.dll\nDLL base=00007FF8D7E10000 path=\\\\?\\C:\\Windows\\System32\\SHCore.dll\nDLL base=00007FF8D5100000 path=\\\\?\\C:\\Windows\\System32\\profapi.dll\nEXCEPTION_PARAM 0=19930520\nEXCEPTION_PARAM 1=7865ff340\nEXCEPTION_PARAM 2=7ff88fea9f08\nEXCEPTION_PARAM 3=7ff88fd80000\nEXCEPTION code=e06d7363 first=1 address=00007FF8D5B166CA\nEXCEPTION_PARAM 0=0\nEXCEPTION code=80000003 first=1 address=00007FF7FFBB12F0\nINJECT loaderThread=9100 handle=00000000000001E4 error=2 mainSuspended=0\nDLL base=00007FF8B48F0000 path=\\\\?\\@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\SettingsContentCompat.dll\nDLL base=00007FF8D5130000 path=\\\\?\\C:\\Windows\\System32\\bcrypt.dll\nINITIALIZER base=00007FF8B48F0000 rva=1000 thread=12296 error=2\nDLL base=00007FF8D56C0000 path=\\\\?\\C:\\Windows\\System32\\bcryptprimitives.dll\nINITIALIZER result=8007051a\nEXIT code=0000dec4\nCOMPLETE debugger controlled only its own child\n",
+      "Stderr": ""
+    },
+    {
+      "Index": 1,
+      "Pid": 1772,
+      "Directory": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSessionCompat\\fixtures\\repeat-25b3b3321e444c668fc6b1e94348072e",
+      "BackendExit": 0,
+      "VfsPrepared": true,
+      "Initializer": false,
+      "Detached": false,
+      "LogTail": "System32\\msvcrt.dll\nDLL base=00007FF8D7F90000 path=\\\\?\\C:\\Windows\\System32\\sechost.dll\nDLL base=00007FF8C6EB0000 path=\\\\?\\C:\\Windows\\System32\\msvcp140.dll\nDLL base=00007FF8C6EA0000 path=\\\\?\\C:\\Windows\\System32\\vcruntime140_1.dll\nDLL base=00007FF8CA170000 path=\\\\?\\C:\\Windows\\System32\\vcruntime140.dll\nDLL base=00007FF8D2EB0000 path=\\\\?\\C:\\Windows\\System32\\windows.storage.dll\nDLL base=00007FF8D7E10000 path=\\\\?\\C:\\Windows\\System32\\SHCore.dll\nDLL base=00007FF8D5100000 path=\\\\?\\C:\\Windows\\System32\\profapi.dll\nEXCEPTION_PARAM 0=19930520\nEXCEPTION_PARAM 1=f7167ff720\nEXCEPTION_PARAM 2=7ff88fea9f08\nEXCEPTION_PARAM 3=7ff88fd80000\nEXCEPTION code=e06d7363 first=1 address=00007FF8D5B166CA\nEXCEPTION_PARAM 0=0\nEXCEPTION code=80000003 first=1 address=00007FF7FFBB12F0\nINJECT loaderThread=12996 handle=00000000000001B0 error=2 mainSuspended=0\nDLL base=00007FF8B48F0000 path=\\\\?\\@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\SettingsContentCompat.dll\nDLL base=00007FF8D5130000 path=\\\\?\\C:\\Windows\\System32\\bcrypt.dll\nINITIALIZER base=00007FF8B48F0000 rva=1000 thread=8328 error=2\nDLL base=00007FF8D56C0000 path=\\\\?\\C:\\Windows\\System32\\bcryptprimitives.dll\nINITIALIZER result=8007051a\nEXIT code=0000dec4\nCOMPLETE debugger controlled only its own child\n",
+      "Stderr": ""
+    }
+  ]
+}

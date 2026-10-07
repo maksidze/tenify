@@ -1,0 +1,36 @@
+{
+  "Scope": "Private Explorer memory: one guarded CDefView Mode=Classic path",
+  "Rva": 2827106,
+  "Original": "39b424c00500000f85f8000000",
+  "Replacement": "4489bc24c0050000e9f8000000",
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ClassicContextMenuCompat\\ClassicContextMenu.c",
+      "SHA256": "ee2b62262a31c847fcf9eef17b18206eaacf6bf3e471b030fa6c6c048cbcf3b0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ClassicContextMenuCompat\\ClassicContextMenu.dll",
+      "SHA256": "848832c7247f591554bdc67d265d345fd0c2f0cc3c10aea62bd016203cd99603"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ClassicContextMenuCompat\\Probe.c",
+      "SHA256": "8100acaaf7b176be649309658349667fe2d348dd7801e179620f478a09662205"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ClassicContextMenuCompat\\ClassicMenuProbe.exe",
+      "SHA256": "088772203b9e3fcf5b96bf54aa472dfeb920fcf469dd7992ed21ea843ed38621"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ClassicContextMenuCompat\\Build.py",
+      "SHA256": "aabf0d1f636ebe9e7bb58e612aaaf25f50d8f20095348cee4fcc726308d12f1a"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\shell32.dll",
+      "SHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\HashCheck.h",
+      "SHA256": "79e63000dbfa7b091053674bb13d36c82a5789f561f77c71c04c92808dc967c9"
+    }
+  ]
+}

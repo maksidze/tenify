@@ -1,0 +1,25 @@
+{
+  "Version": 2,
+  "ProductionLiveTested": false,
+  "OwnProofPassed": true,
+  "InitializeExport": "ThemeFolderHybridInitialize",
+  "RestoreExport": "ThemeFolderHybridRestore",
+  "StateExport": "ThemeFolderHybridState",
+  "StateSize": 160,
+  "Files": {
+    "ThemeFolderHybrid.cpp": "3496b1ddf8b083e6dc309ce52b0435a130210d6c3eb37da36271d963379c7a40",
+    "ThemeFolderHybrid.dll": "b811602bb6e726648d57197fa0ef722cf5d39a42e1f18b4385a1cbb1b719fb3d",
+    "Fixture.cpp": "d7d4c20765254b85e0d4c822e24182a4a4e35f96e19b085d4475a046fd4e7dc1",
+    "FixtureHybrid.hpp": "a64e567d9e982c8902651b5e18f4917f21c9cd4d2459abb1352d13f4a8493937",
+    "HybridFixture.exe": "188747d7b3c141e289c8e68a44977de25f191a3b26d2ef21f8ade4469da7d4de",
+    "Pins.h": "5c4b06029496e2fa0484c17a4907072b4f07e01d7fff39f519a0071b4ef52549",
+    "Build-Test.py": "54349287dc56f6d49a7385d385a17548321c8bfc11241476b88d90f1da8ee655"
+  },
+  "Dependencies": {
+    "C:\\Windows\\System32\\uxtheme.dll": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b",
+    "C:\\Windows\\System32\\dui70.dll": "ad77463fb9835d268d4187dfcb3aab6396d7271cefea18327071d862f665aa4e",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles": "847aaa1e347631f353119d9c483d88111c4a29d0c0abafdd650447d3cbf8831e",
+    "C:\\Windows\\Resources\\Themes\\aero\\aero.msstyles": "347c92f717d0aaa32a2e9982dab0811d736d777a39b5ef097e02b8c8f32074b4",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+  }
+}

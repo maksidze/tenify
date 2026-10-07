@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "NoVFS": true,
+  "ActualOwnExplorerPreflightPassed": true,
+  "ActualLiveExplorer": true,
+  "Preflight": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\state-direct\\preflight-d01ae4bbe14142d88bc3d2e903ad178f\\status.json",
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NoVfsShellCompat\\Launch-Explorer10-NoVFS.py",
+      "SHA256": "c12a00aec027a946399ff2b9c28569270ea8de260af0beff0f5b49b967a8b8a2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NoVfsShellCompat\\Install-Icons.py",
+      "SHA256": "20e4e53c68a6d1b5cf64bbb3e7f5268f388390dc76b5bd7924470a59cdfa6420"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeHostPCSCompat\\manifest.json",
+      "SHA256": "cc5025dc946a08e3fe9142e0bed594f0aa1d8b309effebf968fcc625de1ee614"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeWinXCompat\\manifest.json",
+      "SHA256": "b8ccf38c2c612ff7c6d96457c6b17e7b44aa4e53d92f92f66fd34b6dda1ed8d0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuSquareV2\\manifest.json",
+      "SHA256": "15291bdfa6e50a0fb1618097bbd8fd213a14502a06a397c03b2aba8e29364886"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuBootstrap\\manifest.json",
+      "SHA256": "f30f62421023be2fc4bdf6dc92bbf29cc88fbbbbe250219ecd9f53d56f7c916e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconRoutesNoVfsCompat\\manifest.json",
+      "SHA256": "0a68eb9df114a7f43feff95090f57cdcb38e1020e41299d6de687e617548b210"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\HybridThemeBootstrap\\manifest.json",
+      "SHA256": "1f0ae8cfd595e7cc497608f3e9712c5163f4ebc9ae6973e2fd563c4c44640f7d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Start-Explorer10-Direct.ps1",
+      "SHA256": "3e217f21f8bcf5a2f91d68a748927fa6682435b75ed3b7e87f2b4e9ba3e94241"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Stop-Explorer10-Direct.ps1",
+      "SHA256": "cb6e58e95d4076e29b4bde6b6ef1cc396aa6cbd2b1cbde82bf2232e0f440b04d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Start-Windows10-DirectPersistent.ps1",
+      "SHA256": "3d5f1bf700b7806242d446249fb7be4e2a92411ad6d0b2bddd33dbe5b289216b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Stop-Windows10-DirectPersistent.ps1",
+      "SHA256": "7737701b020b1e0eae0e8deaf06952adc61161a52502db473cd59bb26be768d8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Confirm-NativeExplorer.ps1",
+      "SHA256": "9b3323a4bcec83ee27b261702fda198037a5fdefd61ac028fbd6403c005803bf"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Windows10-DirectOneClick.ps1",
+      "SHA256": "5139a8a79667e1824df94bbba21efae6b1f4cd0e4270828c865caa2d33eb5a7e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\manifest.json",
+      "SHA256": "164c66612158622160ea7888a7709c24a755e0b463c14da5f8c3ba425c35d7d3"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\ChildJob.py",
+      "SHA256": "dd0b70edc0bee92804de95304379864791196a056484e54b837ce0f799a4ec37"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\FixtureChild.py",
+      "SHA256": "42f3217c53a3047cd44060364c7cdc8a2af9969fe80da898567c7178358a2302"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\FixtureWorker.ps1",
+      "SHA256": "55732e7e6c3167d82a159aeafae055460f04e232fbc51705c959ffc480bbd778"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Identity.cs",
+      "SHA256": "736d380eeee0cef4224001d41dc31ff9d6d7df16167bbf35b7d04a73eb491202"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\LeaseWriter.py",
+      "SHA256": "3f7045e2f06bcb7b53d7eeb7ad6f78303ab72aa86969f50fe9622d0caeeae62c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Lifecycle.ps1",
+      "SHA256": "61d2eaa3248953f325297861986c22d0cfaff09a0abb57db75c91adddb9bae58"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\own-proof.json",
+      "SHA256": "67dab45d0a089ae65f1a87abd3bdda85d1949a71cb25011d125e571b4f7f3876"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\OwnedJobProcess.cs",
+      "SHA256": "8f671d6e8c1e0ea4a9d2aa8f041130ec81cbe6bdab972aa2911972c4781eeef4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\OwnTests.ps1",
+      "SHA256": "a78595b1dd7ae846568a5ff06b1b32713d778a1e194949e481082f581fab9f3d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\powershell-syntax.json",
+      "SHA256": "c7fb2f2cd88f05bc16ca0504de070bc169f417711f8e18dfafb8b521dfa2c855"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\publication-own-proof.json",
+      "SHA256": "1b31ad72de6362b7ad7904368797736396567f64217d475b3be85f94da3ae525"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\PublicationOwn.ps1",
+      "SHA256": "4f468f33cba9785b8ff8f24cb82d9052e4b06108d96ca4159d463b83b3ea2e54"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\python-syntax.json",
+      "SHA256": "4ccdf8cbc485ab441600dfc873d47ab319823f117e4ff99adeae055e78cd6649"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Readme.txt",
+      "SHA256": "93be7e975673e2f69c078742f158b371812e4163d0ef0c02f997e92219c868bf"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\recovery-own-proof.json",
+      "SHA256": "4423d908d1462251d545be510f4f03ee04b9708aab0715778278b70c965818cc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\recovery-race-proof.json",
+      "SHA256": "04e6e79413d9029266f3700935dd89286d71bc31b6bcb840c122e453efbee48b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Recovery.py",
+      "SHA256": "c621c8327cdebe7141b1593bea8a5ec2c3833219c06a6d12f52055386edc678b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\RecoveryOwn.ps1",
+      "SHA256": "6927369d16228ac25b379d5f7d182594f2366c84be8946f2fc568e3f9c7c3898"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\RecoveryRaceChild.py",
+      "SHA256": "69d40767aa1004fefde850aba7e28175c143d57a3aa02c020f14b9762c06ae58"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\RecoveryRaceOwn.ps1",
+      "SHA256": "b987a6fe6c9c72ea090e404b65f5cddc9fe81e2604dab35e20b4d4ecc5b042fd"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Syntax.py",
+      "SHA256": "3d056388de48e3197eaf8e0448011a4fdc5ce4e30ee6918f9629535d3c4fb5e2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\manifest.json",
+      "SHA256": "616dfc8963afd5e15a8a36c5ec5ba3f87d00035aba4a24889c61c25fe1d19cb8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\Repair.py",
+      "SHA256": "b5a13d2d6dfadb40907400a6997da9c314107189b0e8a5e8d4f779d1ddb5ff7a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\TargetIcons.ps1",
+      "SHA256": "b48c68128b5976eaafb33ca9b17e41a388020012d314f06d35ec69e35928cf78"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\Setup-TargetIcons.ps1",
+      "SHA256": "1ff35ed627a86bdac10a4a0ebdb3e1c01ac48ad01fc81dff0fbc1e7d2bce3ff1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\Restore-TargetIcons.ps1",
+      "SHA256": "0b988a1f52444a88993f2fdc4d561c049f1267a8a545acfc6cfd3479e643fa78"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\Render-Proof.py",
+      "SHA256": "edfac51f55c2da7ce34bd0ee588563245c1f73cd705b415912b2e3e62cb72391"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\pins.json",
+      "SHA256": "01cabb783ef6f83f76b61b497e5f3dcd061376d7561c89d0781a85dcc782031e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\Readme.txt",
+      "SHA256": "53679de03f613b0710fd0f81853f4b6b6d94ecc4bd9434f28816146012de5948"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\TargetIconRepair\\own-proof.json",
+      "SHA256": "154dfc727c50ad7dafe9a405c6af3ba4ddb8edb10c9ce8fb8866764b942a2fbc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\AtomicStatus.py",
+      "SHA256": "9c829980ec4f5cf42bfdd56ea42c2060a40a747c3aa5210d5341da661dd6db33"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Finalize.py",
+      "SHA256": "0a767faa1a5fa5f8dab8b4e6edfe1b626541c1d9d38eec9e0ee516777999b29b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\full-preflight-proof.json",
+      "SHA256": "fc1286c703d33e0c8649165a2e555740d213665d7da58520a5785e6359cb894a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\handshake-own-proof.json",
+      "SHA256": "a389fb0225c9e5b37008f5bec5fddcaba8076eed3e29800565cb54b174b97c7e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\HandshakeOwn.ps1",
+      "SHA256": "96d0f54c5c6d7b86111667635cc33d579f8fba633ec99c68d4e3d711bd9fd016"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\HandshakeParentOwn.ps1",
+      "SHA256": "e56ad5fd16334eea6b3a5ea3d84957c3600da679ec7c4d9c1162ed3d4ab8cb6c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\HandshakeWorker.ps1",
+      "SHA256": "00738b885f1d77cc5564db8b3a9e90cfe25cead8e7d553a6dd6d622b7e28f7c2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\PreflightOwn.ps1",
+      "SHA256": "d9d9ac94dad9073b05f5c3a1915deefedb7136e56373ce6c5a15cdacb6b03be4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\status-own-proof.json",
+      "SHA256": "05329404a208890c968e9ddc6040c192eb6227dbf10cd114df1ebe7a52bb891e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\StatusOwn.ps1",
+      "SHA256": "b04b45ef7624387547b5c3b13d3ce89831bf4b982b756aba8189f7b506631825"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\StatusWriterOwn.py",
+      "SHA256": "2725b3a5467be315488a81460ce077d358b20f456cff5f462f3b3b0f8de3630b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SignatureCompat\\Resolve.py",
+      "SHA256": "8aa07202eed77fd15906da84fa0e566891dbb456c078b0b9f130f0821ff79124"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SignatureCompat\\profiles.json",
+      "SHA256": "fe2579269d1705807f320d69514d34dbbd5a9019fb4f7ec662254f0ab830ac3a"
+    }
+  ],
+  "LiveState": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\state-direct\\02499d28da6446febe6d3f9082a36982\\status.json",
+  "LifecycleOwnCasesPassed": 11,
+  "RecoveryOwnCasesPassed": 6,
+  "CurrentLiveUsesNewLifecycle": true,
+  "ConcurrentStatusReaderProof": true,
+  "CurrentOneClickPassed": true
+}

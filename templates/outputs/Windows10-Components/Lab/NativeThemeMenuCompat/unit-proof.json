@@ -1,0 +1,44 @@
+{
+  "Pass": true,
+  "Scope": "classifier white-box with genuine native queries; separate actual production DLL popup proof is required",
+  "Files": {
+    "ThemeMenu.cpp": "95fd0c40dad87091bbf36eff7e65539bb01122b1b45aabbeb735897eaa33e837",
+    "UnitFixture.cpp": "538597124574fae7393fd5e3399e444d95672fe9486ae4fb15d7ff1e407324ad",
+    "UnitFixture.exe": "0647b8d5b1503f5576763c1c57484630e7f72b4f55357dd82ae6767125c07b47",
+    "Pins.h": "a337731d75817efa301caef06d5ba417413ab8bc6494aac97aedf326c2d6de37"
+  },
+  "Results": [
+    {
+      "mode": "native",
+      "pid": 11780,
+      "exit": 0,
+      "killed": false,
+      "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nfixture native theme refused PASS\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+      "stderr": ""
+    },
+    {
+      "mode": "wrong-byte",
+      "pid": 9844,
+      "exit": 0,
+      "killed": false,
+      "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nown full old theme PASS\nown wrong byte PASS\nbyte guard refuses PASS\nno publication PASS\nrepair own deliberate byte PASS\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+      "stderr": ""
+    },
+    {
+      "mode": "normal",
+      "pid": 2696,
+      "exit": 0,
+      "killed": false,
+      "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nown full old theme PASS\ninitialize PASS\nidempotence PASS\ngenuine handles PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nnonMENU unchanged PASS\nnonMENU unchanged PASS\nunscoped original missing result PASS\nreserved state no translation PASS\ngenuine missing property preserved PASS\nseparate native provider load PASS\nseparate native provider open PASS\nnative different backing PASS\nforeign native MENU unchanged PASS\nquarantined installed helper cannot claim success PASS\nown foreign call marker PASS\nforeign call reinit refused PASS\nforeign call restore refused PASS\nforeign call preserved PASS\nrepair own marker PASS\nrestore PASS\n17 exact original bytes PASS\nrepeat restore safe PASS\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+      "stderr": ""
+    },
+    {
+      "mode": "generation",
+      "pid": 6572,
+      "exit": 0,
+      "killed": false,
+      "log": "PMv2 PASS\nnative hash PASS\nproduction initializer wrong EXE refuses PASS\nown full old theme PASS\ninitialize PASS\nidempotence PASS\ngenuine handles PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nMENU27 maps genuine14 state0..4 PASS\nnonMENU unchanged PASS\nnonMENU unchanged PASS\nunscoped original missing result PASS\nreserved state no translation PASS\ngenuine missing property preserved PASS\nseparate native provider load PASS\nseparate native provider open PASS\nnative different backing PASS\nforeign native MENU unchanged PASS\nforeign own generation PASS\nstale handle rejected before class/fromData PASS\nforeign restore refused PASS\nforeign reinit refused PASS\nall 17 patches preserved PASS\nforced generation uses immediate own process teardown; no hot continuation\nCOMPLETE=0 no HWND, no input, no global theme change\n",
+      "stderr": ""
+    }
+  ]
+}

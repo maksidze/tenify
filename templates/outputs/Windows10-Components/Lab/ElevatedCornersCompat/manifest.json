@@ -1,0 +1,68 @@
+{
+  "Format": 1,
+  "Source": "Private elevated-only companion; no deployment",
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Access.cs",
+      "SHA256": "0608e5dd4335360414034371f06189995f6c9b2fb3c631a00c7e754dd222827a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Common.ps1",
+      "SHA256": "41c92e9ffb81e79210801a6cb5a91898c1262e164177a84371fea23e097709bc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Controller.ps1",
+      "SHA256": "18d4573edb0ffe3f44720ac16880006dab46db878913356a30b7df20bba480d1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\ElevatedCornerFixture.exe",
+      "SHA256": "803fcd6c7258a50ee8214e67440de4a3e19d69882e85cd22d1addab5970a5061"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\ElevatedCornerHost.exe",
+      "SHA256": "d8b67ebd1a62e42511cc20067afe7ab116f54cbfbfa00f500343a59c9cf7fff9"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\ElevatedCorners.ps1",
+      "SHA256": "981056b781cb1b21d94c27d69119e866ab94660a41e35eb14e13e6c48ec3081a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Guard.h",
+      "SHA256": "cd52a7001952ac3e2d93f721aa03d516e63a205069dd8a6f43012a69deada83c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Host.c",
+      "SHA256": "233a5ce6abb0e1c4d3841acb2da5ae80f3d69291b6d8c480cef8b88e1c794a8f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Launch-NonUiProcess.ps1",
+      "SHA256": "06ce589e3018ce3dc7d62a869b1a15900eea4d0f635bee1a97d1939b8cae0c1e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Library.ps1",
+      "SHA256": "0045b345fd622c9a7411dbaf4077b300c67ccd43e32f95474f00654d147c8a7a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\MutexFixture.c",
+      "SHA256": "7abeccc1558321737560b222a952467f2e2ae364587198d8a8303d70d71ee300"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\MutexFixture.exe",
+      "SHA256": "e5954ca9bd29881a1af4a3a503cba3a52a2e4afb6e66706dc617522ab1eb92a9"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\NonUiProcess.cs",
+      "SHA256": "a3f022a17edf21956cba45ebe5059755a113cb1eedaa1523cecbe69bd5bad287"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Test-EarlyCancel.ps1",
+      "SHA256": "7589ae6ed38451f784c1c21b36ce1d812bc0a4caa257fe6518684dae8e94219a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ElevatedCornersCompat\\Test-Own.ps1",
+      "SHA256": "d7fd9795a752f67438b2b30738643f67e0424ba36aa3c40519d549b51bff268b"
+    }
+  ],
+  "HighOnly": true,
+  "SystemFilesModified": false
+}

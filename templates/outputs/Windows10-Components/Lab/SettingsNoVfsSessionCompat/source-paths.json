@@ -1,0 +1,620 @@
+{
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\appxblockmap.xml",
+      "SHA256": "a0a68cd04ab9efec0c6019d21d93b446c900a9219d8f02f0e49631eaf3c748ed"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\appxmanifest.xml",
+      "SHA256": "0acb299a236fe2b3f5dee7d96befa5bdc29bf33ac6e08f64c18127d110eca9ac"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\appxsignature.p7x",
+      "SHA256": "b5e98b7e336f5a3e59cdcffde4540c7175ea0a26fbf7b1396df28ad7d23bc9fc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Apps.png",
+      "SHA256": "7669c399c512133550eb0805c69884e4b982bceb1f8c8b0c3071f7301e1da1aa"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\AppsRtl.png",
+      "SHA256": "27d85cce5c37e42d28b478dc749fd46ac456e0cae1379939ff40bfcdcfefe563"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Contact.png",
+      "SHA256": "cdc94948bf50740d89e26d68b05ff702e028a5ab114a5d7c0320640ac9a6a136"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\DefaultPinTile.png",
+      "SHA256": "415e7f47219450401e108a43039117d82e44030e7f822db010b1b1129ce66681"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Devices.png",
+      "SHA256": "be398e8f2dcf78e291b898764f75facac3c8e903ae0d53eb2f33c5c04d4499b8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\EaseOfAccess.png",
+      "SHA256": "1fd646920cf225bd0cf3d06d513966fc35c31eaa354c7e57e005f3f5ee6f55d0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Extras.png",
+      "SHA256": "b1ac1de9c23081c3a5371b2f4360ace137a9c52aaf9419793b3d39636325183b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Gaming.png",
+      "SHA256": "3ee03c933b0bdfba814e11b53dc037873ea8eb61047776974977524c2b26a147"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\GamingRebrand.png",
+      "SHA256": "cf05ea33a59134eca382abcb43f274e1f6c24316d6df10cafd6307f5577cede7"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Globe.png",
+      "SHA256": "70b2838499d5f258236924f3b1f52c60e65611d5ac5f820b66113869201b819d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Holographic.png",
+      "SHA256": "743e59731865692554306a39a84b18bf4fc66cb01d8362b38f6ac20e1e5776ac"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Lock.png",
+      "SHA256": "990717f6b46746d6bf60f5349ee5be40f1a6e05197111d04837f254dd8e9a6eb"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.altform-unplated.png",
+      "SHA256": "6b05fb9f09fdb608dcce58226b9b7e246a30873906af8a5feac124c371bda37e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-black.png",
+      "SHA256": "6b05fb9f09fdb608dcce58226b9b7e246a30873906af8a5feac124c371bda37e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-black_scale-100.png",
+      "SHA256": "6b05fb9f09fdb608dcce58226b9b7e246a30873906af8a5feac124c371bda37e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-black_scale-125.png",
+      "SHA256": "b4aa48581115b7eeb4a4e8462e9f476b279be5b7cec888d0c0148bf071eec802"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-black_scale-150.png",
+      "SHA256": "98cf27b7844af345897c1ba2a0e698e13cc69c731fb7394c35c8207b239c48ee"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-black_scale-200.png",
+      "SHA256": "6743a2b51691b6d7b9b2db123a5f2f98d1119a35b51cb0d9c0759419d1cbd30f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-black_scale-400.png",
+      "SHA256": "fc2c7e923f88cff44f641227d066af84fce7b3f3bef7a7775363f0961a7c1c28"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-white.png",
+      "SHA256": "4f59a6f813387f2e47fb6910ef7716a06b50cd2ba3a661bcf17181de1312831f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-white_scale-100.png",
+      "SHA256": "4f59a6f813387f2e47fb6910ef7716a06b50cd2ba3a661bcf17181de1312831f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-white_scale-125.png",
+      "SHA256": "ab625c4a5d702d52ba29f7bf95ed6347ce05b91df16ceeecd8a7eaf7d2a73096"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-white_scale-150.png",
+      "SHA256": "1c3822d22cc5bddef6db05709fedd35a386b45dfda032dd5f42872222a8bfe28"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-white_scale-200.png",
+      "SHA256": "5785b0818bc7ef3b865f2aa14a06273c78e37d089dbb320c9de06618d1b542b0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.contrast-white_scale-400.png",
+      "SHA256": "67f4e2824f124ac4987fd3795fa1f89e61a7697060e9a362cb2cf722648ec3dd"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.png",
+      "SHA256": "6b05fb9f09fdb608dcce58226b9b7e246a30873906af8a5feac124c371bda37e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-100.png",
+      "SHA256": "6b05fb9f09fdb608dcce58226b9b7e246a30873906af8a5feac124c371bda37e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-100_altform-lightunplated.png",
+      "SHA256": "f517d990e92c4a34b1ef9a93ebd6af53233aa4ee0ce6d621945667c8498ee4c4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-100_altform-unplated.png",
+      "SHA256": "6b05fb9f09fdb608dcce58226b9b7e246a30873906af8a5feac124c371bda37e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-125.png",
+      "SHA256": "b4aa48581115b7eeb4a4e8462e9f476b279be5b7cec888d0c0148bf071eec802"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-125_altform-lightunplated.png",
+      "SHA256": "64d3bc2acd6e1fb564c40bba12241ede100d6b67ddd5c144637339751073759a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-125_altform-unplated.png",
+      "SHA256": "b4aa48581115b7eeb4a4e8462e9f476b279be5b7cec888d0c0148bf071eec802"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-150.png",
+      "SHA256": "98cf27b7844af345897c1ba2a0e698e13cc69c731fb7394c35c8207b239c48ee"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-150_altform-lightunplated.png",
+      "SHA256": "e838f6093f2d2d5def884ad40b69a739640fe2a270752360eca111e22ac70b1c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-150_altform-unplated.png",
+      "SHA256": "98cf27b7844af345897c1ba2a0e698e13cc69c731fb7394c35c8207b239c48ee"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-200.png",
+      "SHA256": "6743a2b51691b6d7b9b2db123a5f2f98d1119a35b51cb0d9c0759419d1cbd30f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-200_altform-lightunplated.png",
+      "SHA256": "b5ba415ee110758137a2c5932f70163e5c045b59849bb805959e5baddd466c18"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-200_altform-unplated.png",
+      "SHA256": "6743a2b51691b6d7b9b2db123a5f2f98d1119a35b51cb0d9c0759419d1cbd30f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-400.png",
+      "SHA256": "fc2c7e923f88cff44f641227d066af84fce7b3f3bef7a7775363f0961a7c1c28"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-400_altform-lightunplated.png",
+      "SHA256": "19a58811c575c0c0c3c0506dd90f67108dd43850973ab83f97ea9d7f1b48b94d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\logo.scale-400_altform-unplated.png",
+      "SHA256": "fc2c7e923f88cff44f641227d066af84fce7b3f3bef7a7775363f0961a7c1c28"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Personalize.png",
+      "SHA256": "1dcd126a124eb29c2f30408469025b3d0038c124993b88979e7abd052453af3d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\phone.png",
+      "SHA256": "473f9876170fb1136dc80d118279e86b0da08edfdc9fa325a05740d7b3692e03"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\RestrictBackgroundData.png",
+      "SHA256": "251cc17979c94290cd84ae25e1cceb559be38f747f268489362e63fbe0db4c69"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-black.png",
+      "SHA256": "db5ce23cb6137e153d81ce03e632db7e28b5356ac83f46806ff714e3d1f12645"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-black_scale-100.png",
+      "SHA256": "db5ce23cb6137e153d81ce03e632db7e28b5356ac83f46806ff714e3d1f12645"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-black_scale-125.png",
+      "SHA256": "f3feb55a0aba78b795735a5d03e0c32116aa868be77c35bd5ed9428a61a127c3"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-black_scale-150.png",
+      "SHA256": "868b61e64eaa89934a963fd5c80ff770e85c7f968faa044fa1080225966091d7"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-black_scale-200.png",
+      "SHA256": "e61ea3e48af37f786858e7f6e4619362b1288d56caf133b35e0efafd63787ec6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-black_scale-400.png",
+      "SHA256": "18daf5bb71fbfcd20b6ffb5eebc01c3ebce8c288f53d1708242ba6c9b96463e6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-white.png",
+      "SHA256": "ed3f33390b874b58ea6b5f0bb1d5b6daf32416d9f64a6293ba0930e48d4ecd38"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-white_scale-100.png",
+      "SHA256": "ed3f33390b874b58ea6b5f0bb1d5b6daf32416d9f64a6293ba0930e48d4ecd38"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-white_scale-125.png",
+      "SHA256": "852b914d1b0fe992dd0ec5c37ef4d771cee6f4317dd7e68dadfc8754f9728f54"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-white_scale-150.png",
+      "SHA256": "141c6b2dc5e1bb035b2fc1227f2bb3bdbe22f7ad089043297de4911de15e5a19"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-white_scale-200.png",
+      "SHA256": "17611243c99ac17268cde96388014b67ee1a9803081c443e439b68dafccb5af8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.contrast-white_scale-400.png",
+      "SHA256": "d55e66f90ae2e76c59e83c29ac2720016edb9a00846b5ab4cfbf5add6564d956"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.png",
+      "SHA256": "db5ce23cb6137e153d81ce03e632db7e28b5356ac83f46806ff714e3d1f12645"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.scale-100.png",
+      "SHA256": "db5ce23cb6137e153d81ce03e632db7e28b5356ac83f46806ff714e3d1f12645"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.scale-125.png",
+      "SHA256": "f3feb55a0aba78b795735a5d03e0c32116aa868be77c35bd5ed9428a61a127c3"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.scale-150.png",
+      "SHA256": "868b61e64eaa89934a963fd5c80ff770e85c7f968faa044fa1080225966091d7"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.scale-200.png",
+      "SHA256": "e61ea3e48af37f786858e7f6e4619362b1288d56caf133b35e0efafd63787ec6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\splashscreen.scale-400.png",
+      "SHA256": "18daf5bb71fbfcd20b6ffb5eebc01c3ebce8c288f53d1708242ba6c9b96463e6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\Square71x71Logo.png",
+      "SHA256": "95247df84249af6100a5080ca2d2963e6a2f63adf5b9e8194621ea8193a6dd72"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\System.png",
+      "SHA256": "1a8ba343a9c08a6bde427d88bbbc7091ee6f2eadcf599dc8c57711cff4b82087"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-black.png",
+      "SHA256": "415e7f47219450401e108a43039117d82e44030e7f822db010b1b1129ce66681"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-black_scale-100.png",
+      "SHA256": "415e7f47219450401e108a43039117d82e44030e7f822db010b1b1129ce66681"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-black_scale-125.png",
+      "SHA256": "a9c626a988a83a5f9f7769bb4b0bc7ca89bca78e214056cab5a9448a71b0ba11"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-black_scale-150.png",
+      "SHA256": "21b96803884505917ec3e85fb6417586d86f84d1b2698a9fa3f8834ba6075820"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-black_scale-200.png",
+      "SHA256": "5d81303bc415a5f811812d23224dd49e87d70dcd2528512117cb3442e4dbe62d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-black_scale-400.png",
+      "SHA256": "d0bb1d77c77306342430a35ee84818589eef6b425c1d09050c302c359de60f09"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-white.png",
+      "SHA256": "0a4eaf1afffc86cbcdc2b649d4eea6db90c66213680687e98a2525cae43f4c6d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-white_scale-100.png",
+      "SHA256": "0a4eaf1afffc86cbcdc2b649d4eea6db90c66213680687e98a2525cae43f4c6d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-white_scale-125.png",
+      "SHA256": "fc4101860ae13702393227ea3941367b2fca1c8a93c34ca15560b673e0eb11da"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-white_scale-150.png",
+      "SHA256": "f2825ba7a36ca594fcff36c6480d71e860b538db4f70e72948e88c9315cf3d78"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-white_scale-200.png",
+      "SHA256": "accce235be6d377078292981fd9d381cb20ee450092cc8fec59b48b9dc2f843c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.contrast-white_scale-400.png",
+      "SHA256": "14386fa13befb8423dfbc6e7d570cf02ee4bd9bf4fdbd3b0b9ad9ce545ba2946"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.png",
+      "SHA256": "415e7f47219450401e108a43039117d82e44030e7f822db010b1b1129ce66681"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.scale-100.png",
+      "SHA256": "415e7f47219450401e108a43039117d82e44030e7f822db010b1b1129ce66681"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.scale-125.png",
+      "SHA256": "a9c626a988a83a5f9f7769bb4b0bc7ca89bca78e214056cab5a9448a71b0ba11"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.scale-150.png",
+      "SHA256": "21b96803884505917ec3e85fb6417586d86f84d1b2698a9fa3f8834ba6075820"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.scale-200.png",
+      "SHA256": "5d81303bc415a5f811812d23224dd49e87d70dcd2528512117cb3442e4dbe62d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TileSmall.scale-400.png",
+      "SHA256": "d0bb1d77c77306342430a35ee84818589eef6b425c1d09050c302c359de60f09"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TimeLanguage.png",
+      "SHA256": "ca6d8ea828e196f4bb252cd06ad0fdd89861c6fe0d5b3980d490bd21b59e6128"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-black.png",
+      "SHA256": "95247df84249af6100a5080ca2d2963e6a2f63adf5b9e8194621ea8193a6dd72"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-black_scale-100.png",
+      "SHA256": "95247df84249af6100a5080ca2d2963e6a2f63adf5b9e8194621ea8193a6dd72"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-black_scale-125.png",
+      "SHA256": "9961b7b698b72807229c2a40865589b13e49e2e31c451c4ca1b12b258595d907"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-black_scale-150.png",
+      "SHA256": "b9fdd9e16824440776012e266055e8ab02e0935dd1eb5d4e9e5a35e45b1cc554"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-black_scale-200.png",
+      "SHA256": "cfd3934c0ab0661dbce86a69e157cbcf30b1e9b5d6fa82c2d027b3faced11348"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-black_scale-400.png",
+      "SHA256": "0ecaa00980d39ae91bf993f35f175ca92c3e881c13b71e6c8a4c4073ef265166"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-white.png",
+      "SHA256": "c7ea4dcfd3a77423f244662b568406a8121065c09fedc91fc37cd94e44c8e71e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-white_scale-100.png",
+      "SHA256": "c7ea4dcfd3a77423f244662b568406a8121065c09fedc91fc37cd94e44c8e71e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-white_scale-125.png",
+      "SHA256": "baf8689793a896a978b2e2065f50ee6041f66f9ceb6b25820feddc2c4797f3e4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-white_scale-150.png",
+      "SHA256": "2742f4c6d3287d9fcf0d60c8e5052f12bbced297c65e10468cf13fb5855cffdc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-white_scale-200.png",
+      "SHA256": "f2268c6914a7406226bed8d1fb9f13f99af36aab111c460a13af8df9c7689001"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.contrast-white_scale-400.png",
+      "SHA256": "c94bf838efe99dccd4f6439b0fc7bf7225296384e368db98518b94bc9cd99e7c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.png",
+      "SHA256": "95247df84249af6100a5080ca2d2963e6a2f63adf5b9e8194621ea8193a6dd72"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.scale-100.png",
+      "SHA256": "95247df84249af6100a5080ca2d2963e6a2f63adf5b9e8194621ea8193a6dd72"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.scale-125.png",
+      "SHA256": "9961b7b698b72807229c2a40865589b13e49e2e31c451c4ca1b12b258595d907"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.scale-150.png",
+      "SHA256": "b9fdd9e16824440776012e266055e8ab02e0935dd1eb5d4e9e5a35e45b1cc554"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.scale-200.png",
+      "SHA256": "cfd3934c0ab0661dbce86a69e157cbcf30b1e9b5d6fa82c2d027b3faced11348"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\TinyTile.scale-400.png",
+      "SHA256": "0ecaa00980d39ae91bf993f35f175ca92c3e881c13b71e6c8a4c4073ef265166"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\UpdateRestore.png",
+      "SHA256": "045c9b46b105bf005c4e4b9b8a71852eed1a44d0714557759eaa1f4422769b37"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Apps.png",
+      "SHA256": "8ecaa606b92d5b6ba3a153651e9d018838db9cb729701d10b8f95aacdefc2489"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.AppsRtl.png",
+      "SHA256": "6368e34002c4320c051412f8ed012682d1428a1001cdcee49fcdd051a3d4c752"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Contact.png",
+      "SHA256": "3a1c79d3182c777c175d91c160eacab5cef39a6007d952af059be7a11155f12b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.DefaultPinTile.png",
+      "SHA256": "6c2984ed19d17f97a14371cb0838bf466c05432b19e3d465c742c13abf5e180b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Devices.png",
+      "SHA256": "dbb350f397d6a5d98f3482fcd26c2570f837cb6e103d57252b1e697f1a74df2f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.EaseOfAccess.png",
+      "SHA256": "401121549c7e83aff7b491b0dfebc6479bd52b1964487fefac18194f6366d5f0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Extras.png",
+      "SHA256": "26d5a7e27dad0948883d2e6d5d05dcace73ecf0442db8fd5971a50442a6b8f4d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Gaming.png",
+      "SHA256": "fae54dd7108efb80fad8e57417c2025551ad10b640dd926695529b4dfee4cc76"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.GamingRebrand.png",
+      "SHA256": "48da5b625c4da47cddcd71fd2a1c85062403a4ac5c9e4673e9aa7a408a4dc595"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Globe.png",
+      "SHA256": "71a21ee378033f165f64142c7b331b1637746dd61f949edb847aed15ae1b02a6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Holographic.png",
+      "SHA256": "b7eee45fd06a08642324200b929cbe45f866b43ff77d85dce0879e5b0c2cb11d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Lock.png",
+      "SHA256": "f85d04f9d772f15201aa1eceb2276a1b92948c1f992d9831710ca0553267540a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.Personalize.png",
+      "SHA256": "6f784693b5c3ade3124e4e209edd2c49e9c5cc0921ddd63b67a9949ec13bb07a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.phone.png",
+      "SHA256": "3243f4e361f20509955c11121967f626b9a6c24ceba46bdb6afae7ea025bfc78"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.RestrictBackgroundData.png",
+      "SHA256": "c33dd15731a71283888987ec11542676d76a5104ebd2931506a0477ff540dc80"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.System.png",
+      "SHA256": "be2a513c646568d2bc0068d0eb16ef1020f66690e59c1572b498b066d52ab961"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.TimeLanguage.png",
+      "SHA256": "75946bd176233d83832718b76dededc692dfd534ba90de012b0eba7ea22d6c06"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\images\\wide.UpdateRestore.png",
+      "SHA256": "da4e5a5b2975f35de723b8ef75952de2e67ae31b85ff281d2958c6065316304a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\pris\\resources.ru-RU.pri",
+      "SHA256": "662538f82874e9f6585d798a9c75fb64786f04e6b5a1dc24feabc5cda0a1e149"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\resources.pri",
+      "SHA256": "4026a622205dfd09dec4dd9dc633431b10ef3d733434f4a9567d48f2f266fca0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\ru-RU\\SystemSettings.exe.mui",
+      "SHA256": "60213dddd45e6d216682eecd91150ef847305c1e00c89ae9cb197a8faf358411"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\Settings\\AllSystemSettings_{253E530E-387D-4BC2-959D-E6F86122E5F2}.xml",
+      "SHA256": "d864cc9f68be5756f4178bc365dbf2004aff90e87099c6be1f472ba968a54ef6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.dll",
+      "SHA256": "ac0ed6871e27b600e338efe8cc56d28410a83b1e5ec4555670eb1ef3ff0f8d45"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+      "SHA256": "2463bad26958698e5b05ec8192baabf7091bb222608acb9d24e882a004fdeb14"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettings.exe.manifest",
+      "SHA256": "d22f5703a6d3dabe48406ac0c138ef336f04a4ebb4876f61571a0e8210abace1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\SystemSettingsViewModel.Desktop.dll",
+      "SHA256": "a56da88f90b9464dbfe29d792cbacf837363be8b3af3225b759ef4b9c61249c1"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\ImmersiveControlPanel\\Telemetry.Common.dll",
+      "SHA256": "e81f727bcb26dc215f71b8b339ba26b16bbe690dd55f014e623468baf8a3ea5a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\pris\\Windows.UI.SettingsAppThreshold.ru-RU.pri",
+      "SHA256": "f6b6a42aba4f66286c7394dcc139c199e380a467a556f016b5f6ad4dc5859cbe"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\SystemSettings\\Assets\\EdrCalibration.mkv",
+      "SHA256": "a806a68a6605d37aef448101299fc7f06acb6020ff6b21d39d09101bd1a16cdf"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\SystemSettings\\Assets\\Fonts\\AXPMDL2.ttf",
+      "SHA256": "d2825d7708d4bac45fb3225edd8fc820cfbc2e12e69b3bc44055d7434a700c96"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\SystemSettings\\Assets\\Fonts\\BitMDL2.ttf",
+      "SHA256": "b8927f5b2341eeb5a02c1b990a153b32445c8b0aadf5e7dc229a0697a24b6066"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\SystemSettings\\Assets\\Fonts\\MemMDL2.2.2.ttf",
+      "SHA256": "68a8c0b231e3b9e7ab44f8286766d7a7aff0943cb82c36050ecb2b22ae0c2626"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\SystemSettings\\Assets\\Fonts\\SetMDL2.ttf",
+      "SHA256": "19ceb055f2fecc7005340bf561d17477a0900cf403add7c8e879f4c027b47e46"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\SystemSettings\\Assets\\HDRSample.mkv",
+      "SHA256": "9cae576c13e025bc044966ad4dba184e1811a18d767c4ea333c29c34b882df8c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\SystemSettings\\Assets\\SDRSample.mkv",
+      "SHA256": "712b68da5918312001d24e776c792d778b1f3c03c60fb06327ffa8d45eef211d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsAppThreshold\\Windows.UI.SettingsAppThreshold.pri",
+      "SHA256": "64fb91895b76209d4785060249471cba897e00ec89c273227ae1ba620715515a"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsCaptionCompat.before-vfs-identity.dll",
+      "SHA256": "66c451ce46255254b3604fc97ca23340a81d5872190fe65dd60c7ad46d18eba8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsCaptionCompat\\SettingsCaptionCompat.dll",
+      "SHA256": "1db421eab2d8272b4d708ac1d305a54bf9c79716ff5fe0035579b3b4e6ea8ab8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsContentCompat\\SettingsContentCompat.dll",
+      "SHA256": "17f7dc1e87b7fae9d4f4a9cb6832b106968cd94c529a4268d0b0f5817f77c3fc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsControlTextCompat\\SettingsControlTextCompat.dll",
+      "SHA256": "d294664b83358a11e5ff2230a10f5b8447bfd910b1509b591623a671afaecc66"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsCompat\\SettingsFactorySelector.dll",
+      "SHA256": "1f4554cac1163c40441d3f725527f16d1f86c8bd00dfe098056ad758444639e2"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsDiagnostics\\SettingsFactorySelectorDiag.dll",
+      "SHA256": "167cf049df917fb6415016b25ea089a67b0f93efafe80cfe565be07c5f3fc147"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsNoVfsXamlCompat\\SettingsFactorySelectorXaml.dll",
+      "SHA256": "2ab0d5d57a018cb17e4622b5da083d40bf9fa9da281563e7547a8bdeaba60e9b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsPowerCompat\\SettingsPowerCompat.dll",
+      "SHA256": "699f0fdea0ddcb12e9b3c5c9abc0fec0494f327ad72bd8d0d364be0f26ceb56c"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsSystemProfileCompat\\SettingsSystemProfileCompat.dll",
+      "SHA256": "1de372d93b15c87b7c6f4b458d33d1cae0ed6e9b291f29e1e34d3a08371dab22"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\SettingsDynamicTextCompat\\IsolatedOld\\SettingsEnvironment.Desktop.dll",
+      "SHA256": "49fbf0c1d93064813895c88da75efbaee2054394b1c1ee32612f51e712c01a4b"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsHandlers-nt\\Windows.UI.SettingsHandlers-nt.pri",
+      "SHA256": "f03e22b4d7131012a88b43ac39ee2fa01a876bed3db9d84e8d93136736ac1f51"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.SettingsHandlers-nt\\pris\\Windows.UI.SettingsHandlers-nt.ru-RU.pri",
+      "SHA256": "786267b3b2f4e2e7a7fcfc9684871f38764dfb674f514e8e839c324b972b79ad"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\System32\\SettingsHandlers_OneCore_PowerAndSleep.dll",
+      "SHA256": "9ac1f9c879fe5204c8b96f14cbed19ffb004f25bcf88d982979e42f27cf394e6"
+    }
+  ]
+}

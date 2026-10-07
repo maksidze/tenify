@@ -1,0 +1,8 @@
+{
+  "Scope": "Own GUI-subsystem child; real COM/providers and three old VM patches; no real Settings activation",
+  "Pid": 5612,
+  "TimedOut": false,
+  "ExitCode": 0,
+  "Log": "CoInitialize=00000000\nInitialize=00000000\nRestore_SettingsPowerCompat.dll=00000000\nRestore_SettingsControlTextCompat.dll=00000000\nRestore_SettingsCaptionCompat.dll=00000000\nCOMPLETE own process initialization and reverse restore\n",
+  "DLL_SHA256": "17f7dc1e87b7fae9d4f4a9cb6832b106968cd94c529a4268d0b0f5817f77c3fc"
+}

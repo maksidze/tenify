@@ -1,0 +1,5 @@
+$ErrorActionPreference='Stop'
+Import-Module ($PSHOME+'\Modules\Appx\Appx.psd1')
+Invoke-CommandInDesktopPackage -PackageFamilyName 'windows.immersivecontrolpanel_cw5n1h2txyewy' -AppId 'microsoft.windows.immersivecontrolpanel' -Command '@WORKSPACE@\outputs\Windows10-Components\Lab\NetworkTrayVisibilityCompat\Visibility.exe' -Args '"--set" "1960" "134357001629709353" "8708" "134357015388873098" "@WORKSPACE@\outputs\Windows10-Components\Lab\NetworkTrayUntilStopCompat\NetworkTrayUntilStop.exe" "{90b3fc7b-e908-536c-9af5-69d52949394c}" "@WORKSPACE@\outputs\Windows10-Components\Lab\NetworkTrayVisibilityCompat\packaged-promote.log" "2"' -PreventBreakaway
+$deadline=[datetime]::UtcNow.AddSeconds(12);while([datetime]::UtcNow -lt $deadline){if(Test-Path '@WORKSPACE@\outputs\Windows10-Components\Lab\NetworkTrayVisibilityCompat\packaged-promote.log'){if((Get-Content '@WORKSPACE@\outputs\Windows10-Components\Lab\NetworkTrayVisibilityCompat\packaged-promote.log' -Raw) -match 'Result='){Get-Content '@WORKSPACE@\outputs\Windows10-Components\Lab\NetworkTrayVisibilityCompat\packaged-promote.log';exit 0}};Start-Sleep -Milliseconds 100}
+throw 'Own result timeout'

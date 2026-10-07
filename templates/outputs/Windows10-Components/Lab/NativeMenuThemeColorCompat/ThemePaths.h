@@ -1,0 +1,1 @@
+#define oldAeroPath L"@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles"

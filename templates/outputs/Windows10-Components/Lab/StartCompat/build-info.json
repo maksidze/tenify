@@ -1,0 +1,103 @@
+{
+  "status": "Built and export-validated; proxy activation and packaged host startup require own-child runtime tests",
+  "compiler": "@WORKSPACE_ESC@\\work\\compat-research\\toolchain\\zig-x86_64-windows-0.15.2\\zig.exe",
+  "commands": [
+    [
+      "@WORKSPACE_ESC@\\work\\compat-research\\toolchain\\zig-x86_64-windows-0.15.2\\zig.exe",
+      "cc",
+      "-target",
+      "x86_64-windows-gnu",
+      "-municode",
+      "-O1",
+      "-g",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatProbe.c",
+      "-o",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatProbe.exe"
+    ],
+    [
+      "@WORKSPACE_ESC@\\work\\compat-research\\toolchain\\zig-x86_64-windows-0.15.2\\zig.exe",
+      "cc",
+      "-target",
+      "x86_64-windows-gnu",
+      "-municode",
+      "-O1",
+      "-g",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatHostProbe.c",
+      "-o",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatHostProbe.exe",
+      "-luser32",
+      "-ladvapi32"
+    ],
+    [
+      "@WORKSPACE_ESC@\\work\\compat-research\\toolchain\\zig-x86_64-windows-0.15.2\\zig.exe",
+      "cc",
+      "-target",
+      "x86_64-windows-gnu",
+      "-municode",
+      "-O1",
+      "-g",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\PackageDebugController.c",
+      "-o",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\PackageDebugController.exe",
+      "-lole32",
+      "-luuid"
+    ],
+    [
+      "@WORKSPACE_ESC@\\work\\compat-research\\toolchain\\zig-x86_64-windows-0.15.2\\zig.exe",
+      "cc",
+      "-target",
+      "x86_64-windows-gnu",
+      "-shared",
+      "-O1",
+      "-g",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatProxy.c",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatProxy.def",
+      "-o",
+      "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\wincorlib.dll"
+    ]
+  ],
+  "originalWincorlibExports": 257,
+  "proxyExports": 261,
+  "inputs": [
+    {
+      "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartUI.dll",
+      "sha256": "059ad8a1b3d1b60c1ea14bd738856c2daec64c6af77e59115ca2439d82255736",
+      "size": 8492544
+    },
+    {
+      "path": "C:\\Windows\\System32\\wincorlib.dll",
+      "sha256": "85a8c1ee47b82461454b3b2ffc3948aafb02931b2b0076a9e53f60dff381a486",
+      "size": 380928
+    },
+    {
+      "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\SystemResources\\Windows.UI.ShellCommon\\Windows.UI.ShellCommon.pri",
+      "sha256": "534eea454c56aa38ebed18ed7b5d1c249dd5d9bca1c80f18cdb51638e80f4e4b",
+      "size": 2260600
+    }
+  ],
+  "outputs": [
+    {
+      "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartUI_.dll",
+      "sha256": "059ad8a1b3d1b60c1ea14bd738856c2daec64c6af77e59115ca2439d82255736",
+      "size": 8492544
+    },
+    {
+      "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\WinCorHost.dll",
+      "sha256": "85a8c1ee47b82461454b3b2ffc3948aafb02931b2b0076a9e53f60dff381a486",
+      "size": 380928
+    },
+    {
+      "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\wincorlib.dll",
+      "sha256": "9075691338b2a3fa8dfdfec4d5e999fc863c54df55fb04da08855afe715ef89c",
+      "size": 216576
+    },
+    {
+      "path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\StartCompat\\StartCompatProbe.exe",
+      "sha256": "c93761f5d3c1718c342604ee3a8f9c0b7e1de0b650c6dc0417c41203184e59f0",
+      "size": 179200
+    }
+  ],
+  "enableEnvironment": "W10_STARTCOMPAT_ENABLE=1",
+  "diskPatchedMicrosoftExecutables": false,
+  "systemFilesModified": false
+}

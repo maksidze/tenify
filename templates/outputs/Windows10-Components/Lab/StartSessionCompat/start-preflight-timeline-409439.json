@@ -1,0 +1,68 @@
+{
+  "ReadOnly": true,
+  "SourceAndManifestUnchanged": true,
+  "Session": "409439c46ddb474b91d89297faace9c5",
+  "TimelineLocalMSK": [
+    {
+      "Time": "2026-10-05 21:57:40",
+      "Event": "First owned Start14216 Ready; genuine old StartUI loaded"
+    },
+    {
+      "Time": "2026-10-05 21:58:25",
+      "Event": "Start14216 exit0xDECA (owned stop code)"
+    },
+    {
+      "Time": "2026-10-05 21:58:26",
+      "Event": "One recovery activation, Start13104 Ready; no further periodic restart"
+    },
+    {
+      "Time": "2026-10-05 22:30:38.222",
+      "Event": "Isolated icon fullExplorer preflight wrapper prepared"
+    },
+    {
+      "Time": "2026-10-05 22:30:39.037",
+      "Event": "Hidden Explorer6280 debug log begins"
+    },
+    {
+      "Time": "2026-10-05 22:30:39.236",
+      "Event": "Last controllerstatus reports owned13104 Ready"
+    },
+    {
+      "Time": "2026-10-05 22:30:39",
+      "Event": "Start13104 logs exit1, controllerreports unclaimed native, cancels session"
+    },
+    {
+      "Time": "2026-10-05 22:30:41.450",
+      "Event": "Native13612 birth AFTER initialfailure; not proof of offendingPID"
+    },
+    {
+      "Time": "2026-10-05 22:30:41.754",
+      "Event": "Owned debugregistration disabled; both records absent, cleanupComplete"
+    },
+    {
+      "Time": "2026-10-05 22:30:47.213",
+      "Event": "Hidden iconExplorer preflight passes"
+    }
+  ],
+  "Proven": [
+    "Healthy instance not restarted periodically",
+    "Controller abort209 occurs on noownedinstances plus any exactnativepath/package process, withoutpendingclaim grace",
+    "target_processes enumerates all desktops",
+    "Start13104 exit1 differs from owned TerminateProcess codeDECA",
+    "Native13612 birth is too late to establish initial offendingPID",
+    "Hidden desktop and USVFS blacklist do not prevent global broker activation/COM singleton side effects"
+  ],
+  "Inference": "Timing strongly associates full hiddenExplorer preflight with Start exit/fallback, but offendingPID/parent/desktop and activation ETW are missing; cannot prove exact causal route. Fresh callback/record race is a separate plausible immediate-abort explanation.",
+  "NextBuildPolicy": "Run every full Explorer preflight BEFORE enabling live Startsession. Preserve ambiguous native processes. No Controller semantic changes in this build.",
+  "FutureDiagnosticSeam": "Log offending exactPID/birth/path/package, desktop and registration snapshot BEFORE settingcancel; re-read exactrecord alongside targetscan. Consider bounded freshpendingclaim grace only after independent fixture tests.",
+  "Evidence": [
+    "outputs\\Windows10-Components\\Lab\\StartSessionCompat\\sessions\\409439c46ddb474b91d89297faace9c5\\status.json",
+    "outputs\\Windows10-Components\\Lab\\StartSessionCompat\\sessions\\409439c46ddb474b91d89297faace9c5\\controller.err",
+    "outputs\\Windows10-Components\\Lab\\StartSessionCompat\\sessions\\409439c46ddb474b91d89297faace9c5\\a_13104_01dd54fb8086166a.log",
+    "outputs\\Windows10-Components\\Lab\\StartSessionCompat\\sessions\\409439c46ddb474b91d89297faace9c5\\restored.json",
+    "outputs\\Windows10-Components\\Lab\\StartSessionCompat\\sessions\\409439c46ddb474b91d89297faace9c5\\native-restore.json",
+    "outputs\\Windows10-Components\\Lab\\IconResourceCompat\\state\\preflight-icons-025c243f41ed4007990e6ca96ba193f9\\wrapper-provenance.json",
+    "outputs\\Windows10-Components\\Lab\\IconResourceCompat\\state\\preflight-icons-025c243f41ed4007990e6ca96ba193f9\\debug.jsonl",
+    "outputs\\Windows10-Components\\Lab\\IconResourceCompat\\state\\preflight-icons-025c243f41ed4007990e6ca96ba193f9\\status.json"
+  ]
+}

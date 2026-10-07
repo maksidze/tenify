@@ -1,0 +1,15 @@
+{
+  "Passed": true,
+  "Files": [
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\AtomicStatus.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\ChildJob.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Finalize.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\FixtureChild.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\LeaseWriter.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Recovery.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\RecoveryRaceChild.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\StatusWriterOwn.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DirectLaunchLifecycle\\Syntax.py",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NoVfsShellCompat\\Launch-Explorer10-NoVFS.py"
+  ]
+}

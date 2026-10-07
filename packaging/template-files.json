@@ -1,0 +1,4832 @@
+[
+  {
+    "Path": "Stop-Windows10-NoVFS.bat",
+    "OriginalSHA256": "6ec81da26df0caa7326e977f4e7f030c24ed559fa9972a67d7888c782cfa3beb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "Stop-Windows10.bat",
+    "OriginalSHA256": "270d44fb9a1aa1f5ae4e9b094bfaa0d8719ed7f1089118fd9924fe471b28d40b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "Start-Windows10-NoVFS.bat",
+    "OriginalSHA256": "c23d62392f48fa4302ccd07f208366c8394ad6c1eff1c71912e2197de6d5fac7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "Start-Windows10.bat",
+    "OriginalSHA256": "690b1b90812bcaf47debfeb76e962d6bb06fe7ea372c92d7c29c9c11aa2df735",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "Check-Windows10-NoVFS.bat",
+    "OriginalSHA256": "dc5f05fc10d2dc777624c853558de217f61e2ca1204311b35bfc977c398f0904",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "Check-Windows10.bat",
+    "OriginalSHA256": "a201b59c0ee45546f84daacfc117718f9f7eb8376e9e2e66d0080533168f8fed",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/action_record_compare.py",
+    "OriginalSHA256": "5a77dcc477df7a1dbdb016439f51ab8914996000a823bcea1c99ba575b99214b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/add_pfn_signed_context.py",
+    "OriginalSHA256": "9872b4b139c7e0fed5232d757008084cdb9e4e5383c181684e6c0493286a3d21",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/adjust_milestone_docs.py",
+    "OriginalSHA256": "d0fb7204621bb3acffaf1cc5d4fdcedfd9f84911886df851f9dfd822ab461ccc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/analyze_shell_pe.py",
+    "OriginalSHA256": "36a0d50815df8b836a1b940f198e2a296b3517b1534551022b2131f055a34441",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/analyze_windows10_components.py",
+    "OriginalSHA256": "1bbcdfa5dfe25a507853e889e6703e9e177ebb6d490def238f19808b79d83190",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/audit_default_component_registration.py",
+    "OriginalSHA256": "31199ccd41b84fd2682ad6b5483cda27b022c8a42e3b3bdf0c9ad5f50baef8ee",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/audit_host_appview_map.py",
+    "OriginalSHA256": "e9b98ef9ca208c41a9d6b07fe6ddcfb3f144a2db9bc72ec188a108d2bf7c0b53",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/audit_live_old_user32_ordinals.py",
+    "OriginalSHA256": "ba27fe8d87bfbf07dc55e8ae33c0d2fda190a1bf94a1380621c4c5c0238da664",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/audit_search_hkcu_refs.py",
+    "OriginalSHA256": "5a16f90268255627e2b77f0363a60f9d3ddc3def15c982d6830fe91e6b3ca9d6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/audit_settings_environment_calls.py",
+    "OriginalSHA256": "f624ce4f06f468c986e42ecdd58045cbb160d2d16ffc4a2f367eefb2a9c28dc5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_appframe_adapter.py",
+    "OriginalSHA256": "8734c0cdb1bc4c34e25c869fcd6d9d9331acbcc7ace7e9cf06519f2387b7f2a2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_appview_ndr_parser.py",
+    "OriginalSHA256": "38aab029b0d317cbffdab5ddee01ebb0a677774af4c5483ec5f678771fd44aba",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_broker_gui_helpers.py",
+    "OriginalSHA256": "353fede11a2880c28fc78e4a5af19c980ed8f83faffe89ef73bd1116d34f6ca1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_childsafe_icons.py",
+    "OriginalSHA256": "c79574efb86ff577ec897127f084418b6c1cb4e6408cea53f32b1b6fcafc031d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_component_trace.py",
+    "OriginalSHA256": "14be42482be4a386f2a1379d05c196af6ecffa9ac93a1f0f45601e8187416a06",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_core_aliases.py",
+    "OriginalSHA256": "29965e51476feb54b9e2780c364f39fa9e053e4a7dc5699a69ce17f030c9a09a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_csr_size_compat.py",
+    "OriginalSHA256": "574abf0f474cea703d15d9ee5c94c8cd4b36f50ecba55fdc331c0c43c7e328b4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_displaymonitor_probe.py",
+    "OriginalSHA256": "61fdf6d1c6590e1fbdeacc773a08cf6d5017cdee0ad8b45279f8f2169406ee07",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_feeds_nullguard.py",
+    "OriginalSHA256": "0285df12112552a82620faa6e1f3a598b65e5f7550ff9c10f47a96d5fa49eea9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_flyout_broker.py",
+    "OriginalSHA256": "335c50f72076286001cd633f85e94c6d289528f79dee08ce92d25aef0371485a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_flyout_probe.py",
+    "OriginalSHA256": "a784ada78f2978a339abf3ec11b45ef9f46012346a9cfa1aed08743eb949c213",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_host_multitasking_compat.py",
+    "OriginalSHA256": "0a8d2fd58ec5ddad612deb9ca288902e68a2413a3c55edcc428957cf84624bb2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_hwndparam5e_compat.py",
+    "OriginalSHA256": "eb9a3e875197e643101196748bf5ec30d302a921443bc3c75c572f31f988ea3b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_inputswitch_compat.py",
+    "OriginalSHA256": "2b4f376aa3232a82e79b3ed6372d82d3b13906cf39e9eb2a2c83fbd10ce9bea1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_kernel_callback_reuse.py",
+    "OriginalSHA256": "66dfe422776b8010488d0f700c8c4956610913a0315998c939368e04bd1fb8f5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_monitor_publisher.py",
+    "OriginalSHA256": "40ac211d182c3087fcac3cad785ea0aec6a9bf732bfaad292e12450290b7ae06",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_mtv_trace.py",
+    "OriginalSHA256": "957f49fb43a1bf39d6eeead5ba5581e3f2ff9071ac765a0c2d5755810bbb0adc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_notification_converter.py",
+    "OriginalSHA256": "80e11c10221f5935a814d1c7e230f136bff7573cb8ff16ad9247bcfc283dcd7e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_paired_icon_containers.py",
+    "OriginalSHA256": "e548b1f1e2d26dc4e9f97fd292f9e028e511329513edef77e40834bd8e2526a4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_pfn_compat.py",
+    "OriginalSHA256": "57de663ee68ebc718c6e0e700a8eb870c6c2aafd312894aa2ae6afc4ce8dcf97",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_pfn_compat_all.py",
+    "OriginalSHA256": "b9890b1ecd2c8c82f9f61d9a89415ad29e45bdcd39292b96a0875ddd0a60efdb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_pfn_probe.py",
+    "OriginalSHA256": "cb44f0c02120b0ca18245e6a6fb77d7c5eb3595595cd71ac302417d327392080",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_pfn_signed_probe.py",
+    "OriginalSHA256": "21091d045afec70dede77183537419f01555d4e531c0d5d247d9b45ae10a74cf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_pss_stacks.py",
+    "OriginalSHA256": "c57abd561f974cb5c9ac2c2c57271bf6114da6ac8ecbb5223d57b69e2cda5310",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_resource_compat.py",
+    "OriginalSHA256": "d3f3d84f74d9adbb6b4fa49cefbbb612ce5267cddf0ba72eeb882703a8078913",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_search_container.py",
+    "OriginalSHA256": "d710eb264cc9bb7c92e4291a52ee03022fc8288db89bbda7594c0eee4ab613e9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_search_exe_factory_probe.py",
+    "OriginalSHA256": "830eb7632e319a2a0b164165bb1113c851627a15c113264dc17e0e9d2f46f130",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_search_factory_probe.py",
+    "OriginalSHA256": "ad9f7323c95cddcd96086b646957bdb8d64263589aa96cf52470e523d317a72f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_search_runtime_controller.py",
+    "OriginalSHA256": "a6df853b5efb750f918f21673124bfd95d1d7bf2dd1c2afb1917326a980a030b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_selector13_compat.py",
+    "OriginalSHA256": "ac7069440b36646177fae5ebddd5e673bb160bef79712bf5e91ce8ebc023057e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_selector22_compat.py",
+    "OriginalSHA256": "dd956528d222ea646bf716f476f785912b21df156569a97aec93be94d56d22ff",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_bat.py",
+    "OriginalSHA256": "ccd1d64f572fdfa9922e7b941f829d1a4db21e967ef2bbba40318abd8eea9bd2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_broker.py",
+    "OriginalSHA256": "59e2d0adf606eb9e590b478a348b8cb4864df11b7c3c6f81c7ecec6ee058845f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_datamodel_user_probe.py",
+    "OriginalSHA256": "cd057c8e1f04806670410f65be24110f67ab5827340c4a83badaf98159fe9432",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_dynamic_text_compat.py",
+    "OriginalSHA256": "b75a4ed6903b551f1da685ebf133b12a9713f85b2acacfa99b29d226b97c2d51",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_dynamic_text_compat_own_test.py",
+    "OriginalSHA256": "279d89b0aad6dad94cbda5b349439fea4b2001d374cc8fba5d713562d22e6107",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_dynamic_text_diag.py",
+    "OriginalSHA256": "860d3e35f79246b67366f2410a22d5e3c587d056015aa7a47c1d2842a2a6e106",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_dynamic_text_own_test.py",
+    "OriginalSHA256": "c7e42f91130414c95e209accf396e0acb23f3f3ab08b6967fe4b4e8c7c1a1371",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_environment_compat.py",
+    "OriginalSHA256": "ccffa423acf02980ccb4dd77bd4f76a2f5c1a7a58cae8fc6c6f70740df9e5eb8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_settings_identity_probe.py",
+    "OriginalSHA256": "db5488c5c56d798b616556d556e7ca1db52ed3d7f8e5c5bdbc8c8a4e74eec924",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_shell_catalog.py",
+    "OriginalSHA256": "793247d7e114fb02c007bc35cf814613d9cf73c38738387981d5a3f668f4df3e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_start_compat.py",
+    "OriginalSHA256": "e43a9739e3033f0685e6d4bdb06a222e454f14511152978a058f0af36f590328",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_syscall_remap.py",
+    "OriginalSHA256": "9e984a809e634a860bd4f7e1289a9ab7ee3799914008facc573f169c4caec14d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_theme10.py",
+    "OriginalSHA256": "0c677d9d998439729eaa4b797c56110fba4b1088b4455943536fd361c45d4071",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_universal_titlebar_slot.py",
+    "OriginalSHA256": "0a007c6e6fbf505d897f2cf448f7a1e0b13d91328863ea0e94bea14bd71fd791",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_watchers_slots.py",
+    "OriginalSHA256": "a6bdc52ff977d7c2eb65b05fddbdad312cbf62d1422f167693a0d17e01f558ee",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_windowgroup_compat.py",
+    "OriginalSHA256": "6e5225083788bf0f1e2771cf8251b1e6a77923f03fff6ce88aaf7a5f51136546",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_windowstatics_slot.py",
+    "OriginalSHA256": "4f905cdc61443aa773824be4f73e7bb09bb6330f4e3b8bde08892a827b6e360e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_windowwatcher_slots.py",
+    "OriginalSHA256": "4fbe7f58767466d9e7906c01add6cf15f9fc0b88c16bc4666d6d70b5d0a507c7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_xaml_component_route.py",
+    "OriginalSHA256": "96aaeafcb67c0a090129d115ae893073ba7955c97d2d9a90a4845e52747facb7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_xaml_quirk_adapter.py",
+    "OriginalSHA256": "11a4e2a56a4bac294cf75ccce1be4c1ad28d57ab5da7f4e685a5547f3c8ec7c3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/build_xaml_quirk_probe.py",
+    "OriginalSHA256": "6e41d7560010d261c5bdc5bcfe1e6795dee17eddccecebf1b96b9d4710626cdd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/capture_owned_10488_pss.py",
+    "OriginalSHA256": "3986566cf4262e24a85b0421fd4462f81f5748465a7d43f6dceb3de53748aaed",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/capture_settings_16b40c_pss.py",
+    "OriginalSHA256": "d80f000c5d23429e19923083f070422658e30bf13fe6b941799c786558899138",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/check_av_original.py",
+    "OriginalSHA256": "2d9c9d356b402fdbce8548d1f94c3b4c9b8d6c7156546b14bb4806b06a88e6fa",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/check_explorer_component_imports.py",
+    "OriginalSHA256": "132da9b5934896e40d399a685b62a8c1ad7afd32fcee683b49e1b4f150ce5422",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/check_hwndparam_symbols.py",
+    "OriginalSHA256": "a2ceeaca3f3cb5a47ca94aba8ae8c62f1e44b41b1e2c1376038e5b1da148ca08",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/check_signed_next.py",
+    "OriginalSHA256": "07d716bec3e46be1064874e6866990d3b1771353b2f4e36fe6db11d7cad17d17",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/check_usvfs_imports.py",
+    "OriginalSHA256": "d6620c858b3ab11aff7a1338e0516bd8ec214d5da703a96fda29f0755a248ba8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Close-StalledTestTerminal.py",
+    "OriginalSHA256": "07645709d30d8f4a234037830d963eaf4bd0929ceab3f5ebb4400358b1e50056",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/compare_appview_ndr.py",
+    "OriginalSHA256": "0597790e0ac3fa668b20f884f9c13a6e7b41ce0acf0b40a866a76aa8d6223175",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/compare_settings_private_environment.py",
+    "OriginalSHA256": "3c58ecc8adcb1267507d7eb90090f519a825b8aee885ea570446a7f7b70d1f4d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/compare_viewevent_ndr.py",
+    "OriginalSHA256": "9efddbd347d74d0bf9b35296415b79a26242ba1c0d3306dc5557def36dd3f064",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/compare_win32u_syscalls.py",
+    "OriginalSHA256": "0f48f2091f371e819cdc60add050a7a81b50aa9fc6bf5e96b5c02c9b6912a300",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/compare_windowmanagement_interfaces.py",
+    "OriginalSHA256": "920eeb2d2a800ef767e8a2c2431d542c867b6e356f0777d86798bdad474cfecf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/debug_old_explorer.py",
+    "OriginalSHA256": "a5928f5250d8c78a3b834fe28f6cbaba31c28da2317f3498087a6d1138fbcc3f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/debug_settings10.py",
+    "OriginalSHA256": "ac9daaedcc9af3f908ac700828b0c116550cb0d67b56ba19f28944c83789c170",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/debug_unsigned_explorer.py",
+    "OriginalSHA256": "a293334af93d5f1fde7d5362341be53708d109730705eb50a9f385a5ecaffc48",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/decode_all_windowmanagement.py",
+    "OriginalSHA256": "6d78d6c9c5b57b82b4eda9cf57173a0d0e13657ab8b3b547b9aade9b66717d77",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/decode_appframe_interfaces.py",
+    "OriginalSHA256": "7d804c9991774ecc7ddf8dc59edf3363329e66e83b041b756d470cec224127ec",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/decode_appviewwatcher_ndr.py",
+    "OriginalSHA256": "7c92abce93b9815919251a5abaa4f2001a8d4eab625a737a494c66c264502054",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/decode_settings_xbf.py",
+    "OriginalSHA256": "581618d251c4da8f8e46737460729140230290f9ca610467db4f1d46d819f623",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/decode_windowwatcher_ndr.py",
+    "OriginalSHA256": "ed0561d9235a02d683bcedf33f8593e1d37172f421efcf5bcd1d9270cb28c53d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/disable_initial_pfn_suspend.py",
+    "OriginalSHA256": "6bb1bdd6f97dca39ff15ef7b70b63ede5f27c0ba4abbba84b9c412c4385b3ff3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Disassemble-HostPCS.py",
+    "OriginalSHA256": "f7e7e5b3be735ceba0629d980af582b6e212fce6beeb46aafca9aa07c11aaecf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Disassemble-OldProvider.py",
+    "OriginalSHA256": "37044978fbb50617b5dab421541771b7145543dddbc9c8e7983b76179ec9b4ad",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/document_untilstop.py",
+    "OriginalSHA256": "354f696d2e09d8657b99693d514ee642f2f1ce095c4ad31b54b4ed896a9ebb4f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/edit_settings_datamodel_query.py",
+    "OriginalSHA256": "f91f96309d76009f3092191df42673ae48d6bd0e1257e761051ef5b8762ff4bf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/edit_settings_id_capture.py",
+    "OriginalSHA256": "355fb423ff723013a26672054b4dd936b1dfda73eaf9a9d61b94e7496a839c2c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/edit_settings_stack.py",
+    "OriginalSHA256": "f97ae27f3b2fe91356cf2bb1b36800b4a9c084b9dbc6c2f053393adf06d468ed",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/embed_probe_manifest.py",
+    "OriginalSHA256": "73539d8136087dae26efdc6a0c339591a48440850bf9f859ef6adbe42acf00a7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/enhance_pfn_signed_errors.py",
+    "OriginalSHA256": "e52bb354085a30a0364c2f7a402d323037fa7e960edb6263e8e0da9b8f9ec347",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/fetch_language_resources.py",
+    "OriginalSHA256": "7bafac5e2f040c285465ab18b5a3ea61a9133446f6847d9508ed7c1324e0ee52",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Finalize-B001.py",
+    "OriginalSHA256": "c6980dfce70d8158377d2be4609fc79c8d93fccc343e573bb11ce1fe0533dd49",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/finalize_catalog.py",
+    "OriginalSHA256": "e3251cfd02295f36ed4688a2c8581afd2f3fd4dc2e60bb30cbfbfca78ec67703",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/finalize_component_bundle.py",
+    "OriginalSHA256": "ce1872870a79907a0d19adee5bb55569d69e2acecac88f875d775659d828825c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/finalize_content_checkpoint.py",
+    "OriginalSHA256": "06146d65b2af80ed5fb65278e876d799722ce8ec1cad2acdcce3acff6c3676c3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/finalize_shellux4.py",
+    "OriginalSHA256": "b11ce4677d1648e4b3a299fe8a8268f9ba6032942324405ca7f613dc4347acd7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/finalize_untilstop_release.py",
+    "OriginalSHA256": "ab6e11d308f24d51373e54eaa320e1d7409e23385fb9556c524f39bc0f01be13",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Find-DisplayMonitorProducer.py",
+    "OriginalSHA256": "55dffe96ffe4eaa3b43a97873dedeae8f3bc23eb44593b3feb4a1c2f99797d16",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/find_explorer_ui_guid_refs.py",
+    "OriginalSHA256": "dea3e117468f2328b271b15f4b62457849edc3d84e4b9852f839c232e671f7c8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/find_menu_gate_callers.py",
+    "OriginalSHA256": "569194a91fbc8d081665be6f0a412803fffdcfd59fb6b58d809092e2e67a8538",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/find_settings_database_methods.py",
+    "OriginalSHA256": "3bf78cbae108e5e649289723c534f8601cc14a6c2b68b7df4e07da76039f1b5c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/find_settings_enum_symbols.py",
+    "OriginalSHA256": "16b407e2cff42368ec08ec1cedd06cb79a837b72dbd7db2b782e06dba300b9ea",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/find_settings_item_iids.py",
+    "OriginalSHA256": "acfb3ef6bd12b3e1f5e119d7752e9ddd70ff0a00aa3e149aa4507c4ba28f90b4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/find_setting_item_methods.py",
+    "OriginalSHA256": "83ac20b28b3d93f441bf44e4dd70b0936cf92cebbfd0bc4cfaedfce4cd597568",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/find_watcher_callsites.py",
+    "OriginalSHA256": "e8ab20c1dbc1212a88c9298123f3b02842b29e20baee222e3b8268b93d36a4bc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/fix_pfn_dependency_search.py",
+    "OriginalSHA256": "5f0b2d5369baa1c2a7f1fb228a255b7e00bbe9ecbeb46033c68f837bacbd62cc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/format_pss_stacks.py",
+    "OriginalSHA256": "c7a651b70b4b304119796fa6e76ff4fa8842a550a785122e227bb0b9526e932a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/format_settings_16b40c_pss.py",
+    "OriginalSHA256": "3c2579846a9026b51aff7974adebfd2a56a32b8c2ae35e97d9b69b9722812c5e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/identify_latest_pfn_trap.py",
+    "OriginalSHA256": "b51c5d6e00c5971eaafb93c9570fdb14ed5de577b9844f86997b557b1025541c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/identify_pfn_trap.py",
+    "OriginalSHA256": "e438e13e7373c0cbb8c5e5791969e0dc20d97d013f23ab87a97fc3a02d5af385",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inputswitch_callback_review.py",
+    "OriginalSHA256": "0ff8b653c8fc0763911e606d20badfb027829aa70ef59df7b991d31a59c8afe5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Inspect-SearchComponents.py",
+    "OriginalSHA256": "ea345843a5c5b8273dd4a1c502dff1290eceebf384bef9a2f9a4591a582b7ced",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Inspect-SettingsEntry.py",
+    "OriginalSHA256": "cdca30c61b1cdf1cf902b2138560ccb558cda84a037be11a5a479f9e5a8f81ad",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_appframe_manager.py",
+    "OriginalSHA256": "fd46965f548e3d1a23de06d5ea3d60162d99c46f9518e0100417b4b25356615b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_csr_pfn.py",
+    "OriginalSHA256": "7ce909b84fa42386d1faaebc182988f50370c8ce36dfce7ef98089f0b3f46cc5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_csr_refs.py",
+    "OriginalSHA256": "90707129a461f458daf5fef44f9007e8a4486a21a0bb5b5c83523974c025a906",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_explorer_ui_routes.py",
+    "OriginalSHA256": "68a4a152cc92c5cef80c91e3081535bf7b58003a82a94be3053881f9b4fe571a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_host_icocur.py",
+    "OriginalSHA256": "1f89a60db61374e1dc83b6b11311922ccc82a33f49afd089671a7624d299f8a6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_hwndparam_guard.py",
+    "OriginalSHA256": "e0ae7630e6f43c85ec4df5009867b9c8d1b119e28265e01e47b9d570812ec22a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_immersive_component_table.py",
+    "OriginalSHA256": "6aa60141cfc86ca79d80985eacbd0ba31e704928a74b82e0e54c71c269ba1924",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_latest_pfn_av.py",
+    "OriginalSHA256": "40a0a9bd85e9648d08360ca02d01286618942b9d4b6a38b0958f9b14437e1972",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_legacy_selectors.py",
+    "OriginalSHA256": "dc3ceeb45027c0c0d48311c073d00cac8f4c6c13c549a2bcb2969137ccbc45ed",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_mapped_resource_files.py",
+    "OriginalSHA256": "443c7b98584244b2251aa91ca6183ce7ad0f23e1522365768d1a845570edb4cf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_old_icon_resources.py",
+    "OriginalSHA256": "b2ec6b70369dea42bed5f4e7f7375078d8108adb77c32043615ef98eaf0ef353",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_pfn_av.py",
+    "OriginalSHA256": "f6fdad32ab360dc4c02ea89f62de935fa9785774253e40dc7512dfdb848e7e28",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_pfn_iat.py",
+    "OriginalSHA256": "833af39e3e1c1b495744a641ab53a0a799e1ce94517f90f526adf40b0cbed114",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_quirk_exports.py",
+    "OriginalSHA256": "3dd48623fdd2eebb58c017e3c7fe602eb862acc5d5b17212b7523144445bd599",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_search_container_startup.py",
+    "OriginalSHA256": "aa600a625d6faccd75f424ae38415347d5d199bee10876625c825a0ddb7b4c2b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_search_dependencies.py",
+    "OriginalSHA256": "639dd817cf0c90cafbcc40cfb2ccab9915a68ce6f3ab0fee872af5361bb7662c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_search_factory_imports.py",
+    "OriginalSHA256": "9424fe872032c216ef36b60680bd47d8cd0c53286e13f2546f9e325fbf187974",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_search_first_contract.py",
+    "OriginalSHA256": "2c180fcee5400d8b8ed125c896f59b3d235e1bd87ef11e55f5a4d50195735c10",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_search_next_contract.py",
+    "OriginalSHA256": "bcc47272c465113dd308d8209be33ede85b53dff6a803f0cf83d081843db42b6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_search_startup.py",
+    "OriginalSHA256": "b61e3ea582fd27e2bf675bbbfe1914f50a6ed1bde1ecc0be6ad90302f5219a71",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_settings_dependencies.py",
+    "OriginalSHA256": "7477f8f24c1f561e32d3bb6a5465920a70d990e5d639b9303d0e00e0f9012c12",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_settings_enum_strings.py",
+    "OriginalSHA256": "cd7f44e5ad3349bca3606e20a08f8575ddd7d6b59dbfb2c699ee5fd063d83b90",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_settings_group_literals.py",
+    "OriginalSHA256": "5a5d154ff5b21c2a1841145db4fb97b4d44af30c6440cadda146c387535b9461",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_settings_stowed.py",
+    "OriginalSHA256": "17d70e77ba2687d4a2c03cbb9bb142feb9f4f91480eef2e489ef1af06d2a5029",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_shell_registration.py",
+    "OriginalSHA256": "fb7d65b7b3e4668c69c1c859a937c2d5366579fc732759d35d1c00a8ca79de5d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_snap_cache.py",
+    "OriginalSHA256": "3035fa02486e6064b96bc354ca595ff9a285ab203949cc7e1213e7cd72092243",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_snap_policy.py",
+    "OriginalSHA256": "30b440df33140adc9f40888ef6ff19f954316edc11a4fdf9c2a566ae2d553719",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_theme_exports.py",
+    "OriginalSHA256": "949fa2e81953aa8f6dc111ddab4134c25e4150d5ddeb10b53cf966a44e22a31f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_theme_loader.py",
+    "OriginalSHA256": "4cd2788fc715a7860820658dd61e51c9a74865edec4b6d222412fbbb2f12c81f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_unsupported_user32.py",
+    "OriginalSHA256": "a79630a308dff6d21f17c22f7be9e112e469f695bf710044b9791d48d7f3a37c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_watcher_proxy.py",
+    "OriginalSHA256": "cdb972998d0c64229996b1ad7b60e21c10f8909e47ff4c3346be9a3a809e97de",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_win32u_padding.py",
+    "OriginalSHA256": "b61f3cc105386925ddce4e5cf9d97f8c0869ec1a078e08c666a45aa4d3f6a2e2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_windowgroup_calls.py",
+    "OriginalSHA256": "30f3c3a0205da094719b2bc4bb20650ea4f0853f9aa07ba5b0a050e8e043b9cf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_window_style_files.py",
+    "OriginalSHA256": "30f6fbad999fa6b538b433595347d6242870f00a4df5e34929879fe578b5d68a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inspect_wub_controls.py",
+    "OriginalSHA256": "07a33cb36ff99f253815e14d9ec68605dea26c9bd8160032595e31d1617c9b11",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/integrate_icons10.py",
+    "OriginalSHA256": "872c9e38e0b68a232ad9117973921c0a04dfb4730c42b4910c19cbb630f4a187",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/integrate_maximum_icons.py",
+    "OriginalSHA256": "482fc3a38e2eff7550e180b38e8e9cd2dc8a6d822df4a1116e49ccf844ea6aa8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/integrate_settings_content.py",
+    "OriginalSHA256": "e8a9d648c7930f448da8a091ee92efb0fa36b80ce1cd7bae8ee381f1cfc8d9ae",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/integrate_shellux4.py",
+    "OriginalSHA256": "f5113461d0ced7634e00fb11b569e59b31f30a8c16f2bde034ca31f1f8865a19",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/integrate_untilstop.py",
+    "OriginalSHA256": "cd10ca68bf63c26f58852acdc31e2b084d231989b200fa89cdeda0fc8d811791",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/inventory_flyout_components.py",
+    "OriginalSHA256": "3c859b96fbb169be80c86b01b8d5f7b72675f822170f2b42bdb0843aa6562f18",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/list_explorer_menu_symbols.py",
+    "OriginalSHA256": "22fc86084a0eed4073485a36ffce04c55086df109fdac6954ef0decad6715bfa",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/list_settings_item_vtables.py",
+    "OriginalSHA256": "f5fdcef7481919b48c2e19ccc34fc88d7bd1acacc6579b0b358641a9e0486f01",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/make_pfn_breakpoints.py",
+    "OriginalSHA256": "b884137b748b3094cda7d6cecd3ae421235efc5de00bed7cc8e5205b25bb5571",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/make_selector_breakpoints.py",
+    "OriginalSHA256": "a48e57b72aaf6d0e6360e5883a0175f0ccba37746dd94134ec476b1a69add8e9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/name_appview_inserted_event.py",
+    "OriginalSHA256": "c62853ddfd74cb273c0cc1bf2027f0e2a743da0af877276333ae295bc59b36b8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/narrow_settings_enum_symbols.py",
+    "OriginalSHA256": "a8ebe2d562530400e783a62055774937257b006a0c25592a65f325b281d678cc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/NetworkLayout-Trial.py",
+    "OriginalSHA256": "42523c0ad0968a2cd3a3b435041f0193d101d4afbca4802b525cc49ff06991c7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/NetworkLayout-TrialGuard.py",
+    "OriginalSHA256": "327b3f90e19fc861c758c67cce81c8386f40f6ecf753f651db03f5197323fdec",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/notification_abi_compare.py",
+    "OriginalSHA256": "f95fc3ad05f258205916eec9c66bf8e0e9f5fdcde3fd81b027e67b390fd42271",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/notification_ndr_compare.py",
+    "OriginalSHA256": "10fa288c8141b220c1826145a594a04a56ea45c4179598c8f6138fc500d5dee2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/notification_ndr_fields.py",
+    "OriginalSHA256": "7c718990764d79a0cc5292fa2e249bb08488f279381242a043005c87d12e2340",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/notification_ndr_schema.py",
+    "OriginalSHA256": "aeebcb45188bb9bd63d9d2841f2fd26d074c30bcf957cdfdbd3258243af0e03e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Observe-ShellWindows.py",
+    "OriginalSHA256": "93e34f1b0dca1da15aadfc98b7554dc545113d5aaa79fef286a475db59c1f27d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/patch_merged_icon_builder.py",
+    "OriginalSHA256": "3ad764e83d1d345a4c8d80e6c1e68ee9f9338f2f9fd3db88786612db2930ea4e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/prepare_b004_checkpoint.py",
+    "OriginalSHA256": "8fb6de77054b16c24ff3b0b37234a2b5722890ecf0f1a26f301b2c47269cbae6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/prepare_b013_repository.py",
+    "OriginalSHA256": "6fe0e571aac000d64a14442b9edddc7010f5ea9f61206ad964b540b6ee0050c5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/prepare_content_checkpoint.py",
+    "OriginalSHA256": "98b93bcd904983ada87856f6db3ad3dc6c97e94d3e8aa37d12c15ada05fb5d92",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/prepare_settings_enum_probe.py",
+    "OriginalSHA256": "109f3a9ac0a080866ebc71d917d5d4cf0a72ea7ee4be30a94408dd81743dad49",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_flyout_ipc_token.py",
+    "OriginalSHA256": "e9e2bc30c333834012fb17919577dbe898277ade5a8c183c1ed41aabc566a17a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_mrt_usvfs.py",
+    "OriginalSHA256": "c29926f41bbd8d2f7f5d6e0b0fbfd38e89a51c1165504c8a53bd5b341ef5a1e6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_notification_compat.py",
+    "OriginalSHA256": "35e1e9ac4e775294d674b2b06fb38a701c53d6f6f7214ab5be295b0e624b5be1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_optional_components.py",
+    "OriginalSHA256": "21d2944c216f402b5dfbfee32f753217a85c0f1c726b1271b624d0fbbbfe1ae5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_pfn_resource_entry.py",
+    "OriginalSHA256": "c117d831e8f795582f342236363dea586c9ae85a54c485f35b97d034edc02b93",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_pfn_signed_injected.py",
+    "OriginalSHA256": "e328eae0a377af9895031bdd6776f12ba541bd82f39342052b9fcdb2fcd71d65",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_private_theme.py",
+    "OriginalSHA256": "beecd0258a3829d6539174d0667ae3288d6f6779e094e178e12fa5fdbd1f3d08",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_resource_compat.py",
+    "OriginalSHA256": "f23ae72f2faf8a57dbdb6d0e7ae088f708248a8120ff9a2ab5005cb971e61f34",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_resource_compat_entry.py",
+    "OriginalSHA256": "064c810ac6da9a3fb8280918bebbcf5a051fee560535c80cd34d7ae6fa412942",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_resource_compat_injected.py",
+    "OriginalSHA256": "199e59f22a167e28864028c0a3b86684c4cfc3b95cc15f8e09c5424fb8774b68",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_snap_cache.py",
+    "OriginalSHA256": "181b39b8d860dc0b0cadb0a12a21cc6d079b6f17d4f617ed0d7ad44b37eaadb5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_xaml_component_factory.py",
+    "OriginalSHA256": "c970b7e3607ca700ed8a9da962de9c3a66385c4004f3820f9591d0d3187f4226",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/probe_xaml_component_route.py",
+    "OriginalSHA256": "4d92c932150a24ff817abe11f2e6bbfeb60123db80d8d5426bab483533c21fb8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/publish_broker_gui_helpers.py",
+    "OriginalSHA256": "c2d65c78359ab5657f4a89b2cb964df204808039d0102eb47f22fb3a1d4f92d0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Read-InputSwitchStats.py",
+    "OriginalSHA256": "c2e910d9bf3806a9dfabbfe87b12cf11926c2b4562e2d5d826c4b746c222ddf8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Read-LanguageIndicator.py",
+    "OriginalSHA256": "402412c584b4d02038d57c9e4916973cfa5700827feee60a3ad8904c4d1e4843",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Read-MonitorWorkAreas.py",
+    "OriginalSHA256": "1ef96bf5d812a535688ae0a6f5a636121a8c4b68c77682de2fe61e0b93bd5374",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Read-TerminalWindows.py",
+    "OriginalSHA256": "08772952d780a2bcb779b6e9ca8b771c3e9dca9597b5e66f69e8e11da88b4108",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/read_network_style_stats.py",
+    "OriginalSHA256": "92db32a4d630561fe761a2ac4631d41d6f438fb591250d25721ed49dce12aa65",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/read_settings_16b40c_windows.py",
+    "OriginalSHA256": "506d107006138622f86a4bdabe865f3d479b54008c74c9eb4e84a7386d17b960",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/read_settings_content_counters.py",
+    "OriginalSHA256": "804ddb78cf1376ad9ab88488c2d39e6c3f7b7d9486dc6da4e4358d48dce2668c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Record-AdditionalExtraction.py",
+    "OriginalSHA256": "4352ab0bf4d1ecba379a251e5a7e76ce9bfbf574bb55a99b67e97902eab001ce",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Record-LegacyFactoryMetadata.py",
+    "OriginalSHA256": "9224ce28e72405364b16b0e04770349239b9ff35b00527aa871445180b738b80",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/record_menu_v2_release.py",
+    "OriginalSHA256": "e8b815f11ca592e5a3fca85c284109867ff39ac5336b48a462ecd64ce48f552d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/record_theme_release.py",
+    "OriginalSHA256": "c02ce9ef4e224e05c1e731eeb6f56ee2b13a709a7d078351374de8eaacf96db3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/recover_component_descriptors.py",
+    "OriginalSHA256": "34471dec043a99d511f0596eb8d9e5a0fc21135731a4b30101c3521e0026e464",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/remote_iso.py",
+    "OriginalSHA256": "07087719ab1061ed11d75e35b42ba082b9908e5a5ee68cdedce40d4b134ee1c1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/render_stock_icons.py",
+    "OriginalSHA256": "68bcbf4f2c64698aa1257720190dbf286add71bdae2bc0f5b23f6f414c9b4ab3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/restart_exact_native_settings.py",
+    "OriginalSHA256": "e3d8253eb841ab69b6c119fd411ade7a99a95aa4dbacd4a578e04db6aecf8548",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/reuse_pfn_production.py",
+    "OriginalSHA256": "999829861e2a1d9f2ca36ad06d7c67aac9ebed40e664a6fd6a30e2c1af0e19a3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/review_jumplist_route.py",
+    "OriginalSHA256": "cbf3aa11984bb25a6861a861e51b8cd9c07bb12117d898c9a988bbb6dabf6815",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/review_search_route.py",
+    "OriginalSHA256": "7e4660157461446747dec8d178ab2d462f08494ea9c043456765effdd375352c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/review_start_typing.py",
+    "OriginalSHA256": "615ed7c53a4d39c08dc198bb53bd5eb41c027df9ccc4c605bd8d246caeb981fc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/review_winx_invoke.py",
+    "OriginalSHA256": "8a1bb1e4130497866c9e12c2cddefbea1a5f4a9751b29c6ef35d1ba8913b3dd5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/run_oneclick_b011.py",
+    "OriginalSHA256": "60093f7509e6684326feef4e74e3db55c04e52138ca5b11c3c823b565f7a0313",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/run_scoped_preflight.py",
+    "OriginalSHA256": "f490ccb1daa99758c92250ec62f9316e5845e3ed46fa238b94d1929a6a966c56",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/save_pfn_hashes.py",
+    "OriginalSHA256": "9508690a39f8209d2cb40fa1d52b3809ea6af7ecb53bca477018ccceef6fc944",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/select_watcher_symbols.py",
+    "OriginalSHA256": "34712909e88e4d611f001fe5daa9403cc390d87e835977d1d22e3612f6405be4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/select_windows10_components.py",
+    "OriginalSHA256": "6c48f6c197ae8569f53ddc9f24ab075802213239bddcd953e458e206d7ca856c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/SettingsNoVfs-Trial.py",
+    "OriginalSHA256": "c67992174c9b49533d05018cec042ee4ba547a39890c113a8a22aaf2e538d62b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/SettingsNoVfs-TrialGuard.py",
+    "OriginalSHA256": "3a4ff580083599345d1c9aef230d52e56ebd99d08bc74549cd0008e8b8d26a0c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/SettingsPackageSmoke.py",
+    "OriginalSHA256": "247b8af23e8b2c89278618cd66c2073d35a2d3b3c77b73a8950729c6d1b4e0e2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/settings_old_environment_table.py",
+    "OriginalSHA256": "0570fb4000cb9c4bba0e7b949995e4017851d22e01630a8863c806acf9d86fc3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/show_host_watcher_callers.py",
+    "OriginalSHA256": "bc3baa18fba6173903fb332b290a62a71ba9925287bc49d73a670258711dad00",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/show_selector13.py",
+    "OriginalSHA256": "06461d774a32055fa6e5f54d41ab2df496b812c4cb71e91f47b775f8aef200d8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/show_setting_item_abi.py",
+    "OriginalSHA256": "f5e22edaf7a02d18fc8a93fcbdd8eee64d079ad8bf86fb2076991721e8284eb3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/show_watcher_callers.py",
+    "OriginalSHA256": "b05df127e6fa40083485bc9e2aa40f6abd0526a255b0672bc94ce625aea73c4b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/show_watcher_region.py",
+    "OriginalSHA256": "d481fc9b9d06fc7c38c6bd0055502489f0d0b9ad4ce6880c95b8a1b1616217c1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/stage_pfn_runtime.py",
+    "OriginalSHA256": "fb96f35a117b3c64ec9d488a95aa1e6cfce5e7dfd4d6d0e11942eb3bacf4fc5d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Summarize-ShellDebug.py",
+    "OriginalSHA256": "121928b1bd6b77c15f827809e5bec5d4dfb5e20b3f4b1ae81bc3a8b152810e7f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskpool_context_xrefs.py",
+    "OriginalSHA256": "61503863f1782b69188e36c711301e0b2b0b81720f31f0ed5f90f596b99a142e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskpool_old_imports.py",
+    "OriginalSHA256": "fbcc7314e3a45d7d76a7463f9fdeb9364aed4b7bdf9464644442a4de4d50caa8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskpool_provider_init_scan.py",
+    "OriginalSHA256": "50c989e2f8066ef742cc55be7ce66c0fab8d652b0507974894fa8004ac44cd00",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_adapter_contract.py",
+    "OriginalSHA256": "7bea92278dc6461909191b8daaa564834917736f85fbd3c7cfbd7b0695a8a692",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_allup_abi.py",
+    "OriginalSHA256": "dcde1f6853d0fb5b767f0730795fd1330e61bac2bc96a9f2a883b0862fc2fbac",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_allup_symbols.py",
+    "OriginalSHA256": "bd7d3e8b5b2420a80321bf108d076aab7c0455eea95849adb433e504a872422c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_allup_tablelocate.py",
+    "OriginalSHA256": "cf5169964002656ef96bdc6bc4bab48147afb60ee960d85e161c30361882b7ee",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_button_async.py",
+    "OriginalSHA256": "70f1ed96d40d92b03ea87a57af0c3e3ecd0053fe6631c7232ae8fe1f1445fcee",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_button_disassembly.py",
+    "OriginalSHA256": "3abfab738aba6a6c951f9f0ba4bd0b51f73bb9724555f9a01f2fd1a37b02b14f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_button_run.py",
+    "OriginalSHA256": "43411ad63c4ad9b3e0a047b70711d13dc169238ded288c1dd813a0bf39cab012",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_button_symbols.py",
+    "OriginalSHA256": "68af22cbd33bfb9bdbadf0550373a717ac016a546dd47639b43e540ea5adfbbd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_button_trace_config.py",
+    "OriginalSHA256": "727d51c58c3e19ea060d9a5ba1af7ec3b2f0f73f1205031c4bf9466b0c71a17c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_button_worker.py",
+    "OriginalSHA256": "4f4d1896250713a88e216a0ec49f60ae9a6b3b1efe654f29383ab407754ab96d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_displaymonitor_symbols.py",
+    "OriginalSHA256": "495db5a2ba06f255df9fc09e555aef515a8bcfdc4f270c1cddd1000f43f177d2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_frame_symbols.py",
+    "OriginalSHA256": "0d46aa23bb1bd6a07009686eadc3ee1d69ef4f4996da705871289728e64beb97",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_frame_wait_report.py",
+    "OriginalSHA256": "da910045aa6d3d502fa093d0166123b7d303737d4b46df617f5131837bc5c9bc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_monitor_contract.py",
+    "OriginalSHA256": "6fadb331fdd5bc4d932bab3fba5830b75d665b1ed4ec82af70712e0c6eacaa57",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_monitor_dwm_inventory.py",
+    "OriginalSHA256": "b5485e3a5cbe2aefedd2485f12ecd4faf5d5fcb1df2a48221b7bae4d2ea5a33b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_monitor_import_inventory.py",
+    "OriginalSHA256": "46e93dc990e00b3a27a4d48b5c1beb87ee5ad16307175c9f95d4702696856e98",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_monitor_package_inventory.py",
+    "OriginalSHA256": "7dc68b882bf053237efab8731de665d837e9700e46d35c5caca1c81dbe92dc0e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_monitor_producer_symbols.py",
+    "OriginalSHA256": "0141536182a036dd2cf86815703e8c53c9ee075358895920f75884e10350a7a2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_monitor_server_contract.py",
+    "OriginalSHA256": "58b233242fb1f51a553e68384d7723883df793e0f18652d48fd108efb9ae5698",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_monitor_string_inventory.py",
+    "OriginalSHA256": "f50a67c1cd0d80ac6d6058533b75d0fe4e31d453038d43e26d0a40dad68ba2b5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_native_async.py",
+    "OriginalSHA256": "e5d7f4fd75d51f1a26344d13a98cb95fa7cd156fb883960e0319fc56e33476de",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_native_callbackvt.py",
+    "OriginalSHA256": "3d8dd5e0d195929396ab5d3416aa0a5e323fd45a70ac24ecda7f0f430f7410f0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_native_host_slots.py",
+    "OriginalSHA256": "4b2e7547d34523d269c9b083ffc8a5b34f94c314297b6495465682bee222ee88",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_scheduler_find.py",
+    "OriginalSHA256": "9ead8555a42978a53d92550b20d0ba7c6b326323dfd59d1ef93fc68ff12e3b98",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_scheduler_imports.py",
+    "OriginalSHA256": "334eafc6a54a3cb92f622ac625ef7c6897832da37bf589c8038c1935c5d1edc0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_scheduler_symbols.py",
+    "OriginalSHA256": "8a42af675004b3c175e3e53dd61722c82d53913e563404affc0cd8a51fc43fcc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_scheduler_table.py",
+    "OriginalSHA256": "1f2cfaf462dfca7d7ba77a33348f760d02e3bda780fbaa3805c79361e2a1a4f4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_scheduler_taskvt.py",
+    "OriginalSHA256": "0c0cc4aa2a30aaf314610ed6ad54a7d95931f918ccf7cab48a4b23b83e923ed6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_scheduler_trace_config.py",
+    "OriginalSHA256": "d603aef447a99cf27364b5f1f0d96f6da064891a84998f5a55370920fd5a625d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_taskbar_decode.py",
+    "OriginalSHA256": "89d6bf5ee8a2bd139172d427f47e62b12ea9bd09b2f67ca7172ac312192a93be",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/taskview_udk_decode.py",
+    "OriginalSHA256": "2681520d0cc47d39a122e8c2009fe2580aa48710417433c239e0843b9865c0c3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Test-ApplicationFrame.py",
+    "OriginalSHA256": "29e39ba0bf14f8b4c6504c42b6affd8d7fa07c27832f3f11c7d5512c1c45c7fe",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Test-HostMui.py",
+    "OriginalSHA256": "7e9b8c7a3dc9dbce3d7c53a85fecac17126b0bcbe8aa415834750f31a9f53a42",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Test-LegacySnapFactory.py",
+    "OriginalSHA256": "6ea3572ff17b39412447c7fbbaa2ce2f1fb9a2ccd9a4ea34deb08d2d6a4b7bf3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_appframe_adapter.py",
+    "OriginalSHA256": "842a02b0602734b30b8d563c4d92de5eb7d0a48b254c545328b004e9060a76df",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_broker_gui_argv.py",
+    "OriginalSHA256": "32c76e70397ec312b4aad95674e64c6c5c7acd114036bd23fb9e9e7e9ccd0286",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_childsafe_usvfs.py",
+    "OriginalSHA256": "502b6d57956c088aacc234d2dc7d0c2fb22dbbf86e3b619d3f8e717b8406b198",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_displaymonitor_probe.py",
+    "OriginalSHA256": "c2cff691f58d4966eb78a3f13d97c2effe02ba4f9121ea0665aa74e2457d0004",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_icons_launcher_validation.py",
+    "OriginalSHA256": "6decd0b46ba6a81002fb472ad7acad18132124d8f292e62c52b5cc12f1461b31",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_inputswitch_compat.py",
+    "OriginalSHA256": "266061667ca1318a0f7102311bab7c89c1189314c8cdf9e871c09c2a4e0fa5f9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_keyboard_owned_child.py",
+    "OriginalSHA256": "d5035f348dcfa78bb5cbe060c30a25525e87cd31d22d1b53c87edaaac74648d6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_nonui_process.py",
+    "OriginalSHA256": "152fb93e7dc3cb2f5870e94b4f3b99364ebdae465dc55758e2f30cef9377d740",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_notification_record.py",
+    "OriginalSHA256": "049ac52c2ad074817c85b7ea3e71c342b1758a4f6bb5c4cf2df6751f49497de0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_packaged_controller.py",
+    "OriginalSHA256": "08a5a4779e0362634573a3d7d75b564205ec8cf9af4f5c36f574c654c9374be0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_pss_stacks.py",
+    "OriginalSHA256": "447a6443bf614f224f25aa65b35141d14b693360ea3645356a7d8957e63ec00f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_publisher_job_guard.py",
+    "OriginalSHA256": "906ec7b4f218c9a1002bc48c271a8f637c663e8cb9b3db3c2f1cac5f40915174",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_refined_converter.py",
+    "OriginalSHA256": "f47c7ec43f8f5e4898a5f58181b040c9703ec7837ea1365a49a27b6dea62c4b1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_start_untilstop_repeat.py",
+    "OriginalSHA256": "250c65fcb521d349a1f33683a5b94c0c67324bf0f2399505d1b55df22bdd6075",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_touchpad_owned_child.py",
+    "OriginalSHA256": "9d0170e7d8703d7d7bb339211cf8e1f65adbba6e4153f4f31f09b89ffa1221d2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_unsigned_explorer.py",
+    "OriginalSHA256": "640c14290f09b3c56e1fe628da316ea268b49ae9af113a837c1bff47e621648b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_view_delegate_hook.py",
+    "OriginalSHA256": "f6680b0bde0705120a10da11296288edf253f2861ab0ec1cdb3bf508d5544144",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_view_delegate_nonnull.py",
+    "OriginalSHA256": "5b2540d309bd54a73de952efbad193ae8122829eea8eb01e4ab9ecddd2483a16",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/test_xaml_quirk_adapter.py",
+    "OriginalSHA256": "458dff260b853fef25a42b4f73eef30245fcb5bf0eb268a80d0a5e0cf3cb673d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Trace-OwnedMultitasking.py",
+    "OriginalSHA256": "d0c49be50cfbab66e5500edc02cb2329b776aecf51cc18d51f531b412f9f5d22",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/trial_shell_appearance.py",
+    "OriginalSHA256": "cf049747918d752333766a7a56c208b3b004520d588cc6eb7a8d1135a8c6b28e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/update_b001_settings_docs.py",
+    "OriginalSHA256": "072a18abdd286216b16befd44fb0c50dc24751228be95253edd8ede59392a870",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/update_milestone_docs.py",
+    "OriginalSHA256": "49ed1c8055e5e9f7fe2a3fba238c3f21349fccf928948d21239f6bdf44a3c247",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/update_settings_restore_identity.py",
+    "OriginalSHA256": "73e9f4d62c3feb1c156344c72846ad433945b5c7cc5af2932e3a77826b895dac",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/update_settings_state_doc.py",
+    "OriginalSHA256": "b1d46bb68cc8258286b0df948d2b42768393d98a6a1b5e863ffdcdeac3be1c60",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/update_xaml_launcher.py",
+    "OriginalSHA256": "8b7ccfcca0516c5b8fab4ce1074382e7fb209875ae81d6827d52bbbbfe5610dd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Validate-LegacyUser32Ordinals.py",
+    "OriginalSHA256": "ecc82b9179ab3e69e33da212e403d96810d65911c7cbe731aa9f01826e109914",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_audit.py",
+    "OriginalSHA256": "9fbce54b8faf4e8e67ef6e07fd8d3337fa5c7eb4145c1667a661195e5e8c243c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_desktop_ends.py",
+    "OriginalSHA256": "ade45c06242897f8e6c6fd98bafc00c1893c9eb3837f70ec0c06b962f94260f8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_desktop_iids.py",
+    "OriginalSHA256": "9489e10b83b94a073b41c9a70bcc4bc9ecc3bc3e4725105f03d03d9b5d9dda89",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_desktop_names.py",
+    "OriginalSHA256": "f1009cf6c093ffce89032042685931587c36163e14a4f431dca12b6fd740a6a5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_desktop_table.py",
+    "OriginalSHA256": "21bb5d8fa3b39e5b3546aecec062643ae88ab8e7d1e7368bda99e051a014b05d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_hstring_import.py",
+    "OriginalSHA256": "9afadac28a870e4b278f6562d879a1b2563e999a83468e64e68ba581be3efcad",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_hstring_proof.py",
+    "OriginalSHA256": "273c603eb6271005e9100e58eeec4f89e3018e94b7b1f7749a0fefe2def82663",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_ownership.py",
+    "OriginalSHA256": "cc3ea9fd716cedcb4ea517cc7ca9f08a0621da6bbda2511a1803eae0a6744a7e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_table_small.py",
+    "OriginalSHA256": "9993a4cdf414c72aff027c76693b532fcca88940a144766aad8cf2e6e6b51d3f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_unknown_slot.py",
+    "OriginalSHA256": "cd72cf77d9600c638ca1713fb43a0c61e054889d00cb14884de02c68fa6f241d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/vdnotification_vtables.py",
+    "OriginalSHA256": "f33da8b2aec1107901cffb4345a8df8ab1e86ba39c41a69c239832efb6c1184d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/Verify-Checkpoint.py",
+    "OriginalSHA256": "41a0d330582394047d9ece367b92cd81ed810556b53b69d189e4dc5ded143ff5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/verify_broker_gui_entry.py",
+    "OriginalSHA256": "6ed26719ea0a6806aeb2c7ad225ab665f58da69f51f536bf636f5801571e956a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/verify_windows10_extraction.py",
+    "OriginalSHA256": "e11274db693f8f0bef49a009c8d003d8b6538cc45f7d2d08774b7ac57bd11b44",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/wrap_settings_identity_probe.py",
+    "OriginalSHA256": "1fb51e18c1b4a85dfbcf684e4488b55a705ac439ca45542da2185a6ceaa0715c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/write_search_container_report.py",
+    "OriginalSHA256": "d9a3484ff5537b19aede6df8c46aff0cd877f37eea09f7b67831533d2367b9b3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/write_search_runtime_report.py",
+    "OriginalSHA256": "2518e8b09ec57f4cba9014142a259b2fc16dbcd6c330435edc736407426bb126",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "work/write_settings_contract_notes.py",
+    "OriginalSHA256": "6cd8e6430c08b3ad89d2f64e59dfed877870bb976fc45646e34ad9ab3f76384b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/ChildDiagnostics.py",
+    "OriginalSHA256": "14958c3f71610febb2ed2189990cad296f5298f3e4bf403c8e4cb35a76a169dc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Confirm-NativeExplorer.ps1",
+    "OriginalSHA256": "9b3323a4bcec83ee27b261702fda198037a5fdefd61ac028fbd6403c005803bf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-AppFrameManagerCompat.py",
+    "OriginalSHA256": "7b6dd610b19b5e13433dfeedcd64a25217eb1005921647097517fb92e9489456",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-ClassicContextMenuCompat.py",
+    "OriginalSHA256": "edfbe7acc302cd8af369cb57501b3b73a5f5abe0f983d4b1f20174702fba895d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-CoreUICompat.py",
+    "OriginalSHA256": "44ac62857f2dcc298ee0ecce7038ab0268127a4ba851e57cc704c3d653c49534",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-IconResourceMaximum.py",
+    "OriginalSHA256": "28122f732045b1874835cbe50aa6276abdb4dee6b10d58ca6e8bb5655602e94c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-InputSwitchCompat.py",
+    "OriginalSHA256": "b51b35ab8bde3dd5f740990815a7d984a0361c2923414f1d55e2c3b0b2e365cc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-KeyboardCompat.py",
+    "OriginalSHA256": "572d431c4bfd39477fbe2075675ecb72322efd545b991bcf611ee4703e2d4ace",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-LegacyClassFactoryCompat.py",
+    "OriginalSHA256": "696fb2bfb8d6f18b80bd676579035964ac9e7df6e06572940fae848de4d044af",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-MenuSquareCompat.py",
+    "OriginalSHA256": "3613448d5ef4cef788a42580d9303a552078c2f6d94cd0f86fddf116e0db2e4f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-NonUiProcess.ps1",
+    "OriginalSHA256": "06ce589e3018ce3dc7d62a869b1a15900eea4d0f635bee1a97d1939b8cae0c1e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-NotificationCompat.py",
+    "OriginalSHA256": "5433da30f09c0204d90ce91869ef93d6a19b98748bab553689f22d1c1872c646",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-PackagedController.ps1",
+    "OriginalSHA256": "fc6b1eee61fe969e2ac87b30641f789cb4ee2044a4ca0bfcfc0d006db8a79d3c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-PfnCompat.py",
+    "OriginalSHA256": "4ba406771daf909b0543f7d5c9e3799c1df6aaf5b58a2f45d404a75810cbdb79",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-ResourceCompat.py",
+    "OriginalSHA256": "526e1e274ff1d016e2fd0468bf7458e4c54806b16c09651e00fa511f576fffdd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-Theme10Compat.py",
+    "OriginalSHA256": "4383831eac239e1e56c164b2f4b9765fe183798a17ddae30bff5ad5f0d32cc6f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-TouchpadCompat.py",
+    "OriginalSHA256": "6871b8fb163503c235c4ce16c30e2d93de3d14da74a6ce6159c715cb367020c6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-ViewDelegateCompat.py",
+    "OriginalSHA256": "fc4610dc4f2b85d5f393aa3fd44133134f24f433da53db54bd488ca5fd40c885",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-WinXCompat.py",
+    "OriginalSHA256": "75e2db38523a0edd85d0e7a2240b9a14bd4b6d041a7cc23e1078c095a3f19fce",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Launch-XamlQuirkCompat.py",
+    "OriginalSHA256": "c3b699c1453e117c25339a1bedfc96b23a99fa953dec01439abf5029c65353a6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/NonUiProcess.cs",
+    "OriginalSHA256": "a3f022a17edf21956cba45ebe5059755a113cb1eedaa1523cecbe69bd5bad287",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Packaged-Controller.py",
+    "OriginalSHA256": "3368d051457af04ca7420ea3e747113ec2f2e313c99143b3abc9855acab3d939",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Probe-Explorer10.py",
+    "OriginalSHA256": "48ee113294d43fc17c106409e9dc7823b8ec94beb48d6fd1588b65f9b34437a2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Explorer10-Compatible.bat",
+    "OriginalSHA256": "f2a942a6949c04121bee3456689e7a3e9ab3f4b5e7c59f02371538821aa179ce",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Explorer10-Direct.ps1",
+    "OriginalSHA256": "3e217f21f8bcf5a2f91d68a748927fa6682435b75ed3b7e87f2b4e9ba3e94241",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Explorer10-ISO.bat",
+    "OriginalSHA256": "27adf568436885ada2c4cecab7076aa1f14af3e4b3b61d0265feb9e286b98e00",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Explorer10-ISO.ps1",
+    "OriginalSHA256": "48a0eb477bc9f9ee39ff063adeb37fd789e508d18dd80172fa1eab4abcaef076",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Menu10-Background.ps1",
+    "OriginalSHA256": "cb61c06d4cbecc84e6bba94d6d98550acdf2b2e141994b6c8608b9595be21dfb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Menu10.bat",
+    "OriginalSHA256": "bc36952cf88a8858c2d1fa1dc6fdb9159f538d55e191cc1ec99caf31825ab04a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Settings10.bat",
+    "OriginalSHA256": "648243469910c64d011360714f20ffdeb96e6dd0f35b44ef652f6a204d9f8e74",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Settings10.ps1",
+    "OriginalSHA256": "5a9a2faec2004fba943105e22b922b1ae18287efb726815df880da01e70ec874",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-Current.bat",
+    "OriginalSHA256": "979c1fbc293ccdbb65e57051eb37906102d1d7ccf306df2d77e22070cea24a61",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-Current.ps1",
+    "OriginalSHA256": "354085762b2c85fa27c3aa939bb963a0be7a38ae08c517b79c624eea3fda00c9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-DirectPersistent.ps1",
+    "OriginalSHA256": "3d5f1bf700b7806242d446249fb7be4e2a92411ad6d0b2bddd33dbe5b289216b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-Maximum-WithSettings.bat",
+    "OriginalSHA256": "f1052db281348ee9ff99e99f34a1f601c977b0c2bb3402531cf0735a859a1063",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-Maximum.bat",
+    "OriginalSHA256": "f1052db281348ee9ff99e99f34a1f601c977b0c2bb3402531cf0735a859a1063",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-Maximum.ps1",
+    "OriginalSHA256": "2cdf856b28181019ee6ae2e23ef1bb20372140685d2a96987472bbda09927bcf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-OneClick.bat",
+    "OriginalSHA256": "e9b4599a5649f7ea10cfbc37e5ce2d1175781b925a25d8e2c9afb572ff04eab8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Start-Windows10-Persistent.ps1",
+    "OriginalSHA256": "034c45f9e238c84afe06768098d5071782b404373cbf56591f79bbf4357fa506",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Explorer10-Direct.ps1",
+    "OriginalSHA256": "cb6e58e95d4076e29b4bde6b6ef1cc396aa6cbd2b1cbde82bf2232e0f440b04d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Menu10.bat",
+    "OriginalSHA256": "65e680ec381bd47126d2559e543240b3ab9920e7473cf51c8c4e467c038290f2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Menu10.ps1",
+    "OriginalSHA256": "75acab965fb81de5d422562487adb2efd6d8c6ed6e7413dc03561fd20ccdebde",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Settings10.bat",
+    "OriginalSHA256": "7e90983ac7faadcb10561b1ccae0db4452f296c3076161831fb5edb89e0249c8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Settings10.ps1",
+    "OriginalSHA256": "efb85eaa33ee63a4740bd55f7e95337e3e78513967e2761de4e0dd64da07bb68",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Windows10-Current.bat",
+    "OriginalSHA256": "5d1ebac59fe03b7288c486b1c455cc7505771d4424bf4d822e552341710d1ee2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Windows10-Current.ps1",
+    "OriginalSHA256": "3270bb7a31d5981b290896afc3de67cb4f5dd381f02c540643efcfe138c9d50d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Windows10-DirectPersistent.ps1",
+    "OriginalSHA256": "7737701b020b1e0eae0e8deaf06952adc61161a52502db473cd59bb26be768d8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Windows10-Maximum.bat",
+    "OriginalSHA256": "302dfe1b9f2a5c0199461e528aaa3f456c68dd12faeb63c5a9ef940993e574ae",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Windows10-Maximum.ps1",
+    "OriginalSHA256": "7dfd89c00165fff13e623e7456b2617dac32350ff85d50760d345bff6a84ab20",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Stop-Windows10-Persistent.ps1",
+    "OriginalSHA256": "ae0fce82260d29f2efba716faaad4c148f1eb05fb5d6d539a565830b15b8c252",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Test-Components.bat",
+    "OriginalSHA256": "92e38140e41648c82fff44a9b8e8c5ad0ae7e7540ddc6b940d6f08e6a10ff766",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Test-LiveShell.py",
+    "OriginalSHA256": "94545902fbca3a2a7cb592981f86396ebc15a2a09f6c33cdbdb02076d4c4964f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Validate-ShellExtensions.py",
+    "OriginalSHA256": "50e45c4d06799008305a80e2d8a3eff85c65acecd37245ab77b1a451006583e3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Windows10-DirectOneClick.ps1",
+    "OriginalSHA256": "5139a8a79667e1824df94bbba21efae6b1f4cd0e4270828c865caa2d33eb5a7e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Windows10-OneClick.ps1",
+    "OriginalSHA256": "16358b775882f3f83d8d4af43dcc7723ae5cb781cf3f04d698bbdea05186217c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/WindowStyle/SnapHover.ps1",
+    "OriginalSHA256": "e1a6cdbe54102b82ea8cabe552ebfb3b9f81485a2fccfe3e6450b13da5496fdd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/WindowStyle/WindowStyle.ps1",
+    "OriginalSHA256": "0045b345fd622c9a7411dbaf4077b300c67ccd43e32f95474f00654d147c8a7a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/AppControlTheme10.cpp",
+    "OriginalSHA256": "fedf7a5ffedbfc816c978bc49b5283f3ad36ddc294855f85977da4a0a0b29956",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Apply-AppStyle.ps1",
+    "OriginalSHA256": "bb8c341bd9f970c5de6a388e55ede06278cc699417211eb4d7f27d4893c692cd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Apply.py",
+    "OriginalSHA256": "c96d6228914d032a1cc80947c4473b49e20343b7c722eedba87e3910a4ab8a77",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Build-Test.py",
+    "OriginalSHA256": "8407ffe3ffbe39b9d5be3ecfe5540b132a658e22b6049c447ba116c94a44e034",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/derivation.json",
+    "OriginalSHA256": "d3bd0747d7f4c080c9c912aba91386af68feddde428ff931b00abcdf7c6c01fa",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Fixture.cpp",
+    "OriginalSHA256": "841222d6335867447ee43423a50a219b44270ee8a7720f5bb517882d217da6c5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/FixtureControls.hpp",
+    "OriginalSHA256": "add9f965ddfe15a9d848144b00fb5b893025cd428d9ebaa0683fed828c7daaa1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/manifest.json",
+    "OriginalSHA256": "d58d81656e12cc18ec621d9bb26cb3172fa8420cedf90684a44eb3ce82423dd2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/own-proof.json",
+    "OriginalSHA256": "4f4ed51a5a7e85326034e0a91bc31a5b9caaad03dd69bee5426a0b2cd44c85f8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Pins.h",
+    "OriginalSHA256": "ae7d743323add3a535dec745732f0993de69aa110363d3e0cbb5748fe1a34860",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/AppControlTheme10Compat/Readme.txt",
+    "OriginalSHA256": "42ef44f64514458a811da96fbca64309f95de992f5c5ebc9a6268d09a5a26c6f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/BrokerGuiEntry/BrokerGuiEntry.c",
+    "OriginalSHA256": "f7c859351f824df09d39ff30e3a4c3a83eab5b7e13b0e6acb357e4de61bc7b3f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/BrokerGuiEntry/build-report.json",
+    "OriginalSHA256": "6c5fc4bf7fe5c3a60e19d7c764f25c5e7a9e3c2a8167fd445cbaa255a54d272d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/BrokerGuiEntry/entry-route-proof.json",
+    "OriginalSHA256": "41f9b21a54b590971a4b683a8fea6aec0b49f61502602cfca6cd30e6a007ecbc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/BrokerGuiEntry/gui-argv-fixture-proof.json",
+    "OriginalSHA256": "7c9cce23d272946f69e8c36ed74c1e17f8cad4946f900f6040179e60bdaafe05",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/BrokerGuiEntry/GuiArgvFixture.c",
+    "OriginalSHA256": "61c8d420b531d50c7761f0e1b3b577e4228de1e959db5d8f739b87149f6cd88d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/BrokerGuiEntry/production-swap-report.json",
+    "OriginalSHA256": "2a8583ade7890ca545bfeaca79cd7930a95354fbaabc3f812d683a118ce1a95c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/Build.py",
+    "OriginalSHA256": "aabf0d1f636ebe9e7bb58e612aaaf25f50d8f20095348cee4fcc726308d12f1a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/ClassicContextMenu.c",
+    "OriginalSHA256": "ee2b62262a31c847fcf9eef17b18206eaacf6bf3e471b030fa6c6c048cbcf3b0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/manifest.json",
+    "OriginalSHA256": "af5c92fe8a6fa505833a798b105db8321c89ac3c6904e9e88ac4a8a991db88a8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/own-proof.json",
+    "OriginalSHA256": "6d1aaf3fef6681753010bfcbe42b62c670c71632ea7bc06bf488ef8968926620",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ClassicContextMenuCompat/Probe.c",
+    "OriginalSHA256": "8100acaaf7b176be649309658349667fe2d348dd7801e179620f478a09662205",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlTheme10Compat/ControlTheme10.cpp",
+    "OriginalSHA256": "3cb84ea99977d83908e7181beb8980fe5036cb894a6df4d40046808bedbfd6ce",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlTheme10Compat/FixtureControls.hpp",
+    "OriginalSHA256": "ded76fd88d638a4a0ac7dd3dcfedab7fd5401793312ecc7b62768f6fdcd0fb9c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlTheme10Compat/manifest.json",
+    "OriginalSHA256": "e527e1cae5a01e812e48ecbf96e0a7ac2352b39f0c8ed5475d14de4223f1c237",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlTheme10Compat/Pins.h",
+    "OriginalSHA256": "f5d4af449d28e74de8f92e8f88cf089f6c3097befe9706c1e1ef2b35d879ed53",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/BrowserProbe.cpp",
+    "OriginalSHA256": "a497a244e033adfc8140eaaeb01faed50c67f44543e765629bc2933b0b0dc63e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/Build.py",
+    "OriginalSHA256": "a4be76f9f36a4ebe068b991cc845e5718c749db73ad675e2f03705158d0ca52d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/Launch-ControlTheme10.py",
+    "OriginalSHA256": "37725a7d134150879e22a5077c965c5f065ad2e327075b627bf82a5d0df11b97",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/manifest.json",
+    "OriginalSHA256": "e4979fe1bb9eb6345b5dccc75eab744113e6b7392fe782b9d2e23d4f4c936608",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/own-explorer-proof.json",
+    "OriginalSHA256": "94720ed396ae310795829566064f135cac06b0b625b756d6191db594d27542af",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/own-worker-proof.json",
+    "OriginalSHA256": "8b5fa0bc47f741d582366bfb9aa046cc8b69239044206fdc100a525c41066b6e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/PrimaryBridge.cpp",
+    "OriginalSHA256": "2ee3690e6840667e88e5c6aeccaa97a3367aa963c2c4bd7760bb03eb2df86d94",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/Test-Explorer.py",
+    "OriginalSHA256": "045a849f4eaaa23dd7297d9ba6ac1fb0baad060df4fa013908166454283d1d86",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ControlThemeBootstrap/Test-Worker.py",
+    "OriginalSHA256": "2dff12b699f75c237abd1437945531bab43b791b6b00bc975d07ac7c15d461ba",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/AtomicStatus.py",
+    "OriginalSHA256": "9c829980ec4f5cf42bfdd56ea42c2060a40a747c3aa5210d5341da661dd6db33",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/ChildJob.py",
+    "OriginalSHA256": "dd0b70edc0bee92804de95304379864791196a056484e54b837ce0f799a4ec37",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/Finalize.py",
+    "OriginalSHA256": "0a767faa1a5fa5f8dab8b4e6edfe1b626541c1d9d38eec9e0ee516777999b29b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/FixtureChild.py",
+    "OriginalSHA256": "42f3217c53a3047cd44060364c7cdc8a2af9969fe80da898567c7178358a2302",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/FixtureWorker.ps1",
+    "OriginalSHA256": "55732e7e6c3167d82a159aeafae055460f04e232fbc51705c959ffc480bbd778",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/full-preflight-proof.json",
+    "OriginalSHA256": "fc1286c703d33e0c8649165a2e555740d213665d7da58520a5785e6359cb894a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/handshake-own-proof.json",
+    "OriginalSHA256": "a389fb0225c9e5b37008f5bec5fddcaba8076eed3e29800565cb54b174b97c7e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/HandshakeOwn.ps1",
+    "OriginalSHA256": "96d0f54c5c6d7b86111667635cc33d579f8fba633ec99c68d4e3d711bd9fd016",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/HandshakeParentOwn.ps1",
+    "OriginalSHA256": "e56ad5fd16334eea6b3a5ea3d84957c3600da679ec7c4d9c1162ed3d4ab8cb6c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/HandshakeWorker.ps1",
+    "OriginalSHA256": "00738b885f1d77cc5564db8b3a9e90cfe25cead8e7d553a6dd6d622b7e28f7c2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/Identity.cs",
+    "OriginalSHA256": "736d380eeee0cef4224001d41dc31ff9d6d7df16167bbf35b7d04a73eb491202",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/LeaseWriter.py",
+    "OriginalSHA256": "3f7045e2f06bcb7b53d7eeb7ad6f78303ab72aa86969f50fe9622d0caeeae62c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/Lifecycle.ps1",
+    "OriginalSHA256": "61d2eaa3248953f325297861986c22d0cfaff09a0abb57db75c91adddb9bae58",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/manifest.json",
+    "OriginalSHA256": "164c66612158622160ea7888a7709c24a755e0b463c14da5f8c3ba425c35d7d3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/own-proof.json",
+    "OriginalSHA256": "67dab45d0a089ae65f1a87abd3bdda85d1949a71cb25011d125e571b4f7f3876",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/OwnedJobProcess.cs",
+    "OriginalSHA256": "8f671d6e8c1e0ea4a9d2aa8f041130ec81cbe6bdab972aa2911972c4781eeef4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/OwnTests.ps1",
+    "OriginalSHA256": "a78595b1dd7ae846568a5ff06b1b32713d778a1e194949e481082f581fab9f3d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/powershell-syntax.json",
+    "OriginalSHA256": "c7fb2f2cd88f05bc16ca0504de070bc169f417711f8e18dfafb8b521dfa2c855",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/PreflightOwn.ps1",
+    "OriginalSHA256": "d9d9ac94dad9073b05f5c3a1915deefedb7136e56373ce6c5a15cdacb6b03be4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/publication-own-proof.json",
+    "OriginalSHA256": "1b31ad72de6362b7ad7904368797736396567f64217d475b3be85f94da3ae525",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/PublicationOwn.ps1",
+    "OriginalSHA256": "4f468f33cba9785b8ff8f24cb82d9052e4b06108d96ca4159d463b83b3ea2e54",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/python-syntax.json",
+    "OriginalSHA256": "4ccdf8cbc485ab441600dfc873d47ab319823f117e4ff99adeae055e78cd6649",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/Readme.txt",
+    "OriginalSHA256": "93be7e975673e2f69c078742f158b371812e4163d0ef0c02f997e92219c868bf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/recovery-own-proof.json",
+    "OriginalSHA256": "4423d908d1462251d545be510f4f03ee04b9708aab0715778278b70c965818cc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/recovery-race-proof.json",
+    "OriginalSHA256": "04e6e79413d9029266f3700935dd89286d71bc31b6bcb840c122e453efbee48b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/Recovery.py",
+    "OriginalSHA256": "c621c8327cdebe7141b1593bea8a5ec2c3833219c06a6d12f52055386edc678b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/RecoveryOwn.ps1",
+    "OriginalSHA256": "6927369d16228ac25b379d5f7d182594f2366c84be8946f2fc568e3f9c7c3898",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/RecoveryRaceChild.py",
+    "OriginalSHA256": "69d40767aa1004fefde850aba7e28175c143d57a3aa02c020f14b9762c06ae58",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/RecoveryRaceOwn.ps1",
+    "OriginalSHA256": "b987a6fe6c9c72ea090e404b65f5cddc9fe81e2604dab35e20b4d4ecc5b042fd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/status-own-proof.json",
+    "OriginalSHA256": "05329404a208890c968e9ddc6040c192eb6227dbf10cd114df1ebe7a52bb891e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/StatusOwn.ps1",
+    "OriginalSHA256": "b04b45ef7624387547b5c3b13d3ce89831bf4b982b756aba8189f7b506631825",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/StatusWriterOwn.py",
+    "OriginalSHA256": "2725b3a5467be315488a81460ce077d358b20f456cff5f462f3b3b0f8de3630b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DirectLaunchLifecycle/Syntax.py",
+    "OriginalSHA256": "3d056388de48e3197eaf8e0448011a4fdc5ce4e30ee6918f9629535d3c4fb5e2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/Build-UntilStop.py",
+    "OriginalSHA256": "ca107c5a92ba0f2eb13117e83ab7e0ae629ac8a160534aee56202ac2396ee589",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/Ensure-MonitorPublisherUntilStop.ps1",
+    "OriginalSHA256": "b5d90c8283e22cd52f00342f9ac2ba7516e7e8981a5736b62d698efd13b9fde5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/job-own-proof.json",
+    "OriginalSHA256": "457ae1e02a41eac767e0b11e97baa8703f18c1532bfb3e08312a6c365cba58d6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/job-proof-normal-1791200748451317500.json",
+    "OriginalSHA256": "8df8c1ab98072adcf7dfb6701ea8926a9bc96a1acdf326c2678f709c65b06018",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/job-proof-parent-death-1791200749062124300.json",
+    "OriginalSHA256": "84dc94ec7cfb0b623806afabd9eb53097c17e18dd4226ca7d38041e88452bbf2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/manifest.json",
+    "OriginalSHA256": "b06e4ecd7f2f2f2890949841acf2e5cef2c0da927500c62512027ccc87d27c9a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/MonitorPublisher.c",
+    "OriginalSHA256": "0dcbf3958163b17b47c6232109d4f10f030a13a9442a01870b2527cc8d0ad618",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/MonitorPublisherUntilStop.c",
+    "OriginalSHA256": "dbfac688b55badfa484cee407af94293a2363dd37ac6d4b1aca12c55b95cf07b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/PublisherJobGuard.cs",
+    "OriginalSHA256": "f5017d3d541f15f9df51496a648e264ed778b574c9403be82e8dc8e8071bccce",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/Start-MonitorPublisher.ps1",
+    "OriginalSHA256": "012e325634a62c5eb1990bf801af5bdf9a025ff08d7b5b9765db1b6db872cf34",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/Start-MonitorPublisherUntilStop.ps1",
+    "OriginalSHA256": "19c3ad581aa39e4accbcb4e8da002d60ab67b9f15f8f0b8b4cab6096e90039f4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/Stop-MonitorPublisherUntilStop.ps1",
+    "OriginalSHA256": "1e6be94c15945fb90e7484a320b648408759659b75862706e5e817951ad41642",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/Test-UntilStop.py",
+    "OriginalSHA256": "dfc6ec08810e0cd6ca8bf4af99e33cd809bba3ed65497c6e3c4e74a57b47d592",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/untilstop-build-report.json",
+    "OriginalSHA256": "992d838661d6132acb7051d06afc25ace9961d669dd081b30bc9f3dc31290ea1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/untilstop-manifest.json",
+    "OriginalSHA256": "05e3768d028aa3a3b7a15799bd75382869e59988978d62d4ff3cdc2514784637",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/untilstop-own-proof.json",
+    "OriginalSHA256": "af8a57a3a3e2b5f547e755f419493d14f03b288982a67506d27335277b922c42",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/visible-ui-confirmed-425fd19fba474f82a427916b5bd789c2.json",
+    "OriginalSHA256": "860646ec6acbe57722ef3242416a574abb65600655afe0fa07bf937ec983872d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/DisplayMonitorPublisher/watchdog-proof.json",
+    "OriginalSHA256": "0e11da8d4e5da9305643272d2806270d54557ee19131b0c974ec6afe27baad02",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Access.cs",
+    "OriginalSHA256": "0608e5dd4335360414034371f06189995f6c9b2fb3c631a00c7e754dd222827a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Build.py",
+    "OriginalSHA256": "b6e897168a399033ce19bd076bff7fa84a4cbe39ee7c292ab075ae7af6645763",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Common.ps1",
+    "OriginalSHA256": "41c92e9ffb81e79210801a6cb5a91898c1262e164177a84371fea23e097709bc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Controller.ps1",
+    "OriginalSHA256": "18d4573edb0ffe3f44720ac16880006dab46db878913356a30b7df20bba480d1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/early-cancel-proof.json",
+    "OriginalSHA256": "312714d388f594371eb4277b8f0cc3daf168d2fda7250233552c3a1c3e49ba80",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/ElevatedCorners.ps1",
+    "OriginalSHA256": "981056b781cb1b21d94c27d69119e866ab94660a41e35eb14e13e6c48ec3081a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Guard.h",
+    "OriginalSHA256": "cd52a7001952ac3e2d93f721aa03d516e63a205069dd8a6f43012a69deada83c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Host.c",
+    "OriginalSHA256": "233a5ce6abb0e1c4d3841acb2da5ae80f3d69291b6d8c480cef8b88e1c794a8f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Launch-NonUiProcess.ps1",
+    "OriginalSHA256": "06ce589e3018ce3dc7d62a869b1a15900eea4d0f635bee1a97d1939b8cae0c1e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Library.ps1",
+    "OriginalSHA256": "0045b345fd622c9a7411dbaf4077b300c67ccd43e32f95474f00654d147c8a7a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/manifest.json",
+    "OriginalSHA256": "723d90bb861695312bf4936d8aa3706284f1cb9d3cca5b4d06bdc90812061ccc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/MutexFixture.c",
+    "OriginalSHA256": "7abeccc1558321737560b222a952467f2e2ae364587198d8a8303d70d71ee300",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/NonUiProcess.cs",
+    "OriginalSHA256": "a3f022a17edf21956cba45ebe5059755a113cb1eedaa1523cecbe69bd5bad287",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/own-proof.json",
+    "OriginalSHA256": "60d5c76a4c1f8a8efd9ea4a6b3a08a24b0d9e1f9403d4fd188c0fa5f0ba0a1eb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Review-Fixes.py",
+    "OriginalSHA256": "388a261ababfa69a860a13addf9a754febabeb380d6de4a51655f0137a92a072",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Test-EarlyCancel.ps1",
+    "OriginalSHA256": "7589ae6ed38451f784c1c21b36ce1d812bc0a4caa257fe6518684dae8e94219a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ElevatedCornersCompat/Test-Own.ps1",
+    "OriginalSHA256": "d7fd9795a752f67438b2b30738643f67e0424ba36aa3c40519d549b51bff268b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/CacheNoVfs.py",
+    "OriginalSHA256": "d55653af2a36b6ee017d61c1a8eedbb8d9c284ea84ad2edf67a21b68bc7a4e03",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/FolderCacheProbe.cpp",
+    "OriginalSHA256": "1f42e2331c2d306f1079eac51fad8dd2d5f2a710cfb865cfb3361d919ed9e7fd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/FolderProbe.cpp",
+    "OriginalSHA256": "1d9cd331bedcf6cdb717f4020c5e7a947c3665d57686a89c9ba440a42dfe539a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/InspectImports.py",
+    "OriginalSHA256": "ed0542f52b8f8d12f36799aaef4226569bc9e3a941f27fe73da8c762c63b9b01",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/native-imports.json",
+    "OriginalSHA256": "bdb9e7a46ff76425ed53500354c0e028bdafac71c32c8c7610a8888b3dfb8a54",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/own-proof.json",
+    "OriginalSHA256": "7a0484b7faa2826a9a36e3ccef5fb9329df809953605c5f8ec6f4c6effc73ec4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/PrepareCandidate.py",
+    "OriginalSHA256": "1266594b2d6ef8f76f86aeb56c4a7fb1e731cc57e1e84b8ce511cdb11afa7853",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/Run.py",
+    "OriginalSHA256": "eb22120ba47370b184d944ff75c14f090a1611c5744e8abdeece69cfa0c6c186",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HostMultitaskingCompat/mui-probe.json",
+    "OriginalSHA256": "aecce5f01c802d52c64043a2f09810e2f1bb76c00e1de2081d6e6b6fd937491a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HostMultitaskingCompat/patch-info.json",
+    "OriginalSHA256": "c88827303076c41bbefa57184a78e210ed67f433d4f9741abfa88d0d9ded5e33",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/BrowserProbe.cpp",
+    "OriginalSHA256": "37a8a9d0645319f771b3e643b652f49962e8e623fef7ec2fa67266f98ce27835",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/Build.py",
+    "OriginalSHA256": "c83d37926815809a6cce4959a1dfc5177103dedc7d2931b1350dfb1a2a9be3d3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/Launch-HybridTheme10.py",
+    "OriginalSHA256": "51cd3aad785b3c34f977e7a783da08a54d25817ad11db90f3e5bbf26d3a39c22",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/manifest.json",
+    "OriginalSHA256": "1f0ae8cfd595e7cc497608f3e9712c5163f4ebc9ae6973e2fd563c4c44640f7d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/own-explorer-proof.json",
+    "OriginalSHA256": "d6b54dbc1ea2ef44a7cb62884f4b0d70fb70dd09b3dadee28554029ade6fd247",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/PrimaryBridge.cpp",
+    "OriginalSHA256": "6757d846191e8d585dbd3f1d76580df7982d72170e75478f318798911af1d2ed",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/HybridThemeBootstrap/Test-Explorer.py",
+    "OriginalSHA256": "a6355f2f92cea71433e29820f75e5a9dabcd5225bbb3d19cdb9c0a164a60a87d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Audit.py",
+    "OriginalSHA256": "ed13c887bef51e53ef867fc9c38e0fabf407c49c14710fb3e5dca5969e83cf3e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Build-Routes.py",
+    "OriginalSHA256": "73d6ae0774e38899f4195f689252acc26340e082b583bb7bafc96a60bed8d426",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Build.py",
+    "OriginalSHA256": "39745a0e326fe70686f2749dc81cb922de7a00f373c2806d106473d2f81a2952",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/childsafe-own-proof.json",
+    "OriginalSHA256": "c5d489a4b553a11d95125fedc18fb366b62aeda7fefc422bbb26a80466831b8a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Final-Review.py",
+    "OriginalSHA256": "f30105493c2d292ce1b5c1fc48d00bf2e422d8cfa84bf61639fc3f25cadc1039",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Finalize-Routes.py",
+    "OriginalSHA256": "e21f881ddc33651d9b02752628f2d17f18929fd2f8e1a20c5856f255c78134a5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Find-Callers.py",
+    "OriginalSHA256": "ea38dc0d1f05237353da264619b8012e6444679f2b1103020c4898792bbb26bc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/group-audit.json",
+    "OriginalSHA256": "4a7063c12b63771733fd39ae3a764a0194b619fb6678c45a762096c31af76546",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/IconMappings.py",
+    "OriginalSHA256": "80f128ce51c1b33a97f544318524454d7b2cea726afbe070a3ac5109c59be1a1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/IconRouteProbe.c",
+    "OriginalSHA256": "30b44d471ddaa2b12e149c2137deaeefc7bb239f9274ac64c5e42c205178b67c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/IconRoutes.c",
+    "OriginalSHA256": "8874336005504045f1a499a30ebc6604e21c1b0020dc53ac7bbd0a65ad0dc8f3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/IconRoutes.UnsafeFixture.c",
+    "OriginalSHA256": "3d205f250c9624a16976cdf843d30da52aecd51555690abcbe0ce0cb10e4d240",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/inventory.json",
+    "OriginalSHA256": "4c4f4bc733b2a3837f53d7dc0bf4af9d9586f36bf281240d621bd9297f93e3b3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Inventory.py",
+    "OriginalSHA256": "80af20d448660087c84d8349a8695290238417664e58f63fda7eeb8861416c59",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Last-Edits.py",
+    "OriginalSHA256": "2bbd27d09b1b0ad6bc5eeaf32de733e5a023e08d87bc5a43f0de2a286894da15",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/manifest.json",
+    "OriginalSHA256": "7d80120c1f9f2827a6d8d5f22f5ad2cf7ab6ca2a626dd7074c09eaeb9b323bf7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/own-resource-icon-probe.json",
+    "OriginalSHA256": "ddbc9ca22bb3fdad15f8301faa1d0bfd11c72996d373dffd65b750b1590c545e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Prepare-API.py",
+    "OriginalSHA256": "bc7480137d241bf4f24aefbaf772de3075b4170b931e16791b0487a2c214969b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/ProbeCases.h",
+    "OriginalSHA256": "5cb2adbff916889cc8b290f9f042275574db3bf035d24c70546df2f87ae40abe",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/ready-proof.json",
+    "OriginalSHA256": "e000e0be747be8b7a22e50d18542aa6aedb6c10feb5e90a2f8d4256d9f24955e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Registry-Evidence.py",
+    "OriginalSHA256": "683919fff92eeab470b058c90ac5cb754b7594ed1b071756a156b4a0e69d7fbd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/registry-icon-evidence.json",
+    "OriginalSHA256": "bb279dd16e0e8636ed30b745b2e5739ae75d753c3b9370ccdb351a0cfec3e83b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/resource-own-proof.json",
+    "OriginalSHA256": "d5baefc89021bcb159b0d410607a3f62a2bfced0e0339118b1abcce2bd6ee358",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/ResourceProbe.c",
+    "OriginalSHA256": "646f195b9696065232f7e7e9d29f7f9d81985e09b95febb69f50b9033949eb25",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Review-Edits.py",
+    "OriginalSHA256": "a2d79f5709831773017d165d36986e7f48799255544e5387a5f748de3558a573",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/route-build.json",
+    "OriginalSHA256": "3bfb4fa6a29d42f84caa5da267b1c91ee2f5b233407a780f4abc7bb2c00e671d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/route-own-proof.json",
+    "OriginalSHA256": "b7fa9b7109ac40dd3cfe77a8bd0a32e69b017167b9c5e16e53fe07b363cadaf0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/RouteConsumer.c",
+    "OriginalSHA256": "806d2e2ff69810fd831893355fe193250e7fe39aa3f478b086fb4b5ffe07bc19",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Routes.h",
+    "OriginalSHA256": "93cc3443a4f1c5913dcaf843ecfa6aa7a4173001dd71504f5b5f4cd4d714ca4b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/StockProbe.c",
+    "OriginalSHA256": "dd556d9ecbdf1c62a07f2de7e9fd63662a4917e9cfc43c50fc3a2c9402c44de7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Test-Resources.py",
+    "OriginalSHA256": "2faca177344f895d6178bddfac016b698d8b8943a7009a9d20be70c5d89b9d51",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Test-Routes.py",
+    "OriginalSHA256": "3241ae8644f9160152b0c1443580170505b4d49e0f5444d26b0ce1c7971b20ba",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/Test-Stock.py",
+    "OriginalSHA256": "c233c76eee960026c444521a51e5c9fd6197a01cbd0c6b6ac8e530c9a26aae20",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconResourceMaximum/validated-mappings.json",
+    "OriginalSHA256": "249bc43a7f4f00f0232bbfb4ee784c6a7c49a4e9a2397ea7a4b1bf59cb4a911d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/Build-Test.py",
+    "OriginalSHA256": "f69957c7039e3a4d22463942d49e7e990f4c73060f63974e8acddf2f224b7ab6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/CacheKey.h",
+    "OriginalSHA256": "c7a7ddafec4e06cab1c517ecce70598f0b36782d3752effd0d4c52bf49e97eab",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/CacheKeyPins.h",
+    "OriginalSHA256": "ea1ccb48525f275e014d03a5159b24bdff3b43f99a606c9127339a7b23ca5955",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/Finalize.py",
+    "OriginalSHA256": "6493dbc546571d84a4686432fb2f5b3bd8317a98f69bed82c18e615d5f61dd8b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/IconRoutesNoVfs.c",
+    "OriginalSHA256": "c74aa27e95420549cd9aff689466095db7a7337ea3d46601d62ec64dcd3f9222",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/manifest.json",
+    "OriginalSHA256": "0a68eb9df114a7f43feff95090f57cdcb38e1020e41299d6de687e617548b210",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/own-proof.json",
+    "OriginalSHA256": "b3692a26d1e81513f4a692abb3c31f673e609be86f2a67f8b5b521c8ff2b2bf3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/ProbeCases.h",
+    "OriginalSHA256": "645798f01780d53a6bb6de876b52b0943177dc824780bd22e691c0556ccb8e3b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/RouteConsumer.c",
+    "OriginalSHA256": "806d2e2ff69810fd831893355fe193250e7fe39aa3f478b086fb4b5ffe07bc19",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/RouteProof.c",
+    "OriginalSHA256": "6605d8b80823380905ec3df0bd7dacf431952038314533d77a7fefac80ce7ea8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/Routes.h",
+    "OriginalSHA256": "d19ca3ee4f1825c01390844752200dd0f34abd99a8518d2ba827da9aa83509c1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/seed-routes.json",
+    "OriginalSHA256": "6e6e87eca4cdddcb65b44dfe7774e468ddc69acfd55f8d92e393f1fa4465883b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/InputSwitchCompat/guard-manifest.json",
+    "OriginalSHA256": "7a002e6a1e7142ee1ce07f88b22160017651898c831ce3cf9ec44657569e3f40",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/InputSwitchCompat/Guards.h",
+    "OriginalSHA256": "91150fa857ad6f1fed9742c656a4a4f04ad619d05759347d6f239025a721cdee",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/InputSwitchCompat/ime-callback-ownership.json",
+    "OriginalSHA256": "e46154f4524347a801efe18b68318ede3debc3516bb64a54d1e596bd7e23a21a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/InputSwitchCompat/InputSwitchCompat.cpp",
+    "OriginalSHA256": "184b6678972bd977ecfb2a38da784bd54028be03e0949bf985c681a1f7744318",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/InputSwitchCompat/own-probe-results.json",
+    "OriginalSHA256": "5eb026a244f4ca1190f1b84eb0b8e7852aba8b48c59d884542af78a881ffa07f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/InputSwitchCompat/visible-ui-confirmed-3686bba15ab24dbc80884fead8247eac.json",
+    "OriginalSHA256": "98d0f1911fe9971a78d64af6e5b766c83148dc5110532b369aad188de9656dbf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeHostPCSCompat/Fixture.c",
+    "OriginalSHA256": "2edc6ab3dc0c6502df31cb82adb837bf3f518a84aa0a13b7338de9bd905d5257",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeHostPCSCompat/Launch-NativeDcomp.py",
+    "OriginalSHA256": "d1a7ed2f26e7aebb671b43b2c1c043ffc789b600c3656ccfd9f3aba1ddf9b417",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeHostPCSCompat/manifest.json",
+    "OriginalSHA256": "cc5025dc946a08e3fe9142e0bed594f0aa1d8b309effebf968fcc625de1ee614",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeHostPCSCompat/own-proof.json",
+    "OriginalSHA256": "1a61b1bb8c8ef29399e36ec376ccb876b0369efe24ee256f75c26c32ad44ee3b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeHostPCSCompat/Readme.txt",
+    "OriginalSHA256": "b11839024384f243c878314dd8abcbe6d133c17bc25a8b153f07faf4e21a97b0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeHostPCSCompat/Test-OwnChild.py",
+    "OriginalSHA256": "35eec93995fa48431932f53557e96d6f37073ee574b30b76f536df5ae79a4739",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/build_test.py",
+    "OriginalSHA256": "61dd6f23df4bbc1a52cfae3c20644fb3963359bf2184e78811560260f22c5aac",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/finalize.py",
+    "OriginalSHA256": "2e4046290134455e3046fb36282a7e06c76652dc103783737dd5c2ebdc8e6fb6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Fixture.cpp",
+    "OriginalSHA256": "6b5bf953753312c2e8c8c9c9363bd2ad6b7c1afdad56beb78e7b9eaba1a72544",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Guard.h",
+    "OriginalSHA256": "3ef8efe5a83bd104d73e4785c972eb7a31abbd9779d5251dde9bca47095533b2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Launch-MenuSquareV2.py",
+    "OriginalSHA256": "2e04706a7aebd643df4180da72456d04fbc4204ca3f299e09b6c7eebc654d7cb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/manifest.json",
+    "OriginalSHA256": "15291bdfa6e50a0fb1618097bbd8fd213a14502a06a397c03b2aba8e29364886",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/MenuSquareV2.c",
+    "OriginalSHA256": "16ae6fac64041ae2bc9fbdecfe246330812070c8ed2894e1277a525b044df8b3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/native-guards.json",
+    "OriginalSHA256": "4ca045facfd9d0a8d07967dfe1b112fb72efcd3b77f2833bfea8808797d08f2b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/own-proof.json",
+    "OriginalSHA256": "4e45e5c2ed6d2d2c72669110e1c091d105d4498e1a88472aa41ff3eace902240",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/own-proof.txt",
+    "OriginalSHA256": "aef4a72bf7394df6daf978ae7ed54b502a943c8aa08c61a1fa37c7e94806add6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/Readme.txt",
+    "OriginalSHA256": "947f351beb9e0820c5b45f27bafc0e57e9430e00ff35ecb9a6af170f3b229494",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuSquareV2/RendererSelect.h",
+    "OriginalSHA256": "4e07708c54cc4fd239d936faa3e4af9290359353aedbd4b769bcffdf7db20d1b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/Fixture.cpp",
+    "OriginalSHA256": "357b43006af590758a2233287401e29df7d0a99e52ee9041c0425abe5980ea5f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/RendererFixture.h",
+    "OriginalSHA256": "600cc2e4baee92b1183d0475a20146366687267b0d66dc764d5456c824c5f4a8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/ThemePaths.h",
+    "OriginalSHA256": "3801e9c77930deb327bd245f306294cde7556f424b0f2c0d87ae68e1cd62070b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeMenuThemeColorCompat/Trace.hpp",
+    "OriginalSHA256": "52be9086f41138c444827f23e8327edfdf781d2a81d705b5c8de6edd42770edf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/Build.py",
+    "OriginalSHA256": "9aeec221b8a89d3222678e5ecd3226eab5ee061b712f32afa577710e08859499",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/Launch-ThemeMenu.py",
+    "OriginalSHA256": "b3a1ccaef43f548daad62b770357fa395cc0736e9883f19f6fdc76fc2f6f0925",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/manifest.json",
+    "OriginalSHA256": "f30f62421023be2fc4bdf6dc92bbf29cc88fbbbbe250219ecd9f53d56f7c916e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuBootstrap/PrimaryBridge.cpp",
+    "OriginalSHA256": "588545633effe47fd9a442aba28cd013e8629a69a32c0fe84c19a3ff0ce2e692",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/Build.py",
+    "OriginalSHA256": "50a2771c81dbbc3dbd392655cb37e5e8a9d924cbaf20c441ad8715d3e264229d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/contract.json",
+    "OriginalSHA256": "e65fd2d0d4e44776cad5d0136bea89e4887ecf0a8f88c308f7e6ec34546ecbcf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/FinalizeProof.py",
+    "OriginalSHA256": "31e2c55545b1f42988b81831c8646306fc285db756b0301a18512537caf3ee26",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/GeneratePins.py",
+    "OriginalSHA256": "54946ebe271c28eb46e649878fda4dde4e8bd6670d08b74b4d46742355aba4e4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/manifest.json",
+    "OriginalSHA256": "a1fff6f17194f7915e994cba93b3efe4486ab4c9cf1fd767871b6a6fc0e1c397",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/own-proof.json",
+    "OriginalSHA256": "0b56a6281b37f0cb057567056ee5919f2fafc8cb6e0c619b1280f75a2908f42f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/Pins.h",
+    "OriginalSHA256": "7f3c3d18a78ccbf9176e7d2bb15090ce455f35cbe6d6b6dee980e2e0735d3737",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/Readme.txt",
+    "OriginalSHA256": "889c4e5b2f371c89cd0529dca6f3353953400781e6bda53bbd25af714d139bf7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/ThemeMenu.cpp",
+    "OriginalSHA256": "95fd0c40dad87091bbf36eff7e65539bb01122b1b45aabbeb735897eaa33e837",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/unit-proof.json",
+    "OriginalSHA256": "ba8a12de4a1eb6869a152416d4bd3b2e694df51c4601c767c19de85908863025",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/UnitFixture.cpp",
+    "OriginalSHA256": "538597124574fae7393fd5e3399e444d95672fe9486ae4fb15d7ff1e407324ad",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeThemeMenuCompat/UnitTest.py",
+    "OriginalSHA256": "9abfbc46c3cac30d603fbffa5b56f8e29263091f2c131aa9bf6dca734c89f1bc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/Build-Native.py",
+    "OriginalSHA256": "dc66c83ae699cfac8771a0d8041c0175a95d5a2c50eafc639d73e818d79aabcc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/CandidateFixture.cpp",
+    "OriginalSHA256": "0b84073220c8f2bd9aff8b8a79e73b7dbe81fb7f8870f9afac06a567aed65490",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/Guards.h",
+    "OriginalSHA256": "ac22cb1afdbaa54c208184ce0643d9e17edbc531fffe286845d5881f083e7a2e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/Launch-WinXNative.py",
+    "OriginalSHA256": "4efa75a9d1db4e82ecbefd5b9256f3f0f89e472f9aeed7c82090eab5cd828e7f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/manifest.json",
+    "OriginalSHA256": "b8ccf38c2c612ff7c6d96457c6b17e7b44aa4e53d92f92f66fd34b6dda1ed8d0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/own-proof.json",
+    "OriginalSHA256": "e6daa4652db35ad7dabdf42cbb67e478872a120889e17e805f46cfcfc950a6d8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/OwnerWindow.h",
+    "OriginalSHA256": "fd829c4caabee88ddba5e873b20660b23ee01521e54a85c56c6f21f7fb14fc3d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/OwnerWindow.Immersive.h",
+    "OriginalSHA256": "9dfa0d4d3d95583379c054af9e36ccccf6fade59054d23a55dde3b6840aa4e44",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/Renderer.h",
+    "OriginalSHA256": "f24504de6171323aee1776a76922c6f034690cbe6b354dca0087efd62b4a320f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/RendererGuards.h",
+    "OriginalSHA256": "4525c54ba0d904316cbdf3fcce40b565b049c3ddf0bb0d75b38ac9f9619a3cd9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/WinXAbi.h",
+    "OriginalSHA256": "c3f6e1a29a4e5cb8ad930c9b7aa1ab223e395163d7332c94be0f0660ca387eb7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/WinXCompat.cpp",
+    "OriginalSHA256": "20b74ae23a16229f6d1ec4a9b150e812c9d0cf608d1e34e884aabd82d310bfae",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/WinXCompat.Immersive.cpp",
+    "OriginalSHA256": "206c2d54ee049ae4912297a8fd151bf037d371597d15802690f359e655c90fcd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/WinXFixture.cpp",
+    "OriginalSHA256": "6d111ab7be35f06eec41d5e8127476a0010749f29ba9a2bb3c3480bf5e06ac5b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Build-Host.py",
+    "OriginalSHA256": "08acce617273c417bb3b9566b99f8689a0d2ac6e0a4beba0adfa99e051535514",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Build-Test.py",
+    "OriginalSHA256": "54120013776508b605198852e09e9bf3a76bcf32f5324a88f57eadca8b198849",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Ensure-NetworkTray.ps1",
+    "OriginalSHA256": "725741747d6198c7f23a5d809901331dcbfdbf26f066ca08dc09b096bf1576d5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Extract.py",
+    "OriginalSHA256": "6ce7be64f092f900e5a051c4396c56148980544596128ef14a334dc4d06005d6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/extraction.json",
+    "OriginalSHA256": "6e8b9269775f9bac59c9534867bfeaab3567b11c0ecb19c744b1c1fb53a615d3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/factory-own-proof.json",
+    "OriginalSHA256": "d54c4b845fc9b0acd305137522e05bcef7bcb570b73d58aa9164a404bf66102a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Get-Symbols.py",
+    "OriginalSHA256": "41c3010262fbeb152d1243fea90d9f4393c067dde163b7248cc0a1d8aabb654d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/host-own-proof.json",
+    "OriginalSHA256": "b2fb16fb18ca1af7917235166ece1697f270d2900d7a04b8f42d1f30730bb076",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/manifest.json",
+    "OriginalSHA256": "7a1e1cf9a21b73af619fc40cf48c4f110d501c748f595d7e8448ea3cdf17d219",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/NetworkFactoryProbe.c",
+    "OriginalSHA256": "6325ab0fc05200610bd4d6a4270a1dc1461c12fc69ad7adc5dae4d1cd8bba601",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/NetworkTrayHost.c",
+    "OriginalSHA256": "377d3296637db2b68057b3840b944e2b6691def855dfe58bc2a0c230b7cb0241",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/NetworkTrayState.ps1",
+    "OriginalSHA256": "715a884f25f247ada43ba832e4c5273a3f295aabaad0c900a11ed1d521d174d8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/ps5-inherited-module-proof.json",
+    "OriginalSHA256": "e1ba1887e64861f67bfe9b1142c80ade771277f88b1099a994d1e895930508f7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/selected-symbols.json",
+    "OriginalSHA256": "246efe2920a3967c6c31c0afa9ee8d5889362aae9c2e403ce1004389c508a008",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Start-NetworkTray.ps1",
+    "OriginalSHA256": "fc9c2b470ac93b7a7978c180921279cfd26b86b0a25681302021102dd64ac1ad",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Status-NetworkTray.ps1",
+    "OriginalSHA256": "93d98b5ee1ddf57f4c67ad911a0c3e7f73ab76246b930f0f202de1c5f0ffcb8e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayCompat/Stop-NetworkTray.ps1",
+    "OriginalSHA256": "48791caa5514335d777d023692f890cffcddab0606a4db559cbdf73750318393",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/activation-root-authorized-proof.json",
+    "OriginalSHA256": "feee01ed9cdfb6b64568d8b84dd3c4f29d09acc780efb0f4e92b91bd47fd2f33",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/Build-Trace.py",
+    "OriginalSHA256": "c18ddde6951cdd98e40f77fb5c3ee4a9f75d89c5eb750f252a9e9be61b9a4856",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/Build.py",
+    "OriginalSHA256": "78d36759e7e81da9d1f88923eb6b7daafae5caa7bb7d7dad0672efdb1f2cf8d0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/Ensure-NetworkTrayUntilStop.ps1",
+    "OriginalSHA256": "dfe1833054a1a5ea303db69e0f0118e9b0fdf9d64f4c0d3c0d646924f6b7ed54",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/guid-fixed-runtime-proof.json",
+    "OriginalSHA256": "f7e5e9ee2491899d7ecfc73f3e0375cb0eda79ea5718f317b5e587f865a683bc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/icon-location-readonly.json",
+    "OriginalSHA256": "bbf85da65f37195e5ed82be0c23a0c464768cd7500ee5629fd267e369ff61d77",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/lifecycle-own-proof.json",
+    "OriginalSHA256": "5f9cf9f3047726d29115b682d7798a293e53ea17a2649106809a5e66927be76c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/LifecycleFixture.c",
+    "OriginalSHA256": "6748b158391ff4416cf972e1027e3bef56c6d4f257cbce1439f76a014d768ffb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/manifest.json",
+    "OriginalSHA256": "2bdacde7c8250323fcf38dc3682c5153529a77e1c852d21c1b94a9dc14348a94",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTheme.h",
+    "OriginalSHA256": "427d84ae7f49881dc57bfccfbd590a7467b9c0b3339bf764b2f4ac544a5ddc62",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTrayState.ps1",
+    "OriginalSHA256": "7ccb60f7a48d848a2c76966a20ab98acab4abf4f8c4db121155a009cac3e34de",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTrayTrace.c",
+    "OriginalSHA256": "6bab2755d400c94dff63fcb30397f698b8292fe39f5cc06d62239a1ce45ff349",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NetworkTrayUntilStop.c",
+    "OriginalSHA256": "160e0e16b47b5c9ca821d519e83519ef812816756ec629a858795011d7f0f45b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/notify-adapter-own-proof.json",
+    "OriginalSHA256": "b9e7bdc70f2b6fc6910d335703b06d558a848ac78a3fe391235b115badf52f5b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/NotifyAdapterFixture.c",
+    "OriginalSHA256": "f31c583ee173b42990644e14cd83db15d2da46eb8c17223a8be6e193c4996088",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/ps5-no-ui-proof.json",
+    "OriginalSHA256": "e63a67a46357988201cd5dcbf7a6ad52b7e7d12ee13648d63f6ca28fe60b8de6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/Run-NetworkTrayUntilStop.ps1",
+    "OriginalSHA256": "66a4869954ce6ddf776c8612d91d495c74fe455bb4bb53ccc134face8fff2e24",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/Status-NetworkTrayUntilStop.ps1",
+    "OriginalSHA256": "612c4747278d378ee1a1025b3e0c7e792aea66192634bba92ba7f7f8b1fb0330",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/Stop-NetworkTrayUntilStop.ps1",
+    "OriginalSHA256": "0382c3fbf3cf5492fa377a5d56feaf1c6265d2c4e84bba7900f5c91f55bfe627",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/TargetFixture.c",
+    "OriginalSHA256": "5ac6fb1a77975dc3d36aafb50e1a30c03d927107873c4a1be35501751ac6f7c2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/Test-Lifecycle.py",
+    "OriginalSHA256": "ea6cb28937637e12db6624d26dc055a5d418defba7c6d45b5283f1bfbe1ade3a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/tray-window-inventory.json",
+    "OriginalSHA256": "0dc5fbfd6ba4c924c7684a01e73dd5f0ce3065626d31b123cfa9ea396f6b4745",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/ui-fixed-runtime-proof.json",
+    "OriginalSHA256": "ede9ecced8b4e690a128aa397cdc99155ea8effef557788d0379f8bdbe9c515d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayUntilStopCompat/user-confirmed-network-ui-20261006.json",
+    "OriginalSHA256": "2508e9af55a057cfda36f373222153281262e07e94490e7cda95af095bc39c43",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/backup-90b3fc7be908536c9af569d52949394c.json",
+    "OriginalSHA256": "4ce4253db7bba28e15e32543fa4377ec0625389917497f85288b1dbc8d29762a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/integration-proof.json",
+    "OriginalSHA256": "cb51718d70d7a448652180c98f4e1035ecd83b1bab5b3123c925a19388f9df92",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/Invoke-IdentityProof.ps1",
+    "OriginalSHA256": "8a2d35ae49d0bd494120d9b13684ff0ff03565952f0b621f9431c744cec84328",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/manifest.json",
+    "OriginalSHA256": "2cf4a5b36cf0651b0e0289cca51dba650cbd1ee1d88a5f12c14be8542825c43c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/Set-NetworkVisibility.ps1",
+    "OriginalSHA256": "eaa48673b760ab99466efa267771492aed1b36c17f0d5861d7f77dd94c880d89",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/Trace-Preference.py",
+    "OriginalSHA256": "04a195c43814cade5096b35b3a84b7f6e1090637f5f6d09014ebaeccd9049756",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NetworkTrayVisibilityCompat/Visibility.c",
+    "OriginalSHA256": "810acbd8ca348e6cc384c7e45e1803bf7ec11dd697abf7e0a2c4a6be38caf8ff",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NoVfsShellCompat/Install-Icons.py",
+    "OriginalSHA256": "20e4e53c68a6d1b5cf64bbb3e7f5268f388390dc76b5bd7924470a59cdfa6420",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NoVfsShellCompat/Launch-Explorer10-NoVFS.py",
+    "OriginalSHA256": "c12a00aec027a946399ff2b9c28569270ea8de260af0beff0f5b49b967a8b8a2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NoVfsShellCompat/manifest.json",
+    "OriginalSHA256": "df876d45b30443e47b21ceb7f9876b7d535bcf34377a9d85311445b08e81df3d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NoVfsShellCompat/PinIcon.cpp",
+    "OriginalSHA256": "bc0970a754f084777768b418e27b338a70901b8a2efc043af8a54134586c48c3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ResourceCompat/Baseline-probe.json",
+    "OriginalSHA256": "3b4368a4b509b072344a5072c5aa8246c5f51fe35f3b6cd2152686e6c81bcbd8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ResourceCompat/EntryDebug-probe.json",
+    "OriginalSHA256": "6f8c60932280e48b7481288d63e38e9fa3adff23e7fb7b620c028a472cbfb45d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ResourceCompat/EntryDetached-probe.json",
+    "OriginalSHA256": "fbad733a1f967da7a8d9997063f6d59d7037e7f5fd4b1538a68e353ee53f687f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ResourceCompat/FactoryWrapper-probe.json",
+    "OriginalSHA256": "9eccef634c1c11929cf67c66c34da18c0e3f5c3588fa6fb7fcb184e42f585ae9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ResourceCompat/Injected-probe.json",
+    "OriginalSHA256": "0aee2c2da978b52c312967685cdac80d47c0de8d3c09d45ec19b8cbb5392c16f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ResourceCompat/LocalPRI-probe.json",
+    "OriginalSHA256": "a4022d3e8778a84234d8d64a5bb77036e47892bf381db854646fa24ac23e0c2b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/BootstrapChainProof.cs",
+    "OriginalSHA256": "56f30f95648c72c4fd85f23a718c03f64ef059cf9108c944cc6b580480eaf637",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/build_adapter.py",
+    "OriginalSHA256": "8f95ce147930ebda46d3a4f5b8d11762303b43c647097e0254e6d07cc86f248e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/build_and_test.py",
+    "OriginalSHA256": "4e00fee01c808d55552c370a4b706cf156a5502b844eca417890685ec50d022b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/inspect_xbf.py",
+    "OriginalSHA256": "afcd7dae15705cf3c36de992f14c6f63124a7221f350945c0c2acceac125d007",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/manifest.json",
+    "OriginalSHA256": "e730be0395fde2541dec27a67962f8a2cf352db99fc161f7dba5e0746bc69620",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/own-bootstrap-chain-proof.json",
+    "OriginalSHA256": "75575513ddd05fa513c22ee799f7f56dd525aa73ca1232f9a59efc5e2b71a0d0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/own-caption-proof.json",
+    "OriginalSHA256": "27d0d369ee32803a55b11756c6acb7fc3c788b38e1d845542ad076dc4dca7c28",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/own-merge-proof.json",
+    "OriginalSHA256": "61bb9dcead2d5466d6f13a1cdddbade9d97be92c197224d31c0b671dcc1c96db",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsApplicabilityProbe.cs",
+    "OriginalSHA256": "49803ef067f5973a4d3b97c8f6dbce4f1f4005463be5649c1b7ab07f779cc58c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.before-vfs-identity.c",
+    "OriginalSHA256": "4bc1c7e9cf669a56a2e08d477e5a4532c7fa0fa3e3707801df591e9c4d169f06",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionCompat.c",
+    "OriginalSHA256": "ebe8ef12907071d8a3733af961f370514e32d868befa9736697c6a8a32375add",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/SettingsCaptionProbe.cs",
+    "OriginalSHA256": "ad74df943cb73eba3ec069c6d1064573b84fac6e96d58915f7a5b0482b2575c7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/test_applicability.py",
+    "OriginalSHA256": "df0adbef59c4499076a392b54f7c5e0007554064d8e9dd5b93f696ac51ef6200",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/test_bootstrap_chain.py",
+    "OriginalSHA256": "a75e0db1e9ff2e765e183224a4677558a58440bbfc46c7928cd5a475499bc614",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/test_vfs_bootstrap.py",
+    "OriginalSHA256": "8242047948eedd7f249512eddb5a52d5c492ed6a72b682c023f7800e0504d00c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/VfsBootstrapProof.cs",
+    "OriginalSHA256": "4fa92157de558b12bb5854d8434281d5b861a6bfe9f1201fdbffc9d419d48703",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsCaptionCompat/xbf-about-evidence.json",
+    "OriginalSHA256": "d5720f6eebe03aa2498be19f5edadf621116f7a4a615567fefe8f13bd590b4fd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/Adapters.h",
+    "OriginalSHA256": "f426023ed4dc422d014d502f54793add53f5e75205c20dd9a383c920d0fe786b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/Build.py",
+    "OriginalSHA256": "4dcada150702838475382a58ec3dc28e07946e82a9db6f73e1c7362a4036667f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/chain-proof.json",
+    "OriginalSHA256": "64f9d870339b733df002b4ed060a6a37573dd76f75840ad30929034118deec7a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/ChainProbe.c",
+    "OriginalSHA256": "6f267297aec40a7594aa3e6f95877fd242abf377dc412853a1ca2caf5d8f19b6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/hash-guard-refusal-proof.json",
+    "OriginalSHA256": "6abc4bfb3a70584e8ca7cbc03826a1299b86242bbe8a3985c45441c2909ae8d5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/HashCheck.h",
+    "OriginalSHA256": "79e63000dbfa7b091053674bb13d36c82a5789f561f77c71c04c92808dc967c9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/manifest.json",
+    "OriginalSHA256": "bea92af6b4a41fbbd399f54615d57701bc88cb476e893d0e97e5455813ad9213",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/SettingsContentCompat.c",
+    "OriginalSHA256": "c9b72b3d6bf1ccedeb5cbaa4916da51932e26f42faefa475a877e13070747525",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/Test-Chain.py",
+    "OriginalSHA256": "6e587a55be7bf50bc3da35aad2fb39f4e796f1ccbe4920897a617d997b5085c8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsContentCompat/Test-VFS.py",
+    "OriginalSHA256": "2f6f761796534fa717063cc5fcb9614636eb41b4bb338d45964cbe63357827ea",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/build_control_text.py",
+    "OriginalSHA256": "c48d79a92d0c60fcf0c47a32ab4c651186a2960bc0bbef4fb34df0236883803a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/ControlResourceProbe.cs",
+    "OriginalSHA256": "8127b26538c24d4e14eadcb2543f9b0fecdd0188d619bbcd3c691e2285940ea7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/ControlTextFixture.cs",
+    "OriginalSHA256": "0cfa3856c1e86b63866e29fa645aeab6913fce65c8310fa3dd2ca8d899ece0be",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/decode_display.py",
+    "OriginalSHA256": "915f005a633a0f9a48406827c58edc11800e654081e190087a8946b728b9a297",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/decode_taskbar.py",
+    "OriginalSHA256": "eb7c9d9b8c9d408b399b15e834fb731777f4d2d2c71320124d2ade8536dfa734",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/DescriptionCallsite.h",
+    "OriginalSHA256": "a6e842698ec119cf363cd7521019bac8728a0a307ccb502ef2c13c82c8600135",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/disassemble_getters.py",
+    "OriginalSHA256": "892cea6ec02de9d3e9df3eff767a3b29f2a74bdb9a0c2022e9f2db6ebdeda316",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/disassemble_nt_description.py",
+    "OriginalSHA256": "e7f49e50cc0a447a9cd108164accc620959be127a82a7e5ca4099795c22be19b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/display-registration-readonly.json",
+    "OriginalSHA256": "de9aeb615d4f0a019752bd66786a0818550e61208638de27104b01d2112ee127",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/DisplayApplicabilityProbe.cs",
+    "OriginalSHA256": "9b81a707cca5b0b90e406d7b7ed2ef5ce469fc9d575a641f58555e95b7a61963",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/dump_info_vtables.py",
+    "OriginalSHA256": "c1ca5b3ac8cd134089d51f1ede7deccda6d5c3b7a0ba5de24805a95ad65f848b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/fresh-nt-map-proof.json",
+    "OriginalSHA256": "7e36e42f92ca7d165a93239314d61e5e2a4c749ff0b8448de644fd27c99c35ff",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/host-settings-datamodel-relevant-symbols.json",
+    "OriginalSHA256": "f2821e9cf293390d4dac60bb28ac6c2f3cfbd2f67f196dee4484f6217c8133c4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/host-settings-environment-relevant-symbols.json",
+    "OriginalSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/inspect_description_paths.py",
+    "OriginalSHA256": "a937e650669a0e62345e25852ca26e7f12a2e84cf28b8dd851f3022256a304ec",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/inspect_model.py",
+    "OriginalSHA256": "dcd022426db6dde7f0c8e25948b2d3eb464bd73e60e919f1b7ba80c0d37f9a36",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/inspect_nt_resources.py",
+    "OriginalSHA256": "e55e293950a6a0cefbf869e3deb099909d9457cafd534aa5188b9b4f20c52e44",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/manifest.json",
+    "OriginalSHA256": "6c6306abde9806240188cbb51ba780ed46af29758620d351b48237910d8acf65",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/nt-resource-strings.json",
+    "OriginalSHA256": "2d030c4618ed97a3ea16d711f6bbdeca3b943b0001e71b48849eab4e01659059",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/NtMapProbe.cs",
+    "OriginalSHA256": "bec8607a66ecea9a25888f884861367419cb27002302abfef63aa71eccc2556e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/old-settings-datamodel-relevant-symbols.json",
+    "OriginalSHA256": "e7a0042ae06e047b9e99d38ec5270cf35ec95ea846e34608af5ab4352acf1c5a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/old-settings-environment-relevant-symbols.json",
+    "OriginalSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/old-settings-viewmodel-relevant-symbols.json",
+    "OriginalSHA256": "8d628bcb1c64cac32f5a976179e205cb97c4a232cb108cdc5c7f442a9353f39c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/own-adapter-proof.json",
+    "OriginalSHA256": "38ba04c8059928218b455407eb0a1e3982110a25484f8a249be39b912e0e88ae",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/prepare_adapter_metadata.py",
+    "OriginalSHA256": "03d79f208ffbaa45b0a52b453194e2a1ea76c4554a5a63f93756b50a6634e873",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/prepare_display_applicability.py",
+    "OriginalSHA256": "e517ffb5feca1410cb5806ed082f5356b3ebdf610932bc5bdd7b58911f719bac",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/probe_fresh_nt_map.py",
+    "OriginalSHA256": "c89e8289be567484583758e6becfbcc143c818cd3003a6b0fd906eec7832e814",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/probe_nt_map.py",
+    "OriginalSHA256": "826e72c7d53342ab39e61a4a4bc3b76ad265db56fd1b1951340cae0672dd3d67",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/probe_resources.py",
+    "OriginalSHA256": "e79211ddaf50488defa0611fbd42540cbe950edcaa70959b0c3a5d9f839cb2ba",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/probe_taskbar_provider.py",
+    "OriginalSHA256": "2312d594ec96fedeaefa6ac10639d5cd0b0c36cdbf56ab3c14e418b94913d87c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/probe_templates.py",
+    "OriginalSHA256": "dc90c8711333ce7d3696b72ca7b6e107bcedae6318987ccab81897e2344c35b4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/resource-proof.json",
+    "OriginalSHA256": "af64fb084e79c09389b854edee6f82431e66045780c8bb9d052dc0d6b765d332",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/SettingsControlTextCompat.c",
+    "OriginalSHA256": "c28b46ced5e464a543c9487046030c96c6b7d90cd24e21de486ead87c8c3ed96",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/taskbar-provider-ntpri-proof.json",
+    "OriginalSHA256": "fe72b115a9dbb998126a8fe86a76aee8b4f2989468f587fb55f43d3ec814c900",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/taskbar-provider-oldpri-proof.json",
+    "OriginalSHA256": "1c5d382099708eef8a56010f02525a8e1dca16a02017dab8824d3534a0c42129",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/taskbar-provider-proof.json",
+    "OriginalSHA256": "04bbb8e10242ea0a980ea30c4604d3a9486fbca6d60b9b6c0cb8087d48704e0e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/TaskbarProviderProbe.cs",
+    "OriginalSHA256": "28ae269a1efc4d0c15471ebcf1abd8a1074e38e5e5dd51d3e645a54c8a1442ae",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/template-proof.json",
+    "OriginalSHA256": "783126f4863efb5a750755e9ae6373a69dc66d08968c1b9259654d1317565371",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/template-strings.json",
+    "OriginalSHA256": "ef23b981bcda4e28a407c67aed23d7fa3c89de2963b355e8e64de86fc764f33c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/TemplateResourceProbe.cs",
+    "OriginalSHA256": "333150d23954f3e10bef228ea54e2fd40672e657887dba97b30a552a9ac22117",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/template_strings.py",
+    "OriginalSHA256": "1de129b38707a3207569a88b0a60c762b44ff053473e446ecaa597e0e424941c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/write_adapter_manifest.py",
+    "OriginalSHA256": "0958cdb331ae34babef359b08d56f68e14736a01d53c3e89316e5c86394c68ad",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/xbf-display-evidence.json",
+    "OriginalSHA256": "b841200d07443fabb66b7c55dfb6ddaefcc61b0fefc19eb3e2361e5ef2c69e59",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsControlTextCompat/xbf-taskbar-evidence.json",
+    "OriginalSHA256": "c1efe4a2e2accb5dcda2226e3df18899d58f1f7b5beb150f31198033a13a6396",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/adapter-metadata.json",
+    "OriginalSHA256": "829f4c921a8c54910c6a6ef90bf13e06b1a1cfd50160220c8761f7adcdbe6d06",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/bootstrap-own-proof.json",
+    "OriginalSHA256": "ece5e2c14cb4938b22e40842a2b2fceaef6a150da3bed73cb1f77ced925e86e4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Build.py",
+    "OriginalSHA256": "9c375e9164374a92a864a05bc46f946c5507be69a7e37bb81358a8bf039dbd42",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Create-Session.py",
+    "OriginalSHA256": "46c6b7907bdc08111134c591f0ec551ce99cb6c78cdf5c76b78b75257ca4be40",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/FactoryFixture.cpp",
+    "OriginalSHA256": "7901f11cd9e06137be30a0f7b77d4ab6a9128da6336422f06105c28e9444d64d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/FactoryPins.h",
+    "OriginalSHA256": "1874d4d2bbd66f85c172c6bb71ae2699c859c24e6dea999eabee9a31fb76262a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Launch-SettingsNoVfs.py",
+    "OriginalSHA256": "12aa6a00e21db52065c4ea880401c09957c772f8a40773fb5de5c5049f085423",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/manifest.json",
+    "OriginalSHA256": "9ae0a2a778a7cc370d210dc8bb2268c0c04c7f58a6a858d292c4e388cf935ccd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/native-exe-loader-xrefs.json",
+    "OriginalSHA256": "74503bd243ae39897e6bb724b1714556e5ad2ca35043c189cb5ef5473fd9c01e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/old-module-factory-candidates.json",
+    "OriginalSHA256": "bb53ba40076fbb8fd3a6f40ba6d333edc7185c277b86e42482cdf2ce753d059d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/old-vm-factory-classes.json",
+    "OriginalSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/own-proof.json",
+    "OriginalSHA256": "3262bf8d0b47a43c0aa393e3fdee7bb0f62dc4ef5a5040cdae9866757b5e0a96",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Readme.txt",
+    "OriginalSHA256": "c44144ce578a45fe9d12b798482bda14e6e24b582014a3c66a0625ee39d6524d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/SelectorPins.h",
+    "OriginalSHA256": "a920282b4d13b3275f174db79de03ea73fff09879c04fa995aafc5ddaa0dd082",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/SettingsFactorySelector.cpp",
+    "OriginalSHA256": "ea6d4f361bc5c1f29ec25731b30df7ced6895afd8722ef580b815a334555fece",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Test-Bootstrap.ps1",
+    "OriginalSHA256": "e9ade4ec1fa513a3ff945cd636c471f9ab8ecda75e623bf27f93aa94106a85ce",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Test-Bootstrap.py",
+    "OriginalSHA256": "46593c260205da3622fbda90fdd719b1b51ba0802eccae183d7cc2bf83b6687c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Test-Factory.ps1",
+    "OriginalSHA256": "6e4d0d3bd6d46180cae34b5e6410018f0d3d90a6ad339bce787d338475c45669",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsCompat/Test-Selector.ps1",
+    "OriginalSHA256": "b8da83945401bcbb8a9c060905c1184d14b0e5ed437d2039c69aae1f28c07e1f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsDiagnostics/SelectorPins.h",
+    "OriginalSHA256": "a920282b4d13b3275f174db79de03ea73fff09879c04fa995aafc5ddaa0dd082",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsDiagnostics/SettingsFactorySelectorDiag.cpp",
+    "OriginalSHA256": "272211701f89da7885b38419b246902eea0c384648132242e6d87d09244f17ce",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/AccessFixture.c",
+    "OriginalSHA256": "9eec193b38d7ac970a655eeb5d28d6538718f810e34a6b7bc81b3ec882fc826a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Audit-FactoryImports.py",
+    "OriginalSHA256": "f6afebdba1f3c18b23dd6b86a5de3b585ce3d3f8eebe49cff2bf2777b5f77620",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/AuxGuardFixture.c",
+    "OriginalSHA256": "284a587481a0e8bef94941b8d230032951b3186dd17e4e99aac6ba0be70822f1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Bootstrap.py",
+    "OriginalSHA256": "20d142ed23212f52c41ee8990a3097aacfc3794d076bd848225064a6598fd9e4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Build.py",
+    "OriginalSHA256": "75e329602a15e94f23cc0ead70dc7d2a34e12f7229e3dbb7129d675b1b3c7262",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Callback.py",
+    "OriginalSHA256": "607aaed46e70c0e7b24331d54ce08dad7ae5daa3e1b1dfe8491ad69f3ccd3646",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Cleanup-Visibility3772.py",
+    "OriginalSHA256": "c5a11ac33c6ffbaa057ff568f81ad4d4a9f861ee02ac54a9dcc9d87999db094f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Create-AccessTest.py",
+    "OriginalSHA256": "a5b127792c872d90a37d22f83ecad98b9c9c296491e8efbdfb2125d2f71c3b5c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Create-Diagnostic.py",
+    "OriginalSHA256": "8bf8ecb1a17b8e3192068ac8e323f2a18ef655015ae3bccdaed99ef8d2bf2ff0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Create-Tests.py",
+    "OriginalSHA256": "343facd12ac2b3ca92be63d36d24063a1b17f141109b99e2b143406a9a7ca599",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Disable-Settings10-NoVFS.ps1",
+    "OriginalSHA256": "a80b9085bca59f527f1c3c8f442b551699701d36ab738b7d4915057965e39784",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Enable-Settings10-NoVFS.ps1",
+    "OriginalSHA256": "c099b51eee06e0a832059ae46cbf5750db7288a4d7e603d0abb0d74457ea800a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/EntryGuard.h",
+    "OriginalSHA256": "953618260b7c87fdb3313e1cefbfe55ea06e9874ba2e7461686f01481bc2b1e4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/EntryPins.h",
+    "OriginalSHA256": "0991f5fb7ec6a6273e0120f807612e41272862bd0d26c268ca041d0659ce2ec8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/factory-import-audit.json",
+    "OriginalSHA256": "aa6bd5578bb7d4eeaaac569e51d1fd25113fff74bc4dbf45405b6eae94773674",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/HashCheck.h",
+    "OriginalSHA256": "79e63000dbfa7b091053674bb13d36c82a5789f561f77c71c04c92808dc967c9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/LeaseIO.py",
+    "OriginalSHA256": "3eb5e1bf5bdf64c3e077c0b0b1d0870f6a1c0ebfeac2e664e2c07a36166d3f86",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Lifecycle.py",
+    "OriginalSHA256": "dd239c2d26ee09aa1ad5c6b50afc29aaad30b511847d8c8148a196a026d9acbd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/manifest.json",
+    "OriginalSHA256": "bcfee25dd3a042a90d39ddd2304b8492bc9311dfd9030085b59097c3ed182c14",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/own-aux-guard-proof.json",
+    "OriginalSHA256": "bdb7c98f0dc6864d9a60f52982d05334a60389c386740b7ffa21a0e98c1ce0ea",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/own-guard-proof.json",
+    "OriginalSHA256": "fc3502c2f6988100337b72361323d02e025b2a0f5a81be13fca3de9cf6add297",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/own-lease-io-proof.json",
+    "OriginalSHA256": "c8b6d67eeafca384579a5d910f5cdee653e37a7bce60c02f7a0751415686e74c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/own-lifecycle-proof.json",
+    "OriginalSHA256": "3dbce593bc0a4b4d50190c3f3a9cccc97fdd762c3ee1e346eb70832680a185be",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/own-package-access-proof.json",
+    "OriginalSHA256": "6509e52621b5846a7c2d3bbf606f8ee0e2d6af896cee3cc156c1a7339d188635",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/own-source-access.json",
+    "OriginalSHA256": "d598706c71a801f4f1ce6446dbad867c915da6dcdfcfc13b4bf5fa5accddf500",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/own-stale-recovery-proof.json",
+    "OriginalSHA256": "a274cf461cb5f6026b4be100b8196c5050b44714673be54e7f9067077042bdba",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/OwnBootstrap.py",
+    "OriginalSHA256": "526e1e274ff1d016e2fd0468bf7458e4c54806b16c09651e00fa511f576fffdd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/PackageAccess.py",
+    "OriginalSHA256": "231dcd59419a8aaebd4248eb9e9594a1138953bf192a92402ce420a5ab4b043b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Prepare.py",
+    "OriginalSHA256": "191bbc89195768875b988f6f7144f904e173e963a341b73f8d9e60e0f31f5e57",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Resume-OwnedVisibility.c",
+    "OriginalSHA256": "5bf92fee0b0aa26a1e37e1fa3e2b74dd3d8f2356160c4ecd0e0d7370553fee09",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/ScopedRecovery.py",
+    "OriginalSHA256": "80b576ce678c38ef290da44afe4db039a175df427af71ec700518b8b5e6a0f1d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SessionControl.c",
+    "OriginalSHA256": "b5abc1dcc2cc49c34c4d1eed113928132778c034aae6c9ea5491fb23243a08ac",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SessionController.py",
+    "OriginalSHA256": "e654fc1784a6d1a8a921e089687e588d25bfa8e039a731435377c354ddbe168c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SessionEndObserver.py",
+    "OriginalSHA256": "c3431ba7b29216261c6ec08e49825648478f956b665f191efb59aed8c752b577",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SessionEntry.c",
+    "OriginalSHA256": "52502370b6b20aa5406ac7b40f4b1b966c39e878976479019ff21ebf2d62bb1d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/source-paths.json",
+    "OriginalSHA256": "e552ed754c532b5a18b9e550769b8de04fd8b31f2202a58be494dd25675621e9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/SourceAccess.ps1",
+    "OriginalSHA256": "c80bad3e17e70bd2b44537b30e7727b2177541b65d3b574c5895dea2899a95c5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Test-AuxGuard.py",
+    "OriginalSHA256": "97d5f8d768c647e61ae0bb514b220324ace56d8c78216fbb62a2dac338a0ecc6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Test-Guard.py",
+    "OriginalSHA256": "da50d1c3e7387dc9c1f6b9af22890fa9cb76276c65b16321af5292c2b8f87526",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Test-LeaseIO.py",
+    "OriginalSHA256": "500c383311d6d6e0d04607efb866085ed5ee873f2456c4b4caa664f446ba484c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Test-Lifecycle.py",
+    "OriginalSHA256": "ffeff4d8ae511da92af3ca358bf28a1338a099ac0730d4a96eccb9b83d204e1d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Test-PackageAccess.py",
+    "OriginalSHA256": "6301b91df4e0937fb1a78587d1714338b95f051aed3288369229800eb82739e7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsSessionCompat/Test-StaleRecovery.py",
+    "OriginalSHA256": "75fe5c083bfa441e9850fc4b918e622f49f942cb45b07c1642798b54fbbaa563",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/adapter-metadata.json",
+    "OriginalSHA256": "305b21657a32ba5166c603615cd0ca900a9131a85fefd71181d23cc1da0992cd",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/Build.py",
+    "OriginalSHA256": "6f3e338dfecdfbc9885521a7db527bb8a652e4e981b634ac2900ca4a184d4e86",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/Create-Fixture.py",
+    "OriginalSHA256": "40cfda9f3dee5224872a9f4e7cd93d94bac6f15167b365266d0e6b9e6bb3655c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/FactoryPins.h",
+    "OriginalSHA256": "1874d4d2bbd66f85c172c6bb71ae2699c859c24e6dea999eabee9a31fb76262a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/Fixture.cpp",
+    "OriginalSHA256": "62fa3efb3926c14b70476062cda964cb47a86eece665d1519bc835e42ce17c72",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/Launch-SettingsNoVfs.py",
+    "OriginalSHA256": "12aa6a00e21db52065c4ea880401c09957c772f8a40773fb5de5c5049f085423",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/manifest.json",
+    "OriginalSHA256": "707594a6fee9a598251fc058dbea0aed3d9f34e0245e25785c4e8abdf25a50c2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/own-proof.json",
+    "OriginalSHA256": "85fca159665e0763d08e17da8630e91f33258485946e0810c63849923c7c9f84",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/SelectorPins.h",
+    "OriginalSHA256": "c2ec22c0454245a7ac685999aa8de2ed2a8ef260b0c9554dd9ff1e3beba0f9c8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/SettingsFactorySelectorXaml.cpp",
+    "OriginalSHA256": "75cca1152aef0d0c6241cb158c88397b89f8f8a3e7e7040b8997877ef867ca3b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsNoVfsXamlCompat/Test-Fixture.ps1",
+    "OriginalSHA256": "1ace59bdd40020c02c102beda4d3793c8f02481f9271171d463c0ae6dcc8f133",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/adapter-manifest.json",
+    "OriginalSHA256": "508dda2914ee8911aee7c366d5dc4b4468ae584594ea930d0de56462126aa9d6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Add-NewIds.py",
+    "OriginalSHA256": "6815078e0c4cf6e07ff2a1d2af67a435f5e2b573434625f76ceffbb51109d7af",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Add-ProviderMode.py",
+    "OriginalSHA256": "918c0a20d93af0dbc9b607cae5682527476e164273a31e8205c20cd1c2dfbfef",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Add-ReadonlyPowerComparison.py",
+    "OriginalSHA256": "908abb11172a7792aaa757e3cf94ab5d3ae26284fd698133a0e61c131867f402",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Add-WrongBytesGuard.py",
+    "OriginalSHA256": "326132f78990d0b896badd7709b2f654a427a1592e82e3b61efd5274901452a2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Build-Adapter.py",
+    "OriginalSHA256": "e7d9042aae2f15bc38c5b9b4b8ee076035dac49d21eed10a2b968cb45ae6df5a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/ControlResourceProbe.cs",
+    "OriginalSHA256": "b71c0b720096465c342d20f97bacb6c21f560c1f2cda2ada831bc9d2b16495aa",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Extend-DirectQueries.py",
+    "OriginalSHA256": "bd04147e28b097dc6c9c39637834f3f3e302c688c2082345354cda5248b04ffa",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Finalize-Proof.py",
+    "OriginalSHA256": "e3e3620f5e5be4956fe50831fcf5360aad5f37c3f526419df8db0271421b5bfc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Fix-Build.py",
+    "OriginalSHA256": "185e20926305f89490d5b2d29a8241f5df01f5020373450f508b498afb8158da",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Fix-FixtureIdentity.py",
+    "OriginalSHA256": "a94430e4f1da372d53d2ecb2bcef6d9f66848efea39e1752abda14eb0d33e970",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/id-pointer-tables.json",
+    "OriginalSHA256": "9d5518fd0f9641301922398f2474359c2ddb9568683a79a74093c86e33d6cd49",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-ExactGuidMap.py",
+    "OriginalSHA256": "19b93163fcd1e8ffd24fb0c02159716e173d652c7929a2682416512203222757",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-IdPointers.py",
+    "OriginalSHA256": "82e566fd9b6d8344b0500370a432d4e18b540a74da2588e897cfa1d7e1b39d3a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-NativeInitializers.py",
+    "OriginalSHA256": "3f8ae55cd2c2db9406150cab71c7593714c7f0d5950fc6ee976fd0646027113e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-OldDescriptors.py",
+    "OriginalSHA256": "c763c06aaa68483003cab4c179217fea8dfb8b9dcc1509900457263c9f71bcff",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-OldRegistration.py",
+    "OriginalSHA256": "a873db5b3444e0226bce6a1c7f0fdce32a387b527a735fb068214327c8d52f22",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-PowerExports.py",
+    "OriginalSHA256": "f27bfb18b3668c0c39584753b6059f16bd0fef24f7f0913e230676433c19e6a9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-PowerGuids.py",
+    "OriginalSHA256": "5f43271431a7240b8c32cfa5a8c2952a7f1be3e6cd08cd9fd2f598d23e60074d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-PowerStrings.py",
+    "OriginalSHA256": "59967c1fcebe7d38f0a978ddb10239db2a169f68a1125d92368b7175cf99a34e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Inspect-ProviderExport.py",
+    "OriginalSHA256": "4f4bdb59111a0cc63bf6d4ae5037537f1eb6210ff3c3274d25679d2e39d29497",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/ItemProbe.cs",
+    "OriginalSHA256": "db9467f0e6a2546e183d382918dcc64a77d2f396841973951b57212e9c6835e9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/old-id-descriptors.json",
+    "OriginalSHA256": "bfac73b0a11ac108b74ce09866f9279f2f3e50d56e7bb01c7df25d4e29a4e17f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/old-power-registration.json",
+    "OriginalSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/own-adapter-fixture.json",
+    "OriginalSHA256": "68192130b9660ccdb6d6a3724ee313b4da1b1c98e95ed5aa9f1554a2bc777338",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/own-items-proof.json",
+    "OriginalSHA256": "3814ffc4b4ee6f5ea71c5ce9f964abe7ce6fbd74193613a9fbe9a69098b9d04a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/power-exact-id-guid-map.json",
+    "OriginalSHA256": "0bfc04900d9eb3c18ce76f756321afb23ce5db9bba44611e15de0c9d39d262d5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/power-guid-api-evidence.json",
+    "OriginalSHA256": "c79545d3f532d5e3b5034b9e4a59c1ba6c28f884d41e818a61010b67c9c28b0c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/power-provider-strings.json",
+    "OriginalSHA256": "5fe53392cb3bd709075e19fa8f79c87639a5084b4df2e5bbe8e4fe9574436301",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/power-semantic-guid-proof.json",
+    "OriginalSHA256": "785e532b50e4d7c54ecefdef284d922c42e612331fa8601a554418c5d83064d4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/PowerAdapterFixture.cs",
+    "OriginalSHA256": "57c5fcdfa4068c8efe92df245853d596c441e6d478873721594273a098396de5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Probe-Items.py",
+    "OriginalSHA256": "79ad9b278db6f89851c1c9598aae75a6f3ba45a81b824e8979b035721cf90b1f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Probe-OldProvider.py",
+    "OriginalSHA256": "e1d7daf43b40810dce1f81d7ffecc7484f5c3ea5998d278887a92593f4ad3539",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/probe_resources.py",
+    "OriginalSHA256": "31e54dda5ae6d549826bf61ecf174594a2cc7ca5e8be5df2c94ca4ecb107f5cf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Prove-ContextGuidMap.py",
+    "OriginalSHA256": "417b5f6970777a81a4b6959d6c9e714fd02b9d81313fb3fef7d919d955dca7cb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/SettingsPowerCompat.c",
+    "OriginalSHA256": "538c19ccb1e08debf2997ad868df6d7ecd26cffdfc0470ef39dc7d848a601738",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Test-Adapter.py",
+    "OriginalSHA256": "1df4b4ca8c12e5c344f54024d0b34c03eb1293448b3c8aa6c80f5f4c9c76fd63",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/Update-Descriptors.py",
+    "OriginalSHA256": "f5a506ad78bb12eb81ea328ce97f67472669e8e6d6f767e6f3e0b7954f3edf51",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsPowerCompat/xbf-setting-ids.json",
+    "OriginalSHA256": "fde3dc906b4b087857513c6ba6a9412884bf0886fc2fdbce5ab3001170ef08f3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsSystemProfileCompat/adapter-metadata.json",
+    "OriginalSHA256": "96374cf40160acf0175523063de47fc64e6abc30698f9384cd190d0891b936e4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SettingsSystemProfileCompat/SettingsSystemProfileCompat.c",
+    "OriginalSHA256": "2d234b107d2927dbc12201f8250f50256a5d827ec6012413685c6fd9ec444a78",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ShellAppearanceCompat/EntryGuard.h",
+    "OriginalSHA256": "fd93927f3a91a648d1c74dfa5676b931b7597037cc80f18e2941b8fb8cc83ff9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ShellAppearanceCompat/EntryPins.h",
+    "OriginalSHA256": "352326cc01f7be42c5f3ad0a3402cd7020467ff8ed12ff25ff781f82b4427282",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ShellAppearanceCompat/Fixture.c",
+    "OriginalSHA256": "ea1a6f3512a84a56f681c94f8bc38c8326a066cda6970e456eab9e1528da170a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ShellAppearanceCompat/HashCheck.h",
+    "OriginalSHA256": "79e63000dbfa7b091053674bb13d36c82a5789f561f77c71c04c92808dc967c9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SignatureCompat/profiles.json",
+    "OriginalSHA256": "fe2579269d1705807f320d69514d34dbbd5a9019fb4f7ec662254f0ab830ac3a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SignatureCompat/Resolve.py",
+    "OriginalSHA256": "8aa07202eed77fd15906da84fa0e566891dbb456c078b0b9f130f0821ff79124",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/final-helper-read.status.json",
+    "OriginalSHA256": "9d152f45f54958e0dd21e3b29e5711ebd294122a07368739ccd640949caf5f9d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/gui-helper-read.status.json",
+    "OriginalSHA256": "ad8ba110c0dc0993b745a43512dd18d9d058f6fc62c068d0e4aa846fa86c35d8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/manifest.json",
+    "OriginalSHA256": "27197c9a19ccf49d555969bd154133bc6091be0cad29a84e3a17b5077030ccb6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/read_snap_service.py",
+    "OriginalSHA256": "599a33980ab6f2f7c3af947e08e767413caafad5cf76c88bf2656a02515a909b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/refresh_once.py",
+    "OriginalSHA256": "e3f240cb7522730fc22e5c7c2f1a84ecedad9d89a575c5fe1026e33a53b4e535",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/repeat-disable-fixed.status.json",
+    "OriginalSHA256": "143725cea58823134d34e156d00f9dfb61b5c4e86b33cdb787aad4ecd3e07f79",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/repeat-disable.status.json",
+    "OriginalSHA256": "bdbfa3888b90994789d7d2dfaaa5f813c81cef8d82af18c760375f977a1c4acf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/SnapCacheNotify.cs",
+    "OriginalSHA256": "a963ebb96e9c563f9dcf7c14a9b1f0d1779324b9386a6842083074c971947e30",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/SnapHoverCompat/visible-ui-confirmed.json",
+    "OriginalSHA256": "4e33ea80ea2db3640c73b330a653956b3b4332b55518302bba5280c5412d45f3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/build-info.json",
+    "OriginalSHA256": "3f9aab4dac88648050eb927bba99168bca3040f9a508e730bebe06f4c7daca7c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Capture-StartLifecycle.ps1",
+    "OriginalSHA256": "254fecc8e417b6a6524e9091e61d039aa8fcc5f93036a640e0c9f2531c676574",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Capture-StartLifecycleGuard.ps1",
+    "OriginalSHA256": "94ed7596e522f16bd69ab70eeeb91eeae8212b2aeceb47fe271a1aef4f1a9ff4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/CdsBatchedCompat.h",
+    "OriginalSHA256": "2c8852b537a590a79cdf174b6e06b4d5080633480b48fbc899a3092b5e7c2ff2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/etw-noadmin-smoke-2299ce85.status.json",
+    "OriginalSHA256": "d760cd2b40d1115589393654a4ee7b8db6aacb5b222165ca9e060b0f5781a4b0",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Grant-StartRuntimeAccess.ps1",
+    "OriginalSHA256": "3ff624b2632cba8838ed48b720c85e81f2bae6820ced28159dd1c4512d137f62",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/lifecycle-eb0812ad02a6.status.json",
+    "OriginalSHA256": "5de7a8a742c883a8c6ad2f97c12ac54118ac213942cb3565f9a50cc2265ae994",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/lifecycle-eb0812ad02a6.target.json",
+    "OriginalSHA256": "38be81b7109eee70bc00981364a42aa24ca5a1be78d66c76838b3a5394067ec4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/PackageDebugController.c",
+    "OriginalSHA256": "faeaebc95f9b91b7a542038d34df05ac117616874266e11b192e7e437f89760e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Restore-StartCompat.ps1",
+    "OriginalSHA256": "61d35963cbcd14a6c0f457711afa16ff8a4e7169f2a1846e5e315db54586545b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/StartCompat.ini",
+    "OriginalSHA256": "3f52e88744704deb9ca8f09528376248fc037c041daf1890e2eb6c1cb5269d0b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/StartCompatHostProbe.c",
+    "OriginalSHA256": "b820ce74a979f1d4112af8bcefd07fd6a33b5a843512aa76dceec445f7b914e3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/StartCompatProbe.c",
+    "OriginalSHA256": "79b9a62d10f085a8d6bd4bc896f4e13f066281226c7b11a4583300779a127b91",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/StartCompatProxy.c",
+    "OriginalSHA256": "efc59856435e8a05314406a088916f479b0107512d3229c268d8c2e488743b56",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/StartCompatProxy.def",
+    "OriginalSHA256": "c231324d05ab80aa0cb16c18b15285973b6062f52e34d21c485514736ecf327d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/StartCompatTrace.h",
+    "OriginalSHA256": "5d5f5ea161712e312c39426d00f5eb49311eafddee64cf7208f0203ffbee0194",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/StartExperienceCompat.h",
+    "OriginalSHA256": "315aa2c1366b34da88339a52b2f3cb20cc724e5cf8605d397df6d04612dbcb05",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Test-BrokerStartCompat.ps1",
+    "OriginalSHA256": "d20c674d7797221b2942a5bb07d0fa935ea3576d405c40652aed546a614c4bdb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Test-LiveStartCompat.ps1",
+    "OriginalSHA256": "99dbc1735cfa771a6cdfee78511a3b10870c2cb2d6ac823e053819308663000a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Test-NativeInjectionPreflight.ps1",
+    "OriginalSHA256": "9b5a94cabc035226afe7152aeea2daf319438c0adef1f3da0f1ec9fd31a6b43a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/Test-StartCompat.ps1",
+    "OriginalSHA256": "1091e284cebdf4a6482611499d436b473956a0892c938953514558b5eaec509f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartCompat/visible-ui-confirmed-37329bf276d9.json",
+    "OriginalSHA256": "7ef8000a7e5a6290b2c37e7de2baacceac70ee4897644b50e905aaec21a78af8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/build-report.json",
+    "OriginalSHA256": "d9271c3a07ee67bb02ae006d11b0c01ef4d3e222cfae8baa4ee65bb90f84a65e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/Build.py",
+    "OriginalSHA256": "63fc747fe34341d9dbcb24651ef52af2ff8c0f7a230c109d04649723250d8387",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/Enable-Start10-Session.ps1",
+    "OriginalSHA256": "a851062aebb491af51ae410c1e1d65c12dd50a8738860896ae34a866406d6e88",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/Finalize.py",
+    "OriginalSHA256": "472ed5c47270c7d8d38686ce305e46f9e9093eacbc3a82187b8d4170320efd47",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/finish_backend_source.py",
+    "OriginalSHA256": "cdc26e7b1933fae16d6af591db94f57b4223fd99796beea3b615cb17c73e2ed6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureBackend.c",
+    "OriginalSHA256": "ab7008150aae08d738c11fc69511b5e113833231811fb3181899401ee432ed11",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureBlockedProxy.c",
+    "OriginalSHA256": "fed58f7d0939e92c57a33ea33414fa0178155ef477b6a46cba54b0d0df7ad40e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureChild.c",
+    "OriginalSHA256": "5ed64b6b4d0d6b9667a626ae6779a7c808bbd396b1b4715d50c99a38dcfa73a6",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureImportedChild.c",
+    "OriginalSHA256": "09c7983d043696837d34f486d1760060c6885ac9b0b974fa430e6969fad9e1aa",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureImports.c",
+    "OriginalSHA256": "c8e7b5a9f0f8f7a221e37fa497b3cf74af9f4643283ac75ffe4a376135450885",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureImports.def",
+    "OriginalSHA256": "33ba03926375b97b1accb67642d9d858f07c38755c7bde981a01d24fdcfb6723",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureProxy.c",
+    "OriginalSHA256": "0214b349f76897d7c306e3fa84dab5f2c77a6fbc14664959c85eb13d3c4c0a04",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/FixtureWatchdog.c",
+    "OriginalSHA256": "90af319217ef804667a521ec58a884ad83216e84a41bcf8ae74f47cce682f274",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/manifest.json",
+    "OriginalSHA256": "dfd0ee23c19efb7acf969293516e230017cc1b0a7e49f3b52f3fdee7ec183bee",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/own-session-proof.json",
+    "OriginalSHA256": "91d15456b5bfc45e42a30844337c0090477caeb19f0a39cd79f5c96bd3050f2a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/PrepareSession.py",
+    "OriginalSHA256": "b8fd4e79a5993aa87ea575e5e62488eb184925414c722a0f4e4a26f97ede9a2d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/prepare_sources.py",
+    "OriginalSHA256": "a752279267fa3a506342837b96a29314e3333daf2cc52ff9fd2cd9571735b53b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/Readme.txt",
+    "OriginalSHA256": "0eed661251a14e18a274bf4a6ff0b952c012e67b8d35df4fb3573209837727b8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/repair-readonly-proof.json",
+    "OriginalSHA256": "595d32de526cf8c1c3b14408ced6fc23f5624f3c057673a974fbf9a7a05ec76c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionControl.c",
+    "OriginalSHA256": "21782c6ff4f34ac45089eead2a5611a1a9ff548f9bbf6705bbb05823ba6c9b93",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionController.py",
+    "OriginalSHA256": "c54fa85b6bdf0c242403c31b8c39b9d2ad0f0d12c230520ffd0afbadcf6742e9",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionCore.py",
+    "OriginalSHA256": "5437b79e343f27766cc603467fe4fef985c2ca7edb251da4ac644f5d0b95a40a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionEndObserver.py",
+    "OriginalSHA256": "7fb9122ac7a7b074541b4d3d4745707c5cd7f6e8d8ccf1ab258b838e1134e637",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionLifetime.h",
+    "OriginalSHA256": "005d3c9021eb0fa2d280746d9c5a2e4d50a0c835fa87c2ba3e24595389ad1917",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/SessionRepair.c",
+    "OriginalSHA256": "34b3eaf143e09321c3832fc39f2c58a27710bea2a40e4a067d4ef3c01b71e90b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/source-provenance.json",
+    "OriginalSHA256": "cfc12b68bf3b5d921a8e3fc2e2e65ead82cf644cc444b8eb80d0aeef64a35a04",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/start-preflight-timeline-409439.json",
+    "OriginalSHA256": "dd55f216aab1a8017f2782a19cfaf30c8c572306846d5226f6bb246bb9104931",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/StartCompatTrace.h",
+    "OriginalSHA256": "5d5f5ea161712e312c39426d00f5eb49311eafddee64cf7208f0203ffbee0194",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/StartSessionBackend.c",
+    "OriginalSHA256": "f46aac1cf0b331a7e65a45bac58549f19f0f19a88d78a9e71effe5aed7fb8dd4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/StartSessionEntry.c",
+    "OriginalSHA256": "1f6dc1fbf9c7b0dc396d98c0fe910a6bbc4d827caeb821514d56b0c68d90aca7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/Status-Start10-Session.ps1",
+    "OriginalSHA256": "eddfaba131e5cddccd0abf4f35b987e56f6c8d715d51798ccd058ae1c0a63981",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/Stop-Start10-Session.ps1",
+    "OriginalSHA256": "9a0a7542dd29de1de44b4ca91f3acf6292a60ed9a616e14729983c33b584ecff",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/StartSessionCompat/Test-Session.py",
+    "OriginalSHA256": "952338e249cf2e83478517eb0ff3082530e1634fb3e4e4dba7f5d2dae4649ceb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/last-result.json",
+    "OriginalSHA256": "43788701f7112023a913054f6d4a357396087aa70bb69c941d32d9a3c84592e7",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/manifest.json",
+    "OriginalSHA256": "616dfc8963afd5e15a8a36c5ec5ba3f87d00035aba4a24889c61c25fe1d19cb8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/own-proof.json",
+    "OriginalSHA256": "154dfc727c50ad7dafe9a405c6af3ba4ddb8edb10c9ce8fb8866764b942a2fbc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/pins.json",
+    "OriginalSHA256": "01cabb783ef6f83f76b61b497e5f3dcd061376d7561c89d0781a85dcc782031e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/Readme.txt",
+    "OriginalSHA256": "53679de03f613b0710fd0f81853f4b6b6d94ecc4bd9434f28816146012de5948",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/Render-Proof.py",
+    "OriginalSHA256": "edfac51f55c2da7ce34bd0ee588563245c1f73cd705b415912b2e3e62cb72391",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/Repair.py",
+    "OriginalSHA256": "b5a13d2d6dfadb40907400a6997da9c314107189b0e8a5e8d4f779d1ddb5ff7a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/Restore-TargetIcons.ps1",
+    "OriginalSHA256": "0b988a1f52444a88993f2fdc4d561c049f1267a8a545acfc6cfd3479e643fa78",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/Setup-TargetIcons.ps1",
+    "OriginalSHA256": "1ff35ed627a86bdac10a4a0ebdb3e1c01ac48ad01fc81dff0fbc1e7d2bce3ff1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/TargetIconRepair/TargetIcons.ps1",
+    "OriginalSHA256": "b48c68128b5976eaafb33ca9b17e41a388020012d314f06d35ec69e35928cf78",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/BrowserProbe.cpp",
+    "OriginalSHA256": "bb82787b2ef0d340353bffaa90fd8677fa0a4a9aab5ff4aaeb29521702382c6e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/build_run.py",
+    "OriginalSHA256": "811786b80ae507c1730dc7da9be77cd1ab1c5cdd962b99c82bb568a66d0edb58",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/compare_manifests.py",
+    "OriginalSHA256": "5bb7e33d5c972d42aaa19d88b8125a2553dca50709f0de7b347bda2dcbbda2b2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/HashCheck.hpp",
+    "OriginalSHA256": "a92b91cf84e40590c45d15320a6533f37e840c75eb1d895980d5a370640a9e06",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/inspect_controls.py",
+    "OriginalSHA256": "9b0f7b3fc7d74060f3e373440d21921db9741d703a0ed0056e71c8efc45f6556",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/inspect_rundlg_theme.py",
+    "OriginalSHA256": "b42a5af0051a437c9f0e5eb895ae3cd31eb6920b7d84ea744829ef79555d5991",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/inspect_standalone.py",
+    "OriginalSHA256": "d3116806f12ecc81d9eb8ac9ef22a7a664400bcd144a6f7bad649bb00d9d2b13",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/inspect_taskmgr.py",
+    "OriginalSHA256": "55ca91c19849d8df2c041751ec09e3fb002b9302e9c758929a1fdd85ab69e2a8",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/manifest-comparison.json",
+    "OriginalSHA256": "5399b683673d0217a9b8e49fbc519c59330037cde0ead72f2c993e102c6a8f4a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/own-proof.json",
+    "OriginalSHA256": "9c27a85d4ca1f68a71415a2eb3cf02433f4fa72a8c90a126fa6cbe73396830fc",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/Theme10BrowserProbe/ScopedTheme.hpp",
+    "OriginalSHA256": "84e283549f6e5a240fb4907a32e85020c9a062dd0312a7c7b1246ed2b05343db",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Build-Test.py",
+    "OriginalSHA256": "54349287dc56f6d49a7385d385a17548321c8bfc11241476b88d90f1da8ee655",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Fixture.cpp",
+    "OriginalSHA256": "d7d4c20765254b85e0d4c822e24182a4a4e35f96e19b085d4475a046fd4e7dc1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/FixtureHybrid.hpp",
+    "OriginalSHA256": "a64e567d9e982c8902651b5e18f4917f21c9cd4d2459abb1352d13f4a8493937",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/manifest.json",
+    "OriginalSHA256": "92cfc35e200133604d6db3aac4e18b44c5c835d6f214772db155900c59a691f1",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/negative-generation-hazard.json",
+    "OriginalSHA256": "de9c4fcabfe64c03ae1a4852f883561ae953bba0c66b0c6d28bcd54055348376",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/own-proof.json",
+    "OriginalSHA256": "b09792755adcc38466db46d1fac654a750257e4a11b728ac862e6a40d9204c4e",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/Pins.h",
+    "OriginalSHA256": "5c4b06029496e2fa0484c17a4907072b4f07e01d7fff39f519a0071b4ef52549",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/ThemeFolderHybrid.cpp",
+    "OriginalSHA256": "3496b1ddf8b083e6dc309ce52b0435a130210d6c3eb37da36271d963379c7a40",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeMenuCompat/PlainMenuMapProof.h",
+    "OriginalSHA256": "de8c0161dd0e77bd2e9053601d0dde749c1a63edc49c3092b55055cd6fd99e73",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThreadStackSnapshot/PssStacks.c",
+    "OriginalSHA256": "c3841edef660a6de2264e374cae9209e9a206e66cca9c4f54ada78096ff27b2c",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowGroupCompat/patch-info.json",
+    "OriginalSHA256": "ccf2adaddc0dd65b6a5191c4a77d89314501257d9c2712642fab3b504299e451",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Common.ps1",
+    "OriginalSHA256": "885b56ad786fcef21e4b673439a1931207596185ca584f1b387656100246d4bf",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Controller.ps1",
+    "OriginalSHA256": "fa0cb5f8e0d00d71098f09a50a6e868f7c9442afc47c9f4a9549997e037ef67d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/CornerFixture.c",
+    "OriginalSHA256": "f9346fa25e8c72c2ede3f2f83a9b36ceec7fa59c7879f2a93f4f00b1ce8817ab",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Disable.bat",
+    "OriginalSHA256": "ecb71c22ef4274e902332bab6d415631b5cf97897b3efa0be1118f94a2d7a53b",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Disable.ps1",
+    "OriginalSHA256": "d064b669d3681572f1a06cdaecb10656d1058a1f737f0ab646889456239c96c2",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Enable.bat",
+    "OriginalSHA256": "786920a91867dc90ebcc66a22eaf2914b834940318614467cc2a67893829f8fe",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Enable.ps1",
+    "OriginalSHA256": "0794de883445cb8913c4dc6ec75cd00ce8c9deddd51db8c9451d817ce00a250d",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Status.bat",
+    "OriginalSHA256": "0fe71edeb2bb92f49aeb5db94e743b032a42485587a5a7074c5d56c0e24de331",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Status.ps1",
+    "OriginalSHA256": "08c3273fcfec821a550c1561a5889e2ee9f602604cbed2251c446aa6503484d3",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/Test-OwnCorners.ps1",
+    "OriginalSHA256": "b214faf9b08c81230dbdc1e7c6e2f2a9fc6020c2206e700c739c7374fb67ab54",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/WindowStyleSession/WindowCorners.ps1",
+    "OriginalSHA256": "4574919d89fdf333ab774d722997385d328c0b685614b9655c7921b85e0a8cca",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/XamlQuirkCompat/adapter-metadata.json",
+    "OriginalSHA256": "bb36e01267c3f34cb4136a70e9a5ab973ab28158df5cf5756bd4f861505d9452",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/XamlQuirkCompat/own-child-dll-adapter-probe.json",
+    "OriginalSHA256": "25245698b3ee62e788b6a13170e8836e5b4c47ec959466161cb6201fcbd89286",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/XamlQuirkCompat/own-child-quirk-probe.json",
+    "OriginalSHA256": "e0985a0827fe6a51152343673bb5ea94841fc0ab5e38d48e6daa98e3a3ee3f2f",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/XamlQuirkCompat/own-child-rollback-probe.json",
+    "OriginalSHA256": "2793d562e6b68ad15680f12b475c2c0831d5b5803b1256e967e8701772125ab5",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/XamlQuirkCompat/XamlQuirkAdapterProbe.c",
+    "OriginalSHA256": "e2b574ed363ec9567b4123ccd62ef50383dceaf587a37b0d86a5a832923e85cb",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/XamlQuirkCompat/XamlQuirkCompat.c",
+    "OriginalSHA256": "42ba28b9327650891a7ef9fe0c8628eef2bd9857c47a3dc22eb163e88011cf2a",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/XamlQuirkCompat/XamlQuirkProbe.c",
+    "OriginalSHA256": "8312ef665d994b044c150339f57941e7b0bf982f28cbef2ed9904191c4fcee15",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/ResourceRoutesNoVfs/CacheKey.h",
+    "OriginalSHA256": "3cb588a582860b27c21ebdae770b265737b891e1a39b058cd807d4f852e4d740",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/ResourceRoutesNoVfs/CacheKeyPins.h",
+    "OriginalSHA256": "ea1ccb48525f275e014d03a5159b24bdff3b43f99a606c9127339a7b23ca5955",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/ResourceRoutesNoVfs/IconRoutes.c",
+    "OriginalSHA256": "bf986fbbac69a85150407ccd73d2861f3d7edea17f5e79def0e50e1b6c863c18",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/FolderIconCompat/ResourceRoutesNoVfs/Routes.h",
+    "OriginalSHA256": "f265eec8dba2c211d7b06381d2aa3fb9bfa9acb74e4a522d1e87d17ba3c96773",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/HashCheck.hpp",
+    "OriginalSHA256": "a92b91cf84e40590c45d15320a6533f37e840c75eb1d895980d5a370640a9e06",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/ThemeFolderHybridCompat/ScopedTheme.hpp",
+    "OriginalSHA256": "84e283549f6e5a240fb4907a32e85020c9a062dd0312a7c7b1246ed2b05343db",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/IconRoutesNoVfsCompat/Readme.txt",
+    "OriginalSHA256": "c7172dc7e650648b0670d25acdd6f50e0451f7410226e7eb7cdbf472a07334a4",
+    "Encoding": "utf-8"
+  },
+  {
+    "Path": "outputs/Windows10-Components/Lab/NativeWinXCompat/Readme.txt",
+    "OriginalSHA256": "6d5d815aac1514c35df83d57767f69657c85cf66647e6999ceef30c9caca2ff4",
+    "Encoding": "utf-8"
+  }
+]

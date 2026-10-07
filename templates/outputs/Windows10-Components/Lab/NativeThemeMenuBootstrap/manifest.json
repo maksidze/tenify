@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "OwnProofRequired": true,
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Image\\4\\Windows\\Resources\\Themes\\aero\\aero.msstyles",
+      "SHA256": "847aaa1e347631f353119d9c483d88111c4a29d0c0abafdd650447d3cbf8831e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\ControlThemeBootstrap\\Launch-ControlTheme10.py",
+      "SHA256": "37725a7d134150879e22a5077c965c5f065ad2e327075b627bf82a5d0df11b97"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeMenuThemeColorCompat\\MenuThemeFixture.exe",
+      "SHA256": "5975763df477828ff92ee8771b7128240bb8cdf072aa7fad10e4388f62c633f9"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuBootstrap\\Launch-ThemeMenu.py",
+      "SHA256": "b3a1ccaef43f548daad62b770357fa395cc0736e9883f19f6fdc76fc2f6f0925"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuBootstrap\\PrimaryBridge.cpp",
+      "SHA256": "588545633effe47fd9a442aba28cd013e8629a69a32c0fe84c19a3ff0ce2e692"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuBootstrap\\PrimaryBridge.dll",
+      "SHA256": "703d34bcd115d112c6216b8cfd5a538c0ddd3546c5edc2d9531b64d115156cc0"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\Build.py",
+      "SHA256": "50a2771c81dbbc3dbd392655cb37e5e8a9d924cbaf20c441ad8715d3e264229d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\contract.json",
+      "SHA256": "e65fd2d0d4e44776cad5d0136bea89e4887ecf0a8f88c308f7e6ec34546ecbcf"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\FinalizeProof.py",
+      "SHA256": "31e2c55545b1f42988b81831c8646306fc285db756b0301a18512537caf3ee26"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\GeneratePins.py",
+      "SHA256": "54946ebe271c28eb46e649878fda4dde4e8bd6670d08b74b4d46742355aba4e4"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\manifest.json",
+      "SHA256": "a1fff6f17194f7915e994cba93b3efe4486ab4c9cf1fd767871b6a6fc0e1c397"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\own-proof.json",
+      "SHA256": "0b56a6281b37f0cb057567056ee5919f2fafc8cb6e0c619b1280f75a2908f42f"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\Pins.h",
+      "SHA256": "7f3c3d18a78ccbf9176e7d2bb15090ce455f35cbe6d6b6dee980e2e0735d3737"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\Readme.txt",
+      "SHA256": "889c4e5b2f371c89cd0529dca6f3353953400781e6bda53bbd25af714d139bf7"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\ThemeMenu.cpp",
+      "SHA256": "95fd0c40dad87091bbf36eff7e65539bb01122b1b45aabbeb735897eaa33e837"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\ThemeMenuCompat.dll",
+      "SHA256": "125306f0ce2767486dd7faa8937f5ae04ef4c51941243851bcc69618127455ef"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\unit-proof.json",
+      "SHA256": "ba8a12de4a1eb6869a152416d4bd3b2e694df51c4601c767c19de85908863025"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\UnitFixture.cpp",
+      "SHA256": "538597124574fae7393fd5e3399e444d95672fe9486ae4fb15d7ff1e407324ad"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\UnitFixture.exe",
+      "SHA256": "0647b8d5b1503f5576763c1c57484630e7f72b4f55357dd82ae6767125c07b47"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NativeThemeMenuCompat\\UnitTest.py",
+      "SHA256": "9abfbc46c3cac30d603fbffa5b56f8e29263091f2c131aa9bf6dca734c89f1bc"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\Theme10BrowserProbe\\HashCheck.hpp",
+      "SHA256": "a92b91cf84e40590c45d15320a6533f37e840c75eb1d895980d5a370640a9e06"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Launch-TouchpadCompat.py",
+      "SHA256": "6871b8fb163503c235c4ce16c30e2d93de3d14da74a6ce6159c715cb367020c6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+      "SHA256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\shell32.dll",
+      "SHA256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\twinui.pcshell.dll",
+      "SHA256": "b8d9382e2c4b5e7425b4d814eb757bd99ee3c51f21ca7354ac3c7b4c38c4beb9"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\uxtheme.dll",
+      "SHA256": "8c5347d464b4b74a17fbc7ab84e2e1f18c1b77fae964caf4f8566df5a7a4a07b"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "Output": "work/compat-research/host-twinui/twinui.pcshell.pdb",
+    "URL": "https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/01E019DF95600CDC17CC1B4E932792551/twinui.pcshell.pdb",
+    "SHA256": "0699cb3148a9496d2ab72bdf0cd3e22e6e105438ada5fe22eebb179ea2c9ce4b"
+  },
+  {
+    "Output": "work/compat-research/host-coreui/CoreUIComponents.pdb",
+    "URL": "https://msdl.microsoft.com/download/symbols/CoreUIComponents.pdb/A7580172832EF62DBF6E9909FA194E1C1/CoreUIComponents.pdb",
+    "SHA256": "4363937a398f3558d1fa4c2659ce4e8b6093737e0c76579b14183c7455a30a95"
+  },
+  {
+    "Output": "work/compat-research/host-textinput/Windows.UI.Core.TextInput.pdb",
+    "URL": "https://msdl.microsoft.com/download/symbols/Windows.UI.Core.TextInput.pdb/8850A8C5F3A9936257815D4DAC538C531/Windows.UI.Core.TextInput.pdb",
+    "SHA256": "c92e6162f8e731bb632f5d3ccd403902af8d40e3cab90abe026d88138b36aeb6"
+  }
+]

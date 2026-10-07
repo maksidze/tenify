@@ -1,0 +1,9 @@
+{
+  "ActualRegistration": false,
+  "ActualSEH": false,
+  "OnlyOwnController": true,
+  "ControllerDeathCleanup": true,
+  "Errors": [],
+  "ForeignRegistrationPreserved": true,
+  "Passed": true
+}

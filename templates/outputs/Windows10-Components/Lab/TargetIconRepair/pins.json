@@ -1,0 +1,10 @@
+{
+  "Version": 1,
+  "Files": {
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NoVfsShellCompat\\PinIcon.cpp": "bc0970a754f084777768b418e27b338a70901b8a2efc043af8a54134586c48c3",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NoVfsShellCompat\\PinIcon.exe": "6d4059b7a1a1d8207e25b904a124b93f5d14bdffafb371c1688c28933cabbcd2",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconRoutesNoVfsCompat\\manifest.json": "0a68eb9df114a7f43feff95090f57cdcb38e1020e41299d6de687e617548b210",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\FolderIconCompat\\FolderCacheProbe.exe": "6f29e5be589e377e887d6d664cbb046adc3d178f67a41e4d827ab190f3ce213f",
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\IconResourceMaximum\\ResourceOnlyContainers\\explorer.exe.mun": "965ff6339df427f6268b22b362087491551ea2d70608a91d9f764c7d333da688"
+  }
+}

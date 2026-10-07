@@ -1,0 +1,16 @@
+{
+  "confirmedAt": "2026-10-05T13:56:07.3515126+03:00",
+  "pid": 10488,
+  "runId": "3686bba15ab24dbc80884fead8247eac",
+  "profile": "host-dcomp-resource",
+  "xamlQuirk": true,
+  "inputSwitchAdapter": true,
+  "debuggerPresent": false,
+  "userLanguageReply": "Да, теперь горизонтальная",
+  "userAltTabReply": "alt+tab работает стабильнее",
+  "visibleLanguageOrientationConfirmed": true,
+  "altTabImprovedReported": true,
+  "altTabAllModesVerified": false,
+  "winTabVerified": false,
+  "runtimeProof": "state-vfs/3686bba15ab24dbc80884fead8247eac/input-switch-runtime.json"
+}

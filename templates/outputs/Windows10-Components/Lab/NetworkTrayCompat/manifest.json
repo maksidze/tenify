@@ -1,0 +1,70 @@
+{
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Build-Host.py",
+      "SHA256": "08acce617273c417bb3b9566b99f8689a0d2ac6e0a4beba0adfa99e051535514"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Build-Test.py",
+      "SHA256": "54120013776508b605198852e09e9bf3a76bcf32f5324a88f57eadca8b198849"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Extract.py",
+      "SHA256": "6ce7be64f092f900e5a051c4396c56148980544596128ef14a334dc4d06005d6"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Get-Symbols.py",
+      "SHA256": "41c3010262fbeb152d1243fea90d9f4393c067dde163b7248cc0a1d8aabb654d"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\NetworkFactoryProbe.c",
+      "SHA256": "6325ab0fc05200610bd4d6a4270a1dc1461c12fc69ad7adc5dae4d1cd8bba601"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\NetworkFactoryProbe.exe",
+      "SHA256": "eaa222af4fdd71e6acfbafec461310c37c0ea7fd29c19f0b6965199550a4b765"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\NetworkTrayHost.c",
+      "SHA256": "377d3296637db2b68057b3840b944e2b6691def855dfe58bc2a0c230b7cb0241"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\NetworkTrayHost.exe",
+      "SHA256": "f3a013d814e096dce97617717556e353844583a785e1a6e3892dd141f2762558"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\NetworkTrayState.ps1",
+      "SHA256": "715a884f25f247ada43ba832e4c5273a3f295aabaad0c900a11ed1d521d174d8"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\pnidui.dll",
+      "SHA256": "0886ced0200c7fd56a0444acf550c3e1ccae546681b1be610fa645ec18a3e1db"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Start-NetworkTray.ps1",
+      "SHA256": "fc9c2b470ac93b7a7978c180921279cfd26b86b0a25681302021102dd64ac1ad"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Status-NetworkTray.ps1",
+      "SHA256": "93d98b5ee1ddf57f4c67ad911a0c3e7f73ab76246b930f0f202de1c5f0ffcb8e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Stop-NetworkTray.ps1",
+      "SHA256": "48791caa5514335d777d023692f890cffcddab0606a4db559cbdf73750318393"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\ru-RU\\pnidui.dll.mui",
+      "SHA256": "3fb2f3fe4df0e8ec7c0450ac0686be353ca1732b4f93ebafd3a05d51ad3e1a3e"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\PublisherJobGuard.cs",
+      "SHA256": "f5017d3d541f15f9df51496a648e264ed778b574c9403be82e8dc8e8071bccce"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Ensure-NetworkTray.ps1",
+      "SHA256": "725741747d6198c7f23a5d809901331dcbfdbf26f066ca08dc09b096bf1576d5"
+    }
+  ],
+  "PniduiVersion": "10.0.19041.4355",
+  "ProvenStartTested": false
+}

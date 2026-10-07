@@ -1,0 +1,7 @@
+{
+  "exitCode": 0,
+  "stdout": "QueryActive=1 err=2 len=0 bytes=\r\nRoInitialize=00000000\r\nGetFactory=00000000 nonNull=1\r\nDLL Initialize=00000000\r\nDLL Restore=00000000\r\nInitialize=8000ffff nonNull=0\r\nError0=\u0420\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u0431\u043e\u0439\r\r\n\r\nError1=WindowsXamlManager and DesktopWindowXamlSource are supported for apps targeting Windows version 10.0.18226.0 and later.  Please check either the application manifest or package manifest and ensure the MaxTestedVersion property is updated.\r\n",
+  "stderr": "",
+  "ownNonShellChild": true,
+  "packageIdentity": "none"
+}

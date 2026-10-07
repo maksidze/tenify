@@ -1,0 +1,154 @@
+{
+  "old": [
+    {
+      "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutAC",
+      "stringRVA": "0x15760",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x14770",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "6057018001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x1a110",
+          "nextPointerRVA": "0x14770",
+          "raw": "60570180010000007047018001000000d0570180010000001047018001000000"
+        }
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerAndSleep_DisplayOffTimeoutDC",
+      "stringRVA": "0x15840",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x147a0",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "4058018001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x1a130",
+          "nextPointerRVA": "0x147a0",
+          "raw": "4058018001000000a047018001000000b0580180010000004047018001000000"
+        }
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerAndSleep_SleepTimeoutAC",
+      "stringRVA": "0x15990",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x146b0",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "9059018001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x1a160",
+          "nextPointerRVA": "0x146b0",
+          "raw": "9059018001000000b046018001000000f059018001000000e046018001000000"
+        }
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerAndSleep_SleepTimeoutDC",
+      "stringRVA": "0x159f0",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x146e0",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "f059018001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x1a170",
+          "nextPointerRVA": "0x146e0",
+          "raw": "f059018001000000e046018001000000505a0180010000008046018001000000"
+        }
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "SystemSettings_PowerTimeouts_DisplayOff_AC",
+      "stringRVA": "0x4c5a0",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x494b8",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "a0c5048001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x59a80",
+          "nextPointerRVA": "0x4c5a0",
+          "raw": "a0c5048001000000a0c50480010000002a00000000000000b894048001000000"
+        },
+        {
+          "pointerRVA": "0x59a88",
+          "nextPointerRVA": "-0x17fffffd6",
+          "raw": "a0c50480010000002a00000000000000b89404800100000000c6048001000000"
+        }
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerTimeouts_DisplayOff_DC",
+      "stringRVA": "0x4c660",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x49518",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "60c6048001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x59ac0",
+          "nextPointerRVA": "0x4c660",
+          "raw": "60c604800100000060c60480010000002a000000000000001895048001000000"
+        },
+        {
+          "pointerRVA": "0x59ac8",
+          "nextPointerRVA": "-0x17fffffd6",
+          "raw": "60c60480010000002a000000000000001895048001000000c0c6048001000000"
+        }
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerTimeouts_Sleep_AC",
+      "stringRVA": "0x4c7e0",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x493f8",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "e0c7048001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x59b40",
+          "nextPointerRVA": "0x4c7e0",
+          "raw": "e0c7048001000000e0c70480010000002500000000000000f893048001000000"
+        },
+        {
+          "pointerRVA": "0x59b48",
+          "nextPointerRVA": "-0x17fffffdb",
+          "raw": "e0c70480010000002500000000000000f89304800100000030c8048001000000"
+        }
+      ]
+    },
+    {
+      "id": "SystemSettings_PowerTimeouts_Sleep_DC",
+      "stringRVA": "0x4c880",
+      "pointerRefs": [
+        {
+          "pointerRVA": "0x49458",
+          "nextPointerRVA": "-0x80000001",
+          "raw": "80c8048001000000ffffffff0000000000000000000000000000030600000000"
+        },
+        {
+          "pointerRVA": "0x59b80",
+          "nextPointerRVA": "0x4c880",
+          "raw": "80c804800100000080c804800100000025000000000000005894048001000000"
+        },
+        {
+          "pointerRVA": "0x59b88",
+          "nextPointerRVA": "-0x17fffffdb",
+          "raw": "80c804800100000025000000000000005894048001000000d0c8048001000000"
+        }
+      ]
+    }
+  ]
+}

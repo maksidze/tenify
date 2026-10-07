@@ -1,0 +1,41 @@
+{
+  "Scope": "MsgScopeID{0,1}, DisplayMonitorInfoConversation_ (stock server namespace)",
+  "ExactStructSize": 96,
+  "FactorySlot": 6,
+  "FactoryIid": "1f60c91e-a4df-5c89-947c-7a3a4621933b",
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\MonitorPublisher.exe",
+      "Sha256": "b8eaa4a710a6bc9f04519746684580f7691f38984eca96e92de5076d3d8a9674"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\MonitorPublisher.c",
+      "Sha256": "0dcbf3958163b17b47c6232109d4f10f030a13a9442a01870b2527cc8d0ad618"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\Start-MonitorPublisher.ps1",
+      "Sha256": "012e325634a62c5eb1990bf801af5bdf9a025ff08d7b5b9765db1b6db872cf34"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\DisplayMonitorPublisher\\PublisherJobGuard.cs",
+      "Sha256": "f5017d3d541f15f9df51496a648e264ed778b574c9403be82e8dc8e8071bccce"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\windowsudk.shellcommon.dll",
+      "Sha256": "663b0da9910c7a35baad2dc470f6368fb70635cc50f8b2ec658eda294a4196b0"
+    },
+    {
+      "Path": "C:\\Windows\\System32\\Taskbar.dll",
+      "Sha256": "2d0860ed50126bf60d59797141ab5ea3bfb5a98e73a3292bd1e4bfa110b1a385"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Runtime\\Explorer10\\explorer.exe",
+      "Sha256": "b059f455b37047f4e2b5eae01b21715e4baa304888ac31e44905b41ff6bbcbd0"
+    }
+  ],
+  "MaximumSeconds": 3600,
+  "DefaultSeconds": 3600,
+  "NativeTargetExitWait": "WaitForSingleObject(target,500), immediate wake on exact target exit",
+  "NoFactoryActivationPerformedByBuild": true,
+  "RootBounded90SecondUiProof": "visible-ui-confirmed-425fd19fba474f82a427916b5bd789c2.json"
+}

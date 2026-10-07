@@ -1,0 +1,105 @@
+private PCS exact hash and mapping PASS
+native shell32 exact hash and mapping PASS
+helper loaded PASS
+production refuses fixture executable PASS
+cold all three slots initialized PASS
+private desktop never switched PASS
+own caller window PASS
+popup mode=0 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+round=0 renderer=0 height=22 width=197
+real popup own timer cancel no command PASS
+native cleanup retains command identity PASS
+exact native renderer guards PASS
+genuine renderer Apply PASS
+popup mode=1 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+round=0 renderer=1 height=38 width=212
+real popup own timer cancel no command PASS
+popup mode=1 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+real native submenu square and cancelled PASS
+native cleanup retains command identity PASS
+exact native renderer guards PASS
+genuine renderer Apply PASS
+popup mode=2 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+round=0 renderer=2 height=38 width=212
+real popup own timer cancel no command PASS
+popup mode=2 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+real native submenu square and cancelled PASS
+native cleanup retains command identity PASS
+all slots restored PASS
+restore idempotent PASS
+warm all three slots initialized PASS
+popup mode=0 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+round=1 renderer=0 height=22 width=197
+real popup own timer cancel no command PASS
+native cleanup retains command identity PASS
+exact native renderer guards PASS
+genuine renderer Apply PASS
+popup mode=1 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+round=1 renderer=1 height=38 width=212
+real popup own timer cancel no command PASS
+popup mode=1 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+real native submenu square and cancelled PASS
+native cleanup retains command identity PASS
+exact native renderer guards PASS
+genuine renderer Apply PASS
+popup mode=2 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+round=1 renderer=2 height=38 width=212
+real popup own timer cancel no command PASS
+popup mode=2 corner=1 hr=00000000 region=0 restoreMode=0
+real popup square PASS
+same IAT unscoped caller passes through PASS
+real native submenu square and cancelled PASS
+native cleanup retains command identity PASS
+all slots restored PASS
+restore idempotent PASS
+reinstall before live popup restore PASS
+popup mode=0 corner=1 hr=00000000 region=0 restoreMode=1
+real popup square PASS
+same IAT unscoped caller passes through PASS
+restore while real popup lives PASS
+original live popup preference restored PASS
+reinstall before live popup restore PASS
+popup mode=0 corner=1 hr=00000000 region=0 restoreMode=2
+real popup square PASS
+same IAT unscoped caller passes through PASS
+restore while real popup lives PASS
+app changed preference preserved PASS
+modified native caller rejected PASS
+foreign IAT preserved and refused PASS
+valid retry after negative fixtures PASS
+final restore PASS
+install before foreign restore PASS
+installed idempotent readback PASS
+installed foreign IAT refused on reinitialize PASS
+restore refuses foreign pointer PASS
+pending restore blocks reinstall PASS
+conditional retry restore completes PASS
+final slot0 native=1 protection=2
+final slot1 native=1 protection=2
+final slot2 native=1 protection=2
+all final IAT values are native export PASS
+all three exact callers actually intercepted PASS
+all cold delay thunks resolved genuinely PASS
+no DWM failures PASS
+hits=4,4,4 delays=1,1,1 popups=12
+native array canaries intact PASS
+private desktop freed PASS
+COMPLETE result=0 no interactive UI/input/commands

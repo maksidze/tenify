@@ -1,0 +1,24 @@
+{
+  "Image": "D:/sources/install.wim",
+  "Index": 4,
+  "Command": [
+    "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Tools\\7-Zip\\7z.exe",
+    "x",
+    "D:/sources/install.wim",
+    "4/Windows/System32/pnidui.dll",
+    "4/Windows/System32/ru-RU/pnidui.dll.mui",
+    "4/Windows/System32/en-US/pnidui.dll.mui",
+    "-o@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Extracted",
+    "-y"
+  ],
+  "Files": [
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Extracted\\4\\Windows\\System32\\pnidui.dll",
+      "SHA256": "0886ced0200c7fd56a0444acf550c3e1ccae546681b1be610fa645ec18a3e1db"
+    },
+    {
+      "Path": "@WORKSPACE_ESC@\\outputs\\Windows10-Components\\Lab\\NetworkTrayCompat\\Extracted\\4\\Windows\\System32\\ru-RU\\pnidui.dll.mui",
+      "SHA256": "3fb2f3fe4df0e8ec7c0450ac0686be353ca1732b4f93ebafd3a05d51ad3e1a3e"
+    }
+  ]
+}
